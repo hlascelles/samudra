@@ -1,0 +1,33 @@
+#
+#   Navigation to the left › side: left
+#
+- title: About
+  url: "/"
+  side: left
+
+- title: "Projects"
+  url: "/projects/"
+  side: left
+  dropdown:
+  - title: "Stop Plastic Pollution"
+    url: "/projects/stop-plastic-pollution/"
+  - title: "London PyTorch Meetup"
+    url: "/projects/london-pytorch-meetup/"
+
+- title: "My Planet"
+  url: "/travel/"
+  side: left
+  dropdown:
+  - title: "Countries"
+    url: "/travel/countries/"
+
+- title: "Food"
+  url: "/food/"
+  side: left
+  dropdown:
+  - title: "Savoury"
+    url: "/food/savoury/"
+  - title: "Sweet"
+    url: "/food/sweet/"
+  - title: "Baking"
+    url: "/food/baking/"
