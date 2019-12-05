@@ -1,14 +1,12 @@
 ---
 layout: page_kz
-title:  "Stop Plastic Pollution"
+title:  "Potential sources of funding"
 breadcrumb: true
 show_meta: false
 header: no
 categories:
-    - projects
+    - solutions
 
 ---
 
-Plastic...
-
-How it all started
+...

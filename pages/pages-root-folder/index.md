@@ -9,6 +9,32 @@ image:
 permalink: /index.html
 ---
 
-My name is Karina. My goal is to [stop plastic pollution][1] of our oceans. Apart from this I also work on other [projects]({{site.url}}{{site.baseurl}}/projects/) and use all the time and money I have left for [travelling]({{site.url}}{{site.baseurl}}/travel/). To fuel my work and travel I do [eat]({{site.url}}{{site.baseurl}}/food/) a lot. I enjoy meeting new people in one, two and even three dimentions (also known as email, video calls and in person meetings), please get in touch if you think we could learn something from each other!
+My name is Karina. My mission is to stop plastic pollution of our oceans. 
 
-[1]: https://stopplasticpollution.io/
+### What is the problem? 
+
+In short, ...
+
+Here is [the long answer]({{site.url}}{{site.baseurl}}/input/why-you-should-care/)
+
+
+
+### Why am I working on it? 
+
+Link to my story.
+
+UN global development goals.
+
+
+### What are the ways forward?
+
+* Zero blame
+* Waste management systems everywhere
+* Best way to deal with plastic waste is unique to each location
+
+### Why is this website .io?
+
+I am a mathematician. Links to 3 sections of website. 
+
+
+Please get in touch!

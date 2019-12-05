@@ -5,29 +5,43 @@
   url: "/"
   side: left
 
-- title: "Projects"
-  url: "/projects/"
+- title: "Input"
+  url: "/input/"
   side: left
   dropdown:
-  - title: "Stop Plastic Pollution"
-    url: "/projects/stop-plastic-pollution/"
-  - title: "London PyTorch Meetup"
-    url: "/projects/london-pytorch-meetup/"
+  - title: "Types of plastic"
+    url: "/input/types-of-plastic/"
+  - title: "Plastic enters our oceans"
+    url: "/input/plastic-enters-our-oceans/"
+  - title: "Microplastics"
+    url: "/input/microplastics/"
 
-- title: "My Planet"
-  url: "/travel/"
+- title: "Output"
+  url: "/output/"
   side: left
   dropdown:
-  - title: "Countries"
-    url: "/travel/countries/"
+  - title: "Landfills"
+    url: "/output/landfills/"
+  - title: "Incineration"
+    url: "/output/incineration/"
+  - title: "Recycling"
+    url: "/output/recycling/"
+  - title: "Plastic alternatives"
+    url: "/output/plastic-alternatives/"
 
-- title: "Food"
-  url: "/food/"
+- title: "Solutions"
+  url: "/solutions/"
   side: left
   dropdown:
-  - title: "Savoury"
-    url: "/food/savoury/"
-  - title: "Sweet"
-    url: "/food/sweet/"
-  - title: "Baking"
-    url: "/food/baking/"
+  - title: "Waste collection systems"
+    url: "/solutions/waste-collection-systems/"
+  - title: "Technologies"
+    url: "/solutions/technologies/"
+  - title: "Contributors"
+    url: "/solutions/contributors/"
+  - title: "Random ideas"
+    url: "/solutions/random-ideas/"
+
+- title: "Blog"
+  url: "/blog/"
+  side: left
