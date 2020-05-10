@@ -36,5 +36,6 @@ UN global development goals.
 
 I am a mathematician. Links to 3 sections of website. 
 
+Input changes quickly - here is my reading list to stay updated. 
 
 Please get in touch!
