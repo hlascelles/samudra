@@ -1,11 +1,12 @@
 ---
 layout: page_kz
-header: no
+header:
+  image_fullwidth: homepage_image.jpg
+  caption: "TODO: Caption"
+  caption_url: https://www.stopplasticpollution.io/
 title:  "Hello world!"
 teaser: ""
 show_meta: false
-image:
-    title: homepage_image.jpg
 permalink: /index.html
 ---
 
