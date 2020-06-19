@@ -3,6 +3,7 @@
 #
 - title: "Logo"
   url: "/"
+  logo: true
   side: left
 
 - title: "About"
