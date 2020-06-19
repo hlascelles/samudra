@@ -7,6 +7,7 @@ widget1:
   image: homepage_image.jpg
   title: 'Focus on Indonesia'
   text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
+  button: true
 widget2:
   url: 'https://stopplasticpollution.io/explore'
   image: homepage_image.jpg

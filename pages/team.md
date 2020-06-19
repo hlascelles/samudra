@@ -23,8 +23,8 @@ widget4:
   text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
 ---
 
-{% include _widget-without-button.html widget=page.widget1 %}
-{% include _widget-without-button.html widget=page.widget2 %}
-{% include _widget-without-button.html widget=page.widget3 %}
+{% include _frontpage-widget.html widget=page.widget1 %}
+{% include _frontpage-widget.html widget=page.widget2 %}
+{% include _frontpage-widget.html widget=page.widget3 %}
 <br/>
-{% include _widget-without-button.html widget=page.widget4 %}
+{% include _frontpage-widget.html widget=page.widget4 %}

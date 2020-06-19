@@ -27,14 +27,14 @@ widget9:
 It takes a lot of research to get things right. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
-{% include _widget-without-button.html widget=page.widget1 %}
-{% include _widget-without-button.html widget=page.widget2 %}
-{% include _widget-without-button.html widget=page.widget3 %}
+{% include _frontpage-widget.html widget=page.widget1 %}
+{% include _frontpage-widget.html widget=page.widget2 %}
+{% include _frontpage-widget.html widget=page.widget3 %}
 <br/>
-{% include _widget-without-button.html widget=page.widget4 %}
-{% include _widget-without-button.html widget=page.widget5 %}
-{% include _widget-without-button.html widget=page.widget6 %}
+{% include _frontpage-widget.html widget=page.widget4 %}
+{% include _frontpage-widget.html widget=page.widget5 %}
+{% include _frontpage-widget.html widget=page.widget6 %}
 <br/>
-{% include _widget-without-button.html widget=page.widget7 %}
-{% include _widget-without-button.html widget=page.widget8 %}
-{% include _widget-without-button.html widget=page.widget9 %}
+{% include _frontpage-widget.html widget=page.widget7 %}
+{% include _frontpage-widget.html widget=page.widget8 %}
+{% include _frontpage-widget.html widget=page.widget9 %}
