@@ -3,7 +3,7 @@ layout: kz-frontpage
 header:
   image_fullwidth: homepage_image.jpg
 widget1:
-  url: 'https://stopplasticpollution.io/projects/waste_management_in_indonesia'
+  url: 'https://stopplasticpollution.io/projects/waste-management-in-indonesia'
   image: homepage_image.jpg
   title: 'Focus on Indonesia'
   text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'

@@ -8,8 +8,8 @@ show_meta: false
 header: no
 image:
     title: homepage_image.jpg
-    thumb: homepage_image.jpg
-    homepage: homepage_image.jpg
+    thumb: landfill.jpg
+    homepage: globe.jpg
 categories:
     - projects
 ---
