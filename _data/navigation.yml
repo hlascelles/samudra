@@ -1,47 +1,31 @@
 #
 #   Navigation to the left › side: left
 #
-- title: About
+- title: "Logo"
   url: "/"
   side: left
 
-- title: "Input"
-  url: "/input/"
+- title: "About"
+  url: "/about/"
   side: left
-  dropdown:
-  - title: "Types of plastic"
-    url: "/input/types-of-plastic/"
-  - title: "Plastic enters our oceans"
-    url: "/input/plastic-enters-our-oceans/"
-  - title: "Microplastics"
-    url: "/input/microplastics/"
 
-- title: "Output"
-  url: "/output/"
+- title: "Projects"
+  url: "/projects/"
   side: left
-  dropdown:
-  - title: "Landfills"
-    url: "/output/landfills/"
-  - title: "Incineration"
-    url: "/output/incineration/"
-  - title: "Recycling"
-    url: "/output/recycling/"
-  - title: "Plastic alternatives"
-    url: "/output/plastic-alternatives/"
 
-- title: "Solutions"
-  url: "/solutions/"
+- title: "Explore"
+  url: "/explore/"
   side: left
-  dropdown:
-  - title: "Waste collection systems"
-    url: "/solutions/waste-collection-systems/"
-  - title: "Technologies"
-    url: "/solutions/technologies/"
-  - title: "Contributors"
-    url: "/solutions/contributors/"
-  - title: "Random ideas"
-    url: "/solutions/random-ideas/"
 
-- title: "Blog"
-  url: "/blog/"
+- title: "Team"
+  url: "/team/"
   side: left
+
+# - title: "Projects"
+#   url: "/projects/"
+#   side: left
+#   dropdown:
+#   - title: "Stop Plastic Pollution"
+#     url: "/projects/stop-plastic-pollution/"
+#   - title: "London PyTorch Meetup"
+#     url: "/projects/london-pytorch-meetup/"

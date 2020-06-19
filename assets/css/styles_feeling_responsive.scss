@@ -42,6 +42,8 @@ sitemap:
 @import "foundation-components/grid";
 @import "09_elements.scss";
 
-@import "11_syntax-highlighting.scss";
+{% if site.asciidoctor-enabled == true %}
+@import "10_asciidoc.scss";
+{% endif %}
 
-@import "karina.scss";
+@import "11_syntax-highlighting.scss";

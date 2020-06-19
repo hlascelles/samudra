@@ -1,4 +1,4 @@
-# read the docs
+# Read the docs
 https://phlow.github.io/feeling-responsive/documentation/
 
 # To change colors see 

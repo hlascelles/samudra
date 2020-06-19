@@ -1,4 +1,7 @@
-_site/
-.sass-cache/
+_site
+.bundle
 .DS_Store
-.idea
+.jekyll-cache
+.jekyll-metadata
+.sass-cache
+Gemfile.lock

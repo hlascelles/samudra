@@ -1,42 +1,34 @@
 ---
-layout: page_kz
+layout: kz_frontpage
 header:
   image_fullwidth: homepage_image.jpg
-  caption: "TODO: Caption"
-  caption_url: https://www.stopplasticpollution.io/
-title:  "Hello world!"
-teaser: ""
-show_meta: false
+widget1:
+  title: "Focus on Indonesia"
+  url: 'https://stopplasticpollution.io/projects/waste_management_in_indonesia'
+  image: homepage_image.jpg
+  text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
+widget2:
+  title: "Why is this urgent?"
+  url: 'https://stopplasticpollution.io/projects/waste_management_in_indonesia'
+  image: homepage_image.jpg
+  text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
+widget3:
+  title: "Meet the team"
+  url: 'https://stopplasticpollution.io/projects/waste_management_in_indonesia'
+  image: homepage_image.jpg
+  text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
+
+callforaction:
+  url: https://stopplasticpollution.io/about
+  text: Find out more...
+  style: alert
 permalink: /index.html
+homepage: true
 ---
 
-My name is Karina. My mission is to stop plastic pollution of our oceans. 
-
-### What is the problem? 
-
-In short, ...
-
-Here is [the long answer]({{site.url}}{{site.baseurl}}/input/why-you-should-care/)
-
-
-
-### Why am I working on it? 
-
-Link to my story.
-
-UN global development goals.
-
-
-### What are the ways forward?
-
-* Zero blame
-* Waste management systems everywhere
-* Best way to deal with plastic waste is unique to each location
-
-### Why is this website .io?
-
-I am a mathematician. Links to 3 sections of website. 
-
-Input changes quickly - here is my reading list to stay updated. 
-
-Please get in touch!
+<div id="videoModal" class="reveal-modal large" data-reveal="">
+  <div class="flex-video widescreen vimeo" style="display: block;">
+    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
+  </div>
+  <a class="close-reveal-modal">&#215;</a>
+</div>
