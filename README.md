@@ -1,12 +1,16 @@
-# Read the docs
-https://phlow.github.io/feeling-responsive/documentation/
+# Acknowledgments
 
-# To change colors see 
-	sass/_01_settings_colors.scss
+This website was built using a beautiful theme created by Phlow - https://github.com/Phlow/feeling-responsive. Thank you so much, Phlow!
 
-# Constructing beautiful layouts
-https://foundation.zurb.com/sites/docs/v/5.5.3/components/grid.html
 
-# Using includes
+# Description
+
+Full documentation is avaialable at https://phlow.github.io/feeling-responsive/documentation/
+
+The colors can be changed here: sass/_01_settings_colors.scss
+
+Beautiful layouts can be constructed using https://foundation.zurb.com/sites/docs/v/5.5.3/components/grid.html
+
+"Includes" can be used in two ways:
 - as templates: all includes with `_` are used for templates, like for example the `_head.html` or `_footer.html`
 - as commands: for example {% include alert success="Yay! you did it!" %} or {% include gallery %}
