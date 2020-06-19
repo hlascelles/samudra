@@ -1,23 +1,22 @@
 ---
-layout: kz_frontpage
+layout: kz-frontpage
 header:
   image_fullwidth: homepage_image.jpg
 widget1:
-  title: "Focus on Indonesia"
   url: 'https://stopplasticpollution.io/projects/waste_management_in_indonesia'
   image: homepage_image.jpg
+  title: 'Focus on Indonesia'
   text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
 widget2:
-  title: "Why is this urgent?"
-  url: 'https://stopplasticpollution.io/projects/waste_management_in_indonesia'
+  url: 'https://stopplasticpollution.io/explore'
   image: homepage_image.jpg
+  title: 'Why is this urgent?'
   text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
 widget3:
-  title: "Meet the team"
-  url: 'https://stopplasticpollution.io/projects/waste_management_in_indonesia'
+  url: 'https://stopplasticpollution.io/team'
   image: homepage_image.jpg
+  title: 'Meet the team'
   text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
-
 callforaction:
   url: https://stopplasticpollution.io/about
   text: Find out more...
@@ -26,9 +25,5 @@ permalink: /index.html
 homepage: true
 ---
 
-<div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
-</div>
+<br/>
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.

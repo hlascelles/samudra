@@ -9,6 +9,12 @@ format: frontpage
     </div><!-- /.row -->
 </div><!-- /#header-home -->
 
+
+<div class="row">
+    {{ content }}
+</div><!-- /.row -->
+
+
 {% comment %}
 *
 * First check, if there is a call for action-button
@@ -46,11 +52,6 @@ format: frontpage
 		{% include _frontpage-widget.html widget=page.widget3 %}
 	{% endif %}
 </div><!-- /.row -->
-
-
-
-
-
 
 
 {% comment %}
@@ -100,14 +101,3 @@ format: frontpage
         </div><!-- /.medium-7.columns -->
     </div><!-- /.row -->
 {% endunless %}
-
-
-{% comment %}
-*
-* Finally, if there is content, spit it out.
-*
-{% endcomment %}
-
-<div class="row">
-    {{ content }}
-</div><!-- /.row -->
