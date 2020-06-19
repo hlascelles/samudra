@@ -55,9 +55,12 @@ format: frontpage
 {% endcomment %}
 
 {% unless site.posts == empty %}
+    {% assign primary_posts = site.posts | where: "primary_post", true %}
+    {% assign secondary_posts = site.posts | where: "primary_post", null %}
+
     <div class="row t30 b20 homepage">
         <div class="small-12 columns">
-            {% for post in site.posts limit:1 %}
+            {% for post in primary_posts limit:1 %}
             {% if post.image.homepage %}
             <p>
                 <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="{{ post.title | escape_once }}"><img width="970" src="{{ site.urlimg }}{{ post.image.homepage }}" alt="{{ page.title | escape_once }}"></a>
@@ -78,7 +81,7 @@ format: frontpage
 
     <div class="row">
         <div class="medium-6 columns">
-            {% for post in site.posts limit:1 %}
+            {% for post in primary_posts limit:1 %}
             {% if post.subheadline %}<p class="subheadline">{{ post.subheadline }}</p>{% endif %}
             <h2><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
             <p>
@@ -91,7 +94,13 @@ format: frontpage
 
         <div class="medium-6 columns">
             <p><strong>{{ site.data.language.more_articles }}</strong></p>
-            {% include list-posts entries='3' offset='1' %}
+            {% for post in secondary_posts limit:10 %}
+              <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{% if post.subheadline %}{{ post.subheadline }} &middot; {% endif %}<strong>{{ post.title }}</strong></a></li>
+            {% endfor %}
+
+            {% comment %}Call the list of posts with entries "0" so it writes out the "Find out more" section{% endcomment %}
+            {% include list-posts entries='0' %}
+
         </div><!-- /.medium-7.columns -->
     </div><!-- /.row -->
 {% endunless %}
