@@ -6,8 +6,8 @@ header:
     image_fullwidth: "homepage_image.jpg"
 widget1:
   url: 'https://www.linkedin.com/in/karina-zile/'
-  image: homepage_image.jpg
-  title: "Karina Zile"
+  image: team-karina.jpg
+  title: <a href="https://www.linkedin.com/in/karina-zile/">Karina Zile</a>
   text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
 widget2:
   image: homepage_image.jpg

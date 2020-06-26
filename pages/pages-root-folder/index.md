@@ -13,11 +13,13 @@ widget2:
   image: homepage_image.jpg
   title: 'Why is this urgent?'
   text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
+  button: true
 widget3:
   url: 'https://samudra.world/team'
   image: homepage_image.jpg
   title: 'Meet the team'
   text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
+  button: true
 callforaction:
   url: https://samudra.world/about
   text: More about Samudra >
@@ -27,7 +29,7 @@ homepage: true
 ---
 
 <br/>
-Samudra is dedicated to solving global waste management challenges that don't have a profitable solution. As our first challenge we picked marine plastic pollution because it is an urgent matter. About 80% of plastic pollution that ends up in our oceans originates on land, a lot of it is due to the lack of waste collection services in populated areas. This brings us to Indonesia, where about 10% of global marine plastic pollution originate. Currently only 32% of municipal solid waste is collected in Indonesia. Hence our initial goal - to improve coverage and efficiency of the waste collection system.
+Samudra is dedicated to solving global waste management challenges that don't have a profitable solution. As our first challenge we picked marine plastic pollution because it is an urgent matter. About 80% of plastic pollution that ends up in our oceans originates on land, a lot of it is due to the lack of waste collection services in populated areas. This brings us to Indonesia, where about 10% of global marine plastic pollution originates. Currently only 32% of municipal solid waste is collected in Indonesia. Hence our initial goal - to improve coverage and efficiency of the waste collection system.
 
 
 
