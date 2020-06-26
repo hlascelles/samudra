@@ -11,7 +11,7 @@
 title: 'CompanyName'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'Waste management for our planet and the people, not profit'
+slogan: 'Waste management for our planet and people, not profit'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
 description: 'Our mission is...'
@@ -25,7 +25,7 @@ author: karina
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://stopplasticpollution.io'
+url: 'https://samudra.world'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
