@@ -38,9 +38,9 @@ $ci-6: #A1D044;     // green
 /* Foundation Color Variables
 ------------------------------------------------------------------- */
 
-$primary-color: #F9C74F;
+$primary-color: $ci-1;
 $secondary-color: $ci-6;
-$alert-color: #FF9505;
+$alert-color: $ci-5;
 $success-color: $ci-6;
 $warning-color: $ci-4;
 $info-color: $ci-1;
@@ -83,12 +83,12 @@ $topbar-link-color-hover: #000;
 $topbar-link-color-active: #000;
 $topbar-link-color-active-hover: #000;
 
-$topbar-dropdown-label-color: #FFB627;
-$topbar-dropdown-link-bg-hover: #FFB627;
+$topbar-dropdown-label-color: $ci-2;
+$topbar-dropdown-link-bg-hover: $ci-6;
 
-$topbar-link-bg-active: #FFB627; // Active Navigation Link
-$topbar-link-bg-hover: #FFB627;
-$topbar-link-bg-active-hover: #FFB627;
+$topbar-link-bg-active: $ci-6; // Active Navigation Link
+$topbar-link-bg-hover: $ci-6;
+$topbar-link-bg-active-hover: $ci-2;
 
 
 $topbar-dropdown-bg: $ci-6; // Background Mobile Navigation
@@ -112,8 +112,8 @@ $footer-color: #fff;
 $footer-link-color: $ci-6;
 
 
-$subfooter-bg: #E2711D;
-$subfooter-color: #264653;
+$subfooter-bg: $grey-13;
+$subfooter-color: $grey-8;
 $subfooter-link-color: $grey-8;
 
 

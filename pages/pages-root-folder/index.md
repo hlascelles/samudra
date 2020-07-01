@@ -29,7 +29,11 @@ homepage: true
 ---
 
 <br/>
-Samudra is dedicated to solving global waste management challenges that don't have a profitable solution. As our first challenge we picked marine plastic pollution because it is an urgent matter. About 80% of plastic pollution that ends up in our oceans originates on land, a lot of it is due to the lack of waste collection services in populated areas. This brings us to Indonesia, where about 10% of global marine plastic pollution originates. Currently only 32% of municipal solid waste is collected in Indonesia. Hence our initial goal - to improve coverage and efficiency of the waste collection system.
+Samudra is dedicated to solving global waste management challenges that don't have a profitable solution. 
+As our first challenge we picked marine plastic pollution because it is an urgent matter. 
+About 80% of plastic pollution that ends up in our oceans originates on land, a lot of it is due to the lack of waste collection services in populated areas. 
+This brings us to Indonesia, where about 10% of global marine plastic pollution originates. 
+Our initial goal is to improve coverage and efficiency of the waste collection and treatment system, since only 32% of municipal solid waste is currently collected in Indonesia.
 
 
 
