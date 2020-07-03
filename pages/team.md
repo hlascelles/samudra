@@ -8,7 +8,7 @@ widget1:
   url: https://www.linkedin.com/in/karina-zile/
   image: team-karina.jpg
   title: <a href="https://www.linkedin.com/in/karina-zile/">Karina Zile</a>
-  text: I am the founder of Samudra. Mathematician at heart, I think about any situation as a system of equations. I am happiest when outdoors. Money doesn't motivate me, so I decided to dedicate <br/> my life to challenges that don't have <br/> a profitable solution. 
+  text: I am the founder of Samudra. Mathematician at heart, I think about any situation as a system of equations. I am happiest when outdoors. After finishing my PhD, I decided to dedicate my life to tackling challenges that don't have a profitable solution. 
 widget2:
   image: homepage_image.jpg
   title: "Andu"
