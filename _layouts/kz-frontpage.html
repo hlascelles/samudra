@@ -91,15 +91,14 @@ format: frontpage
             {% endfor %}
         </div><!-- /.medium-5.columns -->
 
-
+        <!-- List of earlier pages -->
         <div class="medium-6 columns">
-            <p><strong>{{ site.data.language.more_articles }}</strong></p>
             {% for post in secondary_posts limit:10 %}
-              <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{% if post.subheadline %}{{ post.subheadline }} &middot; {% endif %}<strong>{{ post.title }}</strong></a></li>
+              <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} &middot; <strong>{{ post.title }}</strong></a></li>
             {% endfor %}
 
-            {% comment %}Call the list of posts with entries "0" so it writes out the "Find out more" section{% endcomment %}
-            {% include list-posts entries='0' %}
+            <!-- Link to the arcchive -->
+            <li class="text-right"><a href="{{ site.url }}{{ site.baseurl }}/archive/"><strong>{{ site.data.language.to_archive }}</strong></a></li>
 
         </div><!-- /.medium-7.columns -->
     </div><!-- /.row -->

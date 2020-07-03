@@ -37,15 +37,15 @@ format: kz-page
 			</p>
 			{% endif %}
 
+			{% if page.show_meta == true %}
+			{% include _meta_information.html %}
+			{% endif %}
+			
 			<div itemprop="articleSection">
 				<div class="row">
 					{{ content }}
 				</div>
 			</div>
-
-			{% if page.show_meta == true %}
-			{% include _meta_information.html %}
-			{% endif %}
 
 			{% if page.comments == true %}
 			{% include _comments.html %}

@@ -3,10 +3,9 @@ layout: kz-page
 subheadline: Future plans
 title: "What we plan to do next"
 teaser: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-breadcrumb: false
-show_meta: false
+show_meta: true
+author: karina
 header: no
-primary_post: true
 image:
     title: homepage_image.jpg
     thumb: homepage_image.jpg

@@ -8,6 +8,12 @@
 karina: # replace this with your info
   name: "Karina"
   siterole: "developer"
-  uri: http://karina.io/
-  email: karina.zile@gmail.com
+  uri: /team/
+  email: karina@samudra.world
 # you can add more authors here
+
+afsona: # replace this with your info
+  name: "Afsona"
+  siterole: "contributor"
+  uri: /team/
+  email: afsona@samudra.world

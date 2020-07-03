@@ -3,9 +3,9 @@ layout: kz-page
 subheadline: Something new
 title: Exploring new things
 teaser: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-breadcrumb: false
-show_meta: false
+show_meta: true
 header: no
+author: karina
 image:
     title: homepage_image.jpg
     thumb: homepage_image.jpg
