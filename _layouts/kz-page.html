@@ -40,11 +40,9 @@ format: kz-page
 			{% if page.show_meta == true %}
 			{% include _meta_information.html %}
 			{% endif %}
-			
+
 			<div itemprop="articleSection">
-				<div class="row">
-					{{ content }}
-				</div>
+				{{ content }}
 			</div>
 
 			{% if page.comments == true %}
