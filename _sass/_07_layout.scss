@@ -272,21 +272,18 @@ body.video cite { color: #fff; }
 }
 
 #footer {
+    background: $subfooter-bg;
+    color: $subfooter-color;
     padding-top: 30px;
-    padding-bottom: 20px;
-    background: $footer-bg;
-    color: $footer-color;
-    }
+    text-align: center;
+}
 
-    #footer a {
-        color: $footer-link-color;
-    }
-    #footer h4,
-    #footer h5 {
-        letter-spacing: 1px;
-        color: #fff;
-        text-transform: uppercase;
-    }
+#footer h4,
+#footer h5 {
+    letter-spacing: 1px;
+    color: #fff;
+    text-transform: uppercase;
+}
 
 
 
@@ -313,11 +310,16 @@ body.video cite { color: #fff; }
 }
 
 .social-icons {
-    margin-bottom: 10px !important;
+    margin-bottom: -10px !important;
+  ul {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
 
 // Beware of SCSS-Syntax here
   li {
-    padding: 0 0 20px 0;
+    padding: 0 0 10px 0;
   }
   a {
     font-size: rem-calc(23);
