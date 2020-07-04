@@ -22,7 +22,7 @@ widget3:
   button: true
 callforaction:
   url: https://samudra.world/about
-  text: More about Samudra >
+  text: More&nbsp;about&nbsp;Samudra&nbsp;>
   style: alert
 permalink: /index.html
 homepage: true
