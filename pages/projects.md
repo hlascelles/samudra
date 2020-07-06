@@ -23,8 +23,4 @@ widget2:
 
 {% include _frontpage-widget.html widget=page.widget1 %}
 {% include _frontpage-widget.html widget=page.widget2 %}
-
-{% comment %}
-When adding another one here, if it "floats off to the right" then you may have to make sure the title
-is shorter!
-{% endcomment %}
+<hr style="height:1px; visibility:hidden;" />
