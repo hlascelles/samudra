@@ -7,7 +7,7 @@ header:
 widgets:
 - url: https://www.linkedin.com/in/karina-zile/
   image: team-karina.jpg
-  title: <a href="https://www.linkedin.com/in/karina-zile/">Karina Zile</a>
+  title: <a href="https://www.linkedin.com/in/karina-zile/" target="_blank">Karina Zile</a>
   text: I am the founder of Samudra. Mathematician at heart, I think about any situation as a system of equations. I am happiest when outdoors. After finishing my PhD, I decided to dedicate my life to tackling challenges that don't have a profitable solution.
   anchor: karina 
 
@@ -23,7 +23,7 @@ widgets:
 
 - image: team-join-us.png
   title: Would you like to join us?
-  text: Waste management is a truly multidisciplinary affair. Whether you are a chemist, an engineer, a graphic designer, a lawyer, an expert in communications or finance, or simply an awesome individual, we can achieve more with your help. If you like what we are doing, <a href="mailto:hello@samudra.world">let's discuss how we can grow together!</a>
+  text: Waste management is a truly multidisciplinary affair. Whether you are a chemist, an engineer, a graphic designer, a lawyer, an expert in communications or finance, or simply an awesome individual, we can achieve more with your help. If you like what we are doing, <a href="mailto:hello@samudra.world" target="_blank">let's discuss how we can grow together!</a>
   anchor: you
 ---
 
