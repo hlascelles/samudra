@@ -115,17 +115,20 @@ Hence our goal is to improve waste collection and treatment systems in Southeast
 
 <h4>Evidence weights more than believes</h4>
 <br/>
-<!--
-Our goal is to reduce pollution associated with waste and to achive 
-There is nothing wrong with using plastic for a wide variety of applications, the problem is plastic waste that becomes pollution. 
-Our goal is to 
-Similarly, there is nothing wrong with making plastic from oil, the problem is the associated CO2 emissions that contribute to climate change. 
-Our goals include 
-Everything has an opportunity cost.
-What sets us apart from other initiatives with similar goals
-In depth research guides everything we do.
-See explore page
--->
+Our aim is to make the world a better place, and the research we do provides us stepping stones along the way. 
+Unlike other organisations with similar goals, we don't hold strong beliefs that recycling is always the best solution, that the less plastic we use the better, or that incinerators are more polluting than landfills. 
+One reason for that is the fact that very different things often end up under the same blanket term. 
+Widely recyclable packaging material that reduces emissions from transportation is very different from holiday decorations that we put up once and throw into the bin the next day. 
+A well managed landfill with methane capture in a dry climate is very different from a landfill created by clearing rainforest. 
+Another reason why we don't hold strong beliefs is that everything has an opportunity cost. 
+These costs can be very different depending on the type of waste and the location where it is produced. 
+Recycling something in one part of the world can produce more emissions and environmental pollution than landfilling it in another part of the world. 
+Incineration can produce fuel that is less polluting than what is currently used in the region. 
+That is why we don't advocate for recycling, landfilling or incineration. 
+We advocate for taking the time to estimate the costs of different solutions (in terms of finance, environmental pollution, impact on climate and human health) and to compare the opportunity cost. 
+In depth research guides everything we do. 
+<a href="/explore/" target="_self">We invite you to explore what we've learnt so far.</a>
+<a href="mailto:hello@samudra.world" target="_blank">If you spot any mistakes, please get in touch. Let's make the world a better place together.</a>
 
 
 
@@ -135,8 +138,14 @@ See explore page
 <h4>Best is the enemy of better</h4>
 <br/>
 <!--
+TODAY
 Our approach...
 Not perfect, just better
+three aspects: human health, environment, climate change
+Our goal is to reduce pollution associated with waste and to achive 
+There is nothing wrong with using plastic for a wide variety of applications, the problem is plastic waste that becomes pollution. 
+Our goal is to 
+Similarly, there is nothing wrong with making plastic from oil, the problem is the associated CO2 emissions that contribute to climate change. 
 -->
 
 

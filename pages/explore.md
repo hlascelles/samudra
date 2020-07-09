@@ -24,16 +24,13 @@ widget9:
   image: homepage_image.jpg
 ---
 
+<!--
 My aim is to make a difference, doing research is just stepping stones on the way. 
-
 Checking primary sources!
-
 Point estimates!
-
 We use "about" when it is a guess and we've not yet found the data or suspect it doesn't exist.
-
 "the article has not yet been thoroughly fact checked"
-
+-->
 
 {% include _frontpage-widget.html widget=page.widget1 %}
 {% include _frontpage-widget.html widget=page.widget2 %}
