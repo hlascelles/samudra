@@ -74,7 +74,6 @@ Here we describe what we do and why we do it, how we are different from other in
 
 
 <h4>Waste collection services for everyone</h4>
-<br/>
 Currently only 2 in 3 people worldwide have access to waste collection services. 
 Every day 2.6 billion people face a choice of what to do with their waste. 
 Some set it on fire, some add it to a dumpsite nearby, some drive long distances to dump it far away from home, some let the current of a nearby river carry their waste away. 
@@ -84,7 +83,6 @@ At Samudra our goal is to minimise the number of people who have to make this ch
 
 
 <h4>Back to front business of waste management</h4>
-<br/>
 Think of a successful company that sells a great product. 
 How did they achieve that? 
 They most likely started with identifying a market niche and learning about the target market segment. 
@@ -102,7 +100,6 @@ That is why we decided to tackle global waste management challenges.
 
 
 <h4>Maximum impact projects</h4>
-<br/>
 Since we are not bound by trying to maximise our profit, we are free to work on projects with the highest potential impact. 
 As our first challenge we picked marine plastic pollution because it is an urgent matter. 
 It is <abbr title='"Plastic waste inputs from land into the ocean" paper by Jenna R. Jambeck published in Science, 2015'><a href="https://science.sciencemag.org/content/347/6223/768" target="_blank">estimated</a></abbr> that 12 million tonnes of plastic waste ends up in our oceans annually, and the amount is growing every year. 
@@ -114,7 +111,6 @@ Hence our goal is to improve waste collection and treatment systems in Southeast
 
 
 <h4>Evidence weights more than believes</h4>
-<br/>
 Our aim is to make the world a better place, and the research we do provides us stepping stones along the way. 
 Unlike other organisations with similar goals, we don't hold strong beliefs that recycling is always the best solution, that the less plastic we use the better, or that incinerators are more polluting than landfills. 
 One reason for that is the fact that very different things often end up under the same blanket term. 
@@ -122,8 +118,8 @@ Widely recyclable packaging material that reduces emissions from transportation 
 A well managed landfill with methane capture in a dry climate is very different from a landfill created by clearing rainforest. 
 Another reason why we don't hold strong beliefs is that everything has an opportunity cost. 
 These costs can be very different depending on the type of waste and the location where it is produced. 
-Recycling something in one part of the world can produce more emissions and environmental pollution than landfilling it in another part of the world. 
-Incineration can produce fuel that is less polluting than what is currently used in the region. 
+Recycling something in one part of the world can produce more emissions and environmental pollution than incinerating it at a waste-to-energy facility in another part of the world. 
+Chemical recycling of plastic waste can produce fuel that is less polluting than what is currently used in the region. 
 That is why we don't advocate for recycling, landfilling or incineration. 
 We advocate for taking the time to estimate the costs of different solutions (in terms of finance, environmental pollution, impact on climate and human health) and to compare the opportunity cost. 
 In depth research guides everything we do. 
@@ -132,21 +128,18 @@ In depth research guides everything we do.
 
 
 
-
-
-
 <h4>Best is the enemy of better</h4>
-<br/>
+Our goals are to reduce environmental pollution and greenhouse gas emissions associated with waste, and to minimise the impact of waste on human health. 
 <!--
+All of these side effects of 
+We believe that urgent action is required and it cannot be substituted with long term plans to redesign the global economy. 
+While important policy work, rething product design, and awareness raising campaigns are happening, we aim to support them 
+A lot of efforts are dedicated to developping new environmentally friendly materials, 
 TODAY
-Our approach...
 Not perfect, just better
 three aspects: human health, environment, climate change
-Our goal is to reduce pollution associated with waste and to achive 
-There is nothing wrong with using plastic for a wide variety of applications, the problem is plastic waste that becomes pollution. 
-Our goal is to 
-Similarly, there is nothing wrong with making plastic from oil, the problem is the associated CO2 emissions that contribute to climate change. 
 -->
+
 
 
 
@@ -154,15 +147,17 @@ Similarly, there is nothing wrong with making plastic from oil, the problem is t
 <h4>No blame culture</h4>
 <br/>
 <!--
-It's not a zero-sum game...
 the truth is nobody wants dirty planet
+Concerns about urgent waste management challenges that need to be addressed often result in blaming companies, consumers or governments. This leads to a counterproductive divide between "us" and "them". Creating collaborative solutions that allow everyone to participate will result in better outcomes for people and our planet. 
+opt in system
 -->
 
 <h4>Less waste is always better</h4>
 <br/>
-<!--
-We don't make t-shirts.
--->
+
+
+
+
 
 
 <h4>Our contribution to 15 out of 17 <abbr title="Sustainable Development Goals">SDGs</abbr></h4>
