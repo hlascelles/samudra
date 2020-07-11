@@ -56,7 +56,7 @@ format: frontpage
 
 {% unless site.posts == empty %}
     {% assign primary_posts = site.posts | where: "primary_post", true %}
-    {% assign secondary_posts = site.posts | where: "primary_post", empty %}
+    {% assign secondary_posts = site.posts | where: "primary_post", NULL %}
 
     <div class="row t30 b20 homepage">
         <div class="small-12 columns">
