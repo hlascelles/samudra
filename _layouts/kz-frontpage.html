@@ -56,7 +56,6 @@ format: frontpage
 
 {% unless site.posts == empty %}
     {% assign primary_posts = site.posts | where: "primary_post", true %}
-    {% assign secondary_posts = site.posts | where: "primary_post", NULL %}
 
     <div class="row t30 b20 homepage">
         <div class="small-12 columns">
@@ -95,8 +94,10 @@ format: frontpage
         <!-- List of earlier pages -->
         <div class="medium-6 columns">
             <ul class="side-nav">
-                {% for post in secondary_posts limit:10 %}
-                  <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} &middot; <strong>{{ post.title }}</strong></a></li>
+                {% for post in site.posts limit:10 %}
+                    {% unless post.primary_post == true %}
+                      <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} &middot; <strong>{{ post.title }}</strong></a></li>
+                    {% endunless %}
                 {% endfor %}
 
                 <!-- Link to the archive -->
