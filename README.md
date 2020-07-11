@@ -20,3 +20,7 @@ Beautiful layouts can be constructed using https://foundation.zurb.com/sites/doc
 Perform website speed test using https://developers.google.com/speed/pagespeed/insights/ and https://www.uptrends.com/tools/website-speed-test
 
 Use image compressor https://imagecompressor.com/
+
+# GitHub Pages gems
+
+Here is a list of gems that GitHub pages supports: https://pages.github.com/versions/

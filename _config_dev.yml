@@ -16,6 +16,9 @@ urlimg: 'http://localhost:4000/images/'
 # gist:
 #   noscript: false
 
+# Ensure we only use gems available to GitHub pages
+safe: true
+
 sass:
   # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
   style: :expanded
@@ -26,4 +29,4 @@ sass:
   # sourcemap: true # Produces an error
 
 # # Disable when not in production
-# google_analytics_tracking_id: false
+google_analytics_tracking_id: false

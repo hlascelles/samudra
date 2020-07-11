@@ -102,7 +102,7 @@ That is why we decided to tackle global waste management challenges.
 <h4>Maximum impact projects</h4>
 Since we are not bound by trying to maximise our profit, we are free to work on projects with the highest potential impact. 
 As our first challenge we picked marine plastic pollution because it is an urgent matter. 
-It is <abbr title='"Plastic waste inputs from land into the ocean" paper by Jenna R. Jambeck published in Science, 2015'><a href="https://science.sciencemag.org/content/347/6223/768" target="_blank">estimated</a></abbr> that 12 million tonnes of plastic waste ends up in our oceans annually, and the amount is growing every year. 
+It is <a href="https://science.sciencemag.org/content/347/6223/768">estimated</a> that 12 million tonnes of plastic waste ends up in our oceans annually, and the amount is growing every year. 
 40% of this plastic pollution originates on land in Southeast Asia, additional 40% comes from other regions and the remaining 20% originates offshore, mainly from fishing, shipping and oil industries. 
 It is hard to estimate the amount of plastic already present in our oceans, especially because only 3% of it is floating on the surface. 
 One thing is clear - we can prevent more plastic pollution than we could eliminate by collecting the plastic that is already in our oceans. 
