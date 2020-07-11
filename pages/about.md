@@ -162,7 +162,7 @@ opt in system
 
 <h4>Our contribution to 15 out of 17 <abbr title="Sustainable Development Goals">SDGs</abbr></h4>
 
-<div class="row">
+<div class="row t15">
   {% for widget in page.widgets %}
     {% assign loopindex = forloop.index | modulo: 3 %}
     <div id="{{ widget.anchor }}">{% include _un-widget.html widget=widget %}</div>
