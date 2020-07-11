@@ -9,7 +9,7 @@
   title: ""
 
 - name: RSS
-  url: https://samudra.world/feed.xml
+  url: /feed.xml
   class: icon-rss
   title: ""
 
