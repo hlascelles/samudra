@@ -161,14 +161,16 @@ opt in system
 
 
 <h4>Our contribution to 15 out of 17 <abbr title="Sustainable Development Goals">SDGs</abbr></h4>
-<br/>
-{% for widget in page.widgets %}
-  {% assign loopindex = forloop.index | modulo: 3 %}
-  <div id="{{ widget.anchor }}">{% include _un-widget.html widget=widget %}</div>
-  {% if loopindex == 0 %}
-<hr style="height:1px; visibility:hidden;" /> <!-- Prevents long first column items from pushing new rows to the right -->
-  {% endif %}
-{% endfor %}
+
+<div class="row">
+  {% for widget in page.widgets %}
+    {% assign loopindex = forloop.index | modulo: 3 %}
+    <div id="{{ widget.anchor }}">{% include _un-widget.html widget=widget %}</div>
+    {% if loopindex == 0 %}
+  <hr style="height:1px; visibility:hidden;" /> <!-- Prevents long first column items from pushing new rows to the right -->
+    {% endif %}
+  {% endfor %}
+</div>
 
 <!--
 Reducing the amount of pollution entering our oceans 
