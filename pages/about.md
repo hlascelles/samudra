@@ -4,7 +4,8 @@ subheadline: Waste management for our planet and people, not profit
 title: Our mission
 permalink: /about/
 header:
-    image_fullwidth: homepage_image.jpg
+  title: ""
+  image_fullwidth: landingpage_image.jpg
 widgets:
 - image: sdg1.png
   anchor: sdg1
@@ -68,7 +69,7 @@ widgets:
 ---
 
 Samudra is dedicated to solving global waste management challenges that don't have a profitable solution. 
-Here we describe what we do and why we do it, how we are different from other initiatives with similar goals, and how our work directly contributes to 15 out of 17 Sustainable Development Goals set by the <abbr title="United Nations">UN</abbr>. 
+Here we describe what we do and why we do it, how we are different from other initiatives with similar goals, and how our work directly contributes to 15 out of 17 Sustainable Development Goals set by the UN. 
 <hr style="height:10px; visibility:hidden;" />
 
 
@@ -160,7 +161,7 @@ opt in system
 
 
 
-<h4>Our contribution to 15 out of 17 <abbr title="Sustainable Development Goals">SDGs</abbr></h4>
+<h4>Our contribution to 15 out of 17 SDGs</h4>
 
 <div class="row t15">
   {% for widget in page.widgets %}

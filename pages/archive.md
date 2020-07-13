@@ -5,7 +5,8 @@ subheadline: subheadline
 title: "Blahhh"
 teaser: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 header:
-    image_fullwidth: "homepage_image.jpg"
+  title: ""
+  image_fullwidth: landingpage_image.jpg
 ---
 <div id="blog-index" class="row">
 	<div class="small-12 columns t30">

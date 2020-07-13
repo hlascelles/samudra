@@ -3,7 +3,8 @@ layout: kz-page
 title: "This is what we are working on"
 permalink: "/projects/"
 header:
-    image_fullwidth: "homepage_image.jpg"
+  title: ""
+  image_fullwidth: landingpage_image.jpg
 widget1:
   url: '/projects/waste-management-in-indonesia'
   image: homepage_image.jpg

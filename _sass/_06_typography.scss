@@ -30,7 +30,7 @@ a:link {
 }
 
 a:visited {
-    border-bottom: $grey-2;
+    border-bottom: $ci-1;
 }
 
 a:hover {
@@ -277,7 +277,7 @@ button, .button {
 }
 
 mark {
-    background-color: scale-color($warning-color, $lightness: 60%);
+    background-color: scale-color($ci-3, $lightness: 70%);
 }
 
 

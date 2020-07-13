@@ -1,27 +1,28 @@
 ---
 layout: kz-frontpage
 header:
-  image_fullwidth: homepage_image.jpg
+  title: ""
+  image_fullwidth: landingpage_image.jpg
 widget1:
-  url: 'https://samudra.world/projects/waste-management-in-indonesia'
+  url: /projects/waste-management-in-indonesia
   image: homepage_image.jpg
   title: 'Focus on Indonesia'
   text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
   button: true
 widget2:
-  url: 'https://samudra.world/explore'
+  url: /explore
   image: homepage_image.jpg
   title: 'Why is this urgent?'
   text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
   button: true
 widget3:
-  url: 'https://samudra.world/team'
+  url: /team
   image: homepage_image.jpg
   title: 'Meet the team'
   text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
   button: true
 callforaction:
-  url: https://samudra.world/about
+  url: /about
   text: More&nbsp;about&nbsp;Samudra&nbsp;>
   style: alert
 permalink: /index.html

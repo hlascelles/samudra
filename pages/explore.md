@@ -3,7 +3,8 @@ layout: kz-page
 title: "Our research"
 permalink: "/explore/"
 header:
-    image_fullwidth: "homepage_image.jpg"
+  title: ""
+  image_fullwidth: landingpage_image.jpg
 widget1:
   image: homepage_image.jpg
 widget2:

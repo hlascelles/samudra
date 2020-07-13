@@ -3,7 +3,8 @@ layout: kz-page
 title: Our team
 permalink: /team/
 header:
-    image_fullwidth: homepage_image.jpg
+  title: ""
+  image_fullwidth: landingpage_image.jpg
 widgets:
 - url: https://www.linkedin.com/in/karina-zile/
   image: team-karina.jpg
