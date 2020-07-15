@@ -25,11 +25,11 @@ widgets:
 
 - image: sdg6.png
   anchor: sdg6
-  text: Uncollected waste and products created during open burning of waste pollute sources of drinking water (both water-bodies and ground waters). Improving the coverage of waste collection services will alleviate shortage of water for personal and agricultural use. 
+  text: Uncollected waste and contaminants created during open burning of waste pollute sources of drinking water (both water-bodies and ground waters). Improving the coverage of waste collection services will alleviate shortage of water for personal and agricultural use. 
 
 - image: sdg7.png
   anchor: sdg7
-  text: Even waste that is neither recyclable nor compostable has calorific value. Non-recyclable plastic can be chemically converted into fuel. Using waste as an energy resource will facilitate the shift away from more polluting fuels and produce affordable energy while reducing the environmental pollution at the same time. 
+  text: Even waste that is neither recyclable nor compostable has calorific value. Non-recyclable plastic can be turned into fuel via pyrolisis. Using waste as an energy resource will facilitate the shift away from more polluting fuels and produce affordable energy while reducing the environmental pollution at the same time. 
 
 - image: sdg8.png
   anchor: sdg8
@@ -41,7 +41,7 @@ widgets:
 
 - image: sdg10.png
   anchor: sdg10
-  text: Income inequality is exacerbated by the availability of waste collection services - low-income communities live in polluted environments and are exposed to harmful substances released during open burning of waste. Improving the coverage of waste collection services will reduce this health inequality and facilitate the economic growth of low-income communities. 
+  text: Income inequality is exacerbated by the availability of waste collection services. Low-income communities live in polluted environments and are exposed to harmful substances released during open burning of waste. Improving the coverage of waste collection services will reduce this health inequality and facilitate the economic growth of low-income communities. 
 
 - image: sdg11.png
   anchor: sdg11
@@ -57,7 +57,7 @@ widgets:
    
 - image: sdg14.png
   anchor: sdg14
-  text: Ocean pollution is detrimental to marine ecosystem health. It harms all species in marine habitats and the food chains they belong to. Reducing the amount of pollution entering our oceans will be an essential part of preventing marine ecosystem collapse. 
+  text: Ocean pollution is detrimental to marine ecosystem health. It harms all marine species and all species that are part of the food chains they belong to. Reducing the amount of pollution entering our oceans will be an essential part of preventing marine ecosystem collapse. 
    
 - image: sdg15.png
   anchor: sdg15
@@ -103,7 +103,7 @@ That is why we decided to tackle global waste management challenges.
 <h4>Maximum impact projects</h4>
 Since we are not bound by trying to maximise our profit, we are free to work on projects with the highest potential impact. 
 As our first challenge we picked marine plastic pollution because it is an urgent matter. 
-It is <a href="https://science.sciencemag.org/content/347/6223/768">estimated</a> that 12 million tonnes of plastic waste ends up in our oceans annually, and the amount is growing every year. 
+It is <a href="https://science.sciencemag.org/content/347/6223/768">estimated</a> that {{site.data.language.amount_of_plastic_entering_oceans_annually}} of plastic waste ends up in our oceans annually, and the amount is growing every year. 
 40% of this plastic pollution originates on land in Southeast Asia, additional 40% comes from other regions and the remaining 20% originates offshore, mainly from fishing, shipping and oil industries. 
 It is hard to estimate the amount of plastic already present in our oceans, especially because only 3% of it is floating on the surface. 
 One thing is clear - we can prevent more plastic pollution than we could eliminate by collecting the plastic that is already in our oceans. 
@@ -113,55 +113,56 @@ Hence our goal is to improve waste collection and treatment systems in Southeast
 
 <h4>Evidence weights more than believes</h4>
 Our aim is to make the world a better place, and the research we do provides us stepping stones along the way. 
-Unlike other organisations with similar goals, we don't hold strong beliefs that recycling is always the best solution, that the less plastic we use the better, or that incinerators are more polluting than landfills. 
+Unlike other organisations with similar goals we don't hold strong beliefs.
+For example, that recycling is always the best solution, that the less plastic we use the better, or that incinerators are more polluting than landfills. 
 One reason for that is the fact that very different things often end up under the same blanket term. 
-Widely recyclable packaging material that reduces emissions from transportation is very different from holiday decorations that we put up once and throw into the bin the next day. 
+Widely recyclable plastic packaging material that reduces emissions from transportation or a medical device that saves a life is very different from plastic confetti dispersed directly into the environment. 
 A well managed landfill with methane capture in a dry climate is very different from a landfill created by clearing rainforest. 
 Another reason why we don't hold strong beliefs is that everything has an opportunity cost. 
 These costs can be very different depending on the type of waste and the location where it is produced. 
 Recycling something in one part of the world can produce more emissions and environmental pollution than incinerating it at a waste-to-energy facility in another part of the world. 
-Chemical recycling of plastic waste can produce fuel that is less polluting than what is currently used in the region. 
+Pyrolisis of plastic waste can produce fuel that is less polluting than what is currently used in the region. 
 That is why we don't advocate for recycling, landfilling or incineration. 
 We advocate for taking the time to estimate the costs of different solutions (in terms of finance, environmental pollution, impact on climate and human health) and to compare the opportunity cost. 
 In depth research guides everything we do. 
 <a href="/explore/" target="_self">We invite you to explore what we've learnt so far.</a>
-<a href="mailto:hello@samudra.world" target="_blank">If you spot any mistakes, please get in touch. Let's make the world a better place together.</a>
+<a href="mailto:hello@samudra.world" target="_blank">If you spot any mistakes, please do get in touch and let's make the world a better place together.</a>
 
 
 
 <h4>Best is the enemy of better</h4>
-Our goals are to reduce environmental pollution and greenhouse gas emissions associated with waste, and to minimise the impact of waste on human health. 
-<!--
-All of these side effects of 
-We believe that urgent action is required and it cannot be substituted with long term plans to redesign the global economy. 
-While important policy work, rething product design, and awareness raising campaigns are happening, we aim to support them 
-A lot of efforts are dedicated to developping new environmentally friendly materials, 
-TODAY
-Not perfect, just better
-three aspects: human health, environment, climate change
--->
-
-
+Our goals are to reduce the environmental pollution and greenhouse gas emissions associated with waste, and to minimise the impact of waste on human health.
+Efforts aimed at improving waste management in the long run, for example developing new materials or trying to redesign the global economy, are incredibly valuable. 
+We believe that in parallel to these efforts an urgent action is required to minimise the amount of pollution, emissions and detrimental effects on human health that happen <mark>today</mark>.
+For each waste management challenge we tackle, we try to come up with as many ideas as possible about how it could be addressed.
+We evaluate each of these ideas based on what impact they will have on the environment, climate and human health if implemented.
+We compare these externalities with the current ones and decide on an action plan that will result in an improvement.
+Some of the solutions we implement are far from perfect when examined in isolation, it only becomes apparent how they prevent degradation of the environment, climate and human health when they are examined in the context of current reality.
 
 
 
 <h4>No blame culture</h4>
-<br/>
-<!--
-the truth is nobody wants dirty planet
-Concerns about urgent waste management challenges that need to be addressed often result in blaming companies, consumers or governments. This leads to a counterproductive divide between "us" and "them". Creating collaborative solutions that allow everyone to participate will result in better outcomes for people and our planet. 
-opt in system
--->
+Concerns about waste management challenges often result in blaming companies, consumers or governments.
+This leads to a counterproductive divide between "us" and "them".
+The truth is, nobody wants to live surrounded by waste. 
+Everyone enjoys beautiful nature, breathtaking views and funny marine creatures. 
+We are all "us", there are no "them". 
+That is why at Samudra we work towards collaborative solutions that allow everyone to contribute towards a better outcome for all of us.
+We believe that more can be achieved in a no blame culture where everyone's contribution is truly appreciated instead of being expected.
+If you have time, skills or funding that you could contribute, <a href="mailto:hello@samudra.world" target="_blank">please do get in touch.</a>
+If you've already dedicated them to something that is really important to you, we respect that.
+
+
 
 <h4>Less waste is always better</h4>
-<br/>
+At Samudra we are dedicated to solving waste management challenges and we mean it.
+We love high quality products that are happily used for many years after purchase.
+There will be no t-shirts with our logo, no reusable water bottle giveaways (you probably already have one) and no fund raising by selling branded merchandise made from recycled materials.
+We are committed to not produce anything that will soon become waste.
 
 
 
-
-
-
-<h4>Our contribution to 15 out of 17 SDGs</h4>
+<h4>Our contribution to 15 out of 17 Sustainable Development Goals</h4>
 
 <div class="row t15">
   {% for widget in page.widgets %}
