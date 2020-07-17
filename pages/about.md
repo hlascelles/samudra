@@ -17,7 +17,7 @@ widgets:
 
 - image: sdg3.png
   anchor: sdg3
-  text: Uncollected waste is openly burnt (leading to adverse effects on air quality) or dumped (facilitating the spread of contagious disease and disease vectors). Improving the coverage of waste collection services will lead to better physical and mental health, and reduce the prevalence of contagious diseases.
+  text: Uncollected waste is either openly burnt (leading to adverse effects on air quality) or dumped (facilitating the spread of disease vectors and contagious diseases). Improving the coverage of waste collection services will lead to better physical and mental health, and reduce the prevalence of contagious diseases.
 
 - image: sdg5.png
   anchor: sdg5
@@ -61,7 +61,7 @@ widgets:
    
 - image: sdg15.png
   anchor: sdg15
-  text: Waste washed up on the shores, leachate from dumped waste and ashes from open burning of waste pollute our land. As landfills fill up, need for new ones often results in deforestation of surrounding areas. Capital investment in waste management infrastructure will reduce deforestation and environmental contamination, as well as protect biodiversity and fertility of our land. 
+  text: The waste washed up on the shores, the leachate from dumped waste and the ashes from waste burnt in the open all pollute our land. The need for more and more landfills, given the rate at which they fill up, often results in human-induced deforestation of the surrounding areas. Capital investment in waste management infrastructure will reduce environmental contamination and the rate of deforestation, as well as protect biodiversity and fertility of our land. 
 
 - image: sdg17.png
   anchor: sdg17
@@ -101,7 +101,7 @@ That is why we decided to tackle global waste management challenges.
 
 
 <h4>Maximum impact projects</h4>
-Since we are not bound by trying to maximise our profit, we are free to work on projects with the highest potential impact. 
+Since we are not bound by trying to maximise our profit, we are free to work on projects with the highest estimated impact. 
 As our first challenge we picked marine plastic pollution because it is an urgent matter. 
 It is <a href="https://science.sciencemag.org/content/347/6223/768" target="_blank">estimated</a> that {{site.data.language.amount_of_plastic_entering_oceans_annually}} of plastic waste ends up in our oceans annually, and the amount is growing every year. 
 {{site.data.language.percentage_of_plastic_pollution_originating_in_se_asia}} of this plastic pollution originates on land in Southeast Asia, additional 40% comes from other regions and the remaining {{site.data.language.percentage_of_plastic_pollution_originating_offshore : "20%"}} originates offshore, mainly from fishing, shipping and oil industries. 

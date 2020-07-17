@@ -2,7 +2,7 @@
 layout: kz-page
 subheadline: Our current project
 title: "Improving the coverage of waste collection services in Indonesia"
-teaser: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+teaser: "Only 32% of municipal solid waste is currently collected in Indonesia. Uncollected waste is either openly burnt (leading to adverse effects on air quality) or dumped (facilitating the spread of disease vectors and contagious diseases). Dumped waste is likely to end up in our oceans. The aim of this project is to increase the proportion of municipal solid waste that is collected and to ensure that it is properly dispossed of."
 show_meta: true
 header: no
 author: karina
@@ -15,14 +15,4 @@ categories:
 primary_post: true
 ---
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-
-
-
-
-
-
-
-
-
+We are still working on this article. If you'd like to catch it as soon as it appears here, add this <a href="https://samudra.world/feed.xml" target="_blank">link</a> to your RSS feed collector.

@@ -12,15 +12,16 @@ widgets:
   text: I am the founder of Samudra. Mathematician at heart, I think about any situation as a system of equations. I am happiest when outdoors. After finishing my PhD, I decided to dedicate my life to tackling global challenges that don't have a profitable solution.
   anchor: karina 
 
+- url: https://www.linkedin.com/in/afsona-bonu-mansurova-09883789/
+  image: team-afsona.jpg
+  title: <a href="https://www.linkedin.com/in/afsona-bonu-mansurova-09883789/" target="_blank">Afsona-Bonu Mansurova</a>
+  text: "I was born a believer in the idea that everyone deserves a decent livelihood and that we ourselves can be the magic wand to make a change. The more I travelled around the world, the more I studied and volunteered, I realised that I want to do more to join the common efforts in making this world a better place for all."
+  anchor: afsona
+
 - image: generic_human.png
   title: "Andu Masebo"
   text: ''
   anchor: andu
-
-- image: generic_human.png
-  title: "Afsona-Bonu Mansurova"
-  text: ''
-  anchor: afsona
 
 - image: team-join-us.png
   title: Would you like to join us?
