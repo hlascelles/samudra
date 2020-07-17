@@ -1,27 +1,34 @@
 ---
 layout: kz-page
-title: "This is what we are working on"
-permalink: "/projects/"
+title: "This is what do"
+permalink: /projects/
+teaser: blah
 header:
   title: ""
   image_fullwidth: landingpage_image.jpg
-widget1:
-  url: '/projects/waste-management-in-indonesia'
-  image: homepage_image.jpg
-  title: "Expanding waste collection services in Indonesia"
-  text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
-  cols: 6
+widgets:
+- url: /projects/increasing-waste-collection-in-indonesia/
+  image: indonesia_unsafe_landfill_by_thejakartapost_dot_com.png
+  title: <a href="/projects/increasing-waste-collection-in-indonesia/" target="_self">Improving the coverage of waste collection services in Indonesia</a>
+  text: Blahhh
+  anchor: increasing-waste-collection-in-indonesia
   button: true
-  
-widget2:
-  url: '/projects/future-projects'
-  image: homepage_image.jpg
-  title: "Future projects"
-  text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
   cols: 6
+- url: /projects/future-projects/
+  image: world_wall_by_Karina_Zile.jpg
+  title: <a href="/projects/future-projects/" target="_self">What we plan to do next</a>
+  text: ...
+  anchor: future-projects
   button: true
+  cols: 6
 ---
 
-{% include _frontpage-widget.html widget=page.widget1 %}
-{% include _frontpage-widget.html widget=page.widget2 %}
-<hr style="height:1px; visibility:hidden;" />
+<div class="row">
+  {% for widget in page.widgets %}
+    {% assign loopindex = forloop.index | modulo: 2 %}
+    <div id="{{ widget.anchor }}">{% include _frontpage-widget.html widget=widget %}</div>
+    {% if loopindex == 0 %}
+  <hr style="height:1px; visibility:hidden;" /> <!-- Prevents long first column items from pushing new rows to the right -->
+    {% endif %}
+  {% endfor %}
+</div>

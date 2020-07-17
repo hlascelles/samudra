@@ -65,9 +65,9 @@ format: frontpage
                 <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="{{ post.title | escape_once }}"><img width="970" src="{{ site.urlimg }}{{ post.image.homepage }}" alt="{{ page.title | escape_once }}"></a>
             </p>
 
-            {% if post.image.caption_url and post.image.caption %}
+            {% if post.image.caption %}
             <p class="text-right caption">
-                <a href="{{ post.image.caption_url }}">{{ post.image.caption }}</a>
+                {{ post.image.caption }}
             </p>
             {% endif %}
             {% else post.image.homepage == NULL %}
@@ -101,7 +101,7 @@ format: frontpage
                 {% endfor %}
 
                 <!-- Link to the archive -->
-                <li class="text-right"><a href="{{ site.url }}{{ site.baseurl }}/archive/"><strong>{{ site.data.language.to_archive }}</strong></a></li>
+                <li class="text-right"><a href="/archive/"><strong>{{ site.data.language.to_archive }}</strong></a></li>
             </ul>
         </div>
     </div>

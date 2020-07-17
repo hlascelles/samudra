@@ -76,7 +76,7 @@ Here we describe what we do and why we do it, how we are different from other in
 
 <h4>Waste collection services for everyone</h4>
 Currently only 2 in 3 people worldwide have access to waste collection services. 
-Every day 2.6 billion people face a choice of what to do with their waste. 
+Every day {{site.data.language.number_of_people_with_no_waste_collection}} people face a choice of what to do with their waste. 
 Some set it on fire, some add it to a dumpsite nearby, some drive long distances to dump it far away from home, some let the current of a nearby river carry their waste away. 
 <mark>Ask yourself, what would you do if all the waste in your bin was yours to keep?</mark> 
 At Samudra our goal is to minimise the number of people who have to make this choice. 
@@ -104,10 +104,11 @@ That is why we decided to tackle global waste management challenges.
 Since we are not bound by trying to maximise our profit, we are free to work on projects with the highest potential impact. 
 As our first challenge we picked marine plastic pollution because it is an urgent matter. 
 It is <a href="https://science.sciencemag.org/content/347/6223/768">estimated</a> that {{site.data.language.amount_of_plastic_entering_oceans_annually}} of plastic waste ends up in our oceans annually, and the amount is growing every year. 
-40% of this plastic pollution originates on land in Southeast Asia, additional 40% comes from other regions and the remaining 20% originates offshore, mainly from fishing, shipping and oil industries. 
-It is hard to estimate the amount of plastic already present in our oceans, especially because only 3% of it is floating on the surface. 
+{{site.data.language.percentage_of_plastic_pollution_originating_in_se_asia}} of this plastic pollution originates on land in Southeast Asia, additional 40% comes from other regions and the remaining {{site.data.language.percentage_of_plastic_pollution_originating_offshore : "20%"}} originates offshore, mainly from fishing, shipping and oil industries. 
+It is hard to estimate the amount of plastic already present in our oceans, especially because only {{site.data.language.percentage_of_ocean_plastic_pollution_that_floats}} of it is floating on the surface. 
 One thing is clear - we can prevent more plastic pollution than we could eliminate by collecting the plastic that is already in our oceans. 
-Hence our goal is to improve waste collection and treatment systems in Southeast Asia, which has the potential to reduce the amount of annual plastic pollution by 40%. 
+Hence our goal is to improve waste collection and treatment systems in Southeast Asia, which has the potential to reduce the amount of annual plastic pollution by {{site.data.language.percentage_of_plastic_pollution_originating_in_se_asia}}.
+Find out about our ongoing projects <a href="/projects/" target="_self">here</a>.
 
 
 
@@ -126,7 +127,7 @@ That is why we don't advocate for recycling, landfilling or incineration.
 We advocate for taking the time to estimate the costs of different solutions (in terms of finance, environmental pollution, impact on climate and human health) and to compare the opportunity cost. 
 In depth research guides everything we do. 
 <a href="/explore/" target="_self">We invite you to explore what we've learnt so far.</a>
-<a href="mailto:hello@samudra.world" target="_blank">If you spot any mistakes, please do get in touch and let's make the world a better place together.</a>
+If you spot any mistakes, please do <a href="mailto:hello@samudra.world" target="_blank">get in touch</a>, it will be much appreciated.
 
 
 
@@ -149,7 +150,7 @@ Everyone enjoys beautiful nature, breathtaking views and funny marine creatures.
 We are all "us", there are no "them". 
 That is why at Samudra we work towards collaborative solutions that allow everyone to contribute towards a better outcome for all of us.
 We believe that more can be achieved in a no blame culture where everyone's contribution is truly appreciated instead of being expected.
-If you have time, skills or funding that you could contribute, <a href="mailto:hello@samudra.world" target="_blank">please do get in touch.</a>
+If you have time, skills or funding that you could contribute, please do <a href="mailto:hello@samudra.world" target="_blank">get in touch.</a>
 If you've already dedicated them to something that is really important to you, we respect that.
 
 

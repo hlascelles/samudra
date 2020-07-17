@@ -2,8 +2,8 @@
 layout: kz-default
 permalink: "/archive/"
 subheadline: subheadline
-title: "Blahhh"
-teaser: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+title: "All content in one place"
+teaser: "Here you can see everything we've published so far in reverse chronological order."
 header:
   title: ""
   image_fullwidth: landingpage_image.jpg
@@ -20,7 +20,7 @@ header:
 			<a href="#panel{{ counter }}"><span class="iconfont"></span> {% if post.date %}{{ post.date | date: "%Y-%m-%d" }}{% endif %} &middot; <strong>{{ post.title }}</strong></a>
 				<div id="panel{{ counter }}" class="content">
 					{% if post.meta_description %}{{ post.meta_description | strip_html | escape }}{% elsif post.teaser %}{{ post.teaser | strip_html | escape }}{% endif %}
-					<a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="Read {{ post.title | escape_once }}"><strong>{{ site.data.language.read_more }}</strong></a><br><br>
+					<a href="{{ post.url }}" title="Read {{ post.title | escape_once }}"><strong>{{ site.data.language.read_more }}</strong></a><br><br>
 				</div>
 			</dd>
 			{% assign counter=counter | plus:1 %}
