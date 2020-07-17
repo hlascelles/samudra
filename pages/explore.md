@@ -1,46 +1,32 @@
 ---
 layout: kz-page
-title: "Our research"
+title: "What we've learnt so far"
 permalink: "/explore/"
+teaser: My aim is to make a difference, doing research is just stepping stones on the way. Checking primary sources! Point estimates! We use "about" when it is a guess and we've not yet found the data or suspect it doesn't exist. "the article has not yet been thoroughly fact checked"
 header:
   title: ""
   image_fullwidth: landingpage_image.jpg
-widget1:
-  image: homepage_image.jpg
-widget2:
-  image: homepage_image.jpg
-widget3:
-  image: homepage_image.jpg
-widget4:
-  image: homepage_image.jpg
-widget5:
-  image: homepage_image.jpg
-widget6:
-  image: homepage_image.jpg
-widget7:
-  image: homepage_image.jpg
-widget8:
-  image: homepage_image.jpg
-widget9:
-  image: homepage_image.jpg
+widgets:
+- url: /explore/why-is-this-urgent/
+  image: beach_plastic_by_Jennifer_Lavers.jpg
+  title: <a href="/explore/why-is-this-urgent/" target="_self">Why is this urgent?</a>
+  text: ...
+  anchor: why-is-this-urgent
+  button: true
+- url: /explore/waste-management-in-indonesia/
+  image: indonesia_plastic_pollution_java_by_cordonpress_dot_com.jpg
+  title: <a href="/explore/waste-management-in-indonesia/" target="_self">Waste management in Indonesia</a>
+  text: ...
+  anchor: waste-management-in-indonesia
+  button: true
+
 ---
-
-<!--
-My aim is to make a difference, doing research is just stepping stones on the way. 
-Checking primary sources!
-Point estimates!
-We use "about" when it is a guess and we've not yet found the data or suspect it doesn't exist.
-"the article has not yet been thoroughly fact checked"
--->
-
-{% include _frontpage-widget.html widget=page.widget1 %}
-{% include _frontpage-widget.html widget=page.widget2 %}
-{% include _frontpage-widget.html widget=page.widget3 %}
-<br/>
-{% include _frontpage-widget.html widget=page.widget4 %}
-{% include _frontpage-widget.html widget=page.widget5 %}
-{% include _frontpage-widget.html widget=page.widget6 %}
-<br/>
-{% include _frontpage-widget.html widget=page.widget7 %}
-{% include _frontpage-widget.html widget=page.widget8 %}
-{% include _frontpage-widget.html widget=page.widget9 %}
+<div class="row">
+  {% for widget in page.widgets %}
+    {% assign loopindex = forloop.index | modulo: 3 %}
+    <div id="{{ widget.anchor }}">{% include _frontpage-widget.html widget=widget %}</div>
+    {% if loopindex == 0 %}
+  <hr style="height:1px; visibility:hidden;" /> <!-- Prevents long first column items from pushing new rows to the right -->
+    {% endif %}
+  {% endfor %}
+</div>
