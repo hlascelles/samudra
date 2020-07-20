@@ -8,13 +8,13 @@ header:
   image_fullwidth: landingpage_image.jpg
 widgets:
 - url: /explore/why-is-this-urgent/
-  image: beach_plastic_by_Jennifer_Lavers.jpg
+  image: plastic-pollution-beach-by-Jennifer-Lavers.jpg
   title: <a href="/explore/why-is-this-urgent/" target="_self">Why is this urgent?</a>
   text: ...
   anchor: why-is-this-urgent
   button: true
 - url: /explore/waste-management-in-indonesia/
-  image: indonesia_plastic_pollution_java_by_cordonpress_dot_com.jpg
+  image: indonesia-plastic-pollution-java-cordonpress-dot-com.jpg
   title: <a href="/explore/waste-management-in-indonesia/" target="_self">Waste management in Indonesia</a>
   text: ...
   anchor: waste-management-in-indonesia

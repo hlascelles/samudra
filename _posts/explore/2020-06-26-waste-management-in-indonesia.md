@@ -7,7 +7,7 @@ show_meta: true
 header: no
 author: afsona
 image:
-    title: indonesia_plastic_pollution_java_by_cordonpress_dot_com.jpg
+    title: indonesia-plastic-pollution-java-cordonpress-dot-com.jpg
     caption: Photo by cordonpress.com
 categories:
     - explore

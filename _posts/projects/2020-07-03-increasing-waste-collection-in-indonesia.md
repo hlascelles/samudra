@@ -7,9 +7,9 @@ show_meta: true
 header: no
 author: karina
 image:
-    title: indonesia_unsafe_landfill_by_thejakartapost_dot_com.png
+    title: indonesia-landfill-thejakartapost-dot-com.jpg
     caption: Photo by thejakartapost.com
-    homepage: indonesia_unsafe_landfill_by_thejakartapost_dot_com.png
+    homepage: indonesia-landfill-thejakartapost-dot-com.jpg
 categories:
     - projects
 primary_post: true

@@ -7,7 +7,7 @@ show_meta: true
 header: no
 author: afsona
 image:
-    title: beach_plastic_by_Jennifer_Lavers.jpg
+    title: plastic-pollution-beach-by-Jennifer-Lavers.jpg
     caption: Photo by Jennifer Lavers
 categories:
     - explore

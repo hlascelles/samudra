@@ -23,7 +23,7 @@ widgets:
   text: ''
   anchor: andu
 
-- image: team-join-us.png
+- image: team-join-us.jpg
   title: Would you like to join us?
   text: Waste management is a truly multidisciplinary affair. Whether you are a chemist, an engineer, a graphic designer, a lawyer, an expert in communications or finance, or simply an awesome individual, we can achieve more with your help. If you like what we do, <a href="mailto:hello@samudra.world" target="_blank">let's discuss how we can grow together!</a>
   anchor: you

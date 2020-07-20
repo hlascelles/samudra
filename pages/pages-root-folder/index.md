@@ -5,19 +5,19 @@ header:
   image_fullwidth: landingpage_image.jpg
 widget1:
   url: /explore/waste-management-in-indonesia
-  image: indonesia_plastic_pollution_java_by_cordonpress_dot_com.jpg
+  image: indonesia-plastic-pollution-java-cordonpress-dot-com.jpg
   title: 'Focus on Indonesia'
   text: "Indonesia is home to 3.4% of the world's population; and it is estimated that 10% of the global ocean plastic pollution originates there. The Indonesia National Plastic Action Partnership mapped out this challenge."
   button: true
 widget2:
   url: /projects
-  image: plastic_cup_rainbow_by_jasmin_sessler.jpg
+  image: plastic-pollution-beach-rainbow-by-Jasmin-Sessler.jpg
   title: 'This is what we do'
   text: 'Our current project is aimed at improving the coverage of waste collection services in Indonesia. In the future we plan to address challenges at all stages of the waste management process in different countries all across the globe.'
   button: true
 widget3:
   url: /team
-  image: world_wall_by_Karina_Zile.jpg
+  image: world-wall-by-Karina-Zile.jpg
   title: 'Meet the team'
   text: "We are a diverse bunch of people. Each of us has a strong desire to make the world a better place. This common goal makes us a strong team. If you share a similar passion, let's discuss how we can grow together!"
   button: true

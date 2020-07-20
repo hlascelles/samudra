@@ -7,7 +7,7 @@ show_meta: true
 author: karina
 header: no
 image:
-    title: world_wall_by_Karina_Zile.jpg
+    title: world-wall-by-Karina-Zile.jpg
 categories:
     - projects
 ---
