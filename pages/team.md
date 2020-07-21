@@ -18,11 +18,6 @@ widgets:
   text: "I was born a believer in the idea that everyone deserves a decent livelihood and that we ourselves can be the magic wand to make a change. The more I travelled around the world, the more I studied and volunteered, I realised that I want to do more to join the common efforts in making this world a better place for all."
   anchor: afsona
 
-- image: generic_human.png
-  title: "Andu Masebo"
-  text: ''
-  anchor: andu
-
 - image: team-join-us.jpg
   title: Would you like to join us?
   text: Waste management is a truly multidisciplinary affair. Whether you are a chemist, an engineer, a graphic designer, a lawyer, an expert in communications or finance, or simply an awesome individual, we can achieve more with your help. If you like what we do, <a href="mailto:hello@samudra.world" target="_blank">let's discuss how we can grow together!</a>

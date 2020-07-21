@@ -2,7 +2,7 @@
 layout: kz-page
 title: "What we've learnt so far"
 permalink: "/explore/"
-teaser: My aim is to make a difference, doing research is just stepping stones on the way. Checking primary sources! Point estimates! We use "about" when it is a guess and we've not yet found the data or suspect it doesn't exist. "the article has not yet been thoroughly fact checked"
+teaser: Our aim is to solve global waste management challenges, and the research we do provides us stepping stones along the way. Below we will be sharing what we've learnt on our journey so far. This will include research about the different types of waste, waste management systems in different countries, international waste trade, waste disposal and recycling technologies. Since a growing proportion of waste is plastic, we will cover everything from plastic production to recycling methods and environmental effects of mismanaged plastic waste. During our research we came across a lot of information that is not exactly true. To avoid spreading misinformation, we are determined to check primary sources of all the information we publish. The articles which have not yet been rigorously fact checked, will be published with an appropriate warning sign. Note that all the waste-related numbers are point estimates, all of them have big error bars as it is impossible to obtain precise data about waste. We use the word "about" in front of the numbers to indicate that we've not yet found the data or we suspect it doesn't exist.
 header:
   title: ""
   image_fullwidth: landingpage_image.jpg
@@ -30,3 +30,9 @@ widgets:
     {% endif %}
   {% endfor %}
 </div>
+
+
+
+
+
+

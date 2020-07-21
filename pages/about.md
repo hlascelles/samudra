@@ -124,7 +124,7 @@ These costs can be very different depending on the type of waste and the locatio
 Recycling something in one part of the world can produce more emissions and environmental pollution than incinerating it at a waste-to-energy facility in another part of the world. 
 Pyrolisis of plastic waste can produce fuel that is less polluting than what is currently used in the region. 
 That is why we don't advocate for recycling, landfilling or incineration. 
-We advocate for taking the time to estimate the costs of different solutions (in terms of finance, environmental pollution, impact on climate and human health) and to compare the opportunity cost. 
+We advocate for taking the time to estimate the costs of different solutions (in terms impact on the environment, climate and human health), to assess their financial feasibility and to compare the opportunity cost.
 In depth research guides everything we do. 
 <a href="/explore/" target="_self">We invite you to explore what we've learnt so far.</a>
 If you spot any mistakes, please do <a href="mailto:hello@samudra.world" target="_blank">get in touch</a>, it will be much appreciated.

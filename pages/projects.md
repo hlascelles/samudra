@@ -17,7 +17,7 @@ widgets:
 - url: /projects/future-projects/
   image: world-wall-by-Karina-Zile.jpg
   title: <a href="/projects/future-projects/" target="_self">What we plan to do next</a>
-  text: In the near future we plan to initiate projects focussed on different stages of the waste management process - from informing the design of products that will eventually become waste to new recycling techniques and international waste trade. These projects will be guided by the in depth research we do. Many waste management challenges are similar in different countries all across the globe; therefore we will increase our impact by sharing what we've learnt and actively learning from others.
+  text: In the near future we plan to initiate projects focused on different stages of the waste management process - from informing the design of products that will eventually become waste to new recycling techniques and international waste trade. These projects will be guided by the in depth research we do. Different countries all across the globe face similar waste management challenges, which is why we aim to increase our impact by sharing what we've learnt and to actively learn from others.
   anchor: future-projects
   button: true
   cols: 6
