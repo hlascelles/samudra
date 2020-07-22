@@ -8,6 +8,8 @@
 # sudo lsof -i tcp:4000
 # kill -9 PID
 
+# ALL IMAGES MUST BE WITH 3-to-2 ASPECT RATIO, ALL TEAM IMAGES WITH 3-to-4
+
 port: 4000
 url: 'http://localhost:4000'
 urlimg: 'http://localhost:4000/images/'
