@@ -70,8 +70,6 @@ format: frontpage
                 {{ post.image.caption }}
             </p>
             {% endif %}
-            {% else post.image.homepage == NULL %}
-            <h2>{{ site.data.language.new_blog_entries }}</h2>
             {% endif %}
             {% endfor %}
         </div><!-- /.small-12.columns -->

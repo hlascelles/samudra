@@ -2,7 +2,7 @@
 layout: kz-page
 subheadline: Long-lasting consequences of the damage done today
 title: Why is this urgent?
-teaser: Today 2.6 billion people that have no access to waste collection services faced a choice of what to do with their waste. Today 32 877 tonnes of plastic waste ended up in our oceans. By "today" I don't mean nowadays, I mean in the past 24 hours.
+teaser: Today 2.6 billion people that have no access to waste collection services faced a choice of what to do with their waste. Today 32,877 tonnes of plastic waste ended up in our oceans. By "today" I don't mean nowadays, I mean in the past 24 hours.
 show_meta: true
 header: no
 author: afsona
