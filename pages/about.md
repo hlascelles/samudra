@@ -102,30 +102,30 @@ That is why we decided to tackle global waste management challenges.
 
 <h4>Maximum impact projects</h4>
 Since we are not bound by trying to maximise our profit, we are free to work on projects with the highest estimated impact. 
-As our first challenge we picked marine plastic pollution because it is an urgent matter. 
+As our first challenge, we picked marine plastic pollution because it is an urgent matter. 
 It is <a href="https://science.sciencemag.org/content/347/6223/768" target="_blank">estimated</a> that {{site.data.language.amount_of_plastic_entering_oceans_annually}} of plastic waste ends up in our oceans annually, and the amount is growing every year. 
-{{site.data.language.percentage_of_plastic_pollution_originating_in_se_asia}} of this plastic pollution originates on land in Southeast Asia, additional 40% comes from other regions and the remaining {{site.data.language.percentage_of_plastic_pollution_originating_offshore}} originates offshore, mainly from fishing, shipping and oil industries. 
+{{site.data.language.percentage_of_plastic_pollution_originating_in_se_asia}} of this plastic pollution originates on land in Southeast Asia, an additional 40% comes from other regions and the remaining {{site.data.language.percentage_of_plastic_pollution_originating_offshore}} originates offshore, mainly from fishing, shipping and oil industries. 
 It is hard to estimate the amount of plastic already present in our oceans, especially because only {{site.data.language.percentage_of_ocean_plastic_pollution_that_floats}} of it is floating on the surface. 
-One thing is clear - we can prevent more plastic pollution than we could eliminate by collecting the plastic that is already in our oceans. 
+One thing is clear - it is easier to prevent more plastic pollution than to eliminate the plastic that is already in our oceans. 
 Hence our goal is to improve waste collection and treatment systems in Southeast Asia, which has the potential to reduce the amount of annual plastic pollution by {{site.data.language.percentage_of_plastic_pollution_originating_in_se_asia}}.
 Find out about our ongoing projects <a href="/projects/" target="_self">here</a>.
 
 
 
-<h4>Evidence weights more than believes</h4>
+<h4>Evidence weighs more than beliefs</h4>
 Our aim is to make the world a better place, and the research we do provides us stepping stones along the way. 
-Unlike other organisations with similar goals we don't hold strong beliefs.
-For example, that recycling is always the best solution, that the less plastic we use the better, or that incinerators are more polluting than landfills. 
-One reason for that is the fact that very different things often end up under the same blanket term. 
+Unlike other organisations with similar goals, we keep an open mind. 
+For example, we don’t believe that recycling is always the best solution, that the less plastic we use the better, or that incinerators are more polluting than landfills. 
+One reason for this is that very different things often end up under the same blanket term. 
 Widely recyclable plastic packaging material that reduces emissions from transportation or a medical device that saves a life is very different from plastic confetti dispersed directly into the environment. 
-A well managed landfill with methane capture in a dry climate is very different from a landfill created by clearing rainforest. 
-Another reason why we don't hold strong beliefs is that everything has an opportunity cost. 
+A well-managed landfill with methane capture in a dry climate is very different from a landfill created by clearing rainforest. 
+Another reason why we don't hold strong beliefs is that everything has a cost. 
 These costs can be very different depending on the type of waste and the location where it is produced. 
 Recycling something in one part of the world can produce more emissions and environmental pollution than incinerating it at a waste-to-energy facility in another part of the world. 
-Pyrolisis of plastic waste can produce fuel that is less polluting than what is currently used in the region. 
+Thermal decomposition of plastic waste can produce fuel that is less polluting than what is currently used in the region. 
 That is why we don't advocate for recycling, landfilling or incineration. 
 We advocate for taking the time to estimate the costs of different solutions (in terms impact on the environment, climate and human health), to assess their financial feasibility and to compare the opportunity cost.
-In depth research guides everything we do. 
+In-depth research guides everything we do. 
 <a href="/explore/" target="_self">We invite you to explore what we've learnt so far.</a>
 If you spot any mistakes, please do <a href="mailto:hello@samudra.world" target="_blank">get in touch</a>, it will be much appreciated.
 
