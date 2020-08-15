@@ -103,7 +103,7 @@ That is why we decided to tackle global waste management challenges.
 <h4>Maximum impact projects</h4>
 Since we are not bound by trying to maximise our profit, we are free to work on projects with the highest estimated impact. 
 As our first challenge, we picked marine plastic pollution because it is an urgent matter. 
-It is <a href="https://science.sciencemag.org/content/347/6223/768" target="_blank">estimated</a> that {{site.data.language.amount_of_plastic_entering_oceans_annually}} of plastic waste ends up in our oceans annually, and the amount is growing every year. 
+It is [estimated][1] that {{site.data.language.amount_of_plastic_entering_oceans_annually}} of plastic waste ends up in our oceans annually, and the amount is growing every year. 
 {{site.data.language.percentage_of_plastic_pollution_originating_in_se_asia}} of this plastic pollution originates on land in Southeast Asia, an additional 40% comes from other regions and the remaining {{site.data.language.percentage_of_plastic_pollution_originating_offshore}} originates offshore, mainly from fishing, shipping and oil industries. 
 It is hard to estimate the amount of plastic already present in our oceans, especially because only {{site.data.language.percentage_of_ocean_plastic_pollution_that_floats}} of it is floating on the surface. 
 One thing is clear - it is easier to prevent more plastic pollution than to eliminate the plastic that is already in our oceans. 
@@ -119,7 +119,7 @@ For example, we don’t believe that recycling is always the best solution, that
 One reason for this is that very different things often end up under the same blanket term. 
 Widely recyclable plastic packaging material that reduces emissions from transportation or a medical device that saves a life is very different from plastic confetti dispersed directly into the environment. 
 A well-managed landfill with methane capture in a dry climate is very different from a landfill created by clearing rainforest. 
-Another reason why we don't hold strong beliefs is that everything has a cost. 
+Another reason we don't hold strong beliefs is that everything has a cost. 
 These costs can be very different depending on the type of waste and the location where it is produced. 
 Recycling something in one part of the world can produce more emissions and environmental pollution than incinerating it at a waste-to-energy facility in another part of the world. 
 Thermal decomposition of plastic waste can produce fuel that is less polluting than what is currently used in the region. 
@@ -183,3 +183,5 @@ Creating waste management jobs
 Capital investment in waste management infrastructure 
 Creating collaborative solutions that allow everyone to play a part
 -->
+
+[1]: https://science.sciencemag.org/content/347/6223/768
