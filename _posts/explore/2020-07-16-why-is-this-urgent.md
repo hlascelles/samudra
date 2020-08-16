@@ -56,15 +56,20 @@ A [study by Erik van Sebille][9], with a setup that is very similar to the rubbe
 This is how the six major garbage patches formed in the gyres of of our oceans. 
 The study showed that there is no set destination - waste released from one specific place eventually ends up in all garbage patches; explore the model [here][10]. 
 The North Pacific patch is the largest attractor, the study predicts that over multi-millennial timescales most of the global marine debris will end up there. 
-While floating plastic waste gets the most attention, about 97% of plastic waste in our oceans is not floating and hence not visible from the surface. 
+While floating plastic waste gets the most attention, [this is only 1% of the total plastic present in our oceans][11], the rest is not visible from the surface. 
 Many scientists agree that among all the contaminants (solid, liquid and gas) currently ending up in our oceans, the plastic is not the worst.
 
 
 <!--
+
+https://www.weforum.org/agenda/2018/01/our-oceans-are-in-crisis-heres-how-technology-could-save-them
+
 ocean animals
 
+Antarctic krill (Euphausia superba) are swarming, oceanic crustaceans, up to two inches long, and best known as prey for whales and penguins – but they have another important role. With their large size, high biomass and daily vertical migrations they transport and transform essential nutrients, stimulate primary productivity and influence the carbon sink. [https://www.nature.com/articles/s41467-019-12668-7]
 
-
+sunlight, waves and bacteria break plastic into microplastic.
+microplastics are ingested by animals of all sizes, from plankton to whales.
 
 
 
@@ -118,6 +123,7 @@ Numbers show that 22% of premature mortality in developing countries related to 
 [8]: /explore/why-is-this-urgent/#gallery
 [9]: https://iopscience.iop.org/article/10.1088/1748-9326/7/4/044040
 [10]: https://plasticadrift.org/
+[11]: https://iopscience.iop.org/article/10.1088/1748-9326/10/12/124006
 
 <a name="gallery"></a> 
 {% include gallery %}

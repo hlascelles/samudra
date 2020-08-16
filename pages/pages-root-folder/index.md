@@ -11,15 +11,15 @@ widget1:
   button: true
 widget2:
   url: /projects
-  image: plastic-pollution-beach-rainbow-by-Jasmin-Sessler.jpg
+  image: dumpsite-Guwhati-India-by-Anuwar-Hazarika.jpg
   title: 'This is what we do'
-  text: 'Our current project is aimed at improving the coverage of waste collection services in Indonesia. In the future we plan to address challenges at all stages of the waste management process in different countries all across the globe.'
+  text: 'Our current project is aimed at improving the coverage of waste collection services in Indonesia. In the future we plan to address challenges at all stages of the waste management process in different countries across the globe.'
   button: true
 widget3:
   url: /team
   image: world-wall-by-Karina-Zile.jpg
   title: 'Meet the team'
-  text: "We are a diverse bunch of people. Each of us has a strong desire to make the world a better place. This common goal makes us a strong team. If you share a similar passion, let's discuss how we can grow together!"
+  text: "We are a diverse bunch of people. Each of us has a strong desire to make the world a better place, this common goal makes us a strong team. If you share a similar passion, let's discuss how we can grow together!"
   button: true
 callforaction:
   url: /about
