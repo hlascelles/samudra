@@ -1,6 +1,6 @@
 ---
 layout: kz-page
-subheadline: blah
+subheadline: The challenge of 17,000 islands
 title: Waste management in Indonesia
 teaser: Indonesia is home to 3.4% of the world's population; and it is estimated that 10% of the global ocean plastic pollution originates there. The Indonesia National Plastic Action Partnership mapped out this challenge.
 show_meta: true
