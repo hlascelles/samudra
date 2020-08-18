@@ -59,7 +59,7 @@ They absorb [at least a quarter of all anthropogenic carbon dioxide (CO2) emissi
 The absorption happens via the biological carbon pump: phytoplankton produce organic carbon through photosynthesis, they then either pass it up the food chain or sink it into the deep ocean (the process called marine snowfall) when they die. 
 Krill also play an important role due to their large size (up to 5 centimeters long) and [daily vertical migrations from the deep ocean to the surface][15]. 
 [They transport and transform essential nutrients, stimulate primary productivity and influence the carbon sink][17]. 
-A widely cited prediction states that [by 2050 there will be more plastics in our oceans than fish (by weight)][16]. 
+A widely cited prediction states that [by 2050 there will be more plastics in our oceans than fish][16] (by weight). 
 This prediction does not take into account that [plastic ingestion leads to animal's stomachs filling up, which results in starvation and subsequently death][18].
 As plastic breaks down into smaller pieces, various chemicals that were used as additives at the production stage are released. 
 [Bisphenol A (BPA) is one of those chemicals][19] and [it has adverse effects on fish reproduction][20]. 
@@ -88,73 +88,38 @@ Mismanaged waste has detrimental effect on agriculture and food security in gene
 
 The World Bank estimated that [1.6 billion tonnes of CO2-equivalent greenhouse gas emissions (about 5 percent of global emissions!) were generated from solid waste treatment and disposal in 2016][1], not including waste-related transportation. 
 The emissions associated with solid waste are predicted to [increase to 2.6 billion tonnes of CO2-equivalent per year by 2050][1] if no improvements are made. 
+These emissions are usually [not included in climate models][4].
 The main contributors are dumps and landfills without gas capture systems, and open burning of waste.
-Basic improvements to waste processing systems and increased waste collection rates [can reduce these emissions by more than 25%][1].
+Methane (CH4) released by organic waste in an oxygen-limited environment (dumps and landfills) is [the largest source of greenhouse gas emissions in the waste sector][1].
+Unlike CO2, [methane has an atmospheric lifespan of 12.4 years][23]; but its short-term global warming potential is [84 times higher than CO2][23] (calculated over 20 years).
+Basic improvements to waste processing systems and increased waste collection rates [can reduce these emissions by more than 25%][1]. 
+Additionally, improvements in waste management systems can reduce  emissions from production through recycling.
+
+
+Open burning of waste releases black carbon - fine particulate matter (PM<sub>2.5</sub>) that consists of pure carbon in several linked forms, [it is often transported over transcontinental distances in aerosols][24].
+Black carbon is the [dominant absorber of visible solar radiation in the atmosphere][24]; it is what gives the sky in polluted areas a brown tinge.
+It is [the second major contributor to current global warming][24] (after CO2 emissions); it has [a global warming potential up to 5000 times greater than CO2][25]. 
+Black carbon released from open burning of waste around the globe has a [climate impact equal to 2–10% of global CO2-equivalent emissions][25].
+Burning combustible biodegradable waste releases [2–8 times more CO2-equivalent emissions][25] (as black carbon) than disposing of it at a dumpsite where it will release methane. 
+Black carbon has an [atmospheric lifespan of only a few weeks][24], hence changes to waste management practises will have an immediate effect on our climate. 
+
+
+
+### Impact on people
+
+...
+
+
+
+
+
+
+
+
 
 
 <!--
 
-
-[Global CO2 emissions from open waste burning are relatively small compared to total anthropogenic CO2, 
-
-; however, regional CO2 emissions, particularly in many developing countries in Asia and Africa, are substantial][4].
-
-
-
-
-
-
-
-methane
-Waste releases methane gas when disposed of in an oxygen-limited environment such as a dump or a landfill. Methane, generated from decomposing organic waste, is the solid waste sector’s largest contributor to GHG [1]
-
-Methane has much higher short-term global warming potential (GWP) than CO2. Over the shorter time frame of 20 years, methane has 84 times higher GWP than CO2 .
-it lasts 12.4 years 
-https://www.ipcc.ch/site/assets/uploads/2018/02/WG1AR5_Chapter08_FINAL.pdf
-
-CO2 
-when burning. 
-
-Black carbon (BC) is a particularly serious air pollutant emitted from the uncontrolled burning of waste in open fires because it has a global warming potential (GWP) up to 5000 times greater than carbon dioxide (CO2) and is also linked to detrimental health impacts. 
-
- The results demonstrated that BC emissions from open burning of waste have a significant climate impact, equivalent to 2–10% of global CO2Eq emissions. Global BC CO2Eq emissions from burning waste are 2–8 times larger compared to methane (CH4) CO2Eq emissions arising from the decomposition of equivalent amounts of combustible biodegradable waste disposed at dumpsites.
- open burning of biomass
-https://www.sciencedirect.com/science/article/pii/S1352231019304388
-
-
-
-Black carbon is often transported over long distances, mixing with other aerosols along the way. The aerosol mix can form transcontinental plumes o
-https://www.nature.com/articles/ngeo156
-
-
-Black carbon is what gives the brownish colour to the sky.
-
-
-emissions of black carbon are the second strongest contribution to current global warming, after carbon dioxide emissions.
-https://www.nature.com/articles/ngeo156
-
-
-
-
-missed opportunity to reduce emissions from production by recycling instead
-
-
-
-
-[They are not included in climate models][4].
-
-
-
-
-
-
-
-### Impact on human health
-
-This is something we all have in common - desire to be healthy.
-
-
-Impact on people
 - immediate health impacts. The immediate health impacts also include diarrhoea-related diseases caused by direct contact with solid waste or by the consumption of contaminated food, soil or water.
 - long term health impacts. the floods and insanitary conditions resulting from the uncollected waste blocking drains lead to up to 4% of diarrhoea-related mortality, which translates into 67,000 - 141,000 deaths a year.
 - impact on kids not yet born
@@ -166,6 +131,13 @@ Numbers show that 22% of premature mortality in developing countries related to 
 cattle grazed on waste
 
 -->
+
+
+
+
+
+
+
 
 
 [1]: https://datatopics.worldbank.org/what-a-waste/
@@ -190,6 +162,9 @@ cattle grazed on waste
 [20]: https://www.sciencedirect.com/science/article/pii/S0045653519300335
 [21]: https://www.nature.com/articles/s41598-019-44117-2
 [22]: https://pubs.acs.org/doi/10.1021/acs.est.0c01051
+[23]: https://www.ipcc.ch/site/assets/uploads/2018/02/WG1AR5_Chapter08_FINAL.pdf
+[24]: https://www.nature.com/articles/ngeo156
+[25]: https://www.sciencedirect.com/science/article/pii/S1352231019304388
 
 <a name="gallery"></a> 
 {% include gallery %}
