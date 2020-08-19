@@ -2,7 +2,7 @@
 layout: kz-page
 title: "What we've learnt so far"
 permalink: "/explore/"
-teaser: 
+meta_description:
 header:
   title: ""
   image_fullwidth: landingpage_image.jpg

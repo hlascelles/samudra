@@ -2,7 +2,7 @@
 layout: kz-page
 subheadline: Long-lasting consequences of the damage done today
 title: Why is this urgent?
-teaser:
+meta_description: Today about 2.6 billion people that have no access to waste collection services faced a choice of what to do with their waste. Today 32,877 tonnes of plastic waste ended up in our oceans. The environmental damage done in the past 24 hours will have long lasting effects. The World Bank estimated that 1.6 billion tonnes of CO2-equivalent greenhouse gas emissions (about 5 percent of global emissions) were generated from solid waste treatment and disposal in 2016. Basic improvements to waste management systems can reduce these emissions by more than 25%. Between 400,000 and 1 million people die each year in developing countries because of diseases related to mismanaged waste. This too can be changed.
 show_meta: true
 header: no
 author: afsona
@@ -13,9 +13,11 @@ categories:
     - explore
 gallery:
     - image_url: global-water-volume.jpg
-      caption: The total volume of all water on earth. Rendering from https://www.usgs.gov/media/images/all-earths-water-a-single-sphere
+      caption: The total volume of all water on Earth. Rendering from https://www.usgs.gov/media/images/all-earths-water-a-single-sphere
     - image_url: rubber-duck-1992.jpg
-      caption: A yellow rubber duck from 1992 washed up on a shore 25 years later. Photo from https://www.thesun.co.uk/news/4963360/blue-planet-ii-28000-rubber-ducks-lost-sea-25-years-ago-still-washing-ashore/
+      caption: A yellow rubber duck from 1992 washed up on a shore 25 years later. Photo from www.thesun.co.uk
+    - image_url: landfill-cows.jpg
+      caption: Farm animals graze on dumps. In Mali, cows regularly die if they are not operated on to remove tens of kilos of plastic bags accumulating in their stomachs. 
 factchecked: "no"
 ---
 
@@ -69,7 +71,7 @@ The marine ecosystem is likely to collapse before the amount of plastic in our o
 [In 1992 a container of yellow rubber ducks fell into the Pacific Ocean][5], and since then [these ducks wash up on the shores all around the globe][8]. 
 This accident revealed that all our oceans are connected via a worldwide network of currents. 
 A [study by Erik van Sebille][9], with a setup that is very similar to the rubber duck scenario, showed that the waste that starts its journey from the populated costal areas is moved by the currents into the open ocean within months. 
-This is how the six major garbage patches formed in the gyres of our oceans. 
+This is how the six garbage patches formed in the gyres of our oceans. 
 The study showed that there is no set destination - waste released from one specific place eventually ends up in all garbage patches; explore the model [here][10]. 
 The North Pacific patch is the largest attractor, the study predicts that over multi-millennial timescales most of the global marine debris will end up there. 
 While floating plastic waste gets the most attention, [this is only 1% of the total plastic present in our oceans][11].
@@ -100,41 +102,37 @@ Open burning of waste releases black carbon - fine particulate matter (PM<sub>2.
 Black carbon is the [dominant absorber of visible solar radiation in the atmosphere][24]; it is what gives the sky in polluted areas a brown tinge.
 It is [the second major contributor to current global warming][24] (after CO2 emissions); it has [a global warming potential up to 5000 times greater than CO2][25]. 
 Black carbon released from open burning of waste around the globe has a [climate impact equal to 2–10% of global CO2-equivalent emissions][25].
-Burning combustible biodegradable waste releases [2–8 times more CO2-equivalent emissions][25] (as black carbon) than disposing of it at a dumpsite where it will release methane. 
+Burning combustible biodegradable waste releases [2–8 times more CO2-equivalent emissions][25] (as black carbon) than disposing of it at a dump where it will release methane. 
 Black carbon has an [atmospheric lifespan of only a few weeks][24], hence changes to waste management practises will have an immediate effect on our climate. 
 
 
 
 ### Impact on people
 
-...
+[Between 400,000 and 1 million people die each year in developing countries because of diseases related to mismanaged waste][26]. 
+Uncollected waste [creates breeding grounds for disease vectors][26]. 
+[Mosquitoes spread malaria and dengue; flies - typhoid fever, dysentery, cholera and tuberculosis; rats - rabies and plague][26]. 
+[At least 30 diseases are associated with uncollected waste][26].
+Uncollected waste (especially plastic) [blocks waterways and drains causing flooding][26]. 
+Combined with poor sanitation services, [these floods often lead to outbreaks of waterborne diseases like cholera][26].
+[Diarrhoea rates are typically twice as high][27] in the ares with uncollected waste compared to the areas where waste is collected regularly. 
+Mismanaged waste also leads to instant death caused by [drowning in waste-related floods][26] and waste slides. 
+For example, in 2017 a mound of trash collapsed on an informal settlement at the Koshe garbage dump in Ethiopia's capital Addis Ababa leading to [death of 115 people][28].
 
 
-
-
-
-
-
-
-
-
-<!--
-
-- immediate health impacts. The immediate health impacts also include diarrhoea-related diseases caused by direct contact with solid waste or by the consumption of contaminated food, soil or water.
-- long term health impacts. the floods and insanitary conditions resulting from the uncollected waste blocking drains lead to up to 4% of diarrhoea-related mortality, which translates into 67,000 - 141,000 deaths a year.
-- impact on kids not yet born
-- also economic impacts (tourism, fishing)
-- mosquito breeding grounds. uncollected waste also creates favorable conditions for the proliferation of mosquito-borne infections, such as dengue and malaria,
-
-Numbers show that 22% of premature mortality in developing countries related to air pollution come from the practice of burning waste where collection is not set up. 
-
-cattle grazed on waste
-
--->
-
-
-
-
+Air pollution resulting from open burning of waste is estimated to result in [0.74 million deaths a year][26] and [six times higher prevalence of acute respiratory infections][27] compared to areas where waste is collected regularly. 
+[Severity of Covid-19 symptoms correlates with regional air pollution data][30].
+Pollutant emitions from open burning of waste and leachate from dumps lead to drinking water contamination. 
+It has been shown that small pieces of plastic [travel up the food chain from prey to predator][12] and nanoplastics (pieces of plastic &le;1 micrometers in size) [penetrate the blood-brain barrier in fish][29]. 
+There is no evidence that this does not happen in humans. 
+Uncollected waste has detrimental effects on mental health and financial wellbeing, both of which also affect physical health. 
+People working in agriculture, fishing and tourism are among the ones whose financial wellbeing is most affected. 
+Agricultural livelihoods are affected by soil contamination resulting from leachate from dumps and pollutant emitions from open burning, as well as microplastic. 
+Farm animals often graze on dumps. 
+When they swallow plastic it [does not decompose in their digestive tracts][26], instead it leads to bloating and eventually death by starvation. 
+In Mali, [cows regularly die if they are not operated on][27] to remove tens of kilos of plastic bags accumulating in their stomachs. 
+Waste-related floods cause damage to property.
+One such flood in Accra, Ghana in 2011 resulted in [17,000 damaged homes and 100 cholera deaths][26].
 
 
 
@@ -165,6 +163,11 @@ cattle grazed on waste
 [23]: https://www.ipcc.ch/site/assets/uploads/2018/02/WG1AR5_Chapter08_FINAL.pdf
 [24]: https://www.nature.com/articles/ngeo156
 [25]: https://www.sciencedirect.com/science/article/pii/S1352231019304388
+[26]: https://wasteaid.org/wp-content/uploads/2019/05/2019-Tearfund-Consortium-No-time-to-waste-En.pdf
+[27]: https://thecitywasteproject.files.wordpress.com/2013/03/solid_waste_management_in_the_worlds-cities.pdf
+[28]: https://uk.reuters.com/article/uk-ethiopia-accident/ethiopia-trash-dump-landslide-death-toll-rises-to-115-idUKKBN16N0ND
+[29]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5597631/
+[30]: https://www.sciencedirect.com/science/article/pii/S0269749120332115
 
 <a name="gallery"></a> 
 {% include gallery %}
