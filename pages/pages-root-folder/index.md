@@ -16,10 +16,10 @@ widget2:
   text: 'Our current project is aimed at improving the coverage of waste collection services in Indonesia. In the future we plan to address challenges at all stages of the waste management process in different countries across the globe.'
   button: true
 widget3:
-  url: /team
-  image: world-wall-by-Karina-Zile.jpg
-  title: 'Meet the team'
-  text: "We are a diverse bunch of people. Each of us has a strong desire to make the world a better place, this common goal makes us a strong team. If you share a similar passion, let's discuss how we can grow together!"
+  url: /explore/why-is-this-urgent
+  image: plastic-pollution-beach-by-Jennifer-Lavers.jpg
+  title: Why is this urgent?
+  text: The World Bank estimated that 1.6 billion tonnes of CO2-equivalent greenhouse gas emissions (about 5 percent of global emissions) were generated from solid waste treatment and disposal in 2016. Diseases related to mismanaged waste result in 700,000 death each year. This is why changing waste management practices is an urgent matter.
   button: true
 callforaction:
   url: /about

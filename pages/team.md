@@ -24,6 +24,8 @@ widgets:
   anchor: you
 ---
 
+We are a diverse bunch of people. Each of us has a strong desire to make the world a better place, this common goal makes us a strong team. If you share a similar passion, <a href="mailto:hello@samudra.world" target="_blank">let's discuss how we can grow together!</a>
+
 <div class="row">
   {% for widget in page.widgets %}
     {% assign loopindex = forloop.index | modulo: 3 %}
