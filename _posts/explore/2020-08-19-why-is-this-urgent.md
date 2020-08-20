@@ -2,7 +2,7 @@
 layout: kz-page
 subheadline: Long-lasting consequences of the damage done today
 title: Why is this urgent?
-meta_description: Today about 2.6 billion people that have no access to waste collection services faced a choice of what to do with their waste. Today 32,877 tonnes of plastic waste ended up in our oceans. The environmental damage done in the past 24 hours will have long lasting effects. The World Bank estimated that 1.6 billion tonnes of CO2-equivalent greenhouse gas emissions (about 5 percent of global emissions) were generated from solid waste treatment and disposal in 2016. Basic improvements to waste management systems can reduce these emissions by more than 25%. Between 400,000 and 1 million people die each year in developing countries because of diseases related to mismanaged waste. This too can be changed.
+meta_description: Today about 2.6 billion people that have no access to waste collection services faced a choice of what to do with their waste. Today 32,877 tonnes of plastic waste ended up in our oceans. The environmental damage done in the past 24 hours will have long lasting effects. The World Bank estimated that 1.6 billion tonnes of CO2-equivalent greenhouse gas emissions (about 5 percent of global emissions) were generated from solid waste treatment and disposal in 2016. Basic improvements to waste management systems can reduce these emissions by more than 25%. Between 400,000 and 1 million people die each year in developing countries because of diseases related to mismanaged waste. In this article we describe the impact of mismanaged waste on the environment, climate and human health.
 show_meta: true
 header: no
 author: afsona
@@ -33,7 +33,7 @@ We are all different.
 After an exhausting day at work, some of us long for a walk in fresh air while others crave seafood for dinner. 
 Some people are captivated by marine biodiversity that you can only truly experience when diving; others can't think of a more relaxing way to spend a weekend than go fishing. 
 Yet for every single one of us, things we love are endangered by the consequences of mismanaged waste. 
-In this article we will describe the impact of mismanaged waste on the environment, climate and human health. 
+In this article we describe the impact of mismanaged waste on the environment, climate and human health. 
 
 
 
