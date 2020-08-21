@@ -19,7 +19,7 @@ widget3:
   url: /explore/why-is-this-urgent
   image: plastic-pollution-beach-by-Jennifer-Lavers.jpg
   title: Why is this urgent?
-  text: The World Bank estimated that 1.6 billion tonnes of CO2-equivalent greenhouse gas emissions (about 5 percent of global emissions) were generated from solid waste treatment and disposal in 2016. Diseases related to mismanaged waste result in 700,000 death each year. This is why changing waste management practices is an urgent matter.
+  text: The World Bank estimated that 1.6 billion tonnes of CO2-equivalent greenhouse gas emissions (about 5 percent of global emissions) were generated from solid waste treatment and disposal in 2016. Diseases related to mismanaged waste result in 700,000 deaths each year. This is why changing waste management practices is an urgent matter.
   button: true
 callforaction:
   url: /about

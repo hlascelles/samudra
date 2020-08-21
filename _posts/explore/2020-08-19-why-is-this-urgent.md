@@ -25,7 +25,7 @@ Today about 2.6 billion people that have no access to waste collection services 
 [Today 32,877 tonnes of plastic waste ended up in our oceans][7]. 
 The damage done in the past 24 hours will have long lasting effects. 
 The good news is that this can be changed. 
-If we postpone implementing the necessary changes to waste management systems around the globe, they will not become any easier to implement but the benefits of doing so will be deminished by the previously accumulated irreversible damage. 
+If we postpone implementing the necessary changes to waste management systems around the globe, they will not become any easier to implement but the benefits of doing so will be diminished by the previously accumulated irreversible damage. 
 That is why it is important to act now.
 
 
@@ -40,7 +40,7 @@ In this article we describe the impact of mismanaged waste on the environment, c
 ### Environmental impact 
 
 Environmental impact of mismanaged waste can be broadly divided into four categories - the effects it has on the air we breath, the oceans, soils and all life around us. 
-[In countries with low and lower middle income level more than 50% of waste is openly burnt][1].
+[In countries with low and lower middle income levels more than 50% of waste is openly burnt][1].
 [Emissions from open burning of waste][3] mainly emit particulate matter (PM), carbon monoxide (CO), sulfur dioxide (SO2), nitrogen oxides (NO<sub>x</sub>), polycyclic aromatic hydrocarbons (PAHs), and polychlorinated biphenyls (PCBs) including dioxins and furans. 
 The resulting PM<sub>10</sub> (particulate matter with a diameter of &le;10 micrometers, about 15% of the diameter of a human hair) is small enough to penetrate the respiratory system and [can lead to respiratory and cardiovascular diseases and lung cancer][2].
 PM<sub>0.1</sub> (ultrafine particulate matter with a diameter of &le;0.1 micrometers) and PCBs can travel beyond the respiratory system to the central nervous system and, ultimately, reach the brain that [may cause neurological diseases][3].
@@ -70,7 +70,7 @@ The marine ecosystem is likely to collapse before the amount of plastic in our o
 
 [In 1992 a container of yellow rubber ducks fell into the Pacific Ocean][5], and since then [these ducks wash up on the shores all around the globe][8]. 
 This accident revealed that all our oceans are connected via a worldwide network of currents. 
-A [study by Erik van Sebille][9], with a setup that is very similar to the rubber duck scenario, showed that the waste that starts its journey from the populated costal areas is moved by the currents into the open ocean within months. 
+A [study by Erik van Sebille][9], with a setup that is very similar to the rubber duck scenario, showed that the waste that starts its journey from the populated coastal areas is moved by the currents into the open ocean within months. 
 This is how the six garbage patches formed in the gyres of our oceans. 
 The study showed that there is no set destination - waste released from one specific place eventually ends up in all garbage patches; explore the model [here][10]. 
 The North Pacific patch is the largest attractor, the study predicts that over multi-millennial timescales most of the global marine debris will end up there. 
@@ -79,10 +79,10 @@ The rest of it is [contained within the water column and animal animals][21].
 Many scientists agree that among all the contaminants (solid, liquid and gas) currently ending up in our oceans, plastic is not the worst.
 
 
-On land mismanaged waste contaminates the soil via leachate from dumped and burried waste, as well as via pollutants released during open burning of waste. 
-Microplastic change physiocochemical properties of the soil, altering the carbon cycle and the water retention properties. 
-This [affects plant community structures and often favour invasive plant species][22]. 
-Mismanaged waste has detrimental effect on agriculture and food security in general.
+On land mismanaged waste contaminates the soil via leachate from dumped and buried waste, as well as via pollutants released during open burning of waste. 
+Microplastic change physicochemical properties of the soil, altering the carbon cycle and the water retention properties. 
+This [affects plant community structures and often favours invasive plant species][22]. 
+Mismanaged waste has a detrimental effect on agriculture and food security in general.
 
 
 
@@ -115,19 +115,19 @@ Uncollected waste [creates breeding grounds for disease vectors][26].
 [At least 30 diseases are associated with uncollected waste][26].
 Uncollected waste (especially plastic) [blocks waterways and drains causing flooding][26]. 
 Combined with poor sanitation services, [these floods often lead to outbreaks of waterborne diseases like cholera][26].
-[Diarrhoea rates are typically twice as high][27] in the ares with uncollected waste compared to the areas where waste is collected regularly. 
+[Diarrhoea rates are typically twice as high][27] in the areas with uncollected waste compared to the areas where waste is collected regularly. 
 Mismanaged waste also leads to instant death caused by [drowning in waste-related floods][26] and waste slides. 
 For example, in 2017 a mound of trash collapsed on an informal settlement at the Koshe garbage dump in Ethiopia's capital Addis Ababa leading to [death of 115 people][28].
 
 
 Air pollution resulting from open burning of waste is estimated to result in [0.74 million deaths a year][26] and [six times higher prevalence of acute respiratory infections][27] compared to areas where waste is collected regularly. 
 [Severity of Covid-19 symptoms correlates with regional air pollution data][30].
-Pollutant emitions from open burning of waste and leachate from dumps lead to drinking water contamination. 
+Pollutant emissions from open burning of waste and leachate from dumps lead to drinking water contamination. 
 It has been shown that small pieces of plastic [travel up the food chain from prey to predator][12] and nanoplastics (pieces of plastic &le;1 micrometers in size) [penetrate the blood-brain barrier in fish][29]. 
 There is no evidence that this does not happen in humans. 
 Uncollected waste has detrimental effects on mental health and financial wellbeing, both of which also affect physical health. 
 People working in agriculture, fishing and tourism are among the ones whose financial wellbeing is most affected. 
-Agricultural livelihoods are affected by soil contamination resulting from leachate from dumps and pollutant emitions from open burning, as well as microplastic. 
+Agricultural livelihoods are affected by soil contamination resulting from leachate from dumps and pollutant emissions from open burning, as well as microplastic. 
 Farm animals often graze on dumps. 
 When they swallow plastic it [does not decompose in their digestive tracts][26], instead it leads to bloating and eventually death by starvation. 
 In Mali, [cows regularly die if they are not operated on][27] to remove tens of kilos of plastic bags accumulating in their stomachs. 

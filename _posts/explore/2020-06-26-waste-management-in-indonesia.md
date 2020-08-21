@@ -6,7 +6,7 @@ meta_description:
 teaser: Indonesia is home to 3.4% of the world's population; and it is estimated that 10% of the global ocean plastic pollution originates there. The Indonesia National Plastic Action Partnership mapped out this challenge.
 show_meta: true
 header: no
-author: afsona
+author: karina
 image:
     title: indonesia-plastic-pollution-java-cordonpress-dot-com.jpg
     caption: Photo by cordonpress.com

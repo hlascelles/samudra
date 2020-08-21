@@ -10,7 +10,7 @@ widgets:
 - url: /explore/why-is-this-urgent/
   image: plastic-pollution-beach-by-Jennifer-Lavers.jpg
   title: <a href="/explore/why-is-this-urgent/" target="_self">Why is this urgent?</a>
-  text: Today 2.6 billion people that have no access to waste collection services faced a choice of what to do with their waste. Today 32,877 tonnes of plastic waste ended up in our oceans. By "today" I don't mean nowadays, I mean in the past 24 hours.
+  text: The World Bank estimated that 1.6 billion tonnes of CO2-equivalent greenhouse gas emissions (about 5 percent of global emissions) were generated from solid waste treatment and disposal in 2016. Diseases related to mismanaged waste result in 700,000 deaths each year. This is why changing waste management practices is an urgent matter.
   anchor: why-is-this-urgent
   button: true
 - url: /explore/waste-management-in-indonesia/
