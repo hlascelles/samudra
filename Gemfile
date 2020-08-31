@@ -11,3 +11,8 @@ end
 gem 'asciidoctor', '~> 1.5.4'
 gem 'coderay', '1.1.1'
 
+group :test do
+  gem "nokogiri"
+  gem "pry-byebug"
+  gem "rspec"
+end

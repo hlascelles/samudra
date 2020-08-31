@@ -169,5 +169,5 @@ One such flood in Accra, Ghana in 2011 resulted in [17,000 damaged homes and 100
 [29]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5597631/
 [30]: https://www.sciencedirect.com/science/article/pii/S0269749120332115
 
-<a name="gallery"></a> 
+<div name="gallery" id="gallery"></div> 
 {% include gallery %}

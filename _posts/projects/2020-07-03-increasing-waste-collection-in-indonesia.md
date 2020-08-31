@@ -15,4 +15,6 @@ categories:
 primary_post: true
 ---
 
-We are still working on this article. If you'd like to catch it as soon as it appears here, add this <a href="https://samudra.world/feed.xml" target="_blank">link</a> to your RSS feed collector.
+We are still working on this article. If you'd like to catch it as soon as it appears here, add this [link][xml_feed] to your RSS feed collector.
+
+[xml_feed]: /feed.xml

@@ -7,7 +7,7 @@
 *
 {% endcomment %}
 
-{% capture widget_url %}{% if include.widget.url == NULL %}{% elsif include.widget.url contains 'http' %}{{ include.widget.url }}{% else %}{{ site.url }}{{ site.baseurl }}{{ include.widget.url }}{% endif %}{% endcapture %}
+{% capture widget_url %}{% if include.widget.url == NULL %}{% elsif include.widget.url contains 'http' %}{{ include.widget.url }}{% else %}{{ include.widget.url }}{% endif %}{% endcapture %}
 
 {% capture widget_image %}{% if include.widget.image contains 'http' %}{{ include.widget.image }}{% else %}{{ site.urlimg }}{{ include.widget.image }}{% endif %}{% endcapture %}
 
@@ -30,6 +30,6 @@
     <p>{{ post.teaser | strip_html | escape }}</p>
     {% endif %}
     {% endcomment %}
-    
+
 	{% if include.widget.button %}<p><a class="button tiny radius" href="{{ widget_url }}">{{ site.data.language.more }}</a></p>{% endif %}
 </div>
