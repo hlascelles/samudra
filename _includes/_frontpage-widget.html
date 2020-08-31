@@ -31,5 +31,9 @@
     {% endif %}
     {% endcomment %}
 
-	{% if include.widget.button %}<p><a class="button tiny radius" href="{{ widget_url }}">{{ site.data.language.more }}</a></p>{% endif %}
+	{% if include.widget.button %}
+	<div class="text-center">
+		<a class="button tiny radius" href="{{ widget_url }}">{{ site.data.language.more }}</a>
+	</div>
+	{% endif %}
 </div>
