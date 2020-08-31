@@ -19,8 +19,14 @@ end
 describe 'pages' do
   find_links(['a', 'link']) do |file, link, href, target|
     describe "#{file} link href '#{href}' and target '#{target}'" do
-      it 'should not contain localhost' do
-        expect(href).not_to include('localhost')
+      if link['rel'] == "canonical"
+        it 'should contain localhost' do
+          expect(href).to include('localhost')
+        end
+      else
+        it 'should not contain localhost' do
+          expect(href).not_to include('localhost')
+        end
       end
 
       if href.nil?
