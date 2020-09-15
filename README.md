@@ -15,6 +15,10 @@ The colors can be changed here: sass/_01_settings_colors.scss
 - as templates: all includes with `_` are used for templates, like for example the `_head.html` or `_footer.html`
 - as commands: for example {% include alert success="Yay! you did it!" %} or {% include gallery %}
 
+To serve a pdf:
+Download PDF [here][pdf_file]{:target="_blank"}.
+[pdf_file]: /pdfs/dummy.pdf
+
 # Loads even on slow connection
 
 Perform website speed test using https://developers.google.com/speed/pagespeed/insights/ and https://www.uptrends.com/tools/website-speed-test

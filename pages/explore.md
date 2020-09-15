@@ -12,13 +12,11 @@ widgets:
   title: <a href="/explore/why-is-this-urgent/" target="_self">Why is this urgent?</a>
   text: The World Bank estimated that 1.6 billion tonnes of CO2-equivalent greenhouse gas emissions (about 5 percent of global emissions) were generated from solid waste treatment and disposal in 2016. Diseases related to mismanaged waste result in 700,000 deaths each year. This is why changing waste management practices is an urgent matter.
   anchor: why-is-this-urgent
-  button: true
 - url: /explore/waste-management-in-indonesia/
   image: indonesia-plastic-pollution-java-cordonpress-dot-com.jpg
   title: <a href="/explore/waste-management-in-indonesia/" target="_self">Waste management in Indonesia</a>
   text: Indonesia is home to 3.4% of the world's population; and it is estimated that 10% of the global ocean plastic pollution originates there. The Indonesia National Plastic Action Partnership mapped out this challenge.
   anchor: waste-management-in-indonesia
-  button: true
 
 ---
 

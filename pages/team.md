@@ -12,6 +12,12 @@ widgets:
   text: I am the founder of Samudra. Mathematician at heart, I think about any situation as a system of equations. I am happiest when outdoors. After finishing my PhD, I decided to dedicate my life to tackling global challenges that don't have a profitable solution.
   anchor: karina 
 
+- url: https://www.linkedin.com/in/lawrenceyeh/
+  image: team-lawrence.jpg
+  title: <a href="https://www.linkedin.com/in/lawrenceyeh/" target="_blank">Lawrence Yeh</a>
+  text: "I often think about how well we understand each other in a society, and how we may improve our lives if we were better at communicating. Sometimes I get a little overwhelmed when trying to convey an idea, especially given my instincts to optimize everything. One remedy I have relied on is to retreat to nature and delve into the marvellous wonders of the world."
+  anchor: lawrence
+
 - url: https://www.linkedin.com/in/afsona-bonu/
   image: team-afsona.jpg
   title: <a href="https://www.linkedin.com/in/afsona-bonu/" target="_blank">Afsona-Bonu Mansurova</a>

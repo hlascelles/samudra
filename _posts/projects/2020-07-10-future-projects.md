@@ -15,7 +15,5 @@ categories:
 
 We are still working on this article. If you'd like to catch it as soon as it appears here, add this [link][xml_feed] to your RSS feed collector.
 
-Download PDF [here][pdf_file]{:target="_blank"}.
 
 [xml_feed]: /feed.xml
-[pdf_file]: /pdfs/dummy.pdf

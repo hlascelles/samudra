@@ -12,14 +12,12 @@ widgets:
   title: '<a href="/projects/increasing-waste-collection-in-indonesia/" target="_self">Current project: Improving the coverage of waste collection services in Indonesia</a>'
   text: Only 32% of municipal solid waste is currently collected in Indonesia. Uncollected waste is either openly burnt (leading to adverse effects on air quality) or dumped (facilitating the spread of disease vectors and contagious diseases). Dumped waste is likely to end up in our oceans. The aim of this project is to increase the proportion of municipal solid waste that is collected and to ensure that it is properly dispossed of.
   anchor: increasing-waste-collection-in-indonesia
-  button: true
   cols: 6
 - url: /projects/future-projects/
   image: world-wall-by-Karina-Zile.jpg
   title: <a href="/projects/future-projects/" target="_self">What we plan to do next</a>
   text: In the near future we plan to initiate projects focused on different stages of the waste management process - from informing the design of products that will eventually become waste to new recycling techniques and international waste trade. These projects will be guided by the in depth research we do. Different countries all across the globe face similar waste management challenges, which is why we aim to increase our impact by sharing what we've learnt and to actively learn from others.
   anchor: future-projects
-  button: true
   cols: 6
 ---
 
