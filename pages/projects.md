@@ -10,7 +10,7 @@ widgets:
 - url: /projects/increasing-waste-collection-in-indonesia/
   image: indonesia-landfill-thejakartapost-dot-com.jpg
   title: '<a href="/projects/increasing-waste-collection-in-indonesia/" target="_self">Current project: Improving the coverage of waste collection services in Indonesia</a>'
-  text: Only 32% of municipal solid waste is currently collected in Indonesia. Uncollected waste is either openly burnt (leading to adverse effects on air quality) or dumped (facilitating the spread of disease vectors and contagious diseases). Dumped waste is likely to end up in our oceans. The aim of this project is to increase the proportion of municipal solid waste that is collected and to ensure that it is properly dispossed of.
+  text: Only 32% of municipal solid waste is currently collected in Indonesia. Uncollected waste is either openly burnt (leading to adverse effects on air quality) or dumped (facilitating the spread of disease vectors and contagious diseases). Dumped waste is likely to end up in our oceans. The aim of this project is to increase the proportion of municipal solid waste that is collected and to ensure that it is properly disposed of.
   anchor: increasing-waste-collection-in-indonesia
   cols: 6
 - url: /projects/future-projects/

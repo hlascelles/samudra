@@ -2,7 +2,7 @@
 layout: kz-page
 subheadline: Our current project
 title: "Improving the coverage of waste collection services in Indonesia"
-meta_description: "Only 32% of municipal solid waste is currently collected in Indonesia. Uncollected waste is either openly burnt (leading to adverse effects on air quality) or dumped (facilitating the spread of disease vectors and contagious diseases). Dumped waste is likely to end up in our oceans. The aim of this project is to increase the proportion of municipal solid waste that is collected and to ensure that it is properly dispossed of."
+meta_description: "Only 32% of municipal solid waste is currently collected in Indonesia. Uncollected waste is either openly burnt (leading to adverse effects on air quality) or dumped (facilitating the spread of disease vectors and contagious diseases). Dumped waste is likely to end up in our oceans. The aim of this project is to increase the proportion of municipal solid waste that is collected and to ensure that it is properly disposed of."
 show_meta: true
 header: no
 author: karina
