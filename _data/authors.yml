@@ -5,19 +5,19 @@
 # 3. Change default post/page authors in config.yml
 #
 # Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
-karina: # replace this with your info
+karina:
   name: "Karina"
   siterole: "developer"
   uri: /team/#karina
   email: karina@samudra.world
 
-afsona: # replace this with your info
+afsona:
   name: "Afsona"
   siterole: "contributor"
   uri: /team/#afsona
   email: afsona@samudra.world
 
-afsona: # replace this with your info
+lawrence:
   name: "Lawrence"
   siterole: "contributor"
   uri: /team/#lawrence

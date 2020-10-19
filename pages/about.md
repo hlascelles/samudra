@@ -9,11 +9,11 @@ header:
 widgets:
 - image: sdg1.png
   anchor: sdg1
-  text: Plastic pollution has a detrimental effect on tourism and fishing industries. Reducing the amount of pollution entering our oceans will provide direct economic benefits for local communities that depend on these industries.
+  text: Plastic pollution has a detrimental effect on tourism, fishing and shipping industries. Reducing the amount of pollution entering our oceans will provide direct economic benefits for local communities that depend on these industries.
 
 - image: sdg2.png
   anchor: sdg2
-  text: Marine plastic pollution puts rich nutrition sources (fish, seafood and algae) at risk and leads to food chain contamination. Reducing the amount of pollution entering our oceans will secure safe nutrition sources for the future.
+  text: Marine plastic pollution puts rich nutrition sources (fish, seafood and algae) at risk, and leads to food chain contamination. Reducing the amount of pollution entering our oceans will secure safe nutrition sources for the future.
 
 - image: sdg3.png
   anchor: sdg3
@@ -33,7 +33,7 @@ widgets:
 
 - image: sdg8.png
   anchor: sdg8
-  text: Millions of people make a living by participating in the informal waste management sector. They work without protective equipment and they often don't have access to healthcare. Many of them don't have IDs and none of them have a stable income. Creating waste management jobs for these people will result in better work conditions, more stable income, access to healthcare, further education and social safety net. 
+  text: Millions of people make a living by participating in the informal waste management sector. They work without protective equipment and they often don't have access to healthcare. Many of them don't have IDs and none of them have a stable income. Creating waste management jobs for these people will result in better work conditions, more stable income, access to healthcare, further education and a social safety net. 
 
 - image: sdg9.png
   anchor: sdg9
@@ -124,7 +124,7 @@ These costs can be very different depending on the type of waste and the locatio
 Recycling something in one part of the world can produce more emissions and environmental pollution than incinerating it at a waste-to-energy facility in another part of the world. 
 Thermal decomposition of plastic waste can produce fuel that is less polluting than what is currently used in the region. 
 That is why we don't advocate for recycling, landfilling or incineration. 
-We advocate for taking the time to estimate the costs of different solutions (in terms impact on the environment, climate and human health), to assess their financial feasibility and to compare the opportunity cost.
+We advocate for taking the time to estimate the costs of different solutions (in terms of impact on the environment, climate and human health), to assess their financial feasibility and to compare the opportunity cost.
 In-depth research guides everything we do. 
 <a href="/explore/" target="_self">We invite you to explore what we've learnt so far.</a>
 If you spot any mistakes, please do <a href="mailto:hello@samudra.world" target="_blank">get in touch</a>, it will be much appreciated.
@@ -151,7 +151,6 @@ We are all "us", there are no "them".
 That is why at Samudra we work towards collaborative solutions that allow everyone to contribute towards a better outcome for all of us.
 We believe that more can be achieved in a no blame culture where everyone's contribution is truly appreciated instead of being expected.
 If you have time, skills or funding that you could contribute, please do <a href="mailto:hello@samudra.world" target="_blank">get in touch.</a>
-If you've already dedicated them to something that is really important to you, we respect that.
 
 
 
