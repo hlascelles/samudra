@@ -35,11 +35,11 @@ widgets:
   anchor: sdg8
   text: Millions of people make a living by participating in the informal waste management sector. They work without protective equipment and they often don't have access to healthcare. Many of them don't have IDs and none of them have a stable income. Creating waste management jobs for these people will result in better work conditions, more stable income, access to healthcare, further education and a social safety net. 
 
-- image: sdg9.png
+- image: sdg9.jpg
   anchor: sdg9
   text: The supply of raw materials is finite. Capital investment in waste management infrastructure will increase availability of raw (recycled) materials and affordable energy for local industries. 
 
-- image: sdg10.png
+- image: sdg10.jpg
   anchor: sdg10
   text: Income inequality is exacerbated by the availability of waste collection services. Low-income communities live in polluted environments and are exposed to harmful substances released during open burning of waste. Improving the coverage of waste collection services will reduce this health inequality and facilitate the economic growth of low-income communities. 
 
