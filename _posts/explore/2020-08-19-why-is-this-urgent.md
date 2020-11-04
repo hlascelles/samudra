@@ -6,9 +6,11 @@ meta_description: Today about 2.6 billion people that have no access to waste co
 show_meta: true
 header: no
 author: afsona
+first_date: 19 Aug 2020
+last_date: 1 Sept 2020
 image:
     title: plastic-pollution-beach-by-Jennifer-Lavers.jpg
-    caption: Photo by Jennifer Lavers
+    caption: Photo by Jennifer Lavers.
 categories:
     - explore
 gallery:

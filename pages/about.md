@@ -116,7 +116,7 @@ Find out about our ongoing projects <a href="/projects/" target="_self">here</a>
 Our aim is to make the world a better place, and the research we do provides us stepping stones along the way. 
 Unlike other organisations with similar goals, we keep an open mind. 
 For example, we don’t believe that recycling is always the best solution, that the less plastic we use the better, or that incinerators are more polluting than landfills. 
-One reason for this is that very different things often end up under the same blanket term. 
+One reason is that very different things often end up under the same blanket term. 
 Widely recyclable plastic packaging material that reduces emissions from transportation or a medical device that saves a life is very different from plastic confetti dispersed directly into the environment. 
 A well-managed landfill with methane capture in a dry climate is very different from a landfill created by clearing rainforest. 
 Another reason we don't hold strong beliefs is that everything has a cost. 

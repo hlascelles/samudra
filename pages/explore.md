@@ -7,6 +7,11 @@ header:
   title: ""
   image_fullwidth: landingpage_image.jpg
 widgets:
+- url: /explore/waste_disposal_methods/
+  image: dumpsite-manila.jpg
+  title: <a href="/explore/waste_disposal_methods/" target="_self">Waste disposal methods</a>
+  text: There are different waste disposal methods.
+  anchor: waste_disposal_methods
 - url: /explore/why-is-this-urgent/
   image: plastic-pollution-beach-by-Jennifer-Lavers.jpg
   title: <a href="/explore/why-is-this-urgent/" target="_self">Why is this urgent?</a>
