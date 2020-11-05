@@ -17,8 +17,8 @@ iframe: "<iframe width='970' height='546' src='https://youtu.be/DROZUstnsnw' fra
 ---
 
 <!-- what is it -->
-Incineration is just a fancy word for controlled combustion or burning.
-Combustion is a high-temperature exothermic chemical reaction between a fuel and an oxidant, in this case waste and atmospheric oxygen.
+Incineration is just a fancy word for controlled combustion.
+Combustion, more often referred to as burning, is a high-temperature exothermic chemical reaction between a fuel and an oxidant, in this case waste and atmospheric oxygen.
 Heat and light energy is released during this reaction and transferred to the surroundings, hence it is called an exothermic reaction.
 
 
@@ -48,28 +48,39 @@ Feeding uniform quality waste at the right speed avoids hot spots within the fur
 
 <!-- combustion -->
 The combustion occurs at a temperature between 800&#8451; and 1200&#8451;. 
-Maintaining the required high temperature is essential to ensure that complete combustion and to form stable end products.
 If due to high moisture content the waste cannot self-sustain the required temperature during combustion, additional fuel has to be added,  for example propane or waste with high calorific value.
+Maintaining the required high temperature is essential to ensure that complete combustion and to form stable end products.
+This is the main difference between incineration and open burning of waste which happens at much lower temperatures and hence leads to incomplete combustion and releases toxic pollutants.
+
+
+<!-- energy produced -->
 
 <!-- bottom ash -->
-The principal byproducts of combustion are bottom ash and flue gas.
+Apart from the heat, the principal byproducts of combustion are bottom ash and flue gas.
 The bottom ash is non hazardous; it contains mostly incombustible waste, for example metals, glass and pebbles.
-Iron and non-ferrous metals, for example aluminium and copper, are recovered from the bottom ash using magnetic separation, air table sorting or sieving.
+Iron and non-ferrous metals, for example aluminium and copper, are recovered from the bottom ash using magnetic separation, [air table sorting][4] or sieving.
 High value metals like gold and silver are usually present in particles of less than 2mm in diameter. 
 Once the metals have been extracted, the rest of the bottom ash is either sent to a landfill or cleaned and subsequently used by the construction industry.
 The bottom ash can be used as sand substitution in asphalt and cement.  
 [Research][2] conducted in Thailand showed that addition of bottom ash to Portland cement results in similar compressive strengths and decreased water requirement.
 Similarly, [addition of bottom ash to calcium sulfo-aluminate cement][3], which is used in high early strength and rapid setting applications, results in similar compressive strengths and porosity.
+Bottom ash can also be used for landscaping.
 Technologie that would allow to extract and reuse valuable materials from the bottom ash are an active area of research.
+
+<!-- flue gas -->
+
 
 
 <!--
+
+### How it looks like
+
 <div class="flex-video">
 	{{ page.iframe}}
 </div>
 -->
 
-### Incineration is successfully used in many countries
+### Waste incineration is used in many countries
 
 
 <!-- in Africa -->
@@ -84,3 +95,5 @@ The plant produces electricity to power 30% of the city's homes and bricks made 
 [1]: https://www.africawte.com/
 [2]: https://link.springer.com/article/10.1007/s00706-017-1953-5
 [3]: https://journals.sagepub.com/doi/abs/10.1177/0734242X20925170
+[4]: https://www.sciencedirect.com/science/article/abs/pii/S0956053X20302282
+[5]: https://www.sciencedirect.com/science/article/abs/pii/S0048969720343813

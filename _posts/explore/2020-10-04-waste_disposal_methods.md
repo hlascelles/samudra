@@ -17,8 +17,8 @@ show_meta: false
 ---
 
 There are different waste disposal methods.
-Thermal treatment methods significantly reduce the volume of the waste and allow to recover the calorific value of the waste in a form of energy. 
-Due to this second property, these methods are often referred to as waste-to-energy or energy-from-waste.
+Thermal treatment methods significantly reduce the volume of the waste and destroy all pathogens present in it. 
+Thermal treatment methods allow to recover the calorific value of the waste in a form of energy, hence they are often referred to as waste-to-energy or energy-from-waste.
 [Incineration][1], waste combustion in the presence of oxygen, is the only method currently widely used on an industrial scale. 
 Other methods, gasification and pyrolysis, are known as advanced thermal treatment methods. 
 Thermal treatment methods, similarly to landfilling, are not a substitute for recycling, composting or anaerobic digestion; these methods are used to treat waste that cannot be used otherwise. 
