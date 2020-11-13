@@ -60,7 +60,7 @@ Maintaining the required high temperature is essential to ensure that complete c
 This is the main difference between incineration and open burning of waste which happens at much lower temperatures and hence leads to incomplete combustion and releases toxic pollutants.
 
 
-<!-- energy produced -->
+<!-- energy recovery -->
 
 
 ### Incineration by-products
@@ -104,11 +104,14 @@ It is important to consider that landfilling the bottom ash or the waste itself,
 
 ### How it looks like
 
-Click on the image bolow to see a [video][10] of an incinerator created by AEB Amsterdam.
+Click on the image below to see a [video][10] of an incinerator created by AEB Amsterdam.
 
-<!-- 
-<a href="https://youtu.be/DROZUstnsnw"><img src="incineration-plant-warning-sign.jpg" alt="Waste-to-Energy: proces explanation (2007) by  AEB Amsterdam Grondstoffen- en energiebedrijf" style="width:1215px;height:810px;"></a>
--->
+<a href="https://youtu.be/DROZUstnsnw"><img src="/images/incineration-plant-warning-sign.jpg" alt="Waste-to-Energy: proces explanation (2007) by  AEB Amsterdam Grondstoffen- en energiebedrijf" style="width:605px;height:405px;" class="center"></a>
+
+
+
+### Incineration can be financially sustainable
+
 
 
 ### Waste incineration is used in many countries
@@ -119,6 +122,13 @@ Click on the image bolow to see a [video][10] of an incinerator created by AEB A
 It processes about 1350 tonnes of waste a day, over 80% of the city's waste.
 This results in hundreds of local jobs, cleaner air in the city and significantly less methane emissions from waste. 
 The plant produces electricity to power 30% of the city's homes and bricks made from bottom ash. 
+
+
+
+
+
+
+### How does incineration compare to other waste disposal methods?
 
 
 
