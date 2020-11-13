@@ -13,12 +13,11 @@ image:
 categories:
     - explore
 factchecked: "no"
-iframe: "<iframe width='970' height='546' src='https://youtu.be/DROZUstnsnw' frameborder='0' allowfullscreen></iframe>"
 ---
 
 <!-- what is it -->
 Incineration is just a fancy word for controlled combustion.
-Combustion, more often referred to as burning, is a high-temperature exothermic chemical reaction between a fuel and an oxidant, in this case waste and atmospheric oxygen.
+Often referred to as burning, combustion is a high-temperature exothermic chemical reaction between a fuel and an oxidant, in this case waste and atmospheric oxygen.
 Heat and light energy is released during this reaction and transferred to the surroundings, hence it is called an exothermic reaction.
 
 
@@ -26,6 +25,7 @@ Incineration is a thermal treatment method suitable for different types of waste
 Municipal solid waste (MSW) and other non-hazardous waste can be readily incinerated.
 Medical waste is often required by law to be sterilised, for example in an autoclave, at the facility where it was produced before being transported to an incinerator.
 Hazardous waste requires a special combustion chamber design that is able to withstand corrosive and abrasive substances, and allows specific residual products to be collected for reuse.
+[Rotary kilns][7] are often used to process hazardous waste.
 
 
 ### How it works
@@ -38,22 +38,31 @@ This heat vaporises the water in the boiler's heat exchangers, a series of pipes
 This steam forces the blades of the turbine to rotate, driving the generator and making electricity. 
 The water travels throught the system in a closed loop cycle - after passing through the turbine as steam it cools down and condenses back to liquid, then it returns to the heat exchangers to be heated again.
 
+
 <!-- the waste goes in -->
 As the waste arrives at an incinerator it is stored in bunkers.
 It is important for optimum incineration that the waste is off uniform quality.
 To achieve that, the waste is often mixed or shredded during pre-processing.
 Depending on the moisture content of the waste, it is either desirable to keep it in a bunker for several days to allow the moisture to sip down or processing it as quickly as possible is prefered due to a high risk of accidental ignition.
 Large grippers transfer the waste into the chutes leading to moving grates in the furnace. 
-Feeding uniform quality waste at the right speed avoids hot spots within the furnace and allows for a uniform temperature to be maintained. 
+[Fluidized beds][8] have been developed as an [alternative to moving grates][9] but they are not widely used.
+
 
 <!-- combustion -->
-The combustion occurs at a temperature between 800&#8451; and 1200&#8451;. 
+The combustion occurs at a temperature between 850&#8451; and 1200&#8451;. 
+Feeding uniform quality waste at the right speed avoids hot spots within the furnace and allows for a uniform temperature to be maintained. 
 If due to high moisture content the waste cannot self-sustain the required temperature during combustion, additional fuel has to be added,  for example propane or waste with high calorific value.
+Separating metals, glass and biowaste increases the calorific value of waste.
 Maintaining the required high temperature is essential to ensure that complete combustion and to form stable end products.
 This is the main difference between incineration and open burning of waste which happens at much lower temperatures and hence leads to incomplete combustion and releases toxic pollutants.
 
 
 <!-- energy produced -->
+
+
+### Incineration by-products
+
+
 
 <!-- bottom ash -->
 Apart from the heat, the principal byproducts of combustion are bottom ash and flue gas.
@@ -71,14 +80,14 @@ Technologie that would allow to extract and reuse valuable materials from the bo
 
 
 
-<!--
 
 ### How it looks like
 
-<div class="flex-video">
-	{{ page.iframe}}
-</div>
--->
+Click on the image bolow to see a [video][10] of an incinerator created by AEB Amsterdam.
+
+<p><a href="https://youtu.be/DROZUstnsnw"><img src="incineration-plant-warning-sign.jpg" alt="Waste-to-Energy: proces explanation (2007) by  AEB Amsterdam Grondstoffen- en energiebedrijf" style="width:1215px;height:810px;"></a></p>
+
+
 
 ### Waste incineration is used in many countries
 
@@ -97,3 +106,8 @@ The plant produces electricity to power 30% of the city's homes and bricks made 
 [3]: https://journals.sagepub.com/doi/abs/10.1177/0734242X20925170
 [4]: https://www.sciencedirect.com/science/article/abs/pii/S0956053X20302282
 [5]: https://www.sciencedirect.com/science/article/abs/pii/S0048969720343813
+[6]: https://drawdown.org/solutions/waste-to-energy/technical-summary
+[7]: https://link.springer.com/article/10.1007/s42768-019-00001-3
+[8]: https://www.sciencedirect.com/science/article/abs/pii/S0360128512000160
+[9]: https://www.sciencedirect.com/science/article/abs/pii/S0956053X20302191
+[10]: https://youtu.be/DROZUstnsnw
