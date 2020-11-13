@@ -46,12 +46,15 @@ To achieve that, the waste is often mixed or shredded during pre-processing.
 Depending on the moisture content of the waste, it is either desirable to keep it in a bunker for several days to allow the moisture to sip down or processing it as quickly as possible is prefered due to a high risk of accidental ignition.
 Large grippers transfer the waste into the chutes leading to moving grates in the furnace. 
 [Fluidized beds][8] have been developed as an [alternative to moving grates][9] but they are not widely used.
+[Moving grates, commonly used in Europe, are becoming common in China too where circulating fluidized bed technology was common before.][11]
+
 
 
 <!-- combustion -->
 The combustion occurs at a temperature between 850&#8451; and 1200&#8451;. 
 Feeding uniform quality waste at the right speed avoids hot spots within the furnace and allows for a uniform temperature to be maintained. 
-If due to high moisture content the waste cannot self-sustain the required temperature during combustion, additional fuel has to be added,  for example propane or waste with high calorific value.
+Waste with less than 50% organic fraction is ideal.
+If due to high moisture content the waste cannot self-sustain the required temperature during combustion, additional fuel has to be added, for example propane or waste with high calorific value.
 Separating metals, glass and biowaste increases the calorific value of waste.
 Maintaining the required high temperature is essential to ensure that complete combustion and to form stable end products.
 This is the main difference between incineration and open burning of waste which happens at much lower temperatures and hence leads to incomplete combustion and releases toxic pollutants.
@@ -66,15 +69,33 @@ This is the main difference between incineration and open burning of waste which
 
 <!-- bottom ash -->
 Apart from the heat, the principal byproducts of combustion are bottom ash and flue gas.
-The bottom ash is non hazardous; it contains mostly incombustible waste, for example metals, glass and pebbles.
+[The bottom ash produced is normally 10-25% by weight of the MSW processed.][11]
+The bottom ash is generally non hazardous and contains mostly incombustible waste, for example metals, glass and pebbles.
+The content of useful materials and contaminants in the bottom ash depends on the original composition of the waste processed.
 Iron and non-ferrous metals, for example aluminium and copper, are recovered from the bottom ash using magnetic separation, [air table sorting][4] or sieving.
 High value metals like gold and silver are usually present in particles of less than 2mm in diameter. 
+Technologie that would allow us to extract and reuse valuable materials from the bottom ash are an active area of research.
+
+
+<!-- bottom ash usage -->
 Once the metals have been extracted, the rest of the bottom ash is either sent to a landfill or cleaned and subsequently used by the construction industry.
-The bottom ash can be used as sand substitution in asphalt and cement.  
+The bottom ash can be used for landscaping or as a sand substitute in asphalt and cement.  
 [Research][2] conducted in Thailand showed that addition of bottom ash to Portland cement results in similar compressive strengths and decreased water requirement.
 Similarly, [addition of bottom ash to calcium sulfo-aluminate cement][3], which is used in high early strength and rapid setting applications, results in similar compressive strengths and porosity.
-Bottom ash can also be used for landscaping.
-Technologie that would allow to extract and reuse valuable materials from the bottom ash are an active area of research.
+
+
+<!-- environmental concerns -->
+There is a concern that contaminants present in bottom ash, if not removed prior to use, might leach out if the asphalt or cement is exposed to particular conditions, for example [constant running water][19], [road salting during freezing temperatures][13], acid rain or simply time. 
+[A 2020 study in China][12] found that while alkaline elements (calcium, silicon and aluminium) accounted for over 70% of the total mass of the bottom ash sample examined, chlorine, sulfur, iron, magnesium, phosphorus, titanium, potassium, sodium and zinc accounted for another 25-30%, and copper, chromium, lead, strontium and barium accounted for up to 1.5%.
+The study concluded that bottom ash is an appropriate material for road construction due to its low metal leaching potential.
+Earlier studies in [Denmark][14], [China][15], [Germany][16], [Singapore][17] and the [US][18] also showed that heavy metals (barium, cadmium, chromium, copper, lead, nickel and zinc) are often present in bottom ash. 
+Their [concentration is highest amongst particles smaller than 2 millimeters in diameter][16], hence sieving might be an option for separating the fraction of the bottom ash most suitable for use in the construction industry. 
+[Different metals have different leaching behaviors][15] - their concentrations either increase with the leaching time, decrease after an initial increase or decrease for a while before a subsequent increase.
+The studies showed that the leaching values were within the limits for disposal in a landfill [in Singapore][17] and met the criteria of the Secondary Drinking Water Standard [in the US][18].
+Ultimately the environmental and health impact of using bottom ash in construction depends on the original composition of the waste processed, methods used to clean the bottom ash before usage, and the type of material to which the bottom ash is added. 
+It is important to consider that landfilling the bottom ash or the waste itself, without incinerating it first, does not necessarily reduce the leaching of the contaminants into the surrounding soil and groundwater.
+
+
 
 <!-- flue gas -->
 
@@ -85,8 +106,9 @@ Technologie that would allow to extract and reuse valuable materials from the bo
 
 Click on the image bolow to see a [video][10] of an incinerator created by AEB Amsterdam.
 
-<p><a href="https://youtu.be/DROZUstnsnw"><img src="incineration-plant-warning-sign.jpg" alt="Waste-to-Energy: proces explanation (2007) by  AEB Amsterdam Grondstoffen- en energiebedrijf" style="width:1215px;height:810px;"></a></p>
-
+<!-- 
+<a href="https://youtu.be/DROZUstnsnw"><img src="incineration-plant-warning-sign.jpg" alt="Waste-to-Energy: proces explanation (2007) by  AEB Amsterdam Grondstoffen- en energiebedrijf" style="width:1215px;height:810px;"></a>
+-->
 
 
 ### Waste incineration is used in many countries
@@ -111,3 +133,13 @@ The plant produces electricity to power 30% of the city's homes and bricks made 
 [8]: https://www.sciencedirect.com/science/article/abs/pii/S0360128512000160
 [9]: https://www.sciencedirect.com/science/article/abs/pii/S0956053X20302191
 [10]: https://youtu.be/DROZUstnsnw
+[11]: https://olcstage.worldbank.org/sites/default/files/sco/E9CB337D-79D8-EAF4-44EE-AF3A7ADADADF/swm_m03/story_content/external_files/DMG_Incineration.pdf
+[12]: https://link.springer.com/article/10.1007/s11356-020-08007-9
+[13]: https://www.semanticscholar.org/paper/Environmental-assessment-of-roads-constructed-with-Birgisdottir-Pihl/80f24f632d3cd50e6a50afe74dc87824ecddb14c
+[14]: https://www.sciencedirect.com/science/article/pii/S0301479714005738
+[15]: https://www.sciencedirect.com/science/article/abs/pii/S0956053X18304240
+[16]: https://www.sciencedirect.com/science/article/abs/pii/S0956053X18304987
+[17]: https://www.sciencedirect.com/science/article/pii/S1876610217364743
+[18]: https://www.tandfonline.com/doi/abs/10.1080/14680629.2016.1186108
+[19]: https://www.mdpi.com/2073-4441/11/10/2186/htm
+
