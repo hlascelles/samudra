@@ -118,11 +118,15 @@ It is important to consider that landfilling the bottom ash or the waste itself,
 
 
 
-### How it looks like
+### What it looks like
 
 Click on the image below to see a [video][10] of an incinerator created by AEB Amsterdam.
 
-<a href="https://youtu.be/DROZUstnsnw"><img src="/images/incineration-plant-warning-sign.jpg" alt="Waste-to-Energy: process explanation (2007) by  AEB Amsterdam Grondstoffen- en energiebedrijf" style="width:605px;height:405px;" class="center"></a>
+<a href="https://youtu.be/DROZUstnsnw">
+<img src="/images/incineration-plant-warning-sign.jpg" 
+    alt="Waste-to-Energy: process explanation (2007) by AEB Amsterdam Grondstoffen- en energiebedrijf" 
+    style="width: 100%; max-width: 605px;" class="center">
+</a>
 
 While most incineration plants look like any other industrial facility, some incineration plants in Japan are architectural gems:
 <div name="gallery" id="gallery"></div> 
