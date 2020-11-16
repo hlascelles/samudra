@@ -6,6 +6,7 @@ meta_description:
 show_meta: true
 header: no
 author: lawrence
+author2: karina
 first_date: 4 Nov 2020
 image:
     title: waste-grabber-in-action.jpg
@@ -13,6 +14,11 @@ image:
 categories:
     - explore
 factchecked: "no"
+gallery:
+    - image_url: incinerator-tokyo.jpg
+      caption: Minato incineration plant in Tokyo.
+    - image_url: incinerator-osaka.jpg
+      caption: The Maishima Incineration Plant in Osaka was designed by Viennese artist Friedensreich Hundertwasser. It processes 328,500 tonnes of waste per year.
 ---
 
 <!-- what is it -->
@@ -35,37 +41,47 @@ The main parts of an incinerator are a furnace, a boiler with heat exchangers, a
 The combustion of the waste happens in the furnace below the boiler. 
 The heated gases from the furnace rise into a series of chambers in the boiler. 
 This heat vaporises the water in the boiler's heat exchangers, a series of pipes filled with water, and creates superheated high pressure steam.
-This steam forces the blades of the turbine to rotate, driving the generator and making electricity. 
-The water travels throught the system in a closed loop cycle - after passing through the turbine as steam it cools down and condenses back to liquid, then it returns to the heat exchangers to be heated again.
+This steam forces the blades of the turbine to rotate, driving the generator and producing electricity. 
+A tonne of MSW with suitable characteristics can result in 500-600 kilowatt hours (kWh).
+The water travels through the system in a closed loop cycle - after passing through the turbine as steam it cools down and condenses back to liquid, then it returns to the heat exchangers to be heated again.
 
 
 <!-- the waste goes in -->
-As the waste arrives at an incinerator it is stored in bunkers.
-It is important for optimum incineration that the waste is off uniform quality.
-To achieve that, the waste is often mixed or shredded during pre-processing.
-Depending on the moisture content of the waste, it is either desirable to keep it in a bunker for several days to allow the moisture to sip down or processing it as quickly as possible is prefered due to a high risk of accidental ignition.
-Large grippers transfer the waste into the chutes leading to moving grates in the furnace. 
+The waste is often mixed or shredded during pre-processing, since uniform quality of the waste is important for optimum incineration.
+Pre-processed waste is stored in bunkers before being transferred into the furnace.
+If the moisture content of the waste is high, it is desirable to keep it in a bunker for several days to allow the moisture to accumulate at the bottom.
+On the contrary, if the waste is very dry, it is desirable to process it as quickly as possible due to a high risk of accidental ignition.
+A mechanical grabber, capable of picking up 7 tonnes of waste at once, transfers the waste into the chutes leading to moving grates in the furnace. 
 [Fluidized beds][8] have been developed as an [alternative to moving grates][9] but they are not widely used.
-[Moving grates, commonly used in Europe, are becoming common in China too where circulating fluidized bed technology was common before.][11]
-
+Moving grates, commonly used in Europe, are [becoming common in China too where circulating fluidized bed technology was common before.][11]
+The [advantages of fluidized bed technology][9] include improved combustion and smaller amount of bottom ash produced. 
+These are often outweighed by the [additional costs][9] of the need for fuel preparation and bed material consumption.
 
 
 <!-- combustion -->
 The combustion occurs at a temperature between 850&#8451; and 1200&#8451;. 
 Feeding uniform quality waste at the right speed avoids hot spots within the furnace and allows for a uniform temperature to be maintained. 
-Waste with less than 50% organic fraction is ideal.
-If due to high moisture content the waste cannot self-sustain the required temperature during combustion, additional fuel has to be added, for example propane or waste with high calorific value.
-Separating metals, glass and biowaste increases the calorific value of waste.
-Maintaining the required high temperature is essential to ensure that complete combustion and to form stable end products.
+If due to high moisture content the waste cannot self-sustain the required temperature during combustion, additional fuel (for example propane or waste with high calorific value) has to be added.
+This often occurs when more than 50% of the waste is wet biowaste.
+Separating metals, glass and biowaste prior to incineration increases the calorific value of waste.
+Maintaining the required high temperature is essential to ensure complete combustion and to form stable end products.
 This is the main difference between incineration and open burning of waste which happens at much lower temperatures and hence leads to incomplete combustion and releases toxic pollutants.
 
 
 <!-- energy recovery -->
+The combustion process outputs thermal energy which has to be recovered on-site, since it is not readily transportable.
+The best incinerator plants in the world are 98% efficient at capturing thermal energy they produce. 
+These are Combined Heat and Power (CHP) plants that both generate electricity and deliver residual heat to the neighborhood.
+This is done by routing low pressure steam from the turbine through a second closed water loop leading out into the neighborhood.
+Locating an incinerator next to an industrial area that can use the heat is a way to maximise the use of the available energy.
+Alternatively, the heat can be incorporated into the local district heating system or used to heat up nearby [swimming pools and tropical plant greenhouses][20].
+In the European Union, [a tonne of MSW typically results in 500 kWh of electricity and 1000 kWh of heat.][11]
+Further improving the efficiency of incinerator plants is an active area of research. 
+For example, [a recent study][21] proposed using aluminium alloy-based Phase Change Materials in ceramic bricks in the combustion chamber to absorb temperature fluctuations and thus produce more heat.
+
 
 
 ### Incineration by-products
-
-
 
 <!-- bottom ash -->
 Apart from the heat, the principal byproducts of combustion are bottom ash and flue gas.
@@ -74,13 +90,13 @@ The bottom ash is generally non hazardous and contains mostly incombustible wast
 The content of useful materials and contaminants in the bottom ash depends on the original composition of the waste processed.
 Iron and non-ferrous metals, for example aluminium and copper, are recovered from the bottom ash using magnetic separation, [air table sorting][4] or sieving.
 High value metals like gold and silver are usually present in particles of less than 2mm in diameter. 
-Technologie that would allow us to extract and reuse valuable materials from the bottom ash are an active area of research.
+Technologies that would allow the extraction and reuse of valuable materials in the bottom ash are an active area of research.
 
 
 <!-- bottom ash usage -->
 Once the metals have been extracted, the rest of the bottom ash is either sent to a landfill or cleaned and subsequently used by the construction industry.
 The bottom ash can be used for landscaping or as a sand substitute in asphalt and cement.  
-[Research][2] conducted in Thailand showed that addition of bottom ash to Portland cement results in similar compressive strengths and decreased water requirement.
+[Research conducted in Thailand][2] showed that addition of bottom ash to Portland cement results in similar compressive strengths and decreased water requirement.
 Similarly, [addition of bottom ash to calcium sulfo-aluminate cement][3], which is used in high early strength and rapid setting applications, results in similar compressive strengths and porosity.
 
 
@@ -90,8 +106,8 @@ There is a concern that contaminants present in bottom ash, if not removed prior
 The study concluded that bottom ash is an appropriate material for road construction due to its low metal leaching potential.
 Earlier studies in [Denmark][14], [China][15], [Germany][16], [Singapore][17] and the [US][18] also showed that heavy metals (barium, cadmium, chromium, copper, lead, nickel and zinc) are often present in bottom ash. 
 Their [concentration is highest amongst particles smaller than 2 millimeters in diameter][16], hence sieving might be an option for separating the fraction of the bottom ash most suitable for use in the construction industry. 
-[Different metals have different leaching behaviors][15] - their concentrations either increase with the leaching time, decrease after an initial increase or decrease for a while before a subsequent increase.
-The studies showed that the leaching values were within the limits for disposal in a landfill [in Singapore][17] and met the criteria of the Secondary Drinking Water Standard [in the US][18].
+[Metals have different leaching profiles][15] - for some the amount of leaching monotonically increases or decreases with time, for others it fluctuates based on several factors.
+[The US][18] study showed that the amount of leaching from asphalt and concrete with added bottom ash meets the criteria of the US Secondary Drinking Water Standard.
 Ultimately the environmental and health impact of using bottom ash in construction depends on the original composition of the waste processed, methods used to clean the bottom ash before usage, and the type of material to which the bottom ash is added. 
 It is important to consider that landfilling the bottom ash or the waste itself, without incinerating it first, does not necessarily reduce the leaching of the contaminants into the surrounding soil and groundwater.
 
@@ -106,7 +122,11 @@ It is important to consider that landfilling the bottom ash or the waste itself,
 
 Click on the image below to see a [video][10] of an incinerator created by AEB Amsterdam.
 
-<a href="https://youtu.be/DROZUstnsnw"><img src="/images/incineration-plant-warning-sign.jpg" alt="Waste-to-Energy: proces explanation (2007) by  AEB Amsterdam Grondstoffen- en energiebedrijf" style="width:605px;height:405px;" class="center"></a>
+<a href="https://youtu.be/DROZUstnsnw"><img src="/images/incineration-plant-warning-sign.jpg" alt="Waste-to-Energy: process explanation (2007) by  AEB Amsterdam Grondstoffen- en energiebedrijf" style="width:605px;height:405px;" class="center"></a>
+
+While most incineration plants look like any other industrial facility, some incineration plants in Japan are architectural gems:
+<div name="gallery" id="gallery"></div> 
+{% include gallery %}
 
 
 
@@ -152,4 +172,5 @@ The plant produces electricity to power 30% of the city's homes and bricks made 
 [17]: https://www.sciencedirect.com/science/article/pii/S1876610217364743
 [18]: https://www.tandfonline.com/doi/abs/10.1080/14680629.2016.1186108
 [19]: https://www.mdpi.com/2073-4441/11/10/2186/htm
-
+[20]: https://www.japan.go.jp/tomodachi/2015/winter2015/advanced_waste_disposal_technology.html
+[21]: https://www.sciencedirect.com/science/article/abs/pii/S1364032119303156
