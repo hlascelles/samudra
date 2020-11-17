@@ -150,6 +150,14 @@ The plant produces electricity to power 30% of the city's homes and bricks made 
 
 ### How does incineration compare to other waste disposal methods?
 
+Incineration produces less air pollution than open burning of waste, where combustion is incomplete due to low temperatures. 
+Unlike landfills, this waste disposal method doesn't require much land, and hence it doesn't contribute to deforestation or competition for agricultural land. 
+Since incineration doesn't involve storing waste for long time, environmental risks associated with storms, floods and unintended fires are significantly lower. 
+Incineration, similarly to recycling and landfilling, can be very environmentally damaging if done as cheaply as possible.
+Preventing environmental damage requires ongoing financial commitment.
+This commitment stops when the incineration plant stops operating, unlike landfills that require costly monitoring for several decates after closing.
+
+
 
 
 
