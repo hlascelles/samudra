@@ -21,6 +21,8 @@ gallery:
       caption: The Maishima Incineration Plant in Osaka was designed by Viennese artist Friedensreich Hundertwasser. It processes 328,500 tonnes of waste per year.
 ---
 
+
+
 <!-- what is it -->
 Incineration is just a fancy word for controlled combustion.
 Often referred to as burning, combustion is a high-temperature exothermic chemical reaction between a fuel and an oxidant, in this case waste and atmospheric oxygen.
@@ -186,3 +188,4 @@ This commitment stops when the incineration plant stops operating, unlike landfi
 [19]: https://www.mdpi.com/2073-4441/11/10/2186/htm
 [20]: https://www.japan.go.jp/tomodachi/2015/winter2015/advanced_waste_disposal_technology.html
 [21]: https://www.sciencedirect.com/science/article/abs/pii/S1364032119303156
+[22]: https://www.iges.or.jp/en/pub/ccet-guideline-wtei/en
