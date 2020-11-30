@@ -16,9 +16,9 @@ categories:
 factchecked: "no"
 gallery:
     - image_url: incinerator-tokyo.jpg
-      caption: Minato incineration plant in Tokyo.
+      caption: Minato incinerator in Tokyo.
     - image_url: incinerator-osaka.jpg
-      caption: The Maishima Incineration Plant in Osaka was designed by Viennese artist Friedensreich Hundertwasser. It processes 328,500 tonnes of waste per year.
+      caption: The Maishima incinerator in Osaka was designed by Viennese artist Friedensreich Hundertwasser. It processes 328,500 tonnes of waste per year.
 ---
 
 
@@ -82,12 +82,12 @@ Complete combustion is the main difference between incineration and open burning
 
 <!-- energy recovery -->
 The combustion process outputs thermal energy which has to be recovered on-site, since it is not readily transportable.
-The most efficient incinerator plants are Combined Heat and Power (CHP) plants that both generate electricity and deliver residual heat to the neighborhood.
+The most efficient incinerators are Combined Heat and Power (CHP) plants that both generate electricity and deliver residual heat to the neighborhood.
 This is done by routing low pressure steam from the turbine through a second closed water loop leading out into the neighborhood.
 Locating an incinerator next to an industrial area that can use the heat is a way to maximise the use of the available energy.
 Alternatively, the heat can be incorporated into the local district heating system, used to heat up nearby [swimming pools and tropical plant greenhouses][20] or to [melt snow on the roads][22].
 In the European Union, [a tonne of MSW typically results in 500 kWh of electricity and 1000 kWh of heat.][11]
-Further improving the efficiency of incinerator plants is an active area of research. 
+Further improving the efficiency of incinerators is an active area of research. 
 For example, [a recent study][21] proposed using aluminium alloy-based Phase Change Materials in ceramic bricks in the combustion chamber to absorb temperature fluctuations and thus produce more heat.
 
 
@@ -125,7 +125,6 @@ Ultimately the environmental and health impact of using bottom ash in constructi
 It is important to consider that landfilling the bottom ash or the waste itself, without incinerating it first, does not necessarily reduce the leaching of the contaminants into the surrounding soil and groundwater.
 
 
-
 <!-- flue gas -->
 Flue gas, the exhaust air generated during combustion, contains solid particles, acidic gases, dioxins and heavy metals.
 Some trace elements tend to evaporate at combustion temperatures and then recondense when the temperature falls in the heat transfer sections of a boiler. 
@@ -152,7 +151,7 @@ Click on the image below to see a [video][10] of an incinerator created by AEB A
     style="width: 100%; max-width: 605px;" class="center">
 </a>
 
-While most incineration plants look like any other industrial facility, some incineration plants in Japan are architectural gems:
+While most incinerators look like any other industrial facility, some incinerators in Japan are architectural gems:
 <div name="gallery" id="gallery"></div> 
 {% include gallery %}
 
