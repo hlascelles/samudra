@@ -80,8 +80,6 @@ To form stable end products is essential to ensure complete combustion of both w
 Complete combustion is the main difference between incineration and open burning of waste which happens at much lower temperatures and hence leads to incomplete combustion and releases toxic pollutants.
 
 
-
-
 <!-- energy recovery -->
 The combustion process outputs thermal energy which has to be recovered on-site, since it is not readily transportable.
 The most efficient incinerator plants are Combined Heat and Power (CHP) plants that both generate electricity and deliver residual heat to the neighborhood.
@@ -129,6 +127,17 @@ It is important to consider that landfilling the bottom ash or the waste itself,
 
 
 <!-- flue gas -->
+Flue gas, the exhaust air generated during combustion, contains solid particles, acidic gases, dioxins and heavy metals.
+Some trace elements tend to evaporate at combustion temperatures and then recondense when the temperature falls in the heat transfer sections of a boiler. 
+This recondensation results in both homogeneous submicron particles of trace elements and ash particles covered in a heterogeneous layer of trace elements.
+Flue gas must be treated with a series of absorption, scrubbing and filtering systems before being released from the incinerator's chimney stack.
+A typical air pollution control system includes the following components: an acid gas removal system, dioxin and mercury removal system, a particulate removal system, a nitrogen oxide removal system, and a pollution control system.
+These may include wet scrubbers that spray water to remove large-scale particles, mechanical filters for capturing fine particles, oil traps and chambers that house controlled chemical reactions for capturing harmful gaseous compounds.
+Prior to treatment flue gas is cooled to under 200&#8451; with water injections or more efficiently by heating water indirectly in water pipes. 
+Compared to MSW, hazardous waste processing requires even more sophisticated flue gas treatment systems.
+
+
+
 
 
 
