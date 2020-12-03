@@ -151,6 +151,9 @@ Sulfur reacts with lime and produces gypsum.
 Powdered activated carbon removes dioxins and heavy metals.
 The next step is to remove the particles from the flue gas by passing it through the bag filter.
 Mercury, a volatile metal, is removed at this stage as it can be collected more efficiently at a lower temperature. 
+
+
+<!-- fly ash -->
 The stuff that collects in the bag filters (removed pollutants together with the injected alkali agent and activated carbon) is known as fly ash.
 The amount of fly ash generated is [3-5% of the waste input by weight][11].
 To prevent toxic pollutants from leaching, fly ash is either disposed of as hazardous waste or treated prior to landfilling or reuse. 
@@ -179,10 +182,20 @@ If the emission standards can be met with a combination of combustion control an
 New catalysts that are effective at temperatures below 200&#8451; are currently an active area of research.
 
 
-<!-- fly ash -->
-
-
-
+<!-- monitoring -->
+Real-time emissions monitoring systems allow for the concentrations of pollutants in flue gas emissions to be measured continuously, in addition to periodical measurements conducted by external monitoring organisations. 
+Until recently emissions of dioxins, furans and mercury could only be monitored by periodical measurements, new technologies like AMESA (Adsorption MEthod for SAmpling of dioxins and furans) are changing that.
+It has been shown that dioxin emissions occur at high levels during start-ups and cool-downs of an incinerator. 
+This is the reason why semi-continuous type (operated during the day and unused during the night) and batch-type incinerators that were common in Japan have been replaced with continuous incineration systems.
+While total dioxin emissions is what really matters, only emissions that occur during steady state operation are regulated by environmental laws.
+Installing backup air pollution control systems is essential for being able to operate an incinerator continuously.
+Most incinerators have a "filter bypass mode" which allows to bypass air pollution control systems and emit flue gas directly into the environment.
+Incinerators that are locked into contracts with electricity companies that require a certain amount of power to be provided per unit of time, sometimes have to use "filter bypass mode" during necessary repairs. 
+Emissions can be tested indirectly, for example by monitoring concentration of dioxins and furans in chicken eggs in nerby farms. 
+The visible white plumes coming out of incinerator smokestacks, that get people concerned, are water vapour and carbon dioxide. 
+Unfortunately, pollutant emissions are invisible and hence cannot be monitored without specialised equipment. 
+Sometimes smokestacks are build very high to disperse trace polutants across a larger area and hence minimize the concentrations.
+Apart from bottom ash and fly ash, by-products of incineration include used filters, oil from oil traps, contaminated water from flue gas treatment process and leachate generated from the waste while it is stored in the bunkers. 
 
 
 ### What it looks like
