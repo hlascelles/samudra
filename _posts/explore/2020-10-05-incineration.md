@@ -72,11 +72,10 @@ Due to this and the [additional costs][9] of fuel preparation and bed materials 
 <!-- combustion -->
 The combustion occurs at a temperature between 850&#8451; and 1200&#8451;. 
 Feeding uniform quality waste at the right speed avoids hot spots within the furnace and allows for a uniform temperature to be maintained. 
-If due to high moisture content the waste cannot self-sustain the required temperature during combustion, additional fuel (for example propane or waste with high calorific value) has to be added.
-This often occurs when more than 50% of the waste is wet biowaste.
-Separating metals, glass and biowaste prior to incineration increases the calorific value of waste. 
-To form stable end products is essential to ensure complete combustion of both waste and flue gas. 
+Some hydrocarbon gas components originating from the volatile organic compounds in the waste are dioxin precursors.
+To form stable end products and break down the dioxins that form inside the combustion chamber it is essential to ensure complete combustion of both waste and flue gas. 
 [This is achieved][22] by maintaining the required high temperature, regulating the oxygen content and the retention time of the waste and flue gas in the combustion chamber, and providing sufficient turbulence via the moving grates. 
+Sustaining uniform high temperature allows to keep carbon monoxide levels low.
 Complete combustion is the main difference between incineration and open burning of waste which happens at much lower temperatures and hence leads to incomplete combustion and releases toxic pollutants.
 
 
@@ -129,13 +128,34 @@ It is important to consider that landfilling the bottom ash or the waste itself,
 Flue gas, the exhaust air generated during combustion, contains solid particles, acidic gases, dioxins and heavy metals.
 Some trace elements tend to evaporate at combustion temperatures and then recondense when the temperature falls in the heat transfer sections of a boiler. 
 This recondensation results in both homogeneous submicron particles of trace elements and ash particles covered in a heterogeneous layer of trace elements.
-Flue gas must be treated with a series of absorption, scrubbing and filtering systems before being released from the incinerator's chimney stack.
+Flue gas must be treated before being released from the incinerator's chimney stack.
+Prior to treatment flue gas is cooled to under 200&#8451; with water injections or more efficiently by indirectly heating the water in the pipes. 
+This is followed by a series of absorption, scrubbing and filtering steps.
 A typical air pollution control system includes the following components: an acid gas removal system, dioxin and mercury removal system, a particulate removal system, a nitrogen oxide removal system, and a pollution control system.
-These may include wet scrubbers that spray water to remove large-scale particles, mechanical filters for capturing fine particles, oil traps and chambers that house controlled chemical reactions for capturing harmful gaseous compounds.
-Prior to treatment flue gas is cooled to under 200&#8451; with water injections or more efficiently by heating water indirectly in water pipes. 
+These may include wet scrubbers that spray water to remove large-scale particles, mechanical filters for capturing fine particles, oil traps, and chambers that house controlled chemical reactions for capturing harmful gaseous compounds.
 Compared to MSW, hazardous waste processing requires even more sophisticated flue gas treatment systems.
 
 
+<!-- electrostatic precipitators -->
+Series of electrostatic precipitators are often used to remove the particles from the flue gas.
+First the flue gas is funneled past electrodes that charge the particles with a negative voltage, then past electrodes that are charged with a positive voltage. 
+The particles stick to the electrodes with opposite charge and are subsequently moved into a collector by an automated shaking or brushing mechanism. 
+There are concerns that [<i>de novo</i> synthesis of dioxins][22] happens in electrostatic precipitators that operate at around 300&#8451;.
+Often bag filters are used (at a later stage) instead of electrostatic precipitators to remove the particles from the flue gas cooled to under 200&#8451;, too cold for dioxin synthesis.
+
+
+<!-- scrubbing and bag filters -->
+The next step of the treatment is injection of an alkali agent (lime powder, limestone slurry or sodium bicarbonate) and powdered activated carbon into the flue gas.
+Acidic gases such as hydrochloric acid (a solution of hydrogen chloride gas in water), hydrofluoric acid (a solution of hydrogen fluoride gas in water) and sulfur oxides react with alkali agent and are subsequently removed. 
+Sulfur reacts with lime and produces gypsum.
+Powdered activated carbon removes dioxins and heavy metals.
+The next step is to remove the particles from the flue gas by passing it through the bag filter.
+Mercury, a volatile metal, is removed at this stage as it can be collected more efficiently at a lower temperature. 
+The stuff that collects in the bag filters (removed pollutants together with the injected alkali agent and activated carbon) is known as fly ash.
+Plaster and salt for de-icing can be recovered from this treatment stage and sold to industry.
+
+
+<!-- NOx -->
 
 
 
@@ -185,7 +205,8 @@ Since incineration doesn't involve storing waste for long time, environmental ri
 Similarly to recycling and landfilling, incineration can be very environmentally damaging if done as cheaply as possible.
 Preventing environmental damage requires ongoing financial commitment.
 This commitment stops when the incinerator stops operating, unlike landfills that require costly monitoring for several decates after closing.
-Environmental laws covering environmental assessments, air pollution, bottom and fly ash disposal, emission standards for flue gas, and polluted water filtration can be valuable if enforced.
+Environmental impact of incineration can be limited with regulations covering environmental assessments, bottom and fly ash disposal, emission standards for flue gas, and polluted water filtration requirements. 
+In countries that lack the capacity to enforce environmental laws, these kind of regulations have minimal effect.
 Early incinerators that were inefficient and produced a lot of pollution resulted in negative public perception, that is now slowly changing.
 A Greek [study][24] published in July 2020 examined different scenarios of pollutant emission rates and concluded that in the worst-case scenario operation of an MSW incinerator would add addition 0.03% to the existing environmental pressures (road traffic, industrial activity, etc.) in Thessaloniki area.
 
@@ -197,10 +218,12 @@ The magnitude of this reduction varies substantially depending on the baseline u
 The important factors are the efficiency of the incinerator (type and amount of additional fuel used, interaction with the electricity system), the emissions intensity of the energy sources being displaced (carbon-intensity of local electricity and/or heating generation), the type of the waste (caloric value of the waste, fraction of combustible materials in the waste, its methane generation potential) and likely alternative waste disposal methods.
 An incinerator can generate up to 10 times more electricity from the same amount of waste compared to a landfill with methane capture.
 Combining incineration with carbon capture technology can result in a carbon negative waste disposal method.
+Incinerators can act as sources of back-up power in the event of a power failure during a disaster; [in Japan this is considered an important additional benefit][22].
 Unlike sunlight, wind or waves, waste can be stored and transformed into electricity when required. 
 Incinerators that can produce varying amounts of electricity combined with machine learning algorithms powered by demand and meteorological data would accelerate the switch to renewable energy sources.
-Incinerators can act as sources of back-up power in the event of a power failure during a disaster; [in Japan this is considered an important additional benefit][22].
-Due to urbanisation and population growth use of incineration is set to increase while the use of landfills will decrease.
+
+
+
 
 
 
@@ -228,3 +251,4 @@ Due to urbanisation and population growth use of incineration is set to increase
 [22]: https://www.iges.or.jp/en/pub/ccet-guideline-wtei/en
 [23]: https://www.rnz.co.nz/news/national/390639/fox-river-rubbish-spill-should-be-declared-a-national-disaster-volunteers-say
 [24]: https://www.sciencedirect.com/science/article/pii/S0956053X20303251
+[25]: https://www.sciencedirect.com/science/article/abs/pii/S0956053X1200373X
