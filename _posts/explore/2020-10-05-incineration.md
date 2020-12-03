@@ -152,10 +152,34 @@ Powdered activated carbon removes dioxins and heavy metals.
 The next step is to remove the particles from the flue gas by passing it through the bag filter.
 Mercury, a volatile metal, is removed at this stage as it can be collected more efficiently at a lower temperature. 
 The stuff that collects in the bag filters (removed pollutants together with the injected alkali agent and activated carbon) is known as fly ash.
-Plaster and salt for de-icing can be recovered from this treatment stage and sold to industry.
+The amount of fly ash generated is [3-5% of the waste input by weight][11].
+To prevent toxic pollutants from leaching, fly ash is either disposed of as hazardous waste or treated prior to landfilling or reuse. 
+[In Europe hazardous waste landfills are commonly used to dispose of fly ash, while in USA fly ash is often mixed with bottom ash and disposed of in a sanitary landfill or used as landfill cover.][11]
+[Fly ash can be incorporated in concrete][26], which results in decrease of CO2 emissions, environmental impact and costs associated with concrete and decrease of the heavy metal leaching potential of the fly ash.
+Trace heavy metals from the fly ash might be released from the concrete [during exposure to CO2-saturated water or acid rain][5].
+Fly ash can also be used as a filling material in asphalt.
+In Netherlands fly ash is processed to recover plaster and salt for de-icing.
+[Silica sulfuric acid catalyst can be synthesised from fly ash][27] and used to simultaneously remove both sulfur oxides and nitrogen oxides from flue gas. 
 
 
-<!-- NOx -->
+<!-- nitrogen oxides -->
+Nitrogen oxides, unlike other acidic gases, cannot be removed with bag filters and require a different system. 
+A combination of three methods - combustion control, catalytic and non-catalytic denitrification - is used to reduce the amount of nitrogen oxides in the flue gas.
+Combustion control is a method for reducing emissions of nitrogen oxides by forming a low-oxygen atmosphere inside the combustion chamber, for example by recirculating some of the combusted flue gas to the furnace.
+Maintaining low-oxygen atmosphere results in increase of carbon monoxide unless the temperature and the air ratio in the combustion chamber are finely controlled.
+A 2013 [Swiss study][25] provides an overview of this method. 
+Non-catalytic denitrification method involves spraying an ammonia or urea solution into the combustion chamber to decompose nitrogen oxides.
+The amount of solution sprayed and the temperature of the flue gas (above 800&#8451;) must be precisely controlled.
+Catalytic denitrification method involves facilitating the reaction of nitrogen oxides in the flue gas with ammonia and oxygen with the help of a catalyst, for example vanadium pentoxide/titanium dioxide.
+As a result nitrogen oxides decomposes into nitrogen and water and trace dioxins are decomposed too.
+The efficiency of catalytic denitrification method is about 95%, higher than that of non-catalytic denitrification and combustion control.
+The catalyst requires that the flue gas is free from particles and at a temperature of 200&#8451; or higher, which means that the flue gas must be first filtered through bag filters and then reheated.
+The flue gas is reheated using steam which reduces the amount of power generated.
+If the emission standards can be met with a combination of combustion control and non-catalytic denitrification, catalytic denitrificationis is usually avoided due to its financial cost.
+New catalysts that are effective at temperatures below 200&#8451; are currently an active area of research.
+
+
+<!-- fly ash -->
 
 
 
@@ -252,3 +276,5 @@ Incinerators that can produce varying amounts of electricity combined with machi
 [23]: https://www.rnz.co.nz/news/national/390639/fox-river-rubbish-spill-should-be-declared-a-national-disaster-volunteers-say
 [24]: https://www.sciencedirect.com/science/article/pii/S0956053X20303251
 [25]: https://www.sciencedirect.com/science/article/abs/pii/S0956053X1200373X
+[26]: https://www.sciencedirect.com/science/article/pii/S2405844018304237#!
+[27]: https://www.sciencedirect.com/science/article/abs/pii/S0956053X2030218X
