@@ -219,37 +219,35 @@ While most incinerators look like any other industrial facility, some incinerato
 ### Incineration can be financially sustainable
 
 <!-- CAPEX -->
-Incineration with energy recovery might be a good option for waste disposal if there is a stable stream of waste and skilled staff are available.
+Incineration with energy recovery might be a good option for waste disposal if there are skilled staff are available and a stable stream of waste.
 Associated capital expenditure (CAPEX) and operating expenses (OPEX) are high, but incineration with energy recovery can be profitable as there are many possible revenue streams.
 [Waste to Energy International][28] estimated that CAPEX costs of an incineration plant grow almost linearly with capacity.
-Their estimate of about USD 500 per tonnes of annual waste capacity for a large plant falls within the range of USD 190-1000 per tonnes of annual waste capacity reported by [World Banks][11].
-Since generated electricity is often the main source of revenue, CAPEX is sometimes expressed in terms of kilowatt generation electricity from the plant. 
-[Project Drawdown][6] estimated USD 7 474 per kilowatt of capacity, which falls within the range of USD 7 000 - 10 000 per kilowatt of capacity reported by [World Banks][11].
+! Their CAPEX estimate of USD 500 per tonne of annual waste capacity for a large plant falls within the range of USD 190-1,000 per tonne of annual waste capacity reported by the [the World Bank][11].
+Since generated electricity is often the main source of revenue, CAPEX is sometimes expressed in terms of plant power output in kilowatts. 
+[Project Drawdown][6] estimated CAPEX USD 7,474 per kilowatt of power output, which falls within the range of USD 7,000 - 10,000 per kilowatt of power output reported by [the World Banks][11].
 As a concrete example, let's take an incinerator in Phuket, Thailand built in 2009 and operated since 2012 by [PJT Technology][29].
-The [capacity of this incinerator is 700 tonnes per day][22] and it is operated 7000-8000 hour per year, which means about 224 000 tonnes of annual waste capacity assuming 320 days of operation a year.
-The [CAPEX costs were USD 31.17 million][22], which is USD 139 per tonnes of annual waste capacity and USD 2 793 per kilowatt of capacity.
-<!-- 224,000 tonnes/year * 382.6 kilowat-hour/tonne = 85 702 400 kilowat-hours/year -->
-<!-- 85 702 400 kilowat-hours/year / 7680 hours = 11 159 per kilowatt/year -->
-<!-- 31.17 million / 11 159 per kilowatt/year =  2 793 USD/kilowatt -->
+The [capacity of this incinerator is 700 tonnes per day][22] and it is operated 7000-8000 hours per year, which means about 224 000 tonnes of annual waste capacity, assuming 320 days of operation a year.
+The [CAPEX costs were USD 31.17 million][22], which is USD 139 per tonnes of annual waste capacity and USD 2 793 per kilowatt of power output.
+<!-- 224,000 tonnes * 382.6 kilowat-hour/tonne = 85 702 400 kilowat-hours -->
+<!-- 85 702 400 kilowat-hours / 7680 hours = 11 159 kilowatts (average output) -->
+<!-- 31.17 million USD / 11 159 per kilowatt =  2 793 USD/kilowatt -->
 
 
 <!-- large scale -->
-[Air pollution control systems account for about half of the CAPEX cost of building an incinerator with energy recovery][11], hence there is a significant potential for economies of scale.
-To ensure continuous operations building backup systems is essential, which adds to the cost. 
+! [Air pollution control systems account for about half of the CAPEX cost of building an incinerator with energy recovery][11], hence there is a significant potential for economies of scale.
+To ensure continuous operation, building backup systems is essential, which adds to the cost. 
 [The efficiency of generating electricity generally increases with the scale of the plant, while CAPEX and OPEX per annual waste capacity decrease.][22]
-Due to these reasons large scale incinerators are able to achieve a high rate of efficiency with a low volume of byproducts, and financial profitability. 
-However [in Japan incinerators with capacity as low as 95 tonnes per day][22] (30 000 - 35 000 tonnes per year) are performing well. 
-[Due to the high CAPEX contracts for incineration are typically 25-30 years][11] in duration to allows the developer and its financial backers to recoup the investment made.
+Due to these reasons large scale incinerators are able to achieve a high rate of efficiency, financial profitability and low volume of byproducts.
+However, in Japan, [incinerators with capacities as low as 95 tonnes per day][22] (30 000 - 35 000 tonnes per year) are performing well. 
+[Due to the high CAPEX, contracts for incineration are typically 25-30 years][11] to allow the developer and their financial backers to recoup the investment made.
 
 
 <!-- OPEX -->
-According to the [World Bank][11] OPEX is about 1-3% of CAPEX, about [USD 100-200 per tonne of waste][[11].
-[Project Drawdown][6] estimated fixed operation and maintenance costs to be USD 335 per kilowatt of capacity.
-The incinerator in Phuket reported [USD 9.12 million in total expenses in 2017][22], that is USD 817 per kilowatt of capacity.
+According to the World Bank, [OPEX is about 1-3% of CAPEX, approximately USD 100-200 per tonne of waste][[11].
+[Project Drawdown][6] estimated annual fixed operation and maintenance costs to be USD 335 per kilowatt of power output.
+The incinerator in Phuket reported [USD 9.12 million in total expenses in 2017][22], which is USD 817 per kilowatt of power output.
 In terms of treatment of bottom and fly ash, Denmark reported [costs of USD 41.30 per tonne of bottom ash and USD 162.77 per tonne of fly ash][11].
-<!-- 9.12 million / 11 159 per kilowatt/year =  817 USD/kilowatt -->
-
-
+<!-- 9.12 million USD / 11 159 per kilowatt =  817 USD/kilowatt -->
 
 
 
