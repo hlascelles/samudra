@@ -153,18 +153,6 @@ The next step is to remove the particles from the flue gas by passing it through
 Mercury, a volatile metal, is removed at this stage as it can be collected more efficiently at a lower temperature. 
 
 
-<!-- fly ash -->
-The stuff that collects in the bag filters (removed pollutants together with the injected alkali agent and activated carbon) is known as fly ash.
-The amount of fly ash generated is [3-5% of the waste input by weight][11].
-To prevent toxic pollutants from leaching, fly ash is either disposed of as hazardous waste or treated prior to landfilling or reuse. 
-[In Europe hazardous waste landfills are commonly used to dispose of fly ash, while in USA fly ash is often mixed with bottom ash and disposed of in a sanitary landfill or used as landfill cover.][11]
-[Fly ash can be incorporated in concrete][26], which results in decrease of CO2 emissions, environmental impact and costs associated with concrete and decrease of the heavy metal leaching potential of the fly ash.
-Trace heavy metals from the fly ash might be released from the concrete [during exposure to CO2-saturated water or acid rain][5].
-Fly ash can also be used as a filling material in asphalt.
-In Netherlands fly ash is processed to recover plaster and salt for de-icing.
-[Silica sulfuric acid catalyst can be synthesised from fly ash][27] and used to simultaneously remove both sulfur oxides and nitrogen oxides from flue gas. 
-
-
 <!-- nitrogen oxides -->
 Nitrogen oxides, unlike other acidic gases, cannot be removed with bag filters and require a different system. 
 A combination of three methods - combustion control, catalytic and non-catalytic denitrification - is used to reduce the amount of nitrogen oxides in the flue gas.
@@ -198,6 +186,20 @@ Sometimes smokestacks are build very high to disperse trace polutants across a l
 Apart from bottom ash and fly ash, by-products of incineration include used filters, oil from oil traps, contaminated water from flue gas treatment process and leachate generated from the waste while it is stored in the bunkers. 
 
 
+<!-- fly ash -->
+The stuff that collects in the bag filters (removed pollutants together with the injected alkali agent and activated carbon) is known as fly ash.
+The amount of fly ash generated is [3-5% of the waste input by weight][11].
+To prevent toxic pollutants from leaching, fly ash is either disposed of as hazardous waste or treated prior to landfilling or reuse. 
+[In Europe hazardous waste landfills are commonly used to dispose of fly ash, while in USA fly ash is often mixed with bottom ash and disposed of in a sanitary landfill or used as landfill cover.][11]
+[Fly ash can be incorporated in concrete][26], which results in decrease of CO2 emissions, environmental impact and costs associated with concrete and decrease of the heavy metal leaching potential of the fly ash.
+Trace heavy metals from the fly ash might be released from the concrete [during exposure to CO2-saturated water or acid rain][5].
+Fly ash can also be used as a filling material in asphalt.
+In Netherlands fly ash is processed to recover plaster and salt for de-icing.
+[Silica sulfuric acid catalyst can be synthesised from fly ash][27] and used to simultaneously remove both sulfur oxides and nitrogen oxides from flue gas. 
+
+
+
+
 ### What it looks like
 
 Click on the image below to see a [video][10] of an incinerator created by AEB Amsterdam.
@@ -215,6 +217,40 @@ While most incinerators look like any other industrial facility, some incinerato
 
 
 ### Incineration can be financially sustainable
+
+<!-- CAPEX -->
+Incineration with energy recovery might be a good option for waste disposal if there is a stable stream of waste and skilled staff are available.
+Associated capital expenditure (CAPEX) and operating expenses (OPEX) are high, but incineration with energy recovery can be profitable as there are many possible revenue streams.
+[Waste to Energy International][28] estimated that CAPEX costs of an incineration plant grow almost linearly with capacity.
+Their estimate of about USD 500 per tonnes of annual waste capacity for a large plant falls within the range of USD 190-1000 per tonnes of annual waste capacity reported by [World Banks][11].
+Since generated electricity is often the main source of revenue, CAPEX is sometimes expressed in terms of kilowatt generation electricity from the plant. 
+[Project Drawdown][6] estimated USD 7 474 per kilowatt of capacity, which falls within the range of USD 7 000 - 10 000 per kilowatt of capacity reported by [World Banks][11].
+As a concrete example, let's take an incinerator in Phuket, Thailand built in 2009 and operated since 2012 by [PJT Technology][29].
+The [capacity of this incinerator is 700 tonnes per day][22] and it is operated 7000-8000 hour per year, which means about 224 000 tonnes of annual waste capacity assuming 320 days of operation a year.
+The [CAPEX costs were USD 31.17 million][22], which is USD 139 per tonnes of annual waste capacity and USD 2 793 per kilowatt of capacity.
+<!-- 224,000 tonnes/year * 382.6 kilowat-hour/tonne = 85 702 400 kilowat-hours/year -->
+<!-- 85 702 400 kilowat-hours/year / 7680 hours = 11 159 per kilowatt/year -->
+<!-- 31.17 million / 11 159 per kilowatt/year =  2 793 USD/kilowatt -->
+
+
+<!-- large scale -->
+[Air pollution control systems account for about half of the CAPEX cost of building an incinerator with energy recovery][11], hence there is a significant potential for economies of scale.
+To ensure continuous operations building backup systems is essential, which adds to the cost. 
+[The efficiency of generating electricity generally increases with the scale of the plant, while CAPEX and OPEX per annual waste capacity decrease.][22]
+Due to these reasons large scale incinerators are able to achieve a high rate of efficiency with a low volume of byproducts, and financial profitability. 
+However [in Japan incinerators with capacity as low as 95 tonnes per day][22] (30 000 - 35 000 tonnes per year) are performing well. 
+[Due to the high CAPEX contracts for incineration are typically 25-30 years][11] in duration to allows the developer and its financial backers to recoup the investment made.
+
+
+<!-- OPEX -->
+According to the [World Bank][11] OPEX is about 1-3% of CAPEX, about [USD 100-200 per tonne of waste][[11].
+[Project Drawdown][6] estimated fixed operation and maintenance costs to be USD 335 per kilowatt of capacity.
+The incinerator in Phuket reported [USD 9.12 million in total expenses in 2017][22], that is USD 817 per kilowatt of capacity.
+In terms of treatment of bottom and fly ash, Denmark reported [costs of USD 41.30 per tonne of bottom ash and USD 162.77 per tonne of fly ash][11].
+<!-- 9.12 million / 11 159 per kilowatt/year =  817 USD/kilowatt -->
+
+
+
 
 
 
@@ -291,3 +327,5 @@ Incinerators that can produce varying amounts of electricity combined with machi
 [25]: https://www.sciencedirect.com/science/article/abs/pii/S0956053X1200373X
 [26]: https://www.sciencedirect.com/science/article/pii/S2405844018304237#!
 [27]: https://www.sciencedirect.com/science/article/abs/pii/S0956053X2030218X
+[28]: https://wteinternational.com/
+[29]: http://pjt.co.th/index.php/products/
