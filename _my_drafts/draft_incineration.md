@@ -1,12 +1,3 @@
-flue gas CO2 concentration is 10-15%, the rest is Dinitrogen (N2), O2, water and trace componenets.
-
-
-
-
-
-
-
-
 
 
 
@@ -103,68 +94,6 @@ profit USD 9 million a year given capacity of 224,000 tonnes/year   [22]
 
 
 
-# how it looks like
-
-1.
-
-
-Photo by Rasmus Hjortshoj.
-
-https://www.copenhill.dk/
-
-
-The 1,480-foot artificial ski slope is covered in synthetic bristles that aim to provide the same friction as a freshly groomed slope
-Amager Bakke, a first-of-its-kind public utility topped with an artificial mountain resort, is the Danish capital’s latest landmark.
-
-In Copenhagen, the Danish capital that pledges to become the world’s first carbon-neutral city by 2025, a 410-foot tall smoke stack is a cause for celebration and the massive incinerator beneath it the latest tourist attraction.
-
-The Amager Bakke powerplant, designed by the Danish architect Bjarke Ingels, turns local trash by incineration into low-carbon energy. The process, as designed, is so clean that the facility’s roof has been created to be a recreational area. “CopenHill” opened October 2019, with hiking trails, a fitness center, even an artificial ski slope on its slanted roof.
-
-
-They can also access the 1,480-foot artificial ski slope, but there’s no snow. Instead, green synthetic bristles cover the hill, aiming to provide the same friction as a freshly groomed slope
-
-The plant, which is run by the Amager Ressource Center, opened in the summer of 2017. In 2018, roughly 450,000 tons of garbage was fed into two furnaces and converted into electricity for 30,000 households and heating for 72,000 households. 
-
-
-https://www.nytimes.com/2019/10/23/travel/copenhagen-ski-hill-powerplant.html
-
-
-
-
-
-2. 
-
-Roskilde Plant, Denmark
-Photographs:  Tim Van de Velde
-waste-to-energy Incineration Line, the city of Roskilde in Denmark
-[The Energy Tower designed by Erick van Egeraat][https://www.archdaily.com/544175/incineration-line-in-roskilde-erick-van-egeraat]. The facility was inaugurated by His Royal Highness Crown Prince Frederik on September 2, 2014.
-
-The plant will incinerate waste, from nine surrounding municipalities and from many places abroad to produce electricity and heat power for the whole region of Roskilde. 
-
-A 97-metre spire towers above the landscape and wraps around the plant's chimney, creating a contemporary counterpoint to the steeples of the city's historic cathedral.
-Designed by Dutch architect Erick van Egeraart, the building has won a number of architectural awards.
-
---
-The plant will use more than 95% of the energy in the waste processed.
-The plant capacity is 250-300K tonnes per annum. Steam from the plant is supplied into the district heating system for supply to 40,000 homes. Electricity is supplied to the grid for 65,000 homes.
-The output in thermal expression is 19 MW of electricity and 52 MW of heat.
-The plant has a steam generating efficiency of 82% and an overall efficiency of 34%.
-
-Minerals are extracted from bottom ash for reuse. The metal-free bottom ash is also used for the foundations of roads and carparks and replaces the use of aggregates.
-Where bottom ash is used, less than 5% of residual flue gas residue extracted through cleaning processes remains for landfill.
-
-
-The plant cost €175m Euro and was commissioned in 2013.
-Revenue comes from sale of heat and electricity, use of bottom ash and a gate fee (around €40 euro per tonne).
-
-https://www.martinbiopower.com/projects/case-studies/roskilde-plant-denmark/
-
-
-3.
-
-https://www.suez.co.uk/en-gb/our-offering/success-stories/our-references/powering-self-sufficiency-on-the-isle-of-man
-
-4.
 
 
 
@@ -172,6 +101,20 @@ https://www.suez.co.uk/en-gb/our-offering/success-stories/our-references/powerin
 
 
 
+
+
+
+
+
+
+
+
+
+Amager Bakke is billed as one of the cleanest waste-to-energy plants in the world in Copenhagen, the Danish
+The plant is run by waste management firm, Amager Resource Centre (ARC) 
+Selective Catalytic Reduction breaks down harmful nitrogen oxide (NOx) into nitrogen and water vapour.
+"I have heard of only one more plant in the world having this kind of catalytic reduction of NOx," Mr Blinksbjerg says. 
+https://www.bbc.com/news/business-49877318
 
 
 # misc 
@@ -179,6 +122,7 @@ https://www.suez.co.uk/en-gb/our-offering/success-stories/our-references/powerin
 Treatment of the flue gas is the longest part of the whole production process. 
 
 
+flue gas CO2 concentration is 10-15%, the rest is Dinitrogen (N2), O2, water and trace componenets.
 
 
 # calorific value of waste

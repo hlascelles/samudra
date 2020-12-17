@@ -15,10 +15,14 @@ categories:
     - explore
 factchecked: "no"
 gallery:
-    - image_url: incinerator-tokyo.jpg
-      caption: Minato incinerator in Tokyo.
+    - image_url: incinerator-copenhagen.jpg
+      caption: Amager Bakke waste-to-energy plant in Copenhagen, Denmark. Photo by Rasmus Hjortshoj.
     - image_url: incinerator-osaka.jpg
-      caption: The Maishima incinerator in Osaka was designed by Viennese artist Friedensreich Hundertwasser. It processes 328,500 tonnes of waste per year.
+      caption: Maishima waste-to-energy plant in Osaka, Japan. Photo by Yumi Asada.
+    - image_url: incinerator-denmark.jpg
+      caption: Waste-to-energy plant in Roskilde, Denmark. Photo by Tim Van de Velde.
+    - image_url: incinerator-isle-of-man.jpg
+      caption: Richmond Hill waste-to-energy plant on Isle of Man.
 ---
 
 
@@ -129,8 +133,7 @@ Flue gas, the exhaust air generated during combustion, contains solid particles,
 Some trace elements tend to evaporate at combustion temperatures and then recondense when the temperature falls in the heat transfer sections of a boiler. 
 This recondensation results in both homogeneous submicron particles of trace elements and ash particles covered in a heterogeneous layer of trace elements.
 Flue gas must be treated before being released from the incinerator's chimney stack.
-Prior to treatment, flue gas is cooled to under 200&#8451; with water injections or more efficiently by indirectly heating the water in the pipes. 
-! which pipes?
+Prior to treatment, flue gas is cooled to under 200&#8451; with water injections or more efficiently by indirectly heating the water in the heat exchanger pipes.
 This is followed by a series of absorption, scrubbing and filtering steps.
 A typical air pollution control system includes the following components: an acid gas removal system, dioxin and mercury removal system, a particulate removal system, a nitrogen oxide removal system, and a pollution control system.
 These may include wet scrubbers that spray water to remove large-scale particles, mechanical filters for capturing fine particles, oil traps, and chambers that house controlled chemical reactions for capturing harmful gaseous compounds.
@@ -203,18 +206,40 @@ In Netherlands fly ash is processed to recover plaster and salt for de-icing.
 
 ### What it looks like
 
-Click on the image below to see a [video][10] of an incinerator created by AEB Amsterdam.
+Click on the image below to see the [video][10] of an incinerator operated by AEB Amsterdam.
 
 <a href="https://youtu.be/DROZUstnsnw">
-<img src="/images/incineration-plant-warning-sign.jpg" 
+<img src="/images/incinerator-diagram.jpg" 
     alt="Waste-to-Energy: process explanation (2007) by AEB Amsterdam Grondstoffen- en energiebedrijf" 
     style="width: 100%; max-width: 605px;" class="center">
 </a>
 
-While most incinerators look like any other industrial facility, some incinerators in Japan are architectural gems:
+While most incinerators look like any other industrial facility, some incinerators are architectural gems.
+Amager Bakke waste-to-energy plant in Copenhagen, Denmark is also a [ski slope][33].
+A 450 meter artificial ski slope is covered in green synthetic bristles which provide friction similar to fresh show.
+[The plant was designed by a Danish architect Bjarke Ingels.][34]
+The plants capacity is 450,000 tonnes per year; it is predicted that [by 2024 almost half of the material processed will be imported waste and biomass][35].
+[The output is electricity for 30,000 homes and heating district heating for 72,000 homes.][34]
+[This is one of the cleanest waste-to-energy plants in the world][35], due to its air pollution control systems. 
+[The plant cost USD 600 million to built.][35]
+
 <div name="gallery" id="gallery"></div> 
 {% include gallery %}
 
+Maishima waste-to-energy plant in Osaka, Japan processes [328,500 tonnes of waste per year][37] and attracts 12,000 tourists annually.
+[It was designed by an Austrian artist Friedensreich Hundertwasser][37], who also designed Spittelau waste-to-energy plant in Vienna, Austria.
+The plant cost USD 600 million to built.
+
+
+Waste-to-energy plant in Roskilde, Denmark has won a number of architectural awards.
+A spire that wraps around the plant's chimney, 97 metre tall, towers above the landscape, creating a contemporary counterpart to the steeples of the historic Roskilde Cathedral.
+[The plant was designed by Dutch architect Erick van Egeraart][31]. 
+The plants capacity is 250,000 - 300,000 tonnes per year; it processes waste from nine surrounding municipalities and waste imported from abroad.
+[The output is 19 megawatt of electricity and 52 megawatt of heat, that is electricity for 65,000 homes and district heating for 40,000 homes. The plant cost USD 215 million to built.][32]
+
+
+Richmond Hill waste-to-energy plant on Isle of Man processes all domestic and commercial waste produced on the island, as well as medical waste, old tyres and bio‑waste from sewage treatment.
+[The plants capacity is 50,000 tonnes per year. It generates 25,000 megawatt hours per year, covering 10% of the island’s electricity needs.][36]
 
 
 ### Incineration can be financially sustainable
@@ -240,8 +265,7 @@ Large scale incinerators are able to achieve low volumes of by-products, a high 
 Air pollution control systems are the most expensive part of the incinerator; and all stages of flue gas treatment are essential, even for the smallest incinerator.
 To ensure continuous operation, backup systems are required, which further add to the cost. 
 air pollution control systems often [account for half of the CAPEX of building an incinerator with energy recovery][11], and this proportion is even higher for small plants.
-In Japan, a relatively rich country, [incinerators with capacities as low as 95 tonnes per day][22] (30,000 - 35,000 tonnes per year) are performing well. 
-! wealthy country, financially sustainable
+In wealthy countries like Japan [incinerators with capacities as low as 95 tonnes per day][22] (30,000 - 35,000 tonnes per year) can be financially sustainable. 
 [Due to the high CAPEX, contracts for incineration plants are typically 25-30 years][11] to allow the developer and their financial backers to recoup the investment made.
 
 
@@ -340,3 +364,10 @@ Incinerators that can produce varying amounts of electricity combined with machi
 [28]: https://wteinternational.com/
 [29]: http://pjt.co.th/index.php/products/
 [30]: https://www.globalccsinstitute.com/resources/publications-reports-research/waste-to-energy-with-ccs-a-pathway-to-carbon-negative-power-generation/
+[31]: https://www.archdaily.com/544175/incineration-line-in-roskilde-erick-van-egeraat
+[32]: https://www.martinbiopower.com/projects/case-studies/roskilde-plant-denmark/
+[33]: https://www.copenhill.dk/en/
+[34]: https://www.nytimes.com/2019/10/23/travel/copenhagen-ski-hill-powerplant.html
+[35]: https://www.bbc.com/news/business-49877318
+[36]: https://www.suez.co.uk/en-gb/our-offering/success-stories/our-references/powering-self-sufficiency-on-the-isle-of-man
+[37]: https://www.abc.net.au/news/2018-05-21/the-japanese-waste-incinerator-that-has-its-own-tripadvisor-page/9780872
