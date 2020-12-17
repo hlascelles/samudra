@@ -129,7 +129,8 @@ Flue gas, the exhaust air generated during combustion, contains solid particles,
 Some trace elements tend to evaporate at combustion temperatures and then recondense when the temperature falls in the heat transfer sections of a boiler. 
 This recondensation results in both homogeneous submicron particles of trace elements and ash particles covered in a heterogeneous layer of trace elements.
 Flue gas must be treated before being released from the incinerator's chimney stack.
-Prior to treatment flue gas is cooled to under 200&#8451; with water injections or more efficiently by indirectly heating the water in the pipes. 
+Prior to treatment, flue gas is cooled to under 200&#8451; with water injections or more efficiently by indirectly heating the water in the pipes. 
+! which pipes?
 This is followed by a series of absorption, scrubbing and filtering steps.
 A typical air pollution control system includes the following components: an acid gas removal system, dioxin and mercury removal system, a particulate removal system, a nitrogen oxide removal system, and a pollution control system.
 These may include wet scrubbers that spray water to remove large-scale particles, mechanical filters for capturing fine particles, oil traps, and chambers that house controlled chemical reactions for capturing harmful gaseous compounds.
@@ -141,7 +142,7 @@ Series of electrostatic precipitators are often used to remove the particles fro
 First the flue gas is funneled past electrodes that charge the particles with a negative voltage, then past electrodes that are charged with a positive voltage. 
 The particles stick to the electrodes with opposite charge and are subsequently moved into a collector by an automated shaking or brushing mechanism. 
 There are concerns that [<i>de novo</i> synthesis of dioxins][22] happens in electrostatic precipitators that operate at around 300&#8451;.
-Often bag filters are used (at a later stage) instead of electrostatic precipitators to remove the particles from the flue gas cooled to under 200&#8451;, too cold for dioxin synthesis.
+To mitigate this risk, sometimes bag filters are used (at a later stage) instead of electrostatic precipitators to remove the particles from the flue gas cooled to under 200&#8451;, which is too cold for dioxin synthesis.
 
 
 <!-- scrubbing and bag filters -->
@@ -157,12 +158,12 @@ Mercury, a volatile metal, is removed at this stage as it can be collected more 
 Nitrogen oxides, unlike other acidic gases, cannot be removed with bag filters and require a different system. 
 A combination of three methods - combustion control, catalytic and non-catalytic denitrification - is used to reduce the amount of nitrogen oxides in the flue gas.
 Combustion control is a method for reducing emissions of nitrogen oxides by forming a low-oxygen atmosphere inside the combustion chamber, for example by recirculating some of the combusted flue gas to the furnace.
-Maintaining low-oxygen atmosphere results in increase of carbon monoxide unless the temperature and the air ratio in the combustion chamber are finely controlled.
+Maintaining low-oxygen atmosphere results in an increase of carbon monoxide unless the temperature and the air ratio in the combustion chamber are finely controlled.
 A 2013 [Swiss study][25] provides an overview of this method. 
 Non-catalytic denitrification method involves spraying an ammonia or urea solution into the combustion chamber to decompose nitrogen oxides.
 The amount of solution sprayed and the temperature of the flue gas (above 800&#8451;) must be precisely controlled.
 Catalytic denitrification method involves facilitating the reaction of nitrogen oxides in the flue gas with ammonia and oxygen with the help of a catalyst, for example vanadium pentoxide/titanium dioxide.
-As a result nitrogen oxides decomposes into nitrogen and water and trace dioxins are decomposed too.
+As a result nitrogen oxides decomposes into nitrogen and water and trace dioxins are decomposed as well.
 The efficiency of catalytic denitrification method is about 95%, higher than that of non-catalytic denitrification and combustion control.
 The catalyst requires that the flue gas is free from particles and at a temperature of 200&#8451; or higher, which means that the flue gas must be first filtered through bag filters and then reheated.
 The flue gas is reheated using steam which reduces the amount of power generated.
@@ -174,12 +175,12 @@ New catalysts that are effective at temperatures below 200&#8451; are currently 
 Real-time emissions monitoring systems allow for the concentrations of pollutants in flue gas emissions to be measured continuously, in addition to periodical measurements conducted by external monitoring organisations. 
 Until recently emissions of dioxins, furans and mercury could only be monitored by periodical measurements, new technologies like AMESA (Adsorption MEthod for SAmpling of dioxins and furans) are changing that.
 It has been shown that dioxin emissions occur at high levels during start-ups and cool-downs of an incinerator. 
-This is the reason why semi-continuous type (operated during the day and unused during the night) and batch-type incinerators that were common in Japan have been replaced with continuous incineration systems.
+For this reason, semi-continuous type (operated during the day and unused during the night) and batch-type incinerators that were common in Japan have been replaced with continuous incineration systems.
 While total dioxin emissions is what really matters, only emissions that occur during steady state operation are regulated by environmental laws.
 Installing backup air pollution control systems is essential for being able to operate an incinerator continuously.
 Most incinerators have a "filter bypass mode" which allows to bypass air pollution control systems and emit flue gas directly into the environment.
 Incinerators that are locked into contracts with electricity companies that require a certain amount of power to be provided per unit of time, sometimes have to use "filter bypass mode" during necessary repairs. 
-Emissions can be tested indirectly, for example by monitoring concentration of dioxins and furans in chicken eggs in nerby farms. 
+Emissions can be tested indirectly, for example by monitoring concentration of dioxins and furans in chicken eggs in nearby farms. 
 The visible white plumes coming out of incinerator smokestacks, that get people concerned, are water vapour and carbon dioxide. 
 Unfortunately, pollutant emissions are invisible and hence cannot be monitored without specialised equipment. 
 Sometimes smokestacks are build very high to disperse trace polutants across a larger area and hence minimize the concentrations.
@@ -219,7 +220,7 @@ While most incinerators look like any other industrial facility, some incinerato
 ### Incineration can be financially sustainable
 
 <!-- CAPEX -->
-Incineration with energy recovery might be a good option for waste disposal if there are skilled staff available and a stable stream of waste.
+Incineration with energy recovery might be a good option for waste disposal if there are skilled staff available and a steady input of waste.
 Associated capital expenditure (CAPEX) and operating expenses (OPEX) are high, but incineration with energy recovery can be profitable as there are many possible revenue streams.
 [Waste to Energy International][28] estimated that CAPEX of an incineration plant grow almost linearly with capacity.
 According to the [World Bank][11] CAPEX is USD 190-1,000 per tonne of annual waste capacity, depending on the location and size of the plant.
@@ -234,12 +235,13 @@ The [CAPEX were USD 31.17 million][22], which is USD 139 per tonnes of annual wa
 
 
 <!-- large scale -->
-Large scale incinerators are able to achieve low volume of by-products, a high rate of efficiency, and financial profitability due to economies of scale. 
+Large scale incinerators are able to achieve low volumes of by-products, a high rate of efficiency, and financial profitability due to economies of scale. 
 [The efficiency of generating electricity generally increases with the scale of the plant, while CAPEX and OPEX per annual waste capacity decrease.][22]
 Air pollution control systems are the most expensive part of the incinerator; and all stages of flue gas treatment are essential, even for the smallest incinerator.
 To ensure continuous operation, backup systems are required, which further add to the cost. 
-Often air pollution control systems [account for half of the CAPEX of building an incinerator with energy recovery][11], this proportion is even higher for small plants.
+air pollution control systems often [account for half of the CAPEX of building an incinerator with energy recovery][11], and this proportion is even higher for small plants.
 In Japan, a relatively rich country, [incinerators with capacities as low as 95 tonnes per day][22] (30,000 - 35,000 tonnes per year) are performing well. 
+! wealthy country, financially sustainable
 [Due to the high CAPEX, contracts for incineration plants are typically 25-30 years][11] to allow the developer and their financial backers to recoup the investment made.
 
 
@@ -255,7 +257,7 @@ When the incinerator is no longer operational, there are no further OPEX, unlike
 
 <!-- income -->
 The thermal energy produced during combustion, in the form of electricity and heat, is the major source of income. 
-In Japan, [a tonne of MWS incinerated results in 400 kilowatt-hours produced][22].
+In Japan, [one tonne of MWS incinerated results in 400 kilowatt-hours produced][22].
 The incinerator in Phuket reported [382.6 kilowatt-hours per tonne of MWS incinerated][22] in 2017.
 [The capacity factor][6], ratio of the actual to the maximum possible electrical energy output, is on average 77%.
 In China, Japan, Thailand and other countries feed-in tariff (FIT) schemes allow the incineration plants to sell the electricity generated to outside customers.
@@ -298,7 +300,7 @@ During incineration a lot of the carbon contained in the waste is released into 
 The magnitude of this reduction varies substantially depending on the baseline used for comparison.
 The important factors are the efficiency of the incinerator (type and amount of additional fuel used, interaction with the electricity system), the emissions intensity of the energy sources being displaced (carbon-intensity of local electricity and/or heating generation), the type of the waste (caloric value of the waste, fraction of combustible materials in the waste, its methane generation potential) and likely alternative waste disposal methods.
 An incinerator can generate up to 10 times more electricity from the same amount of waste compared to a landfill with methane capture.
-Combining incineration with carbon capture technology can result in a carbon negative waste disposal method.
+[Combining incineration with carbon capture technology][30] can result in a carbon negative waste disposal method.
 Incinerators can act as sources of back-up power in the event of a power failure during a disaster; [in Japan this is considered an important additional benefit][22].
 Unlike sunlight, wind or waves, waste can be stored and transformed into electricity when required. 
 Incinerators that can produce varying amounts of electricity combined with machine learning algorithms powered by demand and meteorological data would accelerate the switch to renewable energy sources.
@@ -337,3 +339,4 @@ Incinerators that can produce varying amounts of electricity combined with machi
 [27]: https://www.sciencedirect.com/science/article/abs/pii/S0956053X2030218X
 [28]: https://wteinternational.com/
 [29]: http://pjt.co.th/index.php/products/
+[30]: https://www.globalccsinstitute.com/resources/publications-reports-research/waste-to-energy-with-ccs-a-pathway-to-carbon-negative-power-generation/
