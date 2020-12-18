@@ -28,7 +28,7 @@ gallery:
 
 
 <!-- what is it -->
-Incineration is just a fancy word for controlled combustion.
+Incineration is a technical term for controlled combustion.
 Often referred to as burning, combustion is a high-temperature exothermic chemical reaction between a fuel and an oxidant, in this case waste and atmospheric oxygen.
 Heat and light energy is released during this reaction and transferred to the surroundings, hence it is called an exothermic reaction.
 
@@ -50,6 +50,13 @@ This heat vaporises the water in the boiler's heat exchangers, a series of pipes
 This steam forces the blades of the turbine to rotate, driving the generator and producing electricity. 
 A tonne of MSW with suitable characteristics can result in 500-600 kilowatt hours (kWh).
 The water travels through the system in a closed loop cycle - after passing through the turbine as steam it cools down and condenses back to liquid, then it returns to the heat exchangers to be heated again.
+
+
+<!-- steam conditions -->
+[In Japan, typical steam conditions are 400&#8451; temperature and 4 megapascal (MPa) pressure.][22] 
+These values are low in comparison with power plants fired by coal or natural gas, where steam conditions are 500&#8451; and 15-25 MPa.
+These conditions cannot be replicated in MSW incinerators due to corrosive gases like hydrogen chloride present in the flue gas.
+Higher efficiency could only be achieved at the expensive of fast pipe corrosion.
 
 
 <!-- the waste goes in -->
@@ -132,7 +139,7 @@ It is important to consider that landfilling the bottom ash or the waste itself,
 Flue gas, the exhaust air generated during combustion, contains solid particles, acidic gases, dioxins and heavy metals.
 Some trace elements tend to evaporate at combustion temperatures and then recondense when the temperature falls in the heat transfer sections of a boiler. 
 This recondensation results in both homogeneous submicron particles of trace elements and ash particles covered in a heterogeneous layer of trace elements.
-Flue gas must be treated before being released from the incinerator's chimney stack.
+Flue gas must be treated before being released from the incinerator's chimney stack; this is the longest part of the whole incineration process.
 Prior to treatment, flue gas is cooled to under 200&#8451; with water injections or more efficiently by indirectly heating the water in the heat exchanger pipes.
 This is followed by a series of absorption, scrubbing and filtering steps.
 A typical air pollution control system includes the following components: an acid gas removal system, dioxin and mercury removal system, a particulate removal system, a nitrogen oxide removal system, and a pollution control system.
@@ -184,7 +191,7 @@ Installing backup air pollution control systems is essential for being able to o
 Most incinerators have a "filter bypass mode" which allows to bypass air pollution control systems and emit flue gas directly into the environment.
 Incinerators that are locked into contracts with electricity companies that require a certain amount of power to be provided per unit of time, sometimes have to use "filter bypass mode" during necessary repairs. 
 Emissions can be tested indirectly, for example by monitoring concentration of dioxins and furans in chicken eggs in nearby farms. 
-The visible white plumes coming out of incinerator smokestacks, that get people concerned, are water vapour and carbon dioxide. 
+The visible white plumes coming out of incinerator smokestacks, that get people concerned, are water vapour, carbon dioxide (10-15%), oxygen and nitrogen.
 Unfortunately, pollutant emissions are invisible and hence cannot be monitored without specialised equipment. 
 Sometimes smokestacks are build very high to disperse trace polutants across a larger area and hence minimize the concentrations.
 Apart from bottom ash and fly ash, by-products of incineration include used filters, oil from oil traps, contaminated water from flue gas treatment process and leachate generated from the waste while it is stored in the bunkers. 
@@ -279,13 +286,29 @@ When the incinerator is no longer operational, there are no further OPEX, unlike
 <!-- 9.12 million USD / 11 159 per kilowatt =  817 USD/kilowatt -->
 
 
-<!-- income -->
-The thermal energy produced during combustion, in the form of electricity and heat, is the major source of income. 
-In Japan, [one tonne of MWS incinerated results in 400 kilowatt-hours produced][22].
-The incinerator in Phuket reported [382.6 kilowatt-hours per tonne of MWS incinerated][22] in 2017.
-[The capacity factor][6], ratio of the actual to the maximum possible electrical energy output, is on average 77%.
-In China, Japan, Thailand and other countries feed-in tariff (FIT) schemes allow the incineration plants to sell the electricity generated to outside customers.
+<!-- direct revenue -->
+The thermal energy produced during combustion, in the form of electricity and heat, is the major source of revenue for waste-to-energy plants. 
+The incinerator in Phuket reported [382.6 kilowatt-hours per tonne of MWS incinerated][22] in 2017, which is similar to [Japan's average of 400 kilowatt-hours per tonne of MWS][22].
+In China, Japan, Thailand and other countries feed-in tariff (FIT) schemes allow the waste-to-energy plants to sell the generated electricity to outside customers.
 In some countries governments hold the monopoly on electricity, which restricts or even prevents this.
+Selling recyclables separated from the waste before incineration and metals recovered from the bottom ash is another source of revenue.
+Bottom and fly ash can be sold as construction materials or fertilisers. 
+
+
+<!-- supplement revenue -->
+[Often selling energy and materials is insufficient to cover the operating costs,][22] and hence additional sources of revenue are required. 
+Tipping fees (also known as gate fees) are a major source of revenue. 
+These are paid by the local government or companies that deliver waste to the incinerator. 
+In some cases, carbon credits under the Clean Development Mechanism (CDM) may be used to supplement the revenue of an incineration plant. 
+Diverting waste from landfills, and hence preventing methane emissions, and producing energy that otherwise would be generated from fossil fuels qualifies waste-to-energy plants for carbon credits that they can sell to companies. 
+Governments sometimes supplement the revue of waste-to-energy plants with tax refunds, local and national subsidies.
+
+
+<!-- example -->
+In 2017, the incinerator in Phuket reported revenue of [USD 80.67 per tonne of waste processed - USD 17.24 in tipping fees and USD 63.43 from electricity sales][22]. 
+The high amount of revenue from electricity sales is due to [Thailand’s national subsidy programme (Adder) and high FIT selling rates (about USD 0.17 per kilowatt hour)][22].
+[The OPEX were USD 40.71 per tonne][22], hence resulting in an annual profit of USD 8.95 million for processing 224,000 tonnes of waste. 
+In the EU the total revenue, including government subsidies, is usually double that at [about USD 100 per tonne of waste processed][11].
 
 
 
