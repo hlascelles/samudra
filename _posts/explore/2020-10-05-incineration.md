@@ -84,6 +84,7 @@ Due to this and the [additional costs][9] of fuel preparation and bed materials 
 The combustion occurs at a temperature between 850&#8451; and 1200&#8451;. 
 Feeding uniform quality waste at the right speed avoids hot spots within the furnace and allows for a uniform temperature to be maintained. 
 Some hydrocarbon gas components originating from the volatile organic compounds in the waste are dioxin precursors.
+Waste with higher content of chlorine and certain metals like copper produces more dioxins when incinerated.
 To form stable end products and break down the dioxins that form inside the combustion chamber it is essential to ensure complete combustion of both waste and flue gas. 
 [This is achieved][22] by maintaining the required high temperature, regulating the oxygen content and the retention time of the waste and flue gas in the combustion chamber, and providing sufficient turbulence via the moving grates. 
 Sustaining uniform high temperature allows to keep carbon monoxide levels low.
@@ -116,7 +117,8 @@ Technologies that would allow the extraction and reuse of valuable materials in 
 
 <!-- bottom ash usage -->
 Once the metals have been extracted, the rest of the bottom ash is either sent to a landfill or cleaned and subsequently used by the construction industry.
-The bottom ash can be used for landscaping or as a sand substitute in asphalt and cement.  
+[In Europe about 54% of bottom ash is used in construction.][45]
+The bottom ash can be used for landscaping and in construction to produce cement, asphalt and [glazed tiles][51].  
 [Research conducted in Thailand][2] showed that addition of bottom ash to Portland cement results in similar compressive strengths and decreased water requirement.
 Similarly, [addition of bottom ash to calcium sulfo-aluminate cement][3], which is used in high early strength and rapid setting applications, results in similar compressive strengths and porosity.
 High-density glass-like aggregate material called ["slag" can be produced by melting bottom ash at 1250&#8451; or more][22].
@@ -125,18 +127,21 @@ Slag is a high quality construction material, but the construction and operation
 
 <!-- environmental concerns -->
 There is a concern that contaminants present in bottom ash, if not removed prior to use, might leach out if the asphalt or cement is exposed to particular conditions, for example [constant running water][19], [road salting during freezing temperatures][13], acid rain or simply time. 
-[A 2020 study in China][12] found that while alkaline elements (calcium, silicon and aluminium) accounted for over 70% of the total mass of the bottom ash sample examined, chlorine, sulfur, iron, magnesium, phosphorus, titanium, potassium, sodium and zinc accounted for another 25-30%, and copper, chromium, lead, strontium and barium accounted for up to 1.5%.
+A European [literature review][49] covers the pre-2019 research about leaching behaviour of cement produced with bottom ash.
+[A 2020 Chinese study][12] found that while alkaline elements (calcium, silicon and aluminium) accounted for over 70% of the total mass of the bottom ash sample examined, chlorine, sulfur, iron, magnesium, phosphorus, titanium, potassium, sodium and zinc accounted for another 25-30%, and copper, chromium, lead, strontium and barium accounted for up to 1.5%.
 The study concluded that bottom ash is an appropriate material for road construction due to its low metal leaching potential.
 Earlier studies in [Denmark][14], [China][15], [Germany][16], [Singapore][17] and the [US][18] also showed that heavy metals (barium, cadmium, chromium, copper, lead, nickel and zinc) are often present in bottom ash. 
 Their [concentration is highest amongst particles smaller than 2 millimeters in diameter][16], hence sieving might be an option for separating the fraction of the bottom ash most suitable for use in the construction industry. 
 [Metals have different leaching profiles][15] - for some the amount of leaching monotonically increases or decreases with time, for others it fluctuates based on several factors.
+A Singapore study showed that [heavy metals can be washed out from the bottom ash with nitric acid][46]. 
+A [recent European study][45] provides an overview of different leaching tests.
 [The US][18] study showed that the amount of leaching from asphalt and concrete with added bottom ash meets the criteria of the US Secondary Drinking Water Standard.
 Ultimately the environmental and health impact of using bottom ash in construction depends on the original composition of the waste processed, methods used to clean the bottom ash before usage, and the type of material to which the bottom ash is added. 
 It is important to consider that landfilling the bottom ash or the waste itself, without incinerating it first, does not necessarily reduce the leaching of the contaminants into the surrounding soil and groundwater.
 
 
 <!-- flue gas -->
-Flue gas, the exhaust air generated during combustion, contains solid particles, acidic gases, dioxins and heavy metals.
+Flue gas, the exhaust air generated during combustion, contains solid particles, acidic gases, [dioxins][53] and heavy metals.
 Some trace elements tend to evaporate at combustion temperatures and then recondense when the temperature falls in the heat transfer sections of a boiler. 
 This recondensation results in both homogeneous submicron particles of trace elements and ash particles covered in a heterogeneous layer of trace elements.
 Flue gas must be treated before being released from the incinerator's chimney stack; this is the longest part of the whole incineration process.
@@ -152,7 +157,7 @@ Series of electrostatic precipitators are often used to remove the particles fro
 First the flue gas is funneled past electrodes that charge the particles with a negative voltage, then past electrodes that are charged with a positive voltage. 
 The particles stick to the electrodes with opposite charge and are subsequently moved into a collector by an automated shaking or brushing mechanism. 
 There are concerns that [<i>de novo</i> synthesis of dioxins][22] happens in electrostatic precipitators that operate at around 300&#8451;.
-To mitigate this risk, sometimes bag filters are used (at a later stage) instead of electrostatic precipitators to remove the particles from the flue gas cooled to under 200&#8451;, which is too cold for dioxin synthesis.
+To mitigate this risk, sometimes bag filters are used (at a later stage) instead of electrostatic precipitators to remove the particles from the flue gas cooled to under 200&#8451;, which is too cold for dioxin synthesis that happens only in 200-600&#8451; temperature range.
 
 
 <!-- scrubbing and bag filters -->
@@ -184,14 +189,17 @@ New catalysts that are effective at temperatures below 200&#8451; are currently 
 <!-- monitoring -->
 Real-time emissions monitoring systems allow for the concentrations of pollutants in flue gas emissions to be measured continuously, in addition to periodical measurements conducted by external monitoring organisations. 
 Until recently emissions of dioxins, furans and mercury could only be monitored by periodical measurements, new technologies like AMESA (Adsorption MEthod for SAmpling of dioxins and furans) are changing that.
-It has been shown that dioxin emissions occur at high levels during start-ups and cool-downs of an incinerator. 
+
+
+It has been shown that dioxin emissions occur at high levels [during startups][43], [after startups][50] and [during shutdowns][48] of an incinerator. 
+A 2016 [Taiwan study][47] showed that dioxin emission levels characteristic of steady state operation are reached only 15 days after startup, for the first 9-12 of these the emissions exceed the amount allowed by the environmental regulations.
 For this reason, semi-continuous type (operated during the day and unused during the night) and batch-type incinerators that were common in Japan have been replaced with continuous incineration systems.
 While total dioxin emissions is what really matters, only emissions that occur during steady state operation are regulated by environmental laws.
 Installing backup air pollution control systems is essential for being able to operate an incinerator continuously.
 Most incinerators have a "filter bypass mode" which allows to bypass air pollution control systems and emit flue gas directly into the environment.
 Incinerators that are locked into contracts with electricity companies that require a certain amount of power to be provided per unit of time, sometimes have to use "filter bypass mode" during necessary repairs. 
 Emissions can be tested indirectly, for example by monitoring concentration of dioxins and furans in chicken eggs in nearby farms. 
-The visible white plumes coming out of incinerator smokestacks, that get people concerned, are water vapour, carbon dioxide (10-15%), oxygen and nitrogen.
+The visible white plumes coming out of incinerator smokestacks, that get people concerned, are [water vapour (10-18% by volume), CO&#8322; (6-15% by volume), oxygen (7-14% by volume) and nitrogen][59].
 Unfortunately, pollutant emissions are invisible and hence cannot be monitored without specialised equipment. 
 Sometimes smokestacks are build very high to disperse trace polutants across a larger area and hence minimize the concentrations.
 Apart from bottom ash and fly ash, by-products of incineration include used filters, oil from oil traps, contaminated water from flue gas treatment process and leachate generated from the waste while it is stored in the bunkers. 
@@ -201,13 +209,24 @@ Apart from bottom ash and fly ash, by-products of incineration include used filt
 The stuff that collects in the bag filters (removed pollutants together with the injected alkali agent and activated carbon) is known as fly ash.
 The amount of fly ash generated is [3-5% of the waste input by weight][11].
 To prevent toxic pollutants from leaching, fly ash is either disposed of as hazardous waste or treated prior to landfilling or reuse. 
-[In Europe hazardous waste landfills are commonly used to dispose of fly ash, while in USA fly ash is often mixed with bottom ash and disposed of in a sanitary landfill or used as landfill cover.][11]
-[Fly ash can be incorporated in concrete][26], which results in decrease of CO2 emissions, environmental impact and costs associated with concrete and decrease of the heavy metal leaching potential of the fly ash.
-Trace heavy metals from the fly ash might be released from the concrete [during exposure to CO2-saturated water or acid rain][5].
+[In Europe hazardous waste landfills are commonly used to dispose of fly ash, while in US fly ash is often mixed with bottom ash and disposed of in a sanitary landfill or used as landfill cover.][11]
+[Fly ash can be incorporated in concrete][26], which results in decrease of CO&#8322; emissions, environmental impact and costs associated with concrete and decrease of the heavy metal leaching potential of the fly ash.
+Trace heavy metals from the fly ash might be released from the concrete [during exposure to CO&#8322;-saturated water or acid rain][5].
 Fly ash can also be used as a filling material in asphalt.
 In Netherlands fly ash is processed to recover plaster and salt for de-icing.
-[Silica sulfuric acid catalyst can be synthesised from fly ash][27] and used to simultaneously remove both sulfur oxides and nitrogen oxides from flue gas. 
+[Sulfuric acid from the flue gas can be separated and recirculated into the furnace; as demonstrated in the incinerator in Gothenburg, Sweden.][44]
+This reduces the chlorine content of bottom and fly ash, reduces dioxin formation in the flue gas by about 25%, and reduces corrosion by 60–90% thus allowing for higher steam temperature and hence more electricity production without increasing corrosion.
+[Silica sulfuric acid catalyst can be synthesised from fly ash][27] and used to simultaneously remove both sulfur oxides and nitrogen oxides from flue gas.
 
+
+
+<!-- zinc from fly ash -->
+Researchers at Chalmers University of Technology in Sweden [developed a method for extracting 70% of the zinc present in the fly ash][42].
+An acid wash is separated from the flue gas and mixed with the fly ash to release zinc and other metal ions.
+Hydroxide precipitation of the resulting slurry, followed by filtration of the formed crystals, produces a filter cake with about 80% zinc hydroxide by weight.
+This can be processed in existing production lines in the metal industry to generate high purity zinc metal.
+The residual ash is re-incinerated to break down the dioxins; 90% of it turns into non hazardous bottom ash that can be used by the construction industry.
+In late 2020, the ash washing facility with zinc recycling is under construction in Gothenburg, Sweden; there this method will be applied at scale for the first time.
 
 
 
@@ -222,30 +241,30 @@ Click on the image below to see the [video][10] of an incinerator operated by AE
 </a>
 
 While most incinerators look like any other industrial facility, some incinerators are architectural gems.
-Amager Bakke waste-to-energy plant in Copenhagen, Denmark is also a [ski slope][33].
+Amager Bakke waste-to-energy (WtE) plant in Copenhagen, Denmark is also a [ski slope][33] and the [world’s tallest man-made climbing wall (85 meters)][52].
 A 450 meter artificial ski slope is covered in green synthetic bristles which provide friction similar to fresh show.
 [The plant was designed by a Danish architect Bjarke Ingels.][34]
 The plants capacity is 450,000 tonnes per year; it is predicted that [by 2024 almost half of the material processed will be imported waste and biomass][35].
 [The output is electricity for 30,000 homes and heating district heating for 72,000 homes.][34]
-[This is one of the cleanest waste-to-energy plants in the world][35], due to its air pollution control systems. 
+[This is one of the cleanest WtE plants in the world][35], due to its air pollution control systems. 
 [The plant cost USD 600 million to built.][35]
 
 <div name="gallery" id="gallery"></div> 
 {% include gallery %}
 
-Maishima waste-to-energy plant in Osaka, Japan processes [328,500 tonnes of waste per year][37] and attracts 12,000 tourists annually.
-[It was designed by an Austrian artist Friedensreich Hundertwasser][37], who also designed Spittelau waste-to-energy plant in Vienna, Austria.
+Maishima WtE plant in Osaka, Japan processes [328,500 tonnes of waste per year][37] and attracts 12,000 tourists annually.
+[It was designed by an Austrian artist Friedensreich Hundertwasser][37], who also designed Spittelau WtE plant in Vienna, Austria.
 The plant cost USD 600 million to built.
 
 
-Waste-to-energy plant in Roskilde, Denmark has won a number of architectural awards.
+WtE plant in Roskilde, Denmark has won a number of architectural awards.
 A spire that wraps around the plant's chimney, 97 metre tall, towers above the landscape, creating a contemporary counterpart to the steeples of the historic Roskilde Cathedral.
 [The plant was designed by Dutch architect Erick van Egeraart][31]. 
 The plants capacity is 250,000 - 300,000 tonnes per year; it processes waste from nine surrounding municipalities and waste imported from abroad.
 [The output is 19 megawatt of electricity and 52 megawatt of heat, that is electricity for 65,000 homes and district heating for 40,000 homes. The plant cost USD 215 million to built.][32]
 
 
-Richmond Hill waste-to-energy plant on Isle of Man processes all domestic and commercial waste produced on the island, as well as medical waste, old tyres and bio‑waste from sewage treatment.
+Richmond Hill WtE plant on Isle of Man processes all domestic and commercial waste produced on the island, as well as medical waste, old tyres and bio‑waste from sewage treatment.
 [The plants capacity is 50,000 tonnes per year. It generates 25,000 megawatt hours per year, covering 10% of the island’s electricity needs.][36]
 
 
@@ -261,8 +280,8 @@ Since generated electricity is often the main source of revenue, CAPEX is someti
 As a concrete example, let's take an incinerator in Phuket, Thailand built in 2009 and operated since 2012 by [PJT Technology][29].
 The [capacity of this incinerator is 700 tonnes per day][22] and it is operated 7,000-8,000 hours per year, which means about 224,000 tonnes of annual waste capacity, assuming 320 days of operation a year.
 The [CAPEX were USD 31.17 million][22], which is USD 139 per tonnes of annual waste capacity and USD 2,793 per kilowatt of power output.
-<!-- 224,000 tonnes * 382.6 kilowat-hour/tonne = 85 702 400 kilowat-hours -->
-<!-- 85 702 400 kilowat-hours / 7680 hours = 11 159 kilowatts (average output) -->
+<!-- 224,000 tonnes * 382.6 kilowatt-hour/tonne = 85 702 400 kilowatt-hours -->
+<!-- 85 702 400 kilowatt-hours / 7680 hours = 11 159 kilowatts (average output) -->
 <!-- 31.17 million USD / 11 159 per kilowatt =  2 793 USD/kilowatt -->
 
 
@@ -287,9 +306,9 @@ When the incinerator is no longer operational, there are no further OPEX, unlike
 
 
 <!-- direct revenue -->
-The thermal energy produced during combustion, in the form of electricity and heat, is the major source of revenue for waste-to-energy plants. 
+The thermal energy produced during combustion, in the form of electricity and heat, is the major source of revenue for WtE plants. 
 The incinerator in Phuket reported [382.6 kilowatt-hours per tonne of MWS incinerated][22] in 2017, which is similar to [Japan's average of 400 kilowatt-hours per tonne of MWS][22].
-In China, Japan, Thailand and other countries feed-in tariff (FIT) schemes allow the waste-to-energy plants to sell the generated electricity to outside customers.
+In China, Japan, Thailand and other countries feed-in tariff (FIT) schemes allow the WtE plants to sell the generated electricity to outside customers.
 In some countries governments hold the monopoly on electricity, which restricts or even prevents this.
 Selling recyclables separated from the waste before incineration and metals recovered from the bottom ash is another source of revenue.
 Bottom and fly ash can be sold as construction materials or fertilisers. 
@@ -300,8 +319,8 @@ Bottom and fly ash can be sold as construction materials or fertilisers.
 Tipping fees (also known as gate fees) are a major source of revenue. 
 These are paid by the local government or companies that deliver waste to the incinerator. 
 In some cases, carbon credits under the Clean Development Mechanism (CDM) may be used to supplement the revenue of an incineration plant. 
-Diverting waste from landfills, and hence preventing methane emissions, and producing energy that otherwise would be generated from fossil fuels qualifies waste-to-energy plants for carbon credits that they can sell to companies. 
-Governments sometimes supplement the revue of waste-to-energy plants with tax refunds, local and national subsidies.
+Diverting waste from landfills, and hence preventing methane emissions, and producing energy that otherwise would be generated from fossil fuels qualifies WtE plants for carbon credits that they can sell to companies. 
+Governments sometimes supplement the revue of WtE plants with tax refunds, local and national subsidies.
 
 
 <!-- example -->
@@ -315,12 +334,6 @@ In the EU the total revenue, including government subsidies, is usually double t
 ### Waste incineration is used in many countries
 
 
-<!-- in Africa -->
-[Reppie incinerator with energy recovery][1] opened in Addis Ababa, Ethiopia in 2018; it was the first one in Africa.
-It processes about 1350 tonnes of waste a day, over 80% of the city's waste.
-This results in hundreds of local jobs, cleaner air in the city and significantly less methane emissions from waste. 
-The plant produces electricity to power 30% of the city's homes and bricks made from bottom ash. 
-
 
 
 
@@ -332,25 +345,34 @@ The plant produces electricity to power 30% of the city's homes and bricks made 
 Incineration destroying pathogens present in waste, thus preventing waste-associated disease outbreaks.
 Incineration produces less air pollution than open burning of waste, where combustion is incomplete due to low temperatures. 
 Unlike landfills, this waste disposal method doesn't require much land, and hence it doesn't contribute to deforestation or competition for agricultural land. 
+An incinerator can generate up to 10 times more electricity from the same amount of waste compared to a landfill with methane capture.
 Since incineration doesn't involve storing waste for long time, environmental risks associated with storms, [floods][23] and unintended fires are significantly lower. 
 Similarly to recycling and landfilling, incineration can be very environmentally damaging if done as cheaply as possible.
 Preventing environmental damage requires ongoing financial commitment.
 Environmental impact of incineration can be limited with regulations covering environmental assessments, bottom and fly ash disposal, emission standards for flue gas, and polluted water filtration requirements. 
 In countries that lack the capacity to enforce environmental laws, these kind of regulations have minimal effect.
 Early incinerators that were inefficient and produced a lot of pollution resulted in negative public perception, that is now slowly changing.
+[The dioxin emissions of all 53 waste-to-energy plants in US accounted for 0.09% of total dioxin emissions in 2012.][56]
 A Greek [study][24] published in July 2020 examined different scenarios of pollutant emission rates and concluded that in the worst-case scenario operation of an MSW incinerator would add addition 0.03% to the existing environmental pressures (road traffic, industrial activity, etc.) in Thessaloniki area.
-
-
-<!-- GHG emissions -->
-According to the [research conducted by Project Drawdown][6] wider adoption of incineration with energy recovery could reduce global CO2 emissions.
-During incineration a lot of the carbon contained in the waste is released into the environment as CO2; but despite this in many cases [incineration reduces greenhouse gas emissions associated with waste][22].
-The magnitude of this reduction varies substantially depending on the baseline used for comparison.
-The important factors are the efficiency of the incinerator (type and amount of additional fuel used, interaction with the electricity system), the emissions intensity of the energy sources being displaced (carbon-intensity of local electricity and/or heating generation), the type of the waste (caloric value of the waste, fraction of combustible materials in the waste, its methane generation potential) and likely alternative waste disposal methods.
-An incinerator can generate up to 10 times more electricity from the same amount of waste compared to a landfill with methane capture.
-[Combining incineration with carbon capture technology][30] can result in a carbon negative waste disposal method.
 Incinerators can act as sources of back-up power in the event of a power failure during a disaster; [in Japan this is considered an important additional benefit][22].
 Unlike sunlight, wind or waves, waste can be stored and transformed into electricity when required. 
 Incinerators that can produce varying amounts of electricity combined with machine learning algorithms powered by demand and meteorological data would accelerate the switch to renewable energy sources.
+
+
+<!-- GHG emissions -->
+According to the [research conducted by Project Drawdown][6] wider adoption of incineration with energy recovery could reduce global CO&#8322; emissions.
+During incineration a lot of the carbon contained in the waste is released into the environment as CO&#8322;.
+According to the Global CCS Institute, [1 tonne of MSW containes 190 kg of carbon which results in 698 kg of CO&#8322; emitted during incineration][59]; other estimates range from [425 kg][54] to [994 kg][55] of CO&#8322; equivalent.
+Despite this in many cases [incineration reduces greenhouse gas emissions associated with waste][22].
+The magnitude of this reduction varies substantially depending on the baseline used for comparison.
+The important factors are the efficiency of the incinerator (type and amount of additional fuel used, interaction with the electricity system), the emissions intensity of the energy sources being displaced (carbon-intensity of [local electricity and/or heating generation][58]), the type of the waste (caloric value of the waste, fraction of combustible materials in the waste, its methane generation potential) and likely alternative waste disposal methods.
+A 2014 [Swiss study][54] estimated that the reduction could be 67-752 kg of CO&#8322; equivalent per 1 tonne of MSW incinerated.
+
+
+<!-- carbon capture -->
+[Combining incineration with carbon capture technology][30] can result in a carbon negative waste disposal method.
+
+
 
 
 
@@ -369,7 +391,7 @@ Incinerators that can produce varying amounts of electricity combined with machi
 [10]: https://youtu.be/DROZUstnsnw
 [11]: https://olcstage.worldbank.org/sites/default/files/sco/E9CB337D-79D8-EAF4-44EE-AF3A7ADADADF/swm_m03/story_content/external_files/DMG_Incineration.pdf
 [12]: https://link.springer.com/article/10.1007/s11356-020-08007-9
-[13]: https://www.semanticscholar.org/paper/Environmental-assessment-of-roads-constructed-with-Birgisdottir-Pihl/80f24f632d3cd50e6a50afe74dc87824ecddb14c
+[13]: https://www.sciencedirect.com/science/article/abs/pii/S1361920906000393
 [14]: https://www.sciencedirect.com/science/article/pii/S0301479714005738
 [15]: https://www.sciencedirect.com/science/article/abs/pii/S0956053X18304240
 [16]: https://www.sciencedirect.com/science/article/abs/pii/S0956053X18304987
@@ -382,7 +404,7 @@ Incinerators that can produce varying amounts of electricity combined with machi
 [23]: https://www.rnz.co.nz/news/national/390639/fox-river-rubbish-spill-should-be-declared-a-national-disaster-volunteers-say
 [24]: https://www.sciencedirect.com/science/article/pii/S0956053X20303251
 [25]: https://www.sciencedirect.com/science/article/abs/pii/S0956053X1200373X
-[26]: https://www.sciencedirect.com/science/article/pii/S2405844018304237#!
+[26]: https://www.sciencedirect.com/science/article/pii/S2405844018304237
 [27]: https://www.sciencedirect.com/science/article/abs/pii/S0956053X2030218X
 [28]: https://wteinternational.com/
 [29]: http://pjt.co.th/index.php/products/
@@ -394,3 +416,25 @@ Incinerators that can produce varying amounts of electricity combined with machi
 [35]: https://www.bbc.com/news/business-49877318
 [36]: https://www.suez.co.uk/en-gb/our-offering/success-stories/our-references/powering-self-sufficiency-on-the-isle-of-man
 [37]: https://www.abc.net.au/news/2018-05-21/the-japanese-waste-incinerator-that-has-its-own-tripadvisor-page/9780872
+[38]: https://www.powerengineeringint.com/decentralized-energy/on-site-renewables/a-winning-formula/
+[39]: https://datacatalog.worldbank.org/dataset/what-waste-global-database
+[40]: https://stats.oecd.org/Index.aspx?DataSetCode=MUNW
+[41]: https://www.ecoprog.com/index.htm
+[42]: https://www.recycling-magazine.com/2020/12/16/extracting-precious-zinc-from-waste-ash/
+[43]: https://www.sciencedirect.com/science/article/abs/pii/S0045653506013816
+[44]: https://www.sciencedirect.com/science/article/pii/S0956053X13004054
+[45]: https://www.sciencedirect.com/science/article/pii/S0956053X19307275
+[46]: https://www.sciencedirect.com/science/article/abs/pii/S0956053X20306462
+[47]: https://www.sciencedirect.com/science/article/pii/S0045653515304422
+[48]: https://www.sciencedirect.com/science/article/pii/S0045653506007533
+[49]: https://www.sciencedirect.com/science/article/pii/S0921344918303392
+[50]: https://royalsocietypublishing.org/doi/10.1098/rsos.171079
+[51]: https://www.tandfonline.com/doi/abs/10.1080/10473289.2005.10464614
+[52]: https://www.copenhill.dk/en/activities/climbing
+[53]: https://www.who.int/news-room/fact-sheets/detail/dioxins-and-their-effects-on-human-health
+[54]: https://www.sciencedirect.com/science/article/abs/pii/S0956053X13005059
+[55]: https://www.epa.gov/sites/production/files/2015-07/documents/emission-factors_2014.pdf
+[56]: https://www.sciencedirect.com/science/article/pii/S0956053X15300775
+[57]: https://www.sciencedirect.com/science/article/pii/S036054422030459X
+[58]: https://journals.sagepub.com/doi/10.1177/0734242X09345276
+[59]: https://www.globalccsinstitute.com/wp-content/uploads/2019/10/Waste-to-Energy-Perspective_October-2019-5.pdf

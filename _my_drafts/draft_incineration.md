@@ -1,4 +1,84 @@
 
+One of the promising technologies, not yet available at industrial scale, is [oxy-fuel combustion][57] - using recirculated flue gas as an oxidant instead of oxygen.
+THe advantages of oxy-fuel combustion technology are reduced volume of flue gas that needs to be treated, increased and stabilized combustion temperature, greatly reduced amount of nitrogen oxides, and the possibility to retrofit existing incineration plants.
+
+
+
+
+https://www.reuters.com/article/us-norway-burning-rubbish-idUSKCN0WQ1BM
+
+The world’s first experiment to capture carbon dioxide from the fumes of burning rubbish is nearing completion in Oslo.
+
+The test at the Klemetsrud incinerator,
+
+The Klemetsrud incinerator emits more than 300,000 tonnes of carbon dioxide a year, or 0.6 percent of Norway’s man-made emissions. 
+
+
+what is nice from this flue gas from Klemetsrud is the high content of the CO2, it’s about 12 percent, volume percent, of CO2
+
+So 300,000 tonnes comes here every year and we can capture 300,000 tonnes CO2 from those 300,000 tonnes of waste. So it’s approximately one ton of CO2 per ton of waste that can be captured
+
+
+Officials declined to discuss costs but said the price of emitting carbon dioxide in the European Union emissions trading market would have to be far above a current 6 euros ($6.50) per ton for the technology to be feasible at scale.
+
+
+If we succeed in this, this will be negative emissions because the mix of carbon in the waste is approximately 50 to 60 percent biological and 40 to 50 percent fossil, so the biological part of it will be carbon negative, or negative emissions,
+
+
+
+
+_______
+
+
+[59]
+
+UsingCCS  in the  waste-to-energy  industry  presents  a  particular  opportunity for bioenergy with carbon capture and storage (BECCS);
+
+
+
+Bio
+80 tonnes of C -> 293 tonnes of CO2  (3.66 per tonne)
+
+Non-bio
+110 tonnes of C -> 405 tonnes of CO2 (3.68 per tonne)
+
+
+MSW contains materials of biogenic (plant-derived) and non-biogenic (fossil fuel) origin. When incinerated, the biogenic component produces CO2,which does not lead to increasing atmospheric CO2levels.
+
+If a capture project captures more than the non-biogenic fraction of its CO2 emissions, it can allow a facility to become a net-negative CO2 emitter.
+
+
+
+
+CO2 concentrations for WtE are in the range best suited for capture with amine-based absorption plants.
+
+
+Current developments in solvent innovation, process integration and intensification could potentially lower the CO2 capture cost to USD35-50 per tonne CO2in power generation applications.
+
+
+
+Twence Waste to Energy plant –Netherlands
+facility which has operated since 1986
+Every year the facility processes over 830,000 tonnes of waste
+The capture system will have a CO2capture capacity of 100,000 tonnes per year by 2021. Liquefied CO2will be sold to customers by tanker for use in greenhouses and industrial applications.
+https://www.thechemicalengineer.com/news/aker-solutions-to-provide-carbon-capture-technology-to-waste-to-energy-plant/
+https://www.akersolutions.com/news/news-archive/2019/aker-solutions-signs-carbon-capture-contract-with-twence-in-the-netherlands/
+
+
+
+Klemetsrud, Norway
+
+ facility processing over 400,000 tonnes of non-recyclable MSW
+
+Following a successful 2011 pilot project to capture 90 per cent of the CO2from a small flue gas stream, a full-scale carbon capture project is now under development. 
+
+The project will capture 400,000 tonnes of CO2every year with an amine-based absorption capture plant. 
+
+
+
+Saga City, Japan
+
+Saga City in Saga Prefecture, Japan,is the home of an MSW waste-to-energy plant. Since 2016, a Toshiba-designed CO2capture plant has operated at this site(Figure 8)capturing10 tonnes/day for use in the local agricultural sector. 
 
 
 
@@ -6,51 +86,71 @@
 
 
 
-banned in Australia https://wastemanagementreview.com.au/new-policy-rules-out-incineration-of-waste/
+Although this is an early example of large-scale capture from Waste-to-Energy, the capture process is well understood and tested in other capture applications.
+
+
+
+__
+
+https://www.academia.edu/26950843/Sustainable_Development_in_Practice_Case_Studies_for_Engineers_and_Scientists
+
+https://www.worldbank.org/en/topic/urbandevelopment/brief/solid-waste-management
+
+Zevenhoven, R. & Kilpinen, P., 2002. Control of pollutants in flue gases and fuel gases, Espoo/Turku, Finland: Helsinki University of Technology
+
+Perrot, J.-F. & Subiantoro, A., 2018. Municipal Waste Management Strategy Review and Waste-to-Energy Potentials in New Zealand. Sustainability, Volume 10.
 
 
 
 
 
-Much of Japan's waste is burnt at one of the 1,000-plus incinerators dotted around the country.
-There are 21 waste incineration plants in the central part of Tokyo. it's not had to spot the smoke stacks which stick out even among the megacity's towering skyline.
-Japan—a country with the largest number of incineration facilities in the world
-
-
-little space - Singapore, Denmark, Switzerland
-
-[Today, around 2,450 thermal waste treatment plants are active worldwide. They have a disposal capacity of around 368 million tons of waste per year. Only in 2018, more than 60 new plants had been installed with a total treatment capacity of more than 14 million tpy. We estimate nearly 2,700 plants with a capacity of more than 530 million tpy to be operational by 2028.][https://www.ecoprog.com/fileadmin/user_upload/extract_market_report_WtE_2019-2020_ecoprog.pdf]
 
 
 
-[In 2018, the first modern WtE plant in Vietnam went online in the city of Can Tho, the fourth largest city in Vietnam. The project was developed by China Everbright.][https://www.ecoprog.com/fileadmin/user_upload/extract_market_report_WtE_2019-2020_ecoprog.pdf]
-[Once up and running the Everbright facility is planned to have an intake capacity of 128,000 tpa of MSW and an electricity generation capacity of 6.25MW. The plant is operated by the Can Tho Everbright Environmental Protection Holdings Ltd (EB Can Tho). The investments involved in the project amount to approx. USD 45.6 million.
-][https://en.vietnamplus.vn/first-wastetoenergy-plant-in-can-tho-begins-trial-operation/140095.vnp]
 
 
 
-According to World Bank 2015 data 80.2% of MSW is incinerated in Japan. https://datacatalog.worldbank.org/dataset/what-waste-global-database
-
-in 2018, 47%-57% in Finland, Sweden, Denmark, Norway and Switzerland according to OECD.Stat https://stats.oecd.org/Index.aspx?DataSetCode=MUNW
-
-
-[2018 Current adoption was estimated at 0.54 percent of generation (i.e. 142 terawatt-hours).][6]
 
 
 
-Waste-to-energy has seen wide adoption in Europe, the USA, and Japan, and adoption is growing rapidly in China. The Organisation for Economic Co-operation and Development (OECD) countries are most likely to see significant growth in its market penetration moving forward, as the primary barriers to entry for waste-to-energy are high capital cost (in part due to high-cost pollution control technologies, which are essential in mitigating potential adverse public health impacts) and the reliable availability of municipal solid waste with a high caloric heating value. 
 
 
-While controlled thermal treatment of waste has been deployed in many countries around the world, Western Europe and Japan have adopted the technology as a substantial component of their waste management portfolio, demonstrating the potential effectiveness given the right political environment.
+[The world's first WtE plant opened in New York 1898.][38]
+Since then incineration has been adopted widely by many wealthy countries, especially the ones where land is scarce, for example Singapore, Denmark and Switzerland.
+According to the World Bank, [80.2% of MSW was incinerated in 2015 in Japan][39].
+According to OECD.Stat, [47%-57% of MSW was incinerated in 2018 in Finland, Sweden, Denmark, Norway and Switzerland][39].
+Project Drawdown estimated that [WtE plants generated 142 terawatt-hours of electricity in 2018, about 0.54% of global electricity demand][6].
 
-Rotary cement kilns and lightweight aggregate kilns, for example, have been used since 1972, with some early examples in Canada. These kilns became widespread in USA, Belgium, and Switzerland. The hazardous waste is used as an auxiliary fuel along with other feed stocks like clays, pumice, scoria, shale, and slate, in the production of cement. Some mobile incinerators are used for on-site contaminated soil remediation.
 
-The first U.S. waste-to-energy plant was operating in 1905 in New York City. 
 
-1992 survey indicates 2.1 million tons of contaminated soil being trated using mobile incinerators in USA
+
+
+
+According to Ecoprog, a consultancy, [about 2,450 WtE plants were active worldwide in 2018][41].
+Of the total global capacity of 368 million tonnes of waste per year, 14 million have been added in 2018 by building 60 new plants.
+
+
+Ecoprog estimates that [about 2,700 WtE plants will be active worldwide in 2028][41], bringing the global capacity of 530 million tonnes of waste per year. 
+
+
+
+(OECD) countries are most likely to see significant growth in its market penetration moving forward, as the primary barriers to entry for waste-to-energy are high capital cost and the reliable availability of municipal solid waste with a high caloric heating value. 
+
+
+
+
+
+
+
+
+
+
+
 
 
 ### sweden
+
+It is estimated on average that the energy efficiency of Swedish incinerators means that they have a €30/t gate fee advantage over Netherlands and Germany. https://www.tolvik.com/published-reports/view/rdf-exports-here-for-good/
 
 Sweden incinerates 2 million tones of waste per year. Heating 810,000 homes and providing electricity to 250,000 homes. Importing SW from Norway.
 
@@ -75,31 +175,51 @@ Selective Catalytic Reduction breaks down harmful nitrogen oxide (NOx) into nitr
 "I have heard of only one more plant in the world having this kind of catalytic reduction of NOx," Mr Blinksbjerg says. 
 https://www.bbc.com/news/business-49877318
 
+[Denmark now has 29 Waste-to-Energy (WtE) plants, serving 98 municipalities in a country of 5.5 million people, with 10 more planned for construction.][https://www.martinbiopower.com/projects/case-studies/roskilde-plant-denmark/]
 
 [Denmark depends on burning vast quantities of garbage to generate power, using highly efficient incinerators that scrub the worst of the pollutants from flue gases. Incineration accounts for about a fifth of district heating and about 5 percent of its electricity. The trouble is that Danes don't generate enough trash to power its plants. Denmark has 23 incinerators capable of burning 3.8 million tons of waste a year; it imported nearly 1 million tons in 2018, mainly from the U.K. and Germany. 'We import waste with a high content of plastic in order to use the excess capacity at the incineration plants, with increasing CO2 emission as a result," said Dan Jørgensen, Denmark's climate minister. As a result, Denmark intends to reduce its incineration capacity by 30 percent by 2030 under a June 2020 agreement to restructure the country's waste management. To cut overcapacity, it will need to close seven incinerators. The deal also includes plans to introduce a recycling system with 10 different streams of waste (glass, paper, textiles, etc.) and to slash the amount of garbage it imports. "The process of burning trash is inherently polluting — you can put state-of-the-art pollution controls on an incinerator, but that doesn’t make the facility clean," said Jens Peter Mortensen, a waste expert at the Danish Society for Nature Conservation. The issues can be clearly seen on Bornholm, a Danish island in the Baltic Sea. It has the country’s smallest incineration plant, which the island aims to shut in 2032.][https://www.politico.eu/article/denmark-devilish-waste-trash-energy-incineration-recycling-dilemma/]
 
-### malaysia
+### japan
+Much of Japan's waste is burnt at one of the 1,000-plus incinerators dotted around the country.
+There are 21 waste incineration plants in the central part of Tokyo. it's not had to spot the smoke stacks which stick out even among the megacity's towering skyline.
+Japan—a country with the largest number of incineration facilities in the world
 
-Incineration of municipal solid waste in Malaysia https://www.sciencedirect.com/science/article/abs/pii/S1364032113002001
 
-Challenges for Sustainable Development of Waste to Energy in Developing Countries  - https://journals.sagepub.com/doi/full/10.1177/0734242X20903564
 
-## bad stories
+
+
+
+
+
+# in poor countries
+
+
+<!-- in Africa -->
+[Reppie incinerator with energy recovery][1] opened in Addis Ababa, Ethiopia in 2018; it was the first one in Africa.
+It processes about 1350 tonnes of waste a day, over 80% of the city's waste.
+This results in hundreds of local jobs, cleaner air in the city and significantly less methane emissions from waste. 
+The plant produces electricity to power 30% of the city's homes and bricks made from bottom ash. 
+
+
+
+
 
 There have been numerous examples where “proven” technologies in developed countries have failed in developing countries because sufficient attention was not paid to “soft” strategic aspects, namely, political, institutional, social, financial, economic and technical elements.
 - the high moisture content, low combustibility, and seasonal variations of waste make it unsuitable for direct incineration. Waste quantity may also vary by collection and transportation system, governance ability, season or as a result of natural disasters.
 
-
-
-the concept is failing in the developed world e.g. the amount of recyclables in Germany extracted from the waste stream is so high that the remaining calorific value of the waste stream is too low for waste-to-energy facilities. Now, these facilities require co-firing using fossil fuels, which is unsustainab.
-
-[2015 Research showed that calorific value of MSW in Tehran, Iran is insufficient to run a financially viable incinerator.][https://www.semanticscholar.org/paper/Techno-economic-assessment-of-municipal-solid-waste-Tehrani-Haghi/c82cf874f2870fbac46ba6561c374d88212776be]
-
 Incineration has been challenged in some low and middle- income countries where facilities built decades ago without proper waste characterization studies and lack of air pollution control equipment resulted in insufficient and low- quality feedstock, inefficient incineration, and high levels of air pollution. 
 
+An extreme example is the incinerator that was marketed to a Nairobi private waste collector by a Swedish company in the 1990s, with the ‘guarantee’ that it would burn garbage
+and turn it into hundreds of litres of clean drinking water
 
 
-In Phuket, Thailand, Construction started on the first incinerator in 1996 by the Department of Public Works in the Ministry of Interior which had been in operation since 1999 with a capacity of treating 250 tonnes of MSW per day. But the total volume of waste (about 350 tonnes/day) exceeded the capacity of the incinerator, resulting in excess waste being dumped in a landfill site since 2003. A second incinerator was built by a private company and strated operating in 2012. However, the operation of this incinerator has been suspended due to facility maintenance since 2012.  Phuket City Municipality submitted an application to the central government to subsidise maintenance costs which was not granted, resulting in the suspension of operations at the first incineration plant. In the early days, food waste was collected and traditionally used as livestock feed especially for swine. However, due to a boom in tourism and urbanisation, piggeries were forced to close, and owners sold their land or moved to neighbouring provinces where land was much cheaper. Because of such social changes, surplus food waste was shifted into the main waste stream and organic components sent to incinerators almost doubled from 34% in 1993 to 64% in 2004. As a result, the quantity of dioxins and furan gas was found to exceed the national emission control standard for solid waste incinerators.
+In 1984, the Municipal Corporation of Delhi, India, built an incinerator to process 300 tonnes per day of solid waste and produce 3MW of power, with technical assistance from Denmark, at a cost of around US$3.5 million.The plant was designed for segregated waste as input, which was not practised by the households or promoted by the municipality.The plant had to be closed down within a week of its opening as the waste had a very low heat- ing value and a high percentage of inert materials.
+
+
+There are examples in several continents of donor-funded incinerators that have never oper- ated, but have sat for years as a kind of dinosaur in the landscape.
+
+
+Clearly, simply importing European, American or Japanese disposal or incineration technologies to a low- or middle-income country,without considering how they will work under local conditions, can be a recipe for environmen- tal and economic disaster.
 
 
 
@@ -119,6 +239,20 @@ In Phuket, Thailand, Construction started on the first incinerator in 1996 by th
 
 
 # calorific value of waste
+
+Generally, waste is suitable for combustion without additional fuel when itcontains <50per cent moisture, >25per centcarbon and has <60per centash yield. https://www.globalccsinstitute.com/wp-content/uploads/2019/10/Waste-to-Energy-Perspective_October-2019-5.pdf
+
+
+lower (LHV) or higher heating value (HHV) of the waste,
+
+The energy content of the waste, the average lower calorific value (LCV) must be at least 4000-6000 KJ/kg10 throughout all seasons. 2017_Solid-Waste-Management-in-Nagpur-India.pdf
+
+[In the early days, food waste was collected and traditionally used as livestock feed especially for swine. However, due to a boom in tourism and urbanisation, piggeries were forced to close, and owners sold their land or moved to neighbouring provinces where land was much cheaper. Because of such social changes, surplus food waste was shifted into the main waste stream and organic components sent to incinerators almost doubled from 34% in 1993 to 64% in 2004.][22]
+http://gmsarnjournal.com/home/wp-content/uploads/2015/08/vol5no3-8.pdf
+
+
+
+[2015 Research showed that calorific value of MSW in Tehran, Iran is insufficient to run a financially viable incinerator.][https://www.semanticscholar.org/paper/Techno-economic-assessment-of-municipal-solid-waste-Tehrani-Haghi/c82cf874f2870fbac46ba6561c374d88212776be]
 
 seasonal variations in waste content must be considered. For example, waste may contain more moisture in the rainy season. 
 calorific value of waste - add a definition?
