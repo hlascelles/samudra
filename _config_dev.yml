@@ -30,7 +30,7 @@ sass:
   # FUTURE https://github.com/jekyll/jekyll-sass-converter/issues/12
   # sourcemap: true # Produces an error
 
-# # Disable when not in production
+# Disable when not in production
 google_analytics_tracking_id: false
 
 
@@ -61,6 +61,22 @@ google_analytics_tracking_id: false
 
 
 
+
+
+## Manual code for widgets
+# <div class="medium-4 columns frontpage-widget">
+#   <a href="https://www.linkedin.com/in/karina-zile/"><img src="/images/team-karina.jpg" alt="" ></a>
+#   <a href="https://www.linkedin.com/in/karina-zile/"><h2 class="font-size-h3 t10">Karina Zile</h2></a>
+#   <h2 class="font-size-h5 font-widget-teaser t10">Blah</h2>
+#   <h2 class="font-size-h5 font-widget-teaser t10">Bla2</h2>
+#   <p>Test</p>
+#   <div class="text-center"></div>
+# </div>
+
+
+
+
+# We are still working on this article. If you'd like to catch it as soon as it appears here, add this <a href="https://samudra.world/feed.xml" target="_blank">link</a> to your RSS feed collector.
 
 
 

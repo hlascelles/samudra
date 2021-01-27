@@ -118,7 +118,7 @@ Technologies that would allow the extraction and reuse of valuable materials in 
 <!-- bottom ash usage -->
 Once the metals have been extracted, the rest of the bottom ash is either sent to a landfill or cleaned and subsequently used by the construction industry.
 [In Europe about 54% of bottom ash is used in construction.][45]
-The bottom ash can be used for landscaping and in construction to produce cement, asphalt and [glazed tiles][51].  
+The bottom ash can be used for landscaping and in construction to produce cement, asphalt and [glazed tiles][51].  
 [Research conducted in Thailand][2] showed that addition of bottom ash to Portland cement results in similar compressive strengths and decreased water requirement.
 Similarly, [addition of bottom ash to calcium sulfo-aluminate cement][3], which is used in high early strength and rapid setting applications, results in similar compressive strengths and porosity.
 High-density glass-like aggregate material called ["slag" can be produced by melting bottom ash at 1250&#8451; or more][22].
@@ -282,7 +282,7 @@ The [capacity of this incinerator is 700 tonnes per day][22] and it is operated 
 The [CAPEX were USD 31.17 million][22], which is USD 139 per tonnes of annual waste capacity and USD 2,793 per kilowatt of power output.
 <!-- 224,000 tonnes * 382.6 kilowatt-hour/tonne = 85 702 400 kilowatt-hours -->
 <!-- 85 702 400 kilowatt-hours / 7680 hours = 11 159 kilowatts (average output) -->
-<!-- 31.17 million USD / 11 159 per kilowatt =  2 793 USD/kilowatt -->
+<!-- 31.17 million USD / 11 159 per kilowatt =  2 793 USD/kilowatt -->
 
 
 <!-- large scale -->
@@ -302,7 +302,7 @@ The incinerator in Phuket reported [USD 9.12 million in total expenses in 2017][
 In terms of treatment of bottom and fly ash, Denmark reported [costs of USD 41.30 per tonne of bottom ash and USD 162.77 per tonne of fly ash][11].
 Some of the electricity produced is used to power the plant itself, which means that there is no electricity bill to pay. 
 When the incinerator is no longer operational, there are no further OPEX, unlike landfills that require costly monitoring for several decades after closing.
-<!-- 9.12 million USD / 11 159 per kilowatt =  817 USD/kilowatt -->
+<!-- 9.12 million USD / 11 159 per kilowatt =  817 USD/kilowatt -->
 
 
 <!-- direct revenue -->
