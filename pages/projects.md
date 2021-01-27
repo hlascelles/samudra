@@ -2,32 +2,54 @@
 layout: kz-page
 title: "This is what we do"
 permalink: /projects/
-teaser: Our goals are to reduce the environmental pollution and greenhouse gas emissions associated with waste, and to minimise the impact of waste on human health. We aim to design projects with the highest estimated impact. In depth research guides everything we do. Learn more about our current and upcoming projects below.
+subheadline: Waste management for our planet and people, not profit
+teaser: "Our goals are to reduce the environmental pollution and greenhouse gas emissions associated with waste, and to minimise the impact of waste on human and animal health. Here is what we do to achieve these goals:"
 header:
   title: ""
   image_fullwidth: landingpage_image.jpg
 widgets:
-- url: /projects/increasing-waste-collection-in-indonesia/
-  image: indonesia-landfill-thejakartapost-dot-com.jpg
-  title: '<a href="/projects/increasing-waste-collection-in-indonesia/" target="_self">Current project: Improving the coverage of waste collection services in Indonesia</a>'
-  text: Only 32% of municipal solid waste is currently collected in Indonesia. Uncollected waste is either openly burnt (leading to adverse effects on air quality) or dumped (facilitating the spread of disease vectors and contagious diseases). Dumped waste is likely to end up in our oceans. The aim of this project is to increase the proportion of municipal solid waste that is collected and to ensure that it is properly disposed of.
-  anchor: increasing-waste-collection-in-indonesia
-  cols: 6
-- url: /projects/future-projects/
-  image: world-wall-by-Karina-Zile.jpg
-  title: <a href="/projects/future-projects/" target="_self">What we plan to do next</a>
-  text: In the near future we plan to initiate projects focused on different stages of the waste management process - from informing the design of products that will eventually become waste to new recycling techniques and international waste trade. These projects will be guided by the in depth research we do. Different countries all across the globe face similar waste management challenges, which is why we aim to increase our impact by sharing what we've learnt and to actively learn from others.
-  anchor: future-projects
-  cols: 6
+- url:
+  image: lawma.jpg
+  title: Collaboration with LAWMA
+  location: Lagos, Nigeria
+  dates: Since Jan 2021
+  text: LAWMA (Lagos Waste Management Authority) is developing a new waste management system for Lagos, a city of more than 22 million people. I am exploring technologies, partnerships and funding mechanisms that could be appropriate for this context.
+- url:
+  image: gikoko.jpg
+  title: Consulting for Gikoko Kogyo Indonesia
+  location: Jakarta, Indonesia
+  dates: Since Jan 2021
+  text: I am designing a greenhouse gas emission calculator for a solid waste management facility with multiple technologies. This includes an anaerobic digester, sorting and shredding machines powered by their own refuse-derived fuel, production of bio-compressed natural gas and sludge derived fertilizers.
+- url:
+  image: pyro-degrade.jpg
+  title: Collaboration with Pyro-degrade Energy
+  location: Nairobi, Kenya
+  dates: Since Jan 2021
+  text: Pyro-degrade Energy developed technology to process plastic waste into pyrolysis oil - an affordable fuel that can be used instead of diesel. It is environmentally friendly due to its low sulfur content. I am helping them with fundraising for their first industrial scale plant.
+- url:
+  image: green-worms.jpg
+  title: Collaboration with Green Worms
+  location: Kerala, India
+  dates: Since Dec 2020 
+  text: Green Worms introduce waste collection services in small coastal towns in India. I am helping them with developing external communications strategy. My goals are to improve their engagement with stakeholders and to assist with initiating collaborations with organisations outside India.
+- url:
+  image: forbi.jpg
+  title: Collaboration with Forbi Perise Eyong Nyosai
+  location: Buea, Cameroon
+  dates: Sep-Dec 2020
+  text: Forbi's goal was to kickstart collection of PET bottles for recycling in Buea, Cameroon. I helped Forbi to apply for a USD 32,000 grant from Norwegian Retailers' Environment Fund - I assisted with writing the project proposal and making a budget. Unfortunately the project was not selected.
+
 ---
 
 <hr style="height:1px; visibility:hidden;" />
 <div class="row">
   {% for widget in page.widgets %}
-    {% assign loopindex = forloop.index | modulo: 2 %}
+    {% assign loopindex = forloop.index | modulo: 3 %}
     <div id="{{ widget.anchor }}">{% include _frontpage-widget.html widget=widget %}</div>
     {% if loopindex == 0 %}
   <hr style="height:1px; visibility:hidden;" /> <!-- Prevents long first column items from pushing new rows to the right -->
     {% endif %}
   {% endfor %}
 </div>
+
+
