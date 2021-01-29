@@ -37,8 +37,7 @@ widgets:
   title: Collaboration with Forbi Perise Eyong Nyosai
   location: Buea, Cameroon
   dates: Sep-Dec 2020
-  text: Forbi's goal was to kickstart collection of PET bottles for recycling in Buea, Cameroon. I helped Forbi to apply for a USD 32,000 grant from Norwegian Retailers' Environment Fund - I assisted with writing the project proposal and making a budget. Unfortunately the project was not selected.
-
+  text: Forbi's goal was to kickstart a PET bottle collection scheme in schools in Buea, Cameroon to both increase the plastic recycling rate in the country and to educate kids about waste related challenges. I helped Forbi with writing the project proposal, making a budget and the application process.
 ---
 
 <hr style="height:1px; visibility:hidden;" />
