@@ -25,7 +25,7 @@ widgets:
   title: Collaboration with Pyro-degrade Energy
   location: Nairobi, Kenya
   dates: Since Jan 2021
-  text: Pyro-degrade Energy developed technology to process plastic waste into pyrolysis oil - an affordable fuel that can be used instead of diesel. It is environmentally friendly due to its low sulfur content. I am helping them with fundraising for their first industrial scale plant.
+  text: Pyro-degrade Energy developed technology to process plastic waste into pyrolysis oil - an affordable fuel that can be used instead of diesel. This fuel is environmentally friendly due to its low sulfur content. I am helping them with fundraising for their first industrial scale plant.
 - url:
   image: green-worms.jpg
   title: Collaboration with Green Worms
