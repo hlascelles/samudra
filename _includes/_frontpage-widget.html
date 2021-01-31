@@ -24,15 +24,15 @@
 	{% endif %}
 
 	{% if include.widget.title != empty %}
-	<h2 class="font-size-h3 t10">{{ include.widget.title }}</h2>
+	<h2 class="font-size-h3 t10 b15">{{ include.widget.title }}</h2>
 	{% endif %}
 
 	{% if include.widget.location != empty %}
-	<h2 class="font-size-h5 font-widget-teaser t10">{{ include.widget.location }}</h2>
+	<p class="subheadline">{{ include.widget.location }}</p>
 	{% endif %}
 
 	{% if include.widget.dates != empty %}
-	<h2 class="font-size-h5 font-widget-teaser t10">{{ include.widget.dates }}</h2>
+	<p class="subheadline">{{ include.widget.dates }}</p>
 	{% endif %}
 
 	{% if include.widget.text != empty %}
