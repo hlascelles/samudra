@@ -4,22 +4,22 @@ header:
   title: ""
   image_fullwidth: landingpage_image.jpg
 widget1:
-  url: /explore/waste-management-in-indonesia
-  image: indonesia-plastic-pollution-java-cordonpress-dot-com.jpg
-  title: 'Focus on Indonesia'
-  text: "Indonesia is home to 3.4% of the world's population; and it is estimated that 10% of the global ocean plastic pollution originates there. The Indonesia National Plastic Action Partnership mapped out this challenge."
+  url: /about#sdg_description
+  image: all_sdgs.jpg
+  title: Our work focuses on 15 SDGs set by the UN
+  text: By improving waste management systems around the world, increasing the coverage of waste collection services, reducing the environmental pollution associated with waste and creating collaborative solutions where everyone’s contribution is truly appreciated instead of being expected, we contribute to 15 SDGs set by the UN.
   button: true
 widget2:
-  url: /projects
-  image: dumpsite-Guwhati-India-by-Anuwar-Hazarika.jpg
-  title: 'This is what we do'
-  text: 'Our current project is aimed at improving the coverage of waste collection services in Indonesia. In the future we plan to address challenges at all stages of the waste management process in different countries across the globe.'
+  url: /explore/why-is-this-urgent/
+  image: waste_and_climate.jpg
+  title: Waste contributes >3% to the climate emergency
+  text: According to <a href="https://www.climatewatchdata.org/data-explorer/historical-emissions?historical-emissions-data-sources=cait&historical-emissions-gases=all-ghg&historical-emissions-regions=All%20Selected&historical-emissions-sectors=%2Cwaste&page=1" target="_blank">Climate Watch</a>, waste accounted for 3% of global GHG emissions in 2017. <a href="https://openknowledge.worldbank.org/handle/10986/30317" target="_blank">World Bank's estimate</a> is 5%. <a href="https://www.raeng.org.uk/publications/reports/seel-global-review" target="_blank">New research on open burning of waste</a> suggests that this practice alone could account for 2-10% of global GHG emissions. While research aimed at quantifying GHG emission from waste is still ongoing, at Samudra we are determined to act before it is too late.
   button: true
 widget3:
-  url: /explore/why-is-this-urgent
-  image: plastic-pollution-beach-by-Jennifer-Lavers.jpg
-  title: Why is this urgent?
-  text: The World Bank estimated that 1.6 billion tonnes of CO2-equivalent greenhouse gas emissions (about 5 percent of global emissions) were generated from solid waste treatment and disposal in 2016. Diseases related to mismanaged waste result in 700,000 deaths each year. This is why changing waste management practices is an urgent matter.
+  url: /projects/
+  image: puzzle.jpg
+  title: Our approach is unique
+  text: We believe that all the pieces of the puzzle already exist - local waste management companies around the world that care about the environment; funding available from governments, companies, NGOs and other stakeholders; technologies developed in companies, universities and sheds around the world. Our mission is to connect them and thus increase everyone's positive impact.
   button: true
 callforaction:
   url: /about
@@ -30,11 +30,8 @@ homepage: true
 ---
 
 <br/>
-Samudra is dedicated to solving global waste management challenges that don't have a profitable solution. 
-Our current focus is on marine plastic pollution because it is an urgent matter. 
-About {{site.data.language.percentage_of_plastic_pollution_originating_on_land}} of plastic pollution that ends up in our oceans originates on land, a lot of it is due to the lack of waste collection services in populated areas. 
-This brings us to Indonesia, where about {{site.data.language.percentage_of_plastic_pollution_originating_in_indonesia}} of global marine plastic pollution originates. 
-Our initial goal is to improve coverage and efficiency of the waste collection and treatment system, since only {{site.data.language.percentage_of_msw_collected_in_indonesia}} of municipal solid waste is currently collected in Indonesia.
-
-
-
+Samudra is dedicated to solving global waste management challenges that don’t have a profitable solution. 
+Our goals are to reduce the environmental pollution and greenhouse gas emissions associated with waste, and to minimise the impact of waste on human and animal health.
+About 1 in 3 people worldwide have no access to waste collection services, which leads to open burning of waste and dumping.
+This results in air pollution, ocean pollution, soil and groundwater contamination, as well as damage to human and animal health and greenhouse gas emissions that could have been prevented.
+Hence our current focus is increasing the coverage of waste collection services (SGD 11.6.1) in low and medium income countries.

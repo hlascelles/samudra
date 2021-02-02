@@ -2,7 +2,7 @@
 layout: kz-page
 subheadline: Long-lasting consequences of the damage done today
 title: Why is this urgent?
-meta_description: Today about 2.6 billion people that have no access to waste collection services faced a choice of what to do with their waste. Today 32,877 tonnes of plastic waste ended up in our oceans. The environmental damage done in the past 24 hours will have long lasting effects. The World Bank estimated that 1.6 billion tonnes of CO2-equivalent greenhouse gas emissions (about 5 percent of global emissions) were generated from solid waste treatment and disposal in 2016. Basic improvements to waste management systems can reduce these emissions by more than 25%. Between 400,000 and 1 million people die each year in developing countries because of diseases related to mismanaged waste. In this article we describe the impact of mismanaged waste on the environment, climate and human health.
+meta_description: Today 2.6 billion people that have no access to waste collection services faced a choice of what to do with their waste. Today 32,877 tonnes of plastic waste ended up in our oceans. The damage done in the past 24 hours will have long lasting effects. The good news is that this can be changed. If we postpone implementing the necessary changes to waste management systems around the globe, they will not become any easier to implement but the benefits of doing so will be diminished by the previously accumulated irreversible damage. That is why it is important to act now.
 show_meta: true
 header: no
 author: afsona
@@ -10,21 +10,16 @@ author2: karina
 first_date: 19 Aug 2020
 last_date: 1 Sept 2020
 image:
-    title: plastic-pollution-beach-by-Jennifer-Lavers.jpg
-    caption: Photo by Jennifer Lavers.
+    title: waste_and_climate.jpg
+    homepage: waste_and_climate.jpg
 categories:
     - explore
-gallery:
-    - image_url: global-water-volume.jpg
-      caption: The total volume of all water on Earth. Rendering from https://www.usgs.gov/media/images/all-earths-water-a-single-sphere
-    - image_url: rubber-duck-1992.jpg
-      caption: A yellow rubber duck from 1992 washed up on a shore 25 years later. Photo from www.thesun.co.uk
-    - image_url: landfill-cows.jpg
-      caption: Farm animals graze on dumps. In Mali, cows regularly die if they are not operated on to remove tens of kilos of plastic bags accumulating in their stomachs. 
 factchecked: "no"
+primary_post: true
+
 ---
 
-Today about 2.6 billion people that have no access to waste collection services faced a choice of what to do with their waste. <!-- cite -->
+Today 2.6 billion people that have no access to waste collection services faced a choice of what to do with their waste. <!-- cite -->
 [Today 32,877 tonnes of plastic waste ended up in our oceans][7]. 
 The damage done in the past 24 hours will have long lasting effects. 
 The good news is that this can be changed. 
@@ -43,19 +38,18 @@ In this article we describe the impact of mismanaged waste on the environment, c
 ### Environmental impact 
 
 Environmental impact of mismanaged waste can be broadly divided into four categories - the effects it has on the air we breath, the oceans, soils and all life around us. 
-[In countries with low and lower middle income levels more than 50% of waste is openly burnt][1].
-[Emissions from open burning of waste][3] mainly emit particulate matter (PM), carbon monoxide (CO), sulfur dioxide (SO2), nitrogen oxides (NO<sub>x</sub>), polycyclic aromatic hydrocarbons (PAHs), and polychlorinated biphenyls (PCBs) including dioxins and furans. 
-The resulting PM<sub>10</sub> (particulate matter with a diameter of &le;10 micrometers, about 15% of the diameter of a human hair) is small enough to penetrate the respiratory system and [can lead to respiratory and cardiovascular diseases and lung cancer][2].
+[In low and medium income countries more than 50% of waste is openly burnt][1].
+[Emissions from open burning of waste][3] mainly emit particulate matter (PM), carbon dioxide (CO&#8322;), carbon monoxide (CO), sulfur dioxide (SO2), nitrogen oxides (NO<sub>x</sub>), polycyclic aromatic hydrocarbons (PAHs), and polychlorinated biphenyls (PCBs) including dioxins and furans. 
+The resulting PM<sub>10</sub> (particulate matter with a diameter of &le;10 micrometers, about 15% of the diameter of a human hair) are small enough to penetrate the respiratory system and [can lead to respiratory and cardiovascular diseases and lung cancer][2].
 PM<sub>0.1</sub> (ultrafine particulate matter with a diameter of &le;0.1 micrometers) and PCBs can travel beyond the respiratory system to the central nervous system and, ultimately, reach the brain that [may cause neurological diseases][3].
 While most particulate matter present in the air results from industrial activities, fuel combustion and wildfires, open burning of waste is a substantial contributor in many countries. 
 For example, [a 2014 study][4] estimated that in China open waste burning is equivalent to 22% of total anthropogenic PM<sub>10</sub> emissions.
 
 
-[Our oceans contain 96.5% of all water on our planet][6], that is 1,337.5 billion tonnes (see the [visualisation][8] below). 
-Compare that to the [estimated 0.012 billion tonnes of plastic waste that entered our ocean in 2010][7]. 
-[The study by Jenna Jambeck][7] predicts that the amount of plastic entering our oceans will increase by an order of magnitude by 2025. 
+[Our oceans contain 96.5% of all water on our planet][6], that is 1,337.5 billion tonnes. 
+[The study by Jenna Jambeck][7] estimated that 0.012 billion tonnes of plastic waste entered our ocean in 2010, and predicted that the amount of plastic entering our oceans will increase by an order of magnitude by 2025. 
 Sunlight, waves and bacteria break down the plastic into microplastic.
-After being ingested by filter feeders (animals that feed by straining food from the water, for example krill and whales) and other animals, microplastic travels up the food chain from prey to predator. 
+After being ingested by filter feeders (animals that feed by straining food from the water, for example krill and whales) and other animals, microplastic travels up the food chain. 
 While this has been suspected for a long time, [a 2018 study][12] that looked at seals feeding on mackerel provided conclusive evidence.
 
 
@@ -71,18 +65,18 @@ As plastic breaks down into smaller pieces, various chemicals that were used as 
 The marine ecosystem is likely to collapse before the amount of plastic in our oceans surpasses the amount of fish. 
 
 
-[In 1992 a container of yellow rubber ducks fell into the Pacific Ocean][5], and since then [these ducks wash up on the shores all around the globe][8]. 
+[In 1992 a container of yellow rubber ducks fell into the Pacific Ocean][5], and since then these ducks wash up on the shores all around the globe. 
 This accident revealed that all our oceans are connected via a worldwide network of currents. 
 A [study by Erik van Sebille][9], with a setup that is very similar to the rubber duck scenario, showed that the waste that starts its journey from the populated coastal areas is moved by the currents into the open ocean within months. 
 This is how the six garbage patches formed in the gyres of our oceans. 
 The study showed that there is no set destination - waste released from one specific place eventually ends up in all garbage patches; explore the model [here][10]. 
 The North Pacific patch is the largest attractor, the study predicts that over multi-millennial timescales most of the global marine debris will end up there. 
 While floating plastic waste gets the most attention, [this is only 1% of the total plastic present in our oceans][11].
-The rest of it is [contained within the water column and animal animals][21].
+The rest of it is [contained within the water column and marine animals][21].
 Many scientists agree that among all the contaminants (solid, liquid and gas) currently ending up in our oceans, plastic is not the worst.
 
 
-On land mismanaged waste contaminates the soil via leachate from dumped and buried waste, as well as via pollutants released during open burning of waste. 
+On land, mismanaged waste contaminates the soil via leachate from dumped and buried waste, as well as via pollutants released during open burning of waste. 
 Microplastic change physicochemical properties of the soil, altering the carbon cycle and the water retention properties. 
 This [affects plant community structures and often favours invasive plant species][22]. 
 Mismanaged waste has a detrimental effect on agriculture and food security in general.
@@ -91,21 +85,21 @@ Mismanaged waste has a detrimental effect on agriculture and food security in ge
 
 ### Climate impact 
 
-The World Bank estimated that [1.6 billion tonnes of CO2-equivalent greenhouse gas emissions (about 5 percent of global emissions!) were generated from solid waste treatment and disposal in 2016][1], not including waste-related transportation. 
+[The World Bank estimated][1] that 1.6 billion tonnes of CO2-equivalent greenhouse gas emissions, about 5% of total global emissions, were generated from solid waste treatment and disposal in 2016, not including waste-related transportation.
+The main contributors are open burning of waste, dumpsites and landfills without methane capture.
 The emissions associated with solid waste are predicted to [increase to 2.6 billion tonnes of CO2-equivalent per year by 2050][1] if no improvements are made. 
 These emissions are usually [not included in climate models][4].
-The main contributors are dumps and landfills without gas capture systems, and open burning of waste.
-Methane (CH4) released by organic waste in an oxygen-limited environment (dumps and landfills) is [the largest source of greenhouse gas emissions in the waste sector][1].
+Methane (CH4) released by organic waste in an oxygen-limited environment (dumpsites and landfills) is [the largest source of greenhouse gas emissions in the waste sector][1].
 Unlike CO2, [methane has an atmospheric lifespan of 12.4 years][23]; but its short-term global warming potential is [84 times higher than CO2][23] (calculated over 20 years).
-Basic improvements to waste processing systems and increased waste collection rates [can reduce these emissions by more than 25%][1]. 
+Basic improvements to waste management systems and increased waste collection rates [can reduce these emissions by more than 25%][1]. 
 Additionally, improvements in waste management systems can reduce  emissions from production through recycling.
 
 
 Open burning of waste releases black carbon - fine particulate matter (PM<sub>2.5</sub>) that consists of pure carbon in several linked forms, [it is often transported over transcontinental distances in aerosols][24].
 Black carbon is the [dominant absorber of visible solar radiation in the atmosphere][24]; it is what gives the sky in polluted areas a brown tinge.
-It is [the second major contributor to current global warming][24] (after CO2 emissions); it has [a global warming potential up to 5000 times greater than CO2][25]. 
+It is [the second major contributor to global warming][24] (after CO2 emissions); it has [a global warming potential up to 5000 times greater than CO2][25]. 
 Black carbon released from open burning of waste around the globe has a [climate impact equal to 2–10% of global CO2-equivalent emissions][25].
-Burning combustible biodegradable waste releases [2–8 times more CO2-equivalent emissions][25] (as black carbon) than disposing of it at a dump where it will release methane. 
+Burning combustible biodegradable waste releases [2–8 times more CO2-equivalent emissions][25] (as black carbon) than disposing of it at a dumpsite where it will release methane. 
 Black carbon has an [atmospheric lifespan of only a few weeks][24], hence changes to waste management practises will have an immediate effect on our climate. 
 
 
@@ -120,23 +114,28 @@ Uncollected waste (especially plastic) [blocks waterways and drains causing floo
 Combined with poor sanitation services, [these floods often lead to outbreaks of waterborne diseases like cholera][26].
 [Diarrhoea rates are typically twice as high][27] in the areas with uncollected waste compared to the areas where waste is collected regularly. 
 Mismanaged waste also leads to instant death caused by [drowning in waste-related floods][26] and waste slides. 
-For example, in 2017 a mound of trash collapsed on an informal settlement at the Koshe garbage dump in Ethiopia's capital Addis Ababa leading to [death of 115 people][28].
+For example, in 2017 a mound of trash collapsed on an informal settlement at the Koshe dumpsite in Ethiopia's capital Addis Ababa leading to [death of 115 people][28].
 
 
 Air pollution resulting from open burning of waste is estimated to result in [0.74 million deaths a year][26] and [six times higher prevalence of acute respiratory infections][27] compared to areas where waste is collected regularly. 
 [Severity of Covid-19 symptoms correlates with regional air pollution data][30].
-Pollutant emissions from open burning of waste and leachate from dumps lead to drinking water contamination. 
-It has been shown that small pieces of plastic [travel up the food chain from prey to predator][12] and nanoplastics (pieces of plastic &le;1 micrometers in size) [penetrate the blood-brain barrier in fish][29]. 
+Pollutant emissions from open burning of waste and leachate from dumpsites lead to drinking water contamination. 
+It has been shown that small pieces of plastic [travel up the food chain][12] and nanoplastics (pieces of plastic &le;1 micrometers in size) [penetrate the blood-brain barrier in fish][29]. 
 There is no evidence that this does not happen in humans. 
 Uncollected waste has detrimental effects on mental health and financial wellbeing, both of which also affect physical health. 
 People working in agriculture, fishing and tourism are among the ones whose financial wellbeing is most affected. 
-Agricultural livelihoods are affected by soil contamination resulting from leachate from dumps and pollutant emissions from open burning, as well as microplastic. 
-Farm animals often graze on dumps. 
+Agricultural livelihoods are affected by soil contamination resulting from leachate from dumpsites and pollutant emissions from open burning, as well as microplastic. 
+Farm animals often graze on dumpsites. 
 When they swallow plastic it [does not decompose in their digestive tracts][26], instead it leads to bloating and eventually death by starvation. 
 In Mali, [cows regularly die if they are not operated on][27] to remove tens of kilos of plastic bags accumulating in their stomachs. 
 Waste-related floods cause damage to property.
 One such flood in Accra, Ghana in 2011 resulted in [17,000 damaged homes and 100 cholera deaths][26].
 
+
+
+### We want to change this
+
+At Samudra, our goals are to reduce the environmental pollution and greenhouse gas emissions associated with waste, and to minimise the impact of waste on human and animal health. [See what we do to achieve these goals.][31]
 
 
 
@@ -171,6 +170,7 @@ One such flood in Accra, Ghana in 2011 resulted in [17,000 damaged homes and 100
 [28]: https://uk.reuters.com/article/uk-ethiopia-accident/ethiopia-trash-dump-landslide-death-toll-rises-to-115-idUKKBN16N0ND
 [29]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5597631/
 [30]: https://www.sciencedirect.com/science/article/pii/S0269749120332115
+[31]: /projects/
 
 <div name="gallery" id="gallery"></div> 
 {% include gallery %}

@@ -10,19 +10,25 @@ widgets:
 - url: /explore/waste_disposal_methods/
   image: dumpsite-manila.jpg
   title: <a href="/explore/waste_disposal_methods/" target="_self">Waste disposal methods</a>
-  text: There are different waste disposal methods.
+  text:
   anchor: waste_disposal_methods
 - url: /explore/why-is-this-urgent/
-  image: plastic-pollution-beach-by-Jennifer-Lavers.jpg
+  image: waste_and_climate.jpg
   title: <a href="/explore/why-is-this-urgent/" target="_self">Why is this urgent?</a>
-  text: The World Bank estimated that 1.6 billion tonnes of CO2-equivalent greenhouse gas emissions (about 5 percent of global emissions) were generated from solid waste treatment and disposal in 2016. Diseases related to mismanaged waste result in 700,000 deaths each year. This is why changing waste management practices is an urgent matter.
+  text: Today 2.6 billion people that have no access to waste collection services faced a choice of what to do with their waste. Today 32,877 tonnes of plastic waste ended up in our oceans. The damage done in the past 24 hours will have long lasting effects. The good news is that this can be changed. If we postpone implementing the necessary changes to waste management systems around the globe, they will not become any easier to implement but the benefits of doing so will be diminished by the previously accumulated irreversible damage. That is why it is important to act now.
   anchor: why-is-this-urgent
 ---
 
-Our goals are to reduce the environmental pollution and greenhouse gas emissions associated with waste, and to minimise the impact of waste on human and animal health. In depth research guides everything we do. Our aim is to solve global waste management challenges, and the research we do provides us stepping stones along the way. Below we will be sharing what we've learnt on our journey so far. This will include research about the different types of waste, waste management systems in different countries, international waste trade, waste disposal and recycling technologies. Since a growing proportion of waste is plastic, we will cover everything from plastic production and current recycling methods to proposed long-term strategies and new technologies for the whole life-cycle of plastic and its alternatives.
-
-
-During our research we came across a lot of information that is not true. To avoid spreading misinformation, we check primary sources of all the information we publish. The articles which have not yet been rigorously fact checked, will be published with an appropriate warning sign. Note that all the waste-related numbers are point estimates, all of them have large error margins as it is impossible to obtain precise data about waste. We only use the word "about" in front of the numbers to indicate that we've not yet found the data or we suspect it doesn't exist. If you spot any mistakes, please do <a href="mailto:hello@samudra.world" target="_blank">get in touch</a>, we will much appreciate that.
+In depth research guides everything we do.
+Whatever we discover on our journey, we want to share it with everyone.
+During our research we come across a lot of information that is not true.
+To avoid spreading misinformation, we check the primary sources of all the information we publish.
+However, we don't want to use this as an excuse to delay sharing our findings.
+Instead, we publish drafts of our articles and keep updating them as our research progresses. 
+These drafts, marked with an appropriate warning sign, might be missing important information and might contain statements that have not yet been fact checked rigorously.
+Note that all the waste-related numbers are point estimates, all of them have large error margins as it is impossible to obtain precise data about waste. 
+We only use the word "about" in front of the numbers to indicate that we've not yet found the data or we suspect it doesn't exist. 
+If you spot any mistakes, please do <a href="mailto:hello@samudra.world" target="_blank">get in touch</a>, we will much appreciate that.
 
 
 <div class="row">

@@ -11,8 +11,8 @@ header:
 <div class="row">
   <div>
     <div class="medium-4 columns frontpage-widget">
-      <a href="https://www.linkedin.com/in/karina-zile/"><img src="/images/team-karina.jpg" alt="" ></a>
-      <a href="https://www.linkedin.com/in/karina-zile/"><h2 class="font-size-h3 t10">Karina Zile</h2></a>
+      <a href="https://karina.io/"><img src="/images/team-karina.jpg" alt="" ></a>
+      <a href="https://karina.io/"><h2 class="font-size-h3 t10">Karina Zile</h2></a>
       <p>I am the founder of Samudra. Mathematician at heart, I think about any situation as a system of equations. I am happiest when outdoors. After finishing my PhD in Feb 2020, I decided to dedicate my life to tackling global challenges that don't have a profitable solution.</p>
       <div class="text-center"></div>
     </div>

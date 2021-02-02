@@ -10,7 +10,7 @@ author: karina
 categories:
     - explore
 factchecked: "no"
-primary_post: true
+
 ---
 
 Indonesia is home to 3.4% of the world's population; and it is estimated that 10% of the global ocean plastic pollution originates there. The Indonesia National Plastic Action Partnership mapped out this challenge.

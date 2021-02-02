@@ -20,7 +20,7 @@ format: frontpage
 {% capture url %}{% endcapture %}
 {% endif %}
 {% if page.callforaction %}
-    <div class="row t60 b60">
+    <div class="row t30 b30">
         <div class="small-12 text-center columns">
             <a class="button large radius {{ page.callforaction.style }}" href="{{ page.callforaction.url }}"{% if page.callforaction.url contains 'http' %} {% endif %}>{{ page.callforaction.text }}</a>
         </div><!-- /.small-12.columns -->
@@ -91,6 +91,7 @@ format: frontpage
 
         <!-- List of earlier pages -->
         <div class="medium-6 columns">
+            <h3>Recently published:</h3>
             <ul class="side-nav">
                 {% for post in site.posts limit:10 %}
                     {% unless post.primary_post == true %}

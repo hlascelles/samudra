@@ -162,7 +162,7 @@ We are committed to not produce anything that will soon become waste.
 
 
 
-<h4>Our contribution to 15 out of 17 Sustainable Development Goals</h4>
+<h4 id="sdg_description">Our contribution to 15 out of 17 Sustainable Development Goals</h4>
 
 <div class="row t15">
   {% for widget in page.widgets %}
