@@ -4,7 +4,7 @@ header:
   title: ""
   image_fullwidth: landingpage_image.jpg
 widget1:
-  url: /about#sdg_description
+  url: /about#sdgs
   image: all_sdgs.jpg
   title: Our work focuses on 15 SDGs set by the UN
   text: By improving waste management systems around the world, increasing the coverage of waste collection services, reducing the environmental pollution associated with waste and creating collaborative solutions where everyone’s contribution is truly appreciated instead of being expected, we contribute to 15 SDGs set by the UN.
@@ -34,4 +34,6 @@ Samudra is dedicated to solving global waste management challenges that don’t 
 Our goals are to reduce the environmental pollution and greenhouse gas emissions associated with waste, and to minimise the impact of waste on human and animal health.
 About 1 in 3 people worldwide have no access to waste collection services, which leads to open burning of waste and dumping.
 This results in air pollution, ocean pollution, soil and groundwater contamination, as well as damage to human and animal health and greenhouse gas emissions that could have been prevented.
-Hence our current focus is increasing the coverage of waste collection services (SGD 11.6.1) in low and medium income countries.
+Hence our current focus is on increasing the coverage of waste collection services ([SGD 11.6.1][1]) in low and medium income countries.
+
+[1]: https://unstats.un.org/wiki/display/SDGeHandbook/Indicator+11.6.1
