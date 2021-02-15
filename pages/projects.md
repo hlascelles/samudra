@@ -15,17 +15,17 @@ widgets:
   dates: Since Jan 2021
   text: LAWMA (Lagos Waste Management Authority) is developing a new waste management system for Lagos, a city of more than 22 million people. I am exploring technologies, partnerships and funding mechanisms that could be appropriate for this context.
 - url:
-  image: gikoko.jpg
-  title: Consulting for Gikoko Kogyo Indonesia
-  location: Jakarta, Indonesia
-  dates: Since Jan 2021
-  text: I am designing a greenhouse gas emission calculator for a solid waste management facility with multiple technologies. This includes an anaerobic digester, sorting and shredding machines powered by their own refuse-derived fuel, production of bio-compressed natural gas and sludge derived fertilizers.
-- url:
   image: pyro-degrade.jpg
   title: Collaboration with Pyro-degrade Energy
   location: Nairobi, Kenya
   dates: Since Jan 2021
   text: Pyro-degrade Energy developed technology to process plastic waste into pyrolysis oil - an affordable fuel that can be used instead of diesel. This fuel is environmentally friendly due to its low sulfur content. I am helping them with fundraising for their first industrial scale plant.
+- url:
+  image: gikoko.jpg
+  title: Consulting for Gikoko Kogyo Indonesia
+  location: Jakarta, Indonesia
+  dates: Jan-Feb 2021
+  text: I helped with greenhouse gas emissions reductions calculations to evaluate a municipal solid waste infrastructure building project involving multiple technologies. The proposed project included waste sorting and shredding machinery powered by in-house refuse-derived fuel, an anaerobic digestion system and other technologies.
 - url:
   image: green-worms.jpg
   title: Collaboration with Green Worms
