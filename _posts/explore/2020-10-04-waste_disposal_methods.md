@@ -2,27 +2,31 @@
 layout: kz-page
 title: Waste disposal methods
 meta_description:
+permalink: "/explore/waste_disposal_methods/"
 header:
   title: ""
   image_fullwidth: landingpage_image.jpg
 widgets:
 - url: /explore/incineration/
+  image: incinerator-diagram.jpg
+  title: <a href="/explore/incineration/" target="_self">Incineration (in theory)</a>
+- url:
   image: waste-grabber-in-action.jpg
-  title: <a href="/explore/incineration/" target="_self">Incineration</a>
-  text: Incineration is one of the methods of thermal treatment of waste.
-  anchor: incineration
-categories:
-    - explore
-show_meta: false
+  title: Incineration (in practice)
+- url:
+  image: pyrolysis.jpg
+  title: Pyrolysis
+- url:
+  image: gasification.jpg
+  title: Gasification
+
 ---
 
-Waste disposal can be done in many different ways.
+Waste disposal methods are not substitutes for recycling, these methods are used to treat waste that cannot be used otherwise. 
 Thermal treatment methods significantly reduce the volume of the waste and destroy all pathogens present in it. 
 These methods allow to recover the calorific value of the waste in a form of energy, hence they are often referred to as waste-to-energy or energy-from-waste.
 [Incineration][1], waste combustion in the presence of oxygen, is the only method currently widely used on an industrial scale. 
-Other methods, pyrolysis, gasification and plasma arc gasification, are known as advanced thermal treatment methods. 
-Thermal treatment methods, similarly to landfilling, are not a substitute for recycling, composting or anaerobic digestion; these methods are used to treat waste that cannot be used otherwise. 
-
+Pyrolysis, gasification and plasma arc gasification are known as advanced thermal treatment methods. 
 
 <div class="row">
   {% for widget in page.widgets %}

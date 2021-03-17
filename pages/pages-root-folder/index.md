@@ -6,20 +6,20 @@ header:
 widget1:
   url: /about#sdgs
   image: all_sdgs.jpg
-  title: Our work focuses on 15 SDGs set by the UN
+  title: <a href="/about#sdgs" target="_self">Our work focuses on 15 SDGs set by the UN</a>
   text: By improving waste management systems around the world, increasing the coverage of waste collection services, reducing the environmental pollution associated with waste and creating collaborative solutions where everyone’s contribution is truly appreciated instead of being expected, we contribute to 15 SDGs set by the UN.
   button: true
 widget2:
   url: /explore/why-is-this-urgent/
   image: waste_and_climate.jpg
-  title: Waste contributes >3% to the climate emergency
+  title: <a href="/explore/why-is-this-urgent/" target="_self">Waste contributes >3% to the climate emergency</a> 
   text: According to <a href="https://www.climatewatchdata.org/data-explorer/historical-emissions?historical-emissions-data-sources=cait&historical-emissions-gases=all-ghg&historical-emissions-regions=All%20Selected&historical-emissions-sectors=%2Cwaste&page=1" target="_blank">Climate Watch</a>, waste accounted for 3% of global GHG emissions in 2017. <a href="https://openknowledge.worldbank.org/handle/10986/30317" target="_blank">World Bank's estimate</a> is 5%. <a href="https://www.raeng.org.uk/publications/reports/seel-global-review" target="_blank">New research on open burning of waste</a> suggests that this practice alone could account for 2-10% of global GHG emissions. While research aimed at quantifying GHG emission from waste is still ongoing, at Samudra we are determined to act before it is too late.
   button: true
 widget3:
   url: /projects/
   image: puzzle.jpg
-  title: Our approach is unique
-  text: We believe that all the pieces of the puzzle already exist - local waste management companies around the world that care about the environment; funding available from governments, companies, NGOs and other stakeholders; technologies developed in companies, universities and sheds around the world. Our mission is to connect them and thus increase everyone's positive impact.
+  title: <a href="/projects/" target="_self">Connecting the pieces of a puzzle</a> 
+  text: We believe that all the pieces of the puzzle already exist - local waste management companies around the world that care about the environment; technologies developed in companies, universities and sheds around the world; funding available from governments, companies, NGOs and other stakeholders. Our mission is to connect them and thus increase everyone's positive impact.
   button: true
 callforaction:
   url: /about

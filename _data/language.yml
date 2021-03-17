@@ -25,17 +25,3 @@ enter_search_term: "Enter search term and hit enter"
 more: "Find out more"
 read_more: "Keep&nbsp;reading&nbsp;>"
 to_archive: "Earlier&nbsp;articles&nbsp;>"
-
-# Sets that add up to 100%
-percentage_of_plastic_pollution_originating_offshore : "20%"
-percentage_of_plastic_pollution_originating_on_land : "80%"
-
-# Indonesia stats
-percentage_of_plastic_pollution_originating_in_indonesia : "10%"
-percentage_of_msw_collected_in_indonesia: "32%"
-
-# Other
-amount_of_plastic_entering_oceans_annually: "12 million tonnes"
-number_of_people_with_no_waste_collection : "2.6 billion"
-percentage_of_plastic_pollution_originating_in_se_asia : "40%"
-percentage_of_ocean_plastic_pollution_that_floats : "3%"

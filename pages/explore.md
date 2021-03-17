@@ -7,16 +7,31 @@ header:
   title: ""
   image_fullwidth: landingpage_image.jpg
 widgets:
-- url: /explore/waste_disposal_methods/
-  image: dumpsite-manila.jpg
-  title: <a href="/explore/waste_disposal_methods/" target="_self">Waste disposal methods</a>
-  text:
-  anchor: waste_disposal_methods
-- url: /explore/why-is-this-urgent/
+- url: /explore/urgent/
   image: waste_and_climate.jpg
-  title: <a href="/explore/why-is-this-urgent/" target="_self">Why is this urgent?</a>
-  text: Today 2.6 billion people that have no access to waste collection services faced a choice of what to do with their waste. Today 32,877 tonnes of plastic waste ended up in our oceans. The damage done in the past 24 hours will have long lasting effects. The good news is that this can be changed. If we postpone implementing the necessary changes to waste management systems around the globe, they will not become any easier to implement but the benefits of doing so will be diminished by the previously accumulated irreversible damage. That is why it is important to act now.
-  anchor: why-is-this-urgent
+  title: <a href="/explore/urgent/" target="_self">Waste management challenges are urgent</a>
+- url:
+  image: plastic_recycling.jpg
+  title: Plastics and processing of plastic waste
+- url:
+  image: other_recycling.jpg
+  title: Processing other types of waste
+- url: /explore/waste_disposal_methods/
+  image: waste_disposal_methods.jpg
+  title: <a href="/explore/waste_disposal_methods/" target="_self">Waste disposal methods</a> 
+- url:
+  image: funding.jpg
+  title: Funding waste management projects
+- url:
+  image: waste_trade.jpg
+  title: International waste trade
+- url:
+  image: waste_management.jpg
+  title: Components of waste management system
+- url:
+  image: policy.jpg
+  title: Waste related policies
+
 ---
 
 In depth research guides everything we do.
@@ -25,7 +40,7 @@ During our research we come across a lot of information that is not true.
 To avoid spreading misinformation, we check the primary sources of all the information we publish.
 However, we don't want to use this as an excuse to delay sharing our findings.
 Instead, we publish drafts of our articles and keep updating them as our research progresses. 
-These drafts, marked with an appropriate warning sign, might be missing important information and might contain statements that have not yet been fact checked rigorously.
+These drafts, marked with an appropriate warning sign, might be missing important information and might contain statements that have not yet been fact checked properly.
 Note that all the waste-related numbers are point estimates, all of them have large error margins as it is impossible to obtain precise data about waste. 
 We only use the word "about" in front of the numbers to indicate that we've not yet found the data or we suspect it doesn't exist. 
 If you spot any mistakes, please do <a href="mailto:hello@samudra.world" target="_blank">get in touch</a>, we will much appreciate that.

@@ -30,7 +30,7 @@ widgets:
   image: green-worms.jpg
   title: Collaboration with Green Worms
   location: Kerala, India
-  dates: Since Dec 2020 
+  dates: Dec 2020 - Jan 2021
   text: Green Worms introduce waste collection services in small coastal towns in India. I am helping them with developing external communications strategy. My goals are to improve their engagement with stakeholders and to assist with initiating collaborations with organisations outside India.
 - url:
   image: forbi.jpg
