@@ -2,6 +2,7 @@
 layout: kz-page
 title: "What we've learnt so far"
 permalink: "/explore/"
+subheadline: Waste management for our planet and people, not profit
 meta_description:
 header:
   title: ""

@@ -12,8 +12,8 @@ widget1:
 widget2:
   url: /explore/why-is-this-urgent/
   image: waste_and_climate.jpg
-  title: <a href="/explore/why-is-this-urgent/" target="_self">Waste contributes >3% to the climate emergency</a> 
-  text: According to <a href="https://www.climatewatchdata.org/data-explorer/historical-emissions?historical-emissions-data-sources=cait&historical-emissions-gases=all-ghg&historical-emissions-regions=All%20Selected&historical-emissions-sectors=%2Cwaste&page=1" target="_blank">Climate Watch</a>, waste accounted for 3% of global GHG emissions in 2017. <a href="https://openknowledge.worldbank.org/handle/10986/30317" target="_blank">World Bank's estimate</a> is 5%. <a href="https://www.raeng.org.uk/publications/reports/seel-global-review" target="_blank">New research on open burning of waste</a> suggests that this practice alone could account for 2-10% of global GHG emissions. While research aimed at quantifying GHG emission from waste is still ongoing, at Samudra we are determined to act before it is too late.
+  title: <a href="/explore/why-is-this-urgent/" target="_self">Waste contributes >5% to the climate emergency</a> 
+  text: The World Bank estimated that <a href="https://datatopics.worldbank.org/what-a-waste/" target="_blank">about 5% of total global GHG emissions</a> were generated from solid waste treatment and disposal in 2016, not including waste-related transportation. Additionally, a 2019 study demonstrated that black carbon emissions from open burning of waste have an impact equal to <a href="https://www.sciencedirect.com/science/article/abs/pii/S1352231019304388" target="_blank">2–10% of global CO2-equivalent emissions</a>. At Samudra we are determined to act before it is too late.
   button: true
 widget3:
   url: /projects/

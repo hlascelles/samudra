@@ -13,7 +13,7 @@ widgets:
   title: Collaboration with ELMAR
   location: England, UK
   dates: Since Mar 2021
-  text: Ecological Landfill Mining And Recycling (ELMAR) is a non-profit.
+  text: Ecological Landfill Mining and Recycling (ELMAR) is a non-profit dedicated to tackling 1,264 landfills in the UK that have been breached and are leaking toxic pollution into the water bodies. I am helping with research on technologies for landfill mining and processing of plastic waste from legacy sites, and with identifying potential strategic partnerships.
 - url:
   image: pes.jpg
   title: Collaboration with Premier Enviro Solutions
