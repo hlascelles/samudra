@@ -12,7 +12,7 @@ widget1:
 widget2:
   url: /explore/why-is-this-urgent/
   image: waste_and_climate.jpg
-  title: <a href="/explore/why-is-this-urgent/" target="_self">Waste contributes >5% to the climate emergency</a> 
+  title: <a href="/explore/urgent/" target="_self">Waste contributes >5% to the climate emergency</a> 
   text: The World Bank estimated that <a href="https://datatopics.worldbank.org/what-a-waste/" target="_blank">about 5% of total global GHG emissions</a> were generated from solid waste treatment and disposal in 2016, not including waste-related transportation. Additionally, a 2019 study demonstrated that black carbon emissions from open burning of waste have an impact equal to <a href="https://www.sciencedirect.com/science/article/abs/pii/S1352231019304388" target="_blank">2–10% of global CO2-equivalent emissions</a>. At Samudra we are determined to act before it is too late.
   button: true
 widget3:

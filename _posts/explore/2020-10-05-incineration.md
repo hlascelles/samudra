@@ -410,7 +410,7 @@ A 2014 [Swiss study][54] estimated that the reduction could be 67-752 kg of CO&#
 [29]: http://pjt.co.th/index.php/products/
 [30]: https://www.globalccsinstitute.com/resources/publications-reports-research/waste-to-energy-with-ccs-a-pathway-to-carbon-negative-power-generation/
 [31]: https://www.archdaily.com/544175/incineration-line-in-roskilde-erick-van-egeraat
-[32]: https://www.martinbiopower.com/projects/case-studies/roskilde-plant-denmark/
+[32]: https://web.archive.org/web/20200222222107/https://www.martinbiopower.com/projects/case-studies/roskilde-plant-denmark/
 [33]: https://www.copenhill.dk/en/
 [34]: https://www.nytimes.com/2019/10/23/travel/copenhagen-ski-hill-powerplant.html
 [35]: https://www.bbc.com/news/business-49877318
