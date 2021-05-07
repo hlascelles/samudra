@@ -106,8 +106,8 @@ As our first challenge, we picked marine plastic pollution because it is an urge
 It is [estimated][1] that 12 million tonnes of plastic waste ends up in our oceans annually, and the amount is growing every year. 
 40% of this plastic pollution originates on land in Southeast Asia, an additional 40% comes from other regions and the remaining 20% originates offshore, mainly from fishing, shipping and oil industries. 
 It is hard to estimate the amount of plastic already present in our oceans, especially because only 3% of it is floating on the surface. 
-One thing is clear - it is easier to prevent more plastic pollution than to eliminate the plastic that is already in our oceans. 
-Hence our goal is to improve waste collection and treatment systems in Southeast Asia, which has the potential to reduce the amount of annual plastic pollution by 40%.
+One thing is clear - it is easier to prevent more plastic pollution from entering our oceans than to eliminate the plastic that is already there. 
+Hence our goal is to improve waste collection and treatment systems.
 Find out about our ongoing projects <a href="/projects/" target="_self">here</a>.
 
 
