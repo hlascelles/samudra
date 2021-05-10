@@ -8,17 +8,17 @@
 karina:
   name: "Karina"
   siterole: "developer"
-  uri: /team/#karina
+  uri: /team/
   email: karina@samudra.world
 
 afsona:
   name: "Afsona"
   siterole: "contributor"
-  uri: /team/#afsona
+  uri: /team/
   email: afsona@samudra.world
 
 lawrence:
   name: "Lawrence"
   siterole: "contributor"
-  uri: /team/#lawrence
+  uri: /team/
   email: lawrence@samudra.world
