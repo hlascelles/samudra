@@ -2,7 +2,6 @@
 layout: kz-page
 title: Waste disposal methods
 meta_description:
-permalink: "/explore/waste_disposal_methods/"
 header:
   title: ""
   image_fullwidth: landingpage_image.jpg
@@ -19,6 +18,8 @@ widgets:
 - url:
   image: gasification.jpg
   title: Gasification
+categories:
+    - explore
 
 ---
 

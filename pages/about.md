@@ -70,11 +70,8 @@ widgets:
 
 Samudra is dedicated to solving global waste management challenges that don't have a profitable solution. 
 Here we describe what we do and why we do it, how we are different from other initiatives with similar goals, and how our work directly contributes to 15 out of 17 Sustainable Development Goals set by the UN. 
-<hr style="height:10px; visibility:hidden;" />
 
-
-
-<h4>Waste collection services for everyone</h4>
+### Waste collection services for everyone
 Currently only 2 in 3 people worldwide have access to waste collection services. 
 Every day 2.6 billion people face a choice of what to do with their waste. 
 Some set it on fire, some add it to a dumpsite nearby, some drive long distances to dump it far away from home, some let the current of a nearby river carry their waste away. 
@@ -83,7 +80,7 @@ At Samudra our goal is to minimise the number of people who have to make this ch
 
 
 
-<h4>Back to front business of waste management</h4>
+### Back to front business of waste management
 Think of a successful company that sells a great product. 
 How did they achieve that? 
 They most likely started with identifying a market niche and learning about the target market segment. 
@@ -100,7 +97,7 @@ That is why we decided to tackle global waste management challenges.
 
 
 
-<h4>Maximum impact projects</h4>
+### Maximum impact projects
 Since we are not bound by trying to maximise our profit, we are free to work on projects with the highest estimated impact. 
 As our first challenge, we picked marine plastic pollution because it is an urgent matter. 
 It is [estimated][1] that 12 million tonnes of plastic waste ends up in our oceans annually, and the amount is growing every year. 
@@ -112,7 +109,7 @@ Find out about our ongoing projects <a href="/projects/" target="_self">here</a>
 
 
 
-<h4>Evidence weighs more than beliefs</h4>
+### Evidence weighs more than beliefs
 Our aim is to make the world a better place, and the research we do provides us stepping stones along the way. 
 Unlike other organisations with similar goals, we keep an open mind. 
 For example, we don’t believe that recycling is always the best solution, that the less plastic we use the better, or that incinerators are more polluting than landfills. 
@@ -131,7 +128,7 @@ If you spot any mistakes, please do <a href="mailto:hello@samudra.world" target=
 
 
 
-<h4>Best is the enemy of better</h4>
+### Best is the enemy of better
 Our goals are to reduce the environmental pollution and greenhouse gas emissions associated with waste, and to minimise the impact of waste on human health.
 Efforts aimed at improving waste management in the long run, for example developing new materials or trying to redesign the global economy, are incredibly valuable. 
 We believe that in parallel to these efforts an urgent action is required to minimise the amount of pollution, emissions and detrimental effects on human health that happen today.
@@ -142,7 +139,7 @@ Some of the solutions we implement are far from perfect when examined in isolati
 
 
 
-<h4>No blame culture</h4>
+### No blame culture
 Concerns about waste management challenges often result in blaming companies, consumers or governments.
 This leads to a counterproductive divide between "us" and "them".
 The truth is, nobody wants to live surrounded by waste. 
@@ -154,7 +151,7 @@ If you have time, skills or funding that you could contribute, please do <a href
 
 
 
-<h4>Less waste is always better</h4>
+### Less waste is always better
 At Samudra we are dedicated to solving waste management challenges and we mean it.
 We love high quality products that are happily used for many years after purchase.
 There will be no t-shirts with our logo, no reusable water bottle giveaways (you probably already have one) and no fund raising by selling branded merchandise made from recycled materials.
@@ -162,7 +159,7 @@ We are committed to not produce anything that will soon become waste.
 
 
 
-<h4 id="sdgs">Our contribution to 15 out of 17 Sustainable Development Goals</h4>
+### <a name="sdgs"></a> Our contribution to 15 out of 17 Sustainable Development Goals
 
 <div class="row t15">
   {% for widget in page.widgets %}

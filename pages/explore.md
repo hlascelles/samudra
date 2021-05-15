@@ -20,15 +20,21 @@ widgets:
 - url: /explore/waste_disposal_methods/
   image: waste_disposal_methods.jpg
   title: <a href="/explore/waste_disposal_methods/" target="_self">Waste disposal methods</a> 
-- url:
+- url: /explore/funding/
   image: funding.jpg
-  title: Funding waste management projects
-- url:
-  image: waste_trade.jpg
-  title: International waste trade
+  title: <a href="/explore/funding/" target="_self">Funding waste management projects</a>
+- url: /explore/landfill-mining/
+  image: missing_image.jpg
+  title: <a href="/explore/landfill-mining/" target="_self">Landfill mining</a>
 - url:
   image: waste_management.jpg
   title: Components of waste management system
+- url: /explore/environmental-impact/
+  image: missing_image.jpg
+  title: <a href="/explore/environmental-impact/" target="_self">Environmental impact of waste</a>
+- url:
+  image: waste_trade.jpg
+  title: International waste trade
 - url:
   image: policy.jpg
   title: Waste related policies
