@@ -19,7 +19,7 @@ widgets:
   title: Processing other types of waste
 - url: /explore/waste-disposal-methods/
   image: waste_disposal_methods.jpg
-  title: <a href="/explore/waste_disposal_methods/" target="_self">Waste disposal methods</a> 
+  title: <a href="/explore/waste-disposal-methods/" target="_self">Waste disposal methods</a> 
 - url: /explore/funding/
   image: funding.jpg
   title: <a href="/explore/funding/" target="_self">Funding waste management projects</a>
