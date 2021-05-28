@@ -9,7 +9,7 @@ author: karina
 first_date: 14 May 2020
 factchecked: "no"
 image:
-    title: missing_image.jpg
+    title: landfill-mining.jpg
 categories:
     - explore
 

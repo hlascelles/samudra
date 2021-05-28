@@ -24,13 +24,13 @@ widgets:
   image: funding.jpg
   title: <a href="/explore/funding/" target="_self">Funding waste management projects</a>
 - url: /explore/landfill-mining/
-  image: missing_image.jpg
+  image: landfill-mining.jpg
   title: <a href="/explore/landfill-mining/" target="_self">Landfill mining</a>
 - url:
   image: waste_management.jpg
   title: Components of waste management system
 - url: /explore/environmental-impact/
-  image: missing_image.jpg
+  image: environmental_impact.jpg
   title: <a href="/explore/environmental-impact/" target="_self">Environmental impact of waste</a>
 - url:
   image: waste_trade.jpg

@@ -7,8 +7,8 @@ header:
   image_fullwidth: landingpage_image.jpg
 widgets:
 - url: /explore/old-landfills-uk/
-  image: missing_image.jpg
-  title: <a href="/explore/old-landfills-uk/" target="_self">Pre-1990s landfills in the UK</a>
+  image: breached_landfill_East_Tilbury.jpg
+  title: <a href="/explore/old-landfills-uk/" target="_self">Historic landfills in the UK</a>
 categories:
     - explore
 

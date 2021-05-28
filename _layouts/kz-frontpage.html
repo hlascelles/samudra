@@ -93,7 +93,7 @@ format: frontpage
         <div class="medium-6 columns">
             <h3>Recently published:</h3>
             <ul class="side-nav">
-                {% for post in site.posts limit:10 %}
+                {% for post in site.posts limit:7 %}
                     {% unless post.primary_post == true %}
                       <li><a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} &middot; <strong>{{ post.title }}</strong></a></li>
                     {% endunless %}
