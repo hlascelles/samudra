@@ -18,7 +18,7 @@ As I've just started working on this list, the entries appear in random order an
 **Deadline:** <span style="color:red">2 July 2021</span>  
 **What they fund:** Innovative digital tools to incentivise, facilitate and optimise the collection, transport, sorting and recycling of waste. For example, tools to allow waste pickers to digitally log their waste collection, to relay their locations to help manage logistics and identify waste hotspots, to connect them to buyers of recyclable materials; digital payment platforms for waste collection to facilitate access to fair market prices; digital traceability tools to create an auditable trail of recovered waste or to increase transparency in the plastics supply chain.  
 **Who can apply:** Startups, SMEs and social enterprises supporting the provision of essential urban services to the underserved populations across Africa or Asia using innovative digital technology. The organisation must have active users and commercial revenue (revenue generated from any products or services offered by the organisation) in at least one eligible low- or middle-income country.    
-**Type of funding:** GBP 100,000 - 250,000 in equity-free grants. Matching funding of 25% - 50% required.  
+**Type of funding:** GBP 100,000 - 250,000 in equity-free grants. Matching funding of 25% - 50% is required.  
 **Previously funded:** [Coliba][10] in Côte d'Ivoire - a company that designed a web, mobile and SMS platform that connects households and businesses with plastic waste collectors.   
 **To apply:** Complete a short online questionnaire describing the project and how you meet the funding criteria. If successful, you'll have to submit a full proposal in August and start the project in March 2022.  
 
