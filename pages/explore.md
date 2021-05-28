@@ -17,7 +17,7 @@ widgets:
 - url:
   image: other_recycling.jpg
   title: Processing other types of waste
-- url: /explore/waste_disposal_methods/
+- url: /explore/waste-disposal-methods/
   image: waste_disposal_methods.jpg
   title: <a href="/explore/waste_disposal_methods/" target="_self">Waste disposal methods</a> 
 - url: /explore/funding/
