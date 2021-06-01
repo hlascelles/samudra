@@ -13,7 +13,7 @@ widgets:
   title: Collaboration with ELMAR
   location: England, UK
   dates: Since Mar 2021
-  text: Ecological Landfill Mining and Recycling (ELMAR) is a non-profit dedicated to tackling 1,264 landfills in the UK that have been breached and are leaking toxic pollution into the water bodies. I am helping with research on technologies for landfill mining and processing of plastic waste from legacy sites, and with identifying potential strategic partnerships.
+  text: Ecological Landfill Mining and Recycling (ELMAR) is a non-profit dedicated to tackling breached historic landfills in the UK that are leaching pollution into the environment. I am helping with identifying potential strategic partnerships and with researching technologies for landfill mining and recycling of different types of extracted waste.
 - url:
   image: pes.jpg
   title: Collaboration with Premier Enviro Solutions
@@ -21,17 +21,17 @@ widgets:
   dates: Since Feb 2021
   text: Premier Enviro Solutions is a social enterprise with a mission to provide innovative, sustainable and affordable waste management solutions. I am helping them with projects related to processing plastic waste into building blocks, and safe disposal of medical waste.
 - url:
-  image: lawma.jpg
-  title: Collaboration with LAWMA
-  location: Lagos, Nigeria
-  dates: Since Jan 2021
-  text: Lagos Waste Management Authority (LAWMA) is developing a new waste management strategy for Lagos, a city of more than 22 million people. I am advising them on technologies, partnerships and funding mechanisms that could be appropriate for this city.
-- url:
   image: pyro-degrade.jpg
   title: Collaboration with Pyro-degrade Energy
   location: Nairobi, Kenya
   dates: Since Jan 2021
   text: Pyro-degrade Energy is a startup that developed a technology to produce pyro-diesel from plastic waste. Pyro-diesel is an environmentally friendly diesel substitute - it is almost sulphur free and has a low carbon footprint. I am helping them with fundraising for their first industrial scale plant.
+- url:
+  image: lawma.jpg
+  title: Collaboration with LAWMA
+  location: Lagos, Nigeria
+  dates: Since Jan 2021
+  text: Lagos Waste Management Authority (LAWMA) is developing a new waste management strategy for Lagos, a city of more than 22 million people. I am advising them on technologies, partnerships and funding mechanisms that could be appropriate for this city.
 - url:
   image: gikoko.jpg
   title: Consulting for Gikoko Kogyo Indonesia
