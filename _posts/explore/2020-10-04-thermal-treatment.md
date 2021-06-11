@@ -1,6 +1,6 @@
 ---
 layout: kz-page
-title: Waste disposal methods
+title: Thermal treatment of waste
 meta_description:
 header:
   title: ""
@@ -23,11 +23,9 @@ categories:
 
 ---
 
-Waste disposal methods are not substitutes for recycling, these methods are used to treat waste that cannot be used otherwise. 
 Thermal treatment methods significantly reduce the volume of the waste and destroy all pathogens present in it. 
 These methods allow to recover the calorific value of the waste in a form of energy, hence they are often referred to as waste-to-energy or energy-from-waste.
 [Incineration][1], waste combustion in the presence of oxygen, is the only method currently widely used on an industrial scale. 
-Pyrolysis, gasification and plasma arc gasification are known as advanced thermal treatment methods. 
 
 <div class="row">
   {% for widget in page.widgets %}

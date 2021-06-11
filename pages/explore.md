@@ -11,27 +11,24 @@ widgets:
 - url: /explore/urgent/
   image: waste_and_climate.jpg
   title: <a href="/explore/urgent/" target="_self">Waste management challenges are urgent</a>
-- url:
+- url: /explore/thermal-treatment/
+  image: waste-grabber-in-action.jpg
+  title: <a href="/explore/thermal-treatment/" target="_self">Thermal treatment of waste</a> 
+- url: /explore/landfills/
+  image: landfills.jpg
+  title: <a href="/explore/landfills/" target="_self">Landfills and dumpsites</a>
+- url: /explore/plastics/
+  image: types-of-plastic.jpg
+  title: <a href="/explore/plastics/" target="_self">Plastics</a>
+- url: /explore/plastic-waste/
   image: plastic_recycling.jpg
-  title: Plastics and processing of plastic waste
-- url:
-  image: other_recycling.jpg
-  title: Processing other types of waste
-- url: /explore/waste-disposal-methods/
-  image: waste_disposal_methods.jpg
-  title: <a href="/explore/waste-disposal-methods/" target="_self">Waste disposal methods</a> 
-- url: /explore/funding/
-  image: funding.jpg
-  title: <a href="/explore/funding/" target="_self">Funding waste management projects</a>
-- url: /explore/landfill-mining/
-  image: landfill-mining.jpg
-  title: <a href="/explore/landfill-mining/" target="_self">Landfill mining</a>
+  title: <a href="/explore/plastic-waste/" target="_self">Plastic waste</a>
 - url:
   image: waste_management.jpg
   title: Components of waste management system
-- url: /explore/environmental-impact/
-  image: environmental_impact.jpg
-  title: <a href="/explore/environmental-impact/" target="_self">Environmental impact of waste</a>
+- url: /explore/funding/
+  image: funding.jpg
+  title: <a href="/explore/funding/" target="_self">Funding waste management projects</a>
 - url:
   image: waste_trade.jpg
   title: International waste trade
