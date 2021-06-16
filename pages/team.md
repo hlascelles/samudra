@@ -21,7 +21,7 @@ header:
     <div class="medium-4 columns frontpage-widget">
       <img src="/images/team-join-us.jpg" alt="" >
       <h2 class="font-size-h3 t10">Would you like to join me?</h2>
-      <p>Waste management is a truly multidisciplinary affair. Whether you are a chemist, an engineer, a lawyer, an expert in communications or finance, or simply an awesome individual, we can achieve more together. If you share my passion to make the world a better place, please do <a href="mailto:karina@samudra.world" target="_blank">get in touch</a>!</p>
+      <p>Waste management is a truly multidisciplinary affair. Whether you are a waste management professional, an engineer, a chemist, an expert in finance, or simply an awesome individual, we can achieve more together. If you share my passion to make the world a better place, please do <a href="mailto:karina@samudra.world" target="_blank">get in touch</a>!</p>
       <div class="text-center"></div>
     </div>
   </div>
