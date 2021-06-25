@@ -18,7 +18,7 @@ widgets:
   image: landfills.jpg
   title: <a href="/explore/landfills/" target="_self">Landfills and dumpsites</a>
 - url: /explore/plastics/
-  image: types-of-plastic.jpg
+  image: plastic-production.jpg
   title: <a href="/explore/plastics/" target="_self">Plastics</a>
 - url: /explore/plastic-waste/
   image: plastic_recycling.jpg

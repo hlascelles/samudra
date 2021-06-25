@@ -36,7 +36,7 @@ This includes both sites that existed before the waste licensing regime, and sit
 Until 1995 there was very little information about historic landfills. 
 The [Town and Country Planning (General Development Procedure) Order 1995][1] introduced restrictions on developing land within 250 metres of landfill sites that have received waste in the past 30 years. 
 To be able to comply with these regulations, [The Historic Landfill dataset][5] was created by gathering data from local authorities, the former Department of the Environment, the British Geological Society and the Environment Agency.
-This dataset contains [19722 historic landfills in England][6] ([map][4]) and [1501 in Wales][16]. <!-- 21224 total -->
+This dataset contains [19,722 historic landfills in England][6] ([map][4]) and [1,501 in Wales][16]. <!-- 21224 total -->
 Similar datasets for Scotland and Northern Ireland don't yet exist.
 
 
