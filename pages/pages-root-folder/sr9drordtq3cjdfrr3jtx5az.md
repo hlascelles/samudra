@@ -12,7 +12,7 @@ Here is a list of funding sources that could be used for waste management projec
 As I've just started working on this list, the entries appear in random order and many are still missing.
 
 
-### Opportunities with a specific deadline
+### <a name="deadlines"></a> Opportunities with a specific deadline
 
 **1.** [The GSMA Innovation Fund for Digital Urban Services][9]  
 **Deadline:** <span style="color:red">2 July 2021</span>  
@@ -25,8 +25,7 @@ As I've just started working on this list, the entries appear in random order an
 
 
 
-
-### Innovation funds - for projects that haven't been done before
+### <a name="innovation-funds"></a> Innovation funds - for projects that haven't been done before
 
 
 **1.** [The Global Innovation Fund][3] (GIF) is a non-profit innovation fund. Offices in London, UK (HQ) and Washington DC.  
@@ -47,7 +46,7 @@ For-profit companies can apply for debt or equity for setting up or growing thei
 **Previously funded:** 
 [Mr Green Africa][5] in Kenya; they buy plastic waste from the informal sector, mechanically recycle it into pellets and flakes, and sell to plastics manufacturers in the FMCG sector.  
 **To apply:** 
-[https://www.globalinnovation.fund/apply/][4], but read [this][8] first.  
+[https://www.globalinnovation.fund/apply/][4], read [this][8] first.  
 
 
 
@@ -90,8 +89,37 @@ Funding in the form of grants will be made available to proposed projects from a
  -->
 
 
+### <a name="plastic-credits"></a> Plastic credits - for collecting plastic waste and/or displacing virgin plastic with recycled material
 
-### Development banks - for projects in low and middle income countries
+See the description of plastic credits [here][11]. 
+
+Organisations that define standards (methodologies and mechanisms by which credits can be issued):
+* [Verra][12]
+* [Zero Plastic Oceans][18]
+
+Organisations that develop projects that will result in plastic credits:
+* [rePurpose][14]
+* [Cleanhub][15]
+* [Circulate.global][16]
+* [Empower][17]
+
+<!-- Organisations that execute projects that result in plastic credits -->
+
+Organisations that verify whether the projects has led to the expected result and deserves to be credited:
+* [Control Union][19]
+
+<!-- Organisations that generate credits (for recovered or recycled plastics) that can be sold -->
+ 
+Organisations that promote or broker the purchase of credits:
+* [Circular Action Hub][13]
+
+
+
+
+
+
+
+### <a name="development-banks"></a> Development banks - for projects in low and middle income countries
 
 The [list of public development banks][1] around the world includes 454 organisations. Most of them are national, only 46 public development banks are international. According to [Finance in Common][2] public development banks account for 10% of global annual public and private investments.
 
@@ -122,3 +150,12 @@ The [list of public development banks][1] around the world includes 454 organisa
 [8]: https://www.globalinnovation.fund/2000-pitches-later-how-to-improve-your-odds/
 [9]: https://www.gsma.com/mobilefordevelopment/digitalutilities/innovation-fund/
 [10]: https://coliba.ci/
+[11]: /explore/funding/#plastic-credits
+[12]: https://verra.org/verra-launches-new-plastic-standard-to-drive-investment-in-plastic-waste-collection-and-recycling-projects/
+[13]: https://www.circularactionhub.org/
+[14]: https://repurpose.global/
+[15]: https://www.cleanhub.io/
+[16]: http://circulate.global/
+[17]: https://empower.eco/
+[18]: https://zeroplasticoceans.org
+[19]: www.certifications.controlunion.com/en
