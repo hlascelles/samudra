@@ -161,7 +161,7 @@ We are committed to not produce anything that will soon become waste.
 
 ### <a name="sdgs"></a> Our contribution to 15 out of 17 Sustainable Development Goals
 
-<div class="row t15">
+<div class="row">
   {% for widget in page.widgets %}
     {% assign loopindex = forloop.index | modulo: 3 %}
     <div id="{{ widget.anchor }}">{% include _frontpage-widget.html widget=widget %}</div>

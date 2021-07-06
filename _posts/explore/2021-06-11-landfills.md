@@ -26,3 +26,4 @@ categories:
     {% endif %}
   {% endfor %}
 </div>
+

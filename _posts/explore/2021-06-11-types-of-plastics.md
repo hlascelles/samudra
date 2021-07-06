@@ -35,4 +35,5 @@ About [368 million tonnes][1] of plastic wete produced in 2019.
   {% endfor %}
 </div>
 
+
 [1]: https://www.plasticseurope.org/en/resources/publications/4312-plastics-facts-2020

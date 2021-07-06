@@ -10,20 +10,10 @@ header: no
 
 Here is a list of funding sources that could be used for waste management projects. 
 As I've just started working on this list, the entries appear in random order and many are still missing.
+See previous opportunities with expired deadlines [here][1]. 
 
 
-### <a name="deadlines"></a> Opportunities with a specific deadline
-
-**1.** [The GSMA Innovation Fund for Digital Urban Services][9]  
-**Deadline:** <span style="color:red">2 July 2021</span>  
-**What they fund:** Innovative digital tools to incentivise, facilitate and optimise the collection, transport, sorting and recycling of waste. For example, tools to allow waste pickers to digitally log their waste collection, to relay their locations to help manage logistics and identify waste hotspots, to connect them to buyers of recyclable materials; digital payment platforms for waste collection to facilitate access to fair market prices; digital traceability tools to create an auditable trail of recovered waste or to increase transparency in the plastics supply chain.  
-**Who can apply:** Startups, SMEs and social enterprises supporting the provision of essential urban services to the underserved populations across Africa or Asia using innovative digital technology. The organisation must have active users and commercial revenue (revenue generated from any products or services offered by the organisation) in at least one eligible low- or middle-income country.    
-**Type of funding:** GBP 100,000 - 250,000 in equity-free grants. Matching funding of 25% - 50% is required.  
-**Previously funded:** [Coliba][10] in Côte d'Ivoire - a company that designed a web, mobile and SMS platform that connects households and businesses with plastic waste collectors.   
-**To apply:** Complete a short online questionnaire describing the project and how you meet the funding criteria. If successful, you'll have to submit a full proposal in August and start the project in March 2022.  
-
-
-
+<!-- ### <a name="deadlines"></a> Opportunities with a specific deadline -->
 
 ### <a name="innovation-funds"></a> Innovation funds - for projects that haven't been done before
 
@@ -121,7 +111,7 @@ Organisations that promote or broker the purchase of credits:
 
 ### <a name="development-banks"></a> Development banks - for projects in low and middle income countries
 
-The [list of public development banks][1] around the world includes 454 organisations. Most of them are national, only 46 public development banks are international. According to [Finance in Common][2] public development banks account for 10% of global annual public and private investments.
+The [list of public development banks][20] around the world includes 454 organisations. Most of them are national, only 46 public development banks are international. According to [Finance in Common][2] public development banks account for 10% of global annual public and private investments.
 
 
 
@@ -140,7 +130,7 @@ The [list of public development banks][1] around the world includes 454 organisa
 
 
 
-[1]: https://afdshiny.shinyapps.io/developmentbanksdatabase/
+[1]: /vh4m88zny5v43y6pbf26u9y7/
 [2]: https://financeincommon.org/
 [3]: https://www.globalinnovation.fund
 [4]: https://www.globalinnovation.fund/apply/
@@ -159,3 +149,4 @@ The [list of public development banks][1] around the world includes 454 organisa
 [17]: https://empower.eco/
 [18]: https://zeroplasticoceans.org
 [19]: www.certifications.controlunion.com/en
+[20]: https://afdshiny.shinyapps.io/developmentbanksdatabase/
