@@ -49,13 +49,4 @@ Note that all the waste-related numbers are point estimates, all of them have la
 We only use the word "about" in front of the numbers to indicate that we've not yet found the data or we suspect it doesn't exist. 
 If you spot any mistakes, please do <a href="mailto:hello@samudra.world" target="_blank">get in touch</a>, we will much appreciate that.
 
-
-<div class="row">
-  {% for widget in page.widgets %}
-    {% assign loopindex = forloop.index | modulo: 3 %}
-    {% include _frontpage-widget.html widget=widget %}
-    {% if loopindex == 0 %}
-      <hr style="height:0px; visibility:hidden;margin: 0px;" /> <!-- Prevents long first column items from pushing new rows to the right -->
-    {% endif %}
-  {% endfor %}
-</div>
+{% include _widget_grid_layout.html widgets=page.widgets articles_per_row=3 %}
