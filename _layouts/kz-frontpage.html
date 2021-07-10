@@ -91,7 +91,7 @@ format: frontpage
 
         <!-- List of earlier pages -->
         <div class="medium-6 columns">
-            <h3>Recently published:</h3>
+            <h3 style="margin-top: 0px;">Recently published:</h3>
             <ul class="side-nav">
                 {% for post in site.posts limit:7 %}
                     {% unless post.primary_post == true %}
