@@ -3,20 +3,18 @@ layout: kz-frontpage
 header:
   title: ""
   image_fullwidth: landingpage_image.jpg
-widget1:
-  url: /about#sdgs
+widgets:
+- url: /about#sdgs
   image: all_sdgs.jpg
   title: <a href="/about#sdgs" target="_self">Our work focuses on 15 SDGs set by the UN</a>
   text: By improving waste management systems around the world, increasing the coverage of waste collection services, reducing the environmental pollution associated with waste and creating collaborative solutions where everyone’s contribution is truly appreciated instead of being expected, we contribute to 15 SDGs set by the UN.
   button: true
-widget2:
-  url: /explore/urgent/
+- url: /explore/urgent/
   image: waste_and_climate.jpg
   title: <a href="/explore/urgent/" target="_self">Waste contributes >5% to the climate emergency</a> 
   text: The World Bank estimated that <a href="https://datatopics.worldbank.org/what-a-waste/" target="_blank">about 5% of total global GHG emissions</a> were generated from solid waste treatment and disposal in 2016, not including waste-related transportation. Additionally, a 2019 study demonstrated that black carbon emissions from open burning of waste have an impact equal to <a href="https://www.sciencedirect.com/science/article/abs/pii/S1352231019304388" target="_blank">2–10% of global CO2-equivalent emissions</a>. At Samudra we are determined to act before it is too late.
   button: true
-widget3:
-  url: /projects/
+- url: /projects/
   image: puzzle.jpg
   title: <a href="/projects/" target="_self">Connecting the pieces of a puzzle</a> 
   text: We believe that all the pieces of the puzzle already exist - local waste management companies around the world that care about the environment; technologies developed in companies, universities and sheds around the world; funding available from governments, companies, NGOs and other stakeholders. Our mission is to connect them and thus increase everyone's positive impact.

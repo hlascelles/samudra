@@ -52,12 +52,4 @@ widgets:
   text: Forbi's goal was to kickstart a PET bottle collection scheme in schools in Buea, Cameroon to both increase the plastic recycling rate in the country and to educate kids about waste related challenges. I helped Forbi with writing the project proposal, making a budget and with the application process.
 ---
 
-<div class="row">
-  {% for widget in page.widgets %}
-    {% assign loopindex = forloop.index | modulo: 3 %}
-    <div id="{{ widget.anchor }}">{% include _frontpage-widget.html widget=widget %}</div>
-    {% if loopindex == 0 %}
-  <hr style="height:1px; visibility:hidden;" /> <!-- Prevents long first column items from pushing new rows to the right -->
-    {% endif %}
-  {% endfor %}
-</div>
+{% include _widget_grid_layout.html widgets=page.widgets articles_per_row=3 %}

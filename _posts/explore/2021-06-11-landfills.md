@@ -17,13 +17,6 @@ categories:
 
 ---
 
-<div class="row">
-  {% for widget in page.widgets %}
-    {% assign loopindex = forloop.index | modulo: 3 %}
-    <div id="{{ widget.anchor }}">{% include _frontpage-widget.html widget=widget %}</div>
-    {% if loopindex == 0 %}
-  <hr style="height:1px; visibility:hidden;" /> <!-- Prevents long first column items from pushing new rows to the right -->
-    {% endif %}
-  {% endfor %}
-</div>
+
+{% include _widget_grid_layout.html widgets=page.widgets articles_per_row=3 %}
 

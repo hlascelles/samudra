@@ -10,59 +10,45 @@ widgets:
 - image: sdg1.png
   anchor: sdg1
   text: Plastic pollution has a detrimental effect on tourism, fishing and shipping industries. Reducing the amount of pollution entering our oceans will provide direct economic benefits for local communities that depend on these industries.
-
 - image: sdg2.png
   anchor: sdg2
   text: Marine plastic pollution puts rich nutrition sources (fish, seafood and algae) at risk, and leads to food chain contamination. Reducing the amount of pollution entering our oceans will secure safe nutrition sources for the future.
-
 - image: sdg3.png
   anchor: sdg3
   text: Uncollected waste is either openly burnt (leading to adverse effects on air quality) or dumped (facilitating the spread of disease vectors and contagious diseases). Improving the coverage of waste collection services will lead to better physical and mental health, and reduce the prevalence of contagious diseases.
-
 - image: sdg5.png
   anchor: sdg5
   text: Women are responsible for waste management in most households and are hence more exposed to the harmful substances released during open burning of waste. Due to a higher proportion of body fat compared to men, they are also more likely to accumulate these harmful substances in larger quantities. Improving the coverage of waste collection services will reduce this inequality.
-
 - image: sdg6.png
   anchor: sdg6
   text: Uncollected waste and contaminants created during open burning of waste pollute sources of drinking water (both water-bodies and ground waters). Improving the coverage of waste collection services will alleviate shortage of water for personal and agricultural use. 
-
 - image: sdg7.png
   anchor: sdg7
   text: Even waste that is neither recyclable nor compostable has calorific value. Non-recyclable plastic can be turned into fuel via pyrolisis. Using waste as an energy resource will facilitate the shift away from more polluting fuels and produce affordable energy while reducing the environmental pollution at the same time. 
-
 - image: sdg8.png
   anchor: sdg8
   text: Millions of people make a living by participating in the informal waste management sector. They work without protective equipment and they often don't have access to healthcare. Many of them don't have IDs and none of them have a stable income. Creating waste management jobs for these people will result in better work conditions, more stable income, access to healthcare, further education and a social safety net. 
-
 - image: sdg9.jpg
   anchor: sdg9
   text: The supply of raw materials is finite. Capital investment in waste management infrastructure will increase availability of raw (recycled) materials and affordable energy for local industries. 
-
 - image: sdg10.jpg
   anchor: sdg10
   text: Income inequality is exacerbated by the availability of waste collection services. Low-income communities live in polluted environments and are exposed to harmful substances released during open burning of waste. Improving the coverage of waste collection services will reduce this health inequality and facilitate the economic growth of low-income communities. 
-
 - image: sdg11.png
   anchor: sdg11
   text: Uncollected waste results in air pollution from open burning of waste, spread of infectious diseases and floods caused by clogged drainage systems. Improving the coverage of waste collection services will facilitate sustainable development of urban and rural communities. 
-   
 - image: sdg12.png
   anchor: sdg12
   text: It is impossible to be a responsible producer or consumer if waste management services are not available. Capital investment in waste management infrastructure will facilitate the shift towards responsible product design and better waste management practices both in industry and in households. 
-   
 - image: sdg13.png
   anchor: sdg13
   text: Landfills without methane capture infrastructure contribute a considerable amount to greenhouse gas emissions, as does the open burning of waste. Capital investment in waste management infrastructure will reduce the amount of emissions associated with waste. 
-   
 - image: sdg14.png
   anchor: sdg14
   text: Ocean pollution is detrimental to marine ecosystem health. It harms all marine species and all species that are part of the food chains they belong to. Reducing the amount of pollution entering our oceans will be an essential part of preventing marine ecosystem collapse. 
-   
 - image: sdg15.png
   anchor: sdg15
   text: The waste washed up on the shores, the leachate from dumped waste and the ashes from waste burnt in the open all pollute our land. The need for more and more landfills, given the rate at which they fill up, often results in human-induced deforestation of the surrounding areas. Capital investment in waste management infrastructure will reduce environmental contamination and the rate of deforestation, as well as protect biodiversity and fertility of our land. 
-
 - image: sdg17.png
   anchor: sdg17
   text: Concerns about urgent waste management challenges that need to be addressed often result in blaming companies, consumers or governments. This leads to a counterproductive divide between "us" and "them". Creating collaborative solutions that allow everyone to participate will result in better outcomes for people and our planet. 
@@ -161,15 +147,7 @@ We are committed to not produce anything that will soon become waste.
 
 ### <a name="sdgs"></a> Our contribution to 15 out of 17 Sustainable Development Goals
 
-<div class="row">
-  {% for widget in page.widgets %}
-    {% assign loopindex = forloop.index | modulo: 3 %}
-    <div id="{{ widget.anchor }}">{% include _frontpage-widget.html widget=widget %}</div>
-    {% if loopindex == 0 %}
-  <hr style="height:1px; visibility:hidden;" /> <!-- Prevents long first column items from pushing new rows to the right -->
-    {% endif %}
-  {% endfor %}
-</div>
+{% include _widget_grid_layout.html widgets=page.widgets articles_per_row=3 %}
 
 <!--
 Reducing the amount of pollution entering our oceans 
