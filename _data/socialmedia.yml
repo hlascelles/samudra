@@ -1,16 +1,16 @@
 - name: Email
   url: mailto:hello@samudra.world
-  class: icon-mail
+  class: fa-envelope
   title: ""
 
 - name: LinkedIn
   url: https://www.linkedin.com/company/samudra-world/
-  class: icon-linkedin
+  class: fa-linkedin
   title: ""
 
 - name: RSS
   url: /feed.xml
-  class: icon-rss
+  class: fa-whatsapp
   title: ""
 
 # - name: GitHub
