@@ -3,7 +3,7 @@ layout: kz-page
 title: "This is what we do"
 permalink: /projects/
 subheadline: Waste management for our planet and people, not profit
-teaser: "Our goals are to reduce the environmental pollution and greenhouse gas emissions associated with waste, and to minimise the impact of waste on human and animal health. Here is what we do to achieve these goals:"
+teaser: "Our goals are to reduce the environmental pollution and climate impact associated with waste, and to minimise the impact of waste on human and animal health. Here is what we do to achieve these goals:"
 header:
   title: ""
   image_fullwidth: landingpage_image.jpg
@@ -13,7 +13,7 @@ widgets:
   title: Collaboration with <a href="https://ecopath.page/" target="_blank">Ecopath</a> 
   location: Lagos, Nigeria
   dates: Since July 2021
-  text: Ecopath is a for-purpose startup developing a circular economy for photocopier, printer and duplicator cartridges in Nigeria. Remanufacturing cartridges sounds like a simple idea, but until now it has not been done anywhere in West Africa. I am helping them with developing a business plan, branding and fundraising.
+  text: Ecopath is a for-purpose startup developing a circular economy for photocopier, printer and duplicator cartridges in Nigeria. Remanufacturing cartridges sounds like a simple idea, but until now it has not been done anywhere in West Africa. I am helping them with developing a business plan, with branding and fundraising.
 - url:
   image: elmar.jpg
   title: Collaboration with <a href="https://elmar.org.uk/" target="_blank">ELMAR</a>
@@ -31,7 +31,7 @@ widgets:
   title: Collaboration with <a href="https://pyro-degrade.co.ke/" target="_blank">Pyro-degrade Energy</a>
   location: Nairobi, Kenya
   dates: Since Jan 2021
-  text: Pyro-degrade Energy is a startup that developed a technology to produce pyro-diesel from plastic waste. Pyro-diesel is an environmentally friendly diesel substitute - it is almost sulphur free and has a low carbon footprint. I am helping them with fundraising for their first industrial scale plant.
+  text: Pyro-degrade Energy is a for-purpose startup that developed a technology to produce pyro-diesel from plastic waste. Pyro-diesel is an environmentally friendly diesel substitute - it is almost sulphur free and has a low carbon footprint. I am helping them with fundraising for their first industrial scale plant.
 - url:
   image: lawma.jpg
   title: Collaboration with <a href="https://moelagos.gov.ng/agencies/lagos-state-waste-management-authority-lawma-2/" target="_blank">LAWMA</a>
