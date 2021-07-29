@@ -25,13 +25,13 @@ The term **physical recycling** refers to plastic recycling methods where the po
     style="width: 100%; max-width: 900px;" class="center">
 
 
-Physical recycling methods include mechanical recycling (into pellets) and solvent-based recycling (into polymers). 
+Physical recycling methods include **mechanical recycling** (into pellets) and **solvent-based recycling** (into polymers). 
 The advantages of these methods are that they generally produce high yields and are very energy efficient.
 One of the main disadvantages is that the additives present in the plastic are transferred to the recycled materials.
 Due to this accumulation of contaminants in the recycled material, physical recycling generally falls under **cascading recycling** (also referred to as downcycling) where the recycled material is of lower quality and functionality than the original material.
 
 
-Chemical recycling methods include depolymerization (into monomers) and feedstock recycling (into base molecules).
+Chemical recycling methods include **depolymerization** (into monomers) and **feedstock recycling** (into base molecules).
 Chemical recycling plants don't have to compete with virgin plastic producers, instead they can supply monomers or feedstock (base molecules) to them.
 The advantages of these methods are that re-assembled polymers are indistinguishable from virgin plastic, and that plastic waste can be converted into new plastics of another type.
 These methods fall under **closed-loop recycling** since no loss of quality occurs and there is no limit on how many times the same material can be recycled.
@@ -41,7 +41,7 @@ The main disadvantages are low yields and high energy intensity.
 Which is the best recycling method in each case depends on the plastic type, its contamination level and the goals set to be achieved. 
 The costs and energy intensity of recycling increases "the further back you go" (see diagram above).
 If a recycling method requires a higher energy input than the original polymer had, then from an energy point of view it is best to make virgin plastic.
-The current recycling infrastructure for plastic waste is dominated by mechanical recycling, but it's potential is limited in further increasing pellet quality in a financially sustainable way. 
+The current recycling infrastructure for plastic waste is dominated by mechanical recycling, but it's potential is limited to further increasing pellet quality in a financially sustainable way. 
 Other recycling methods have a lot of potential and are expected to gain substantial market shares as complementary techniques to mechanical recycling.
 
 
@@ -49,9 +49,14 @@ Other recycling methods have a lot of potential and are expected to gain substan
 
 ### Sorting plastic waste
 
-Most plastics are incompatible with other types of plastics - in a molten state they don't form a homogeneous mixture that could be used to produce high quality recycled material. 
-Plastic waste can be sorted using properties that differ between types of plastic: robotic sorting is based on differences in absorption of radiation, gravity separation is based on differences in density and settling velocity, electrostatic separation is based on differences in contact charging, thermoadhesive separation is based on differences in softening point, solvent extraction is based on differences in solubility, froth flotation is based on differences in wettability.
-Several methods are being developed for recycling incompatible plastics together - from mechano-chemical extrusion to compatibilising additives.
+Most plastics are incompatible with other types of plastics - in a molten state they don't form a homogeneous mixture necessary to produce high quality recycled material. 
+While inhomogeneous mix of incompatible plastics can be processed into thick products by direct extrusion (for example, plastic lumber), the quality of the material can be improved by at least sorting into groups of compatible plastics that form a homogeneous mix, if sorting into mono plastic streams is not possible.
+Methods for recycling incompatible plastics together, like mechano-chemical extrusion and using compatibilising additives, are an active area of research.
+
+
+Plastic waste can be sorted using properties that differ between types of plastic: robotic sorting is based on differences in absorption of radiation, gravity separation is based on differences in density and settling velocity, electrostatic separation is based on differences in contact charging, thermoadhesive separation is based on differences in softening point, solvent extraction is based on differences in solubility, froth flotation is based on differences in wettability, etc.
+
+
 
 
 
@@ -63,9 +68,8 @@ The two main limitations that generally prevent these methods from qualifying as
 Due to degradation of the long polymer molecules the same material can only be recycled about 4-7 times before the material produced becomes low quality.
 Chain extension methods that would remove this limitation are an active area of research.
 The main steps of mechanical recycling are:
-* Sorting waste by plastic type. While even inhomogeneous mix of incompatible plastics can be processed into thick products by direct extrusion (for example, plastic lumber), quality can be improved by sorting into groups of compatible plastics that form a homogeneous mix, and improved even further by sorting into mono plastic streams.
-* Shredding into flakes.
-* Washing to remove exterior contaminants. Different types of washing in the order of increasing potential for contaminant removal are cold wash, hot wash (contaminants are dissolved with caustic soda) and chemical wash (contaminants and pigments are dissolved with an organic liquid). Starting with uncontaminated plastic waste improves the quality of recycled material.
+* Sorting waste by plastic type and shredding it into flakes.
+* Washing the flakes to remove exterior contaminants. Different types of washing, in the order of increasing potential for contaminant removal, are cold wash, hot wash (contaminants are dissolved with caustic soda) and chemical wash (contaminants and pigments are dissolved with an organic liquid). Starting with uncontaminated plastic waste improves the quality of recycled material.
 * Compounding - producing pellets by remelting. The inputs (washed plastic flakes 2-12mm in size and additives) are homogenised and passed through degassing and melt filtration to form pellets, the final product. Melt filtration removes non-meltable contaminants, while degassing removes other types of contaminants. Both of these processes are rather ineffective due to the high viscosity of the molten plastic.
 
 
@@ -73,11 +77,11 @@ The main steps of mechanical recycling are:
 
 ### Solvent-based recycling (into polymers)
 
-Solvent-based recycling methods generally produce very high yields, and better quality recycled material then mechanical recycling since both exterior and interior contaminants are removed.
+Solvent-based recycling methods, generally produce very high yields, and better quality recycled material then mechanical recycling since both exterior and interior contaminants are removed.
 Contaminant removal efficiency is the highest for homogeneous low-viscosity molten plastics.
 The main steps of solvent-based recycling are:
 * Sorting waste by plastic type and shredding it into flakes.
-* Solvent-based purification (also referred to as dissolution). Plastic flakes are mixed with a solvent.
+* Solvent-based purification (also referred to as **dissolution**) - plastic flakes are mixed with a solvent.
 * Filtration to remove contaminants.
 * Solvent removal. The solvent is then re-added to the next batch.
 * Compounding. 
@@ -117,18 +121,6 @@ The naphtha fraction of the output can be used for virgin plastic production.
 ##### Biological decomposition
 
 Biological decomposition is a stimulated biological breakdown of plastic by enzymes produced by microbes or fungi.
-The output is base chemicals and fungi or biomass.
+The output is base chemicals and biomass.
 The latter can be used to produce chemicals, for example lactic acid.
 Lactic acid can be converted to polylactic acid (PLA), a biodegradable plastic.
-
-
-
-
-
-
-
-
-
-
-
-

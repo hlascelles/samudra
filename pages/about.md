@@ -79,16 +79,16 @@ You then need to find a market for recyclable materials or products you can make
 Often the waste composition changes faster than the infrastructure investment pays off. 
 As a result, waste management that doesn't harm the environment or human health is often not profitable. 
 At Samudra we are motivated by solving problems, not by profit. 
-That is why we decided to tackle global waste management challenges. 
+That is why we decided to tackle global waste management challenges that don't have a profitable solution.
 
 
 
 ### Maximum impact projects
 Since we are not bound by trying to maximise our profit, we are free to work on projects with the highest estimated impact. 
 As our first challenge, we picked marine plastic pollution because it is an urgent matter. 
-It is [estimated][1] that 12 million tonnes of plastic waste ends up in our oceans annually, and the amount is growing every year. 
+It was [predicted in 2015][1] that by 2025 there will be 127 million tonnes of plastic waste ending up in our oceans every year.
 40% of this plastic pollution originates on land in Southeast Asia, an additional 40% comes from other regions and the remaining 20% originates offshore, mainly from fishing, shipping and oil industries. 
-It is hard to estimate the amount of plastic already present in our oceans, especially because only 3% of it is floating on the surface. 
+It is hard to estimate the amount of plastic already present in our oceans, especially because only 1-3% of it is floating on the surface. 
 One thing is clear - it is easier to prevent more plastic pollution from entering our oceans than to eliminate the plastic that is already there. 
 Hence our goal is to improve waste collection and treatment systems.
 Find out about our ongoing projects <a href="/projects/" target="_self">here</a>.
@@ -100,14 +100,14 @@ Our aim is to make the world a better place, and the research we do provides us 
 Unlike other organisations with similar goals, we keep an open mind. 
 For example, we don’t believe that recycling is always the best solution, that the less plastic we use the better, or that incinerators are more polluting than landfills. 
 One reason is that very different things often end up under the same blanket term. 
-Widely recyclable plastic packaging material that reduces emissions from transportation or a medical device that saves a life is very different from plastic confetti dispersed directly into the environment. 
+Widely recyclable plastic packaging that reduces greenhouse gas emissions from transportation and medical devices that save lives are very different from plastic confetti dispersed directly into the environment. 
 A well-managed landfill with methane capture in a dry climate is very different from a landfill created by clearing rainforest. 
 Another reason we don't hold strong beliefs is that everything has a cost. 
 These costs can be very different depending on the type of waste and the location where it is produced. 
 Recycling something in one part of the world can produce more emissions and environmental pollution than incinerating it at a waste-to-energy facility in another part of the world. 
 Thermal decomposition of plastic waste can produce fuel that is less polluting than what is currently used in the region. 
 That is why we don't advocate for recycling, landfilling or incineration. 
-We advocate for taking the time to estimate the costs of different solutions (in terms of impact on the environment, climate and human health), to assess their financial feasibility and to compare the opportunity cost.
+We advocate for taking the time to estimate the costs of different solutions (in terms of impact on the environment, climate, human and animal health), to assess their financial feasibility and to compare the opportunity cost.
 In-depth research guides everything we do. 
 <a href="/explore/" target="_self">We invite you to explore what we've learnt so far.</a>
 If you spot any mistakes, please do <a href="mailto:hello@samudra.world" target="_blank">get in touch</a>, it will be much appreciated.
@@ -115,13 +115,13 @@ If you spot any mistakes, please do <a href="mailto:hello@samudra.world" target=
 
 
 ### Best is the enemy of better
-Our goals are to reduce the environmental pollution and greenhouse gas emissions associated with waste, and to minimise the impact of waste on human health.
+Our goals are to reduce the environmental pollution and climate impact associated with waste, and to minimise the impact of waste on human and animal health. 
 Efforts aimed at improving waste management in the long run, for example developing new materials or trying to redesign the global economy, are incredibly valuable. 
-We believe that in parallel to these efforts an urgent action is required to minimise the amount of pollution, emissions and detrimental effects on human health that happen today.
+We believe that in parallel to these efforts an urgent action is required to minimise the amount of environmental pollution, climate impact and detrimental effects on human and animal health that happen today.
 For each waste management challenge we tackle, we try to come up with as many ideas as possible about how it could be addressed.
-We evaluate each of these ideas based on what impact they will have on the environment, climate and human health if implemented.
+We evaluate each of these ideas based on what impact they will have on the environment, climate and health of living beings if implemented.
 We compare these externalities with the current ones and decide on an action plan that will result in an improvement.
-Some of the solutions we implement are far from perfect when examined in isolation, it only becomes apparent how they prevent degradation of the environment, climate and human health when they are examined in the context of current reality.
+Some of the solutions we implement are far from perfect when examined in isolation, it only becomes apparent how they minimise degradation of the environment, climate and health when they are examined in the context of current reality.
 
 
 
@@ -129,7 +129,7 @@ Some of the solutions we implement are far from perfect when examined in isolati
 Concerns about waste management challenges often result in blaming companies, consumers or governments.
 This leads to a counterproductive divide between "us" and "them".
 The truth is, nobody wants to live surrounded by waste. 
-Everyone enjoys beautiful nature, breathtaking views and funny marine creatures. 
+Everyone enjoys breathtaking views of the nature and funny marine creatures. 
 We are all "us", there are no "them". 
 That is why at Samudra we work towards collaborative solutions that allow everyone to contribute towards a better outcome for all of us.
 We believe that more can be achieved in a no blame culture where everyone's contribution is truly appreciated instead of being expected.
@@ -147,6 +147,7 @@ We are committed to not produce anything that will soon become waste.
 
 ### <a name="sdgs"></a> Our contribution to 15 out of 17 Sustainable Development Goals
 
+<br>
 {% include _widget_grid_layout.html widgets=page.widgets articles_per_row=3 %}
 
 <!--

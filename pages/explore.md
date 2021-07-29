@@ -47,6 +47,6 @@ Instead, we publish drafts of our articles and keep updating them as our researc
 These drafts, marked with an appropriate warning sign, might be missing important information and might contain statements that have not yet been fact checked properly.
 Note that all the waste-related numbers are point estimates, all of them have large error margins as it is impossible to obtain precise data about waste. 
 We only use the word "about" in front of the numbers to indicate that we've not yet found the data or we suspect it doesn't exist. 
-If you spot any mistakes, please do <a href="mailto:hello@samudra.world" target="_blank">get in touch</a>, we will much appreciate that.
+If you spot any mistakes, please do <a href="mailto:hello@samudra.world" target="_blank">get in touch</a>, it will be much appreciated.
 
 {% include _widget_grid_layout.html widgets=page.widgets articles_per_row=3 %}

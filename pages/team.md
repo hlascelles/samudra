@@ -13,7 +13,7 @@ widgets:
 - url:
   image: team-join-us.jpg
   title: Would you like to join us?
-  text: Waste management is a truly multidisciplinary affair. Whether you are a waste management professional, an engineer, a chemist, an expert in finance, or simply an awesome individual, we can achieve more together. If you share my passion to make the world a better place, please do <a href="mailto:karina@samudra.world" target="_blank">get in touch</a>!
+  text: Waste management is a truly multidisciplinary affair. Whether you are a waste management professional, an engineer, a chemist, an expert in finance, or simply an awesome individual, we can achieve more together. If you share my passion for making the world a better place, please do <a href="mailto:karina@samudra.world" target="_blank">get in touch</a>!
 widgets2:
 - url: https://www.linkedin.com/in/lawrenceyeh/
   image: team-lawrence.jpg
