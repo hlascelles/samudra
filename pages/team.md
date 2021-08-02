@@ -27,11 +27,20 @@ widgets2:
   image: team-afsona.jpg
   title: <a href="https://www.linkedin.com/in/afsona-bonu/" target="_blank">Afsona-Bonu Mansurova</a>
   text: I was born a believer in the idea that everyone deserves a decent livelihood and that we ourselves can be the magic wand to make a change. The more I travelled around the world, the more I studied and volunteered, I realised that I want to do more to join the common efforts in making this world a better place for all.
+widgets3:
+- url: https://www.linkedin.com/in/maximilian-schirm/
+  image: team-max.jpg
+  title: <a href="https://www.linkedin.com/in/maximilian-schirm/" target="_blank">Maximilian Schirm</a>
+  text: I believe that we are facing a number of problems in our world today which we should see as transformational challenges and opportunities instead of burying our heads in the sand. I’m convinced that given the opportunity, everyone can rise to the challenges at hand and contribute to their solution. This is why it’s my conviction that through cooperation and exchanging ideas we can grow together, globally.
+
 ---
 
 {% include _widget_grid_layout.html widgets=page.widgets articles_per_row=3 %}
 
-# Volunteer research assistants
 
+# Volunteer research assistants
 {% include _widget_grid_layout.html widgets=page.widgets2 articles_per_row=3 %}
 
+
+# External consultants
+{% include _widget_grid_layout.html widgets=page.widgets3 articles_per_row=3 %}
