@@ -15,6 +15,10 @@ widgets:
   title: Would you like to join us?
   text: Waste management is a truly multidisciplinary affair. Whether you are a waste management professional, an engineer, a chemist, an expert in finance, or simply an awesome individual, we can achieve more together. If you share my passion for making the world a better place, please do <a href="mailto:karina@samudra.world" target="_blank">get in touch</a>!
 widgets2:
+- url: https://www.linkedin.com/in/sonal-joshi-b293691b5/
+  image: team-sonal.jpg
+  title: <a href="https://www.linkedin.com/in/sonal-joshi-b293691b5/" target="_blank">Sonal Joshi</a>
+  text: "I am the chemistry whizz at Samudra! Things you might want to know about me: <ul> <li>I love making lists. (Clearly.)</li> <li>I love the feeling of puzzle pieces falling into place - which is why I can't imagine doing anything else but research.</li> <li>I love square donuts. They are arguably easier to eat. They never smear chocolate on your face!</li> </ul>"
 - url: https://www.linkedin.com/in/lawrenceyeh/
   image: team-lawrence.jpg
   title: <a href="https://www.linkedin.com/in/lawrenceyeh/" target="_blank">Lawrence Yeh</a>
