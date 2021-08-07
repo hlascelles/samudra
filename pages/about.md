@@ -21,19 +21,19 @@ widgets:
   text: Women are responsible for waste management in most households and are hence more exposed to the harmful substances released during open burning of waste. Due to a higher proportion of body fat compared to men, they are also more likely to accumulate these harmful substances in larger quantities. Improving the coverage of waste collection services will reduce this inequality.
 - image: sdg6.png
   anchor: sdg6
-  text: Uncollected waste and contaminants created during open burning of waste pollute sources of drinking water (both water-bodies and ground waters). Improving the coverage of waste collection services will alleviate shortage of water for personal and agricultural use. 
+  text: Leachate from uncollected waste and toxic emissions created during open burning of waste pollute sources of drinking water (both water-bodies and ground waters). Improving the coverage of waste collection services will ensure that more people have access to safe drinking water and that agricultural produce is not contaminated through water. 
 - image: sdg7.png
   anchor: sdg7
-  text: Even waste that is neither recyclable nor compostable has calorific value. Non-recyclable plastic can be turned into fuel via pyrolisis. Using waste as an energy resource will facilitate the shift away from more polluting fuels and produce affordable energy while reducing the environmental pollution at the same time. 
+  text: Even waste that is neither recyclable nor compostable has calorific value. Non-recyclable plastic can be turned into fuel through pyrolysis. Using waste as an energy resource will facilitate the shift away from more polluting fuels and produce affordable energy while reducing the environmental pollution at the same time. 
 - image: sdg8.png
   anchor: sdg8
-  text: Millions of people make a living by participating in the informal waste management sector. They work without protective equipment and they often don't have access to healthcare. Many of them don't have IDs and none of them have a stable income. Creating waste management jobs for these people will result in better work conditions, more stable income, access to healthcare, further education and a social safety net. 
+  text: Millions of people make a living by participating in the informal waste management sector. Most of them work without protective equipment, have no access to healthcare and occasionally face hunger due to irregular income. Our vision is to make the current waste pickers the last generation of waste pickers by creating opportunities for them and their children.
 - image: sdg9.jpg
   anchor: sdg9
-  text: The supply of raw materials is finite. Capital investment in waste management infrastructure will increase availability of raw (recycled) materials and affordable energy for local industries. 
+  text: The supply of raw materials is finite. Capital investment in waste management infrastructure will increase availability of raw (recycled) materials and affordable energy in the form of electricity and heat for local industries. 
 - image: sdg10.jpg
   anchor: sdg10
-  text: Income inequality is exacerbated by the availability of waste collection services. Low-income communities live in polluted environments and are exposed to harmful substances released during open burning of waste. Improving the coverage of waste collection services will reduce this health inequality and facilitate the economic growth of low-income communities. 
+  text: Income inequality is exacerbated by the availability of waste collection services. Low-income communities live in polluted environments and are exposed to toxic emissions released during open burning of waste. Improving the coverage of waste collection services will reduce this health inequality and facilitate the economic growth of low-income communities. 
 - image: sdg11.png
   anchor: sdg11
   text: Uncollected waste results in air pollution from open burning of waste, spread of infectious diseases and floods caused by clogged drainage systems. Improving the coverage of waste collection services will facilitate sustainable development of urban and rural communities. 
@@ -42,16 +42,17 @@ widgets:
   text: It is impossible to be a responsible producer or consumer if waste management services are not available. Capital investment in waste management infrastructure will facilitate the shift towards responsible product design and better waste management practices both in industry and in households. 
 - image: sdg13.png
   anchor: sdg13
-  text: Landfills without methane capture infrastructure contribute a considerable amount to greenhouse gas emissions, as does the open burning of waste. Capital investment in waste management infrastructure will reduce the amount of emissions associated with waste. 
+  text: Landfills and dumpsites without methane capture infrastructure and open burning of waste result in considerable climate impact. Capital investment in waste management infrastructure will reduce climate impact associated with waste. Combining energy recovery with carbon capture technology can result in carbon negative waste disposal methods.
 - image: sdg14.png
   anchor: sdg14
-  text: Ocean pollution is detrimental to marine ecosystem health. It harms all marine species and all species that are part of the food chains they belong to. Reducing the amount of pollution entering our oceans will be an essential part of preventing marine ecosystem collapse. 
+  text: Ocean pollution is detrimental to the health of marine ecosystems. It harms all marine species and all species that are part of the food chains they belong to. Reducing the amount of pollution entering our oceans will be an essential part of preventing marine ecosystem collapse. 
 - image: sdg15.png
   anchor: sdg15
-  text: The waste washed up on the shores, the leachate from dumped waste and the ashes from waste burnt in the open all pollute our land. The need for more and more landfills, given the rate at which they fill up, often results in human-induced deforestation of the surrounding areas. Capital investment in waste management infrastructure will reduce environmental contamination and the rate of deforestation, as well as protect biodiversity and fertility of our land. 
+  text: Leachate from uncollected waste and toxic emissions created during open burning of waste pollute our land. The need for more and more landfills, given the rate at which they fill up, often results in deforestation. Capital investment in waste management infrastructure will reduce environmental contamination and the rate of deforestation, as well as protect biodiversity and fertility of our land. 
 - image: sdg17.png
   anchor: sdg17
-  text: Concerns about urgent waste management challenges that need to be addressed often result in blaming companies, consumers or governments. This leads to a counterproductive divide between "us" and "them". Creating collaborative solutions that allow everyone to participate will result in better outcomes for people and our planet. 
+  text: Concerns about urgent waste management challenges that need to be addressed often result in blaming companies, consumers or governments. This leads to a counterproductive divide between "us" and "them". Creating collaborative solutions will allow everyone to contribute towards a better outcome for all of us. More can be achieved in a no blame culture where everyone’s contribution is truly appreciated instead of being expected. 
+
 ---
 
 Samudra is dedicated to solving global waste management challenges that don't have a profitable solution. 
