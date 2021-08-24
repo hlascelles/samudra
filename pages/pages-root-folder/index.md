@@ -29,7 +29,7 @@ homepage: true
 
 <br/>
 Samudra is dedicated to solving global waste management challenges that don’t have a profitable solution. 
-Our goals are to reduce the environmental pollution and greenhouse gas emissions associated with waste, and to minimise the impact of waste on human and animal health.
+Our goals are to reduce the environmental pollution and climate impact associated with waste, and to minimise the impact of waste on human and animal health.
 About 1 in 3 people worldwide have no access to waste collection services, which leads to open burning of waste and dumping.
 This results in air pollution, ocean pollution, soil and groundwater contamination, as well as damage to human and animal health and greenhouse gas emissions that could have been prevented.
 Hence our current focus is on increasing the coverage of waste collection services ([SGD 11.6.1][1]) in low and medium income countries.

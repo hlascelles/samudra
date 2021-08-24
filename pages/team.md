@@ -18,7 +18,7 @@ widgets2:
 - url: https://www.linkedin.com/in/sonal-joshi-b293691b5/
   image: team-sonal.jpg
   title: <a href="https://www.linkedin.com/in/sonal-joshi-b293691b5/" target="_blank">Sonal Joshi</a>
-  text: "I am the chemistry whizz at Samudra! Things you might want to know about me: <ul> <li>I love making lists. (Clearly.)</li> <li>I love the feeling of puzzle pieces falling into place - which is why I can't imagine doing anything else but research.</li> <li>I love square donuts. They are arguably easier to eat. They never smear chocolate on your face!</li> </ul>"
+  text: "I am the chemistry whizz at Samudra! Things you might want to know about me: <ul> <li>I like making lists. (Clearly.)</li> <li>I love the feeling of puzzle pieces falling into place - which is why I can't imagine doing anything else but research.</li> <li>I prefer square donuts. They are arguably easier to eat. They never smear chocolate on your face!</li> </ul>"
 - url: https://www.linkedin.com/in/lawrenceyeh/
   image: team-lawrence.jpg
   title: <a href="https://www.linkedin.com/in/lawrenceyeh/" target="_blank">Lawrence Yeh</a>
