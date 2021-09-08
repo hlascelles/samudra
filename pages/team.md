@@ -4,7 +4,7 @@ title: The team
 permalink: /team/
 header:
   title: ""
-  image_fullwidth: landingpage_image.jpg
+  image_fullwidth: main.jpg
 widgets:
 - url: https://karina.io/
   image: team-karina.jpg

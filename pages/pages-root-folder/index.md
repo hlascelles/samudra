@@ -2,7 +2,7 @@
 layout: kz-frontpage
 header:
   title: ""
-  image_fullwidth: landingpage_image.jpg
+  image_fullwidth: main.jpg
 widgets:
 - url: /about#sdgs
   image: all_sdgs.jpg

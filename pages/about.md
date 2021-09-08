@@ -5,7 +5,7 @@ title: Our mission
 permalink: /about/
 header:
   title: ""
-  image_fullwidth: landingpage_image.jpg
+  image_fullwidth: main.jpg
 widgets:
 - image: sdg1.png
   anchor: sdg1

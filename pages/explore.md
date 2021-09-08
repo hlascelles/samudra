@@ -6,7 +6,7 @@ subheadline: Waste management for our planet and people, not profit
 meta_description:
 header:
   title: ""
-  image_fullwidth: landingpage_image.jpg
+  image_fullwidth: main.jpg
 widgets:
 - url: /explore/urgent/
   image: waste_and_climate.jpg

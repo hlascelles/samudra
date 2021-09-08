@@ -4,7 +4,7 @@ title: Thermal treatment of waste
 meta_description:
 header:
   title: ""
-  image_fullwidth: landingpage_image.jpg
+  image_fullwidth: main.jpg
 widgets:
 - url: /explore/incineration/
   image: incinerator-diagram.jpg

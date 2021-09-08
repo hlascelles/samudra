@@ -6,7 +6,7 @@ subheadline: Waste management for our planet and people, not profit
 teaser: "Our goals are to reduce the environmental pollution and climate impact associated with waste, and to minimise the impact of waste on human and animal health. Here is what we do to achieve these goals:"
 header:
   title: ""
-  image_fullwidth: landingpage_image.jpg
+  image_fullwidth: main.jpg
 widgets:
 - url:
   image: ecopath.jpg
@@ -27,17 +27,17 @@ widgets:
   dates: Since Feb 2021
   text: Premier Enviro Solutions is a social enterprise with a mission to provide innovative, sustainable and affordable waste management solutions. I am helping them with projects related to processing plastic waste into building blocks, and safe disposal of medical waste.
 - url:
-  image: pyro-degrade.jpg
-  title: Collaboration with <a href="https://pyro-degrade.co.ke/" target="_blank">Pyro-degrade Energy</a>
-  location: Nairobi, Kenya
-  dates: Since Jan 2021
-  text: Pyro-degrade Energy is a for-purpose startup that developed a technology to produce pyro-diesel from plastic waste. Pyro-diesel is an environmentally friendly diesel substitute - it is almost sulphur free and has a low carbon footprint. I am helping them with fundraising for their first industrial scale plant.
-- url:
   image: lawma.jpg
   title: Collaboration with <a href="https://moelagos.gov.ng/agencies/lagos-state-waste-management-authority-lawma-2/" target="_blank">LAWMA</a>
   location: Lagos, Nigeria
   dates: Since Jan 2021
   text: Lagos Waste Management Authority (LAWMA) is developing a new waste management strategy for Lagos, a city of more than 22 million people. I am advising them on technologies, partnerships and funding mechanisms that could be appropriate for this city.
+- url:
+  image: pyro-degrade.jpg
+  title: Collaboration with <a href="https://pyro-degrade.co.ke/" target="_blank">Pyro-degrade Energy</a>
+  location: Nairobi, Kenya
+  dates: Jan-Jun 2021
+  text: Pyro-degrade Energy is a for-purpose startup that developed a technology to produce pyro-diesel from plastic waste. Pyro-diesel is an environmentally friendly diesel substitute - it is almost sulphur free and has a low carbon footprint. I am helping them with fundraising for their first industrial scale plant.
 - url:
   image: gikoko.jpg
   title: Consulting for <a href="https://www.gikoko.co.id/" target="_blank">Gikoko Kogyo Indonesia</a> 

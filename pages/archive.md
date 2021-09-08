@@ -5,7 +5,7 @@ title: "All content in one place"
 teaser: "Here you can see everything we've published so far in reverse chronological order."
 header:
   title: ""
-  image_fullwidth: landingpage_image.jpg
+  image_fullwidth: main.jpg
 
 ---
 
