@@ -3,7 +3,7 @@ layout: kz-page
 title: "This is what we do"
 permalink: /projects/
 subheadline: Waste management for our planet and people, not profit
-teaser: "Our goals are to reduce the environmental pollution and climate impact associated with waste, and to minimise the impact of waste on human and animal health. Here is what we do to achieve these goals:"
+teaser: "Our goals are to reduce the environmental pollution and climate impact associated with waste, and to minimise the impact of waste on human and animal health. Here are some of our projects aimed at achieving these goals:"
 header:
   title: ""
   image_fullwidth: main.jpg

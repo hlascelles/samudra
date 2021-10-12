@@ -15,6 +15,10 @@ widgets:
   title: Would you like to join us?
   text: Waste management is a truly multidisciplinary affair. Whether you are a waste management professional, an engineer, a chemist, an expert in finance, or simply an awesome individual, we can achieve more together. If you share my passion for making the world a better place, please do <a href="mailto:karina@samudra.world" target="_blank">get in touch</a>!
 widgets2:
+- url: https://www.linkedin.com/in/alicemennell/
+  image: team-alice.jpg
+  title: <a href="https://www.linkedin.com/in/alicemennell/" target="_blank">Alice Mennell</a>
+  text: Our working hours are a resource that can be used to make the world better, and tackling global waste management challenges is a great way to do that. <br> I’m a future trainee solicitor based in London and I am delighted to be assisting with some of the legal aspects of getting Samudra off the ground!
 - url: https://www.linkedin.com/in/sonal-joshi-b293691b5/
   image: team-sonal.jpg
   title: <a href="https://www.linkedin.com/in/sonal-joshi-b293691b5/" target="_blank">Sonal Joshi</a>
@@ -23,10 +27,6 @@ widgets2:
   image: team-lawrence.jpg
   title: <a href="https://www.linkedin.com/in/lawrenceyeh/" target="_blank">Lawrence Yeh</a>
   text: I often think about how well we understand each other in a society, and how we may improve our lives if we were better at communicating. Sometimes I get a little overwhelmed when trying to convey an idea, especially given my instincts to optimize everything. One remedy I have relied on is to retreat to nature and delve into the marvellous wonders of the world.
-- url: https://www.linkedin.com/in/afsona-bonu/
-  image: team-afsona.jpg
-  title: <a href="https://www.linkedin.com/in/afsona-bonu/" target="_blank">Afsona-Bonu Mansurova</a>
-  text: I was born a believer in the idea that everyone deserves a decent livelihood and that we ourselves can be the magic wand to make a change. The more I travelled around the world, the more I studied and volunteered, I realised that I want to do more to join the common efforts in making this world a better place for all.
 widgets3:
 - url: https://www.linkedin.com/in/maximilian-schirm/
   image: team-max.jpg
