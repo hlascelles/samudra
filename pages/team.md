@@ -1,6 +1,6 @@
 ---
 layout: kz-page
-title: The team
+title: ""
 permalink: /team/
 header:
   title: ""
@@ -35,10 +35,11 @@ widgets3:
 
 ---
 
+# Full-time team
 {% include _widget_grid_layout.html widgets=page.widgets articles_per_row=3 %}
 
 
-# Volunteer research assistants
+# Volunteers
 {% include _widget_grid_layout.html widgets=page.widgets2 articles_per_row=3 %}
 
 
