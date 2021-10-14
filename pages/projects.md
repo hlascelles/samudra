@@ -9,6 +9,12 @@ header:
   image_fullwidth: main.jpg
 widgets:
 - url:
+  image: ampliphi.jpg
+  title: Collaboration with <a href="https://ampliphi.io/" target="_blank">Ampliphi</a> 
+  location: Atlanta, Georgia, USA
+  dates: Since October 2021
+  text: In collaboration with Ampliphi we are developing a plastic accounting protocol that companies could use to quantify their plastic footprint. The goal is to create a methodology that is practical for a company of any size, and that makes the intention to reduce the company's plastic footprint actionable.
+- url:
   image: ecopath.jpg
   title: Collaboration with <a href="https://ecopath.page/" target="_blank">Ecopath</a> 
   location: Lagos, Nigeria
