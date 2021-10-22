@@ -10,10 +10,10 @@ widgets:
   image: plastic_recycling.jpg
   title: <a href="/explore/plastic-recycling/" target="_self">Recycling plastic into plastic</a>
 - url:
-  image: missing_image.jpg
+  image: plastic-to-materials.jpg
   title: Processing plastic waste into materials
 - url:
-  image: missing_image.jpg
+  image: plastic-to-fuel.jpg
   title: Processing plastic waste into fuels
 categories:
     - explore

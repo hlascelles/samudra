@@ -92,8 +92,8 @@ Another thing to consider is that everything has a cost.
 These costs can be very different depending on the type of waste and the location where it is produced. 
 Recycling something in one part of the world can produce more emissions and environmental pollution than incinerating it at a waste-to-energy facility in another part of the world. 
 Thermal decomposition of plastic waste can produce fuel that is less polluting than what is currently used in the region. 
-That is why we don't advocate for recycling, landfilling or incineration. 
-We advocate for taking the time to estimate the costs of different solutions (in terms of impact on the environment, climate, human and ecosystem health), to assess their financial feasibility and to compare the opportunity cost.
+That is why we don't advocate for landfilling, incineration or recycling. 
+We advocate for taking the time to estimate the costs of different solutions (in terms of impact on the environment, climate, human and ecosystem health), to assess their financial feasibility and to compare the opportunity costs.
 In-depth research guides everything we do. 
 We invite you to <a href="/explore/" target="_self">explore what we've learnt so far.</a>
 If you spot any mistakes, please do <a href="mailto:hello@samudra.world" target="_blank">get in touch</a>, it will be much appreciated.
@@ -116,7 +116,7 @@ That is why at Samudra we are dedicated to developing new business models that i
 Efforts aimed at improving waste management in the long run, for example developing new materials or trying to redesign the global economy, are incredibly valuable. 
 We believe that in parallel to these efforts urgent action is required to minimise the amount of irreversible damage (environmental pollution, climate impact and detrimental effects on human and ecosystem health) that is done today.
 For each waste management challenge we tackle, we try to come up with as many ideas as possible about how it could be addressed.
-We evaluate each of these ideas based on what impact they will have on the environment, climate and health of living beings if implemented.
+We evaluate each of these ideas based on what impact they will have on the environment, climate, human and ecosystem health, if implemented.
 Some of the solutions we implement are far from perfect when examined in isolation, their merit only becomes apparent when they are examined in the context of current reality.
 
 <a name="sdgs"></a>**5. Contributing to as many SDGs as possible, 15 out of 17 to be precise.**
