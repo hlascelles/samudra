@@ -8,13 +8,13 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'Samudra.world'
+title: "Samudra.world"
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'Waste management for our planet and people, not profit'
+slogan: "Samudra is an international organisation dedicated to improving waste management systems globally."
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: 'Samudra is dedicated to solving global waste management challenges that don’t have a profitable solution.'
+description: "Samudra is an international organisation dedicated to improving waste management systems globally. Our goals are to reduce climate impact and environmental pollution associated with waste, and to minimise the impact of waste on human and animal health."
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'

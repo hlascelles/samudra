@@ -1,7 +1,7 @@
 ---
 layout: kz-page
 title: Thermal treatment of waste
-meta_description:
+meta_description: "Thermal treatment methods significantly reduce the volume of the waste and destroy all pathogens present in it. These methods allow to recover the calorific value of the waste in a form of energy, hence they are often referred to as waste-to-energy or energy-from-waste. Incineration, waste combustion in the presence of oxygen, is the only method currently widely used on an industrial scale."
 header:
   title: ""
   image_fullwidth: main.jpg

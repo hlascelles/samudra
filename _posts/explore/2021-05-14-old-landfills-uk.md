@@ -2,7 +2,7 @@
 layout: kz-page
 subheadline:
 title: Historic landfills in the UK
-meta_description: 
+meta_description: "A historic landfill, according to the Environment Agency for England, is a closed landfill with no Pollution Prevention and Control (PPC) permit or waste management licence currently in force."
 show_meta: true
 header: no
 author: karina

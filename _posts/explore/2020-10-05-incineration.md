@@ -2,7 +2,7 @@
 layout: kz-page
 subheadline: 
 title: Incineration
-meta_description:
+meta_description: "Incineration is a technical term for controlled combustion. Often referred to as burning, combustion is a high-temperature exothermic chemical reaction between a fuel and an oxidant, in this case waste and atmospheric oxygen. Heat and light energy is released during this reaction and transferred to the surroundings, hence it is called an exothermic reaction. Incineration is a thermal treatment method suitable for different types of waste. Municipal solid waste (MSW) and other non-hazardous waste can be readily incinerated."
 show_meta: true
 header: no
 author: lawrence

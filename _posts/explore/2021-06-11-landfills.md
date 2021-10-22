@@ -1,14 +1,14 @@
 ---
 layout: kz-page
 title: Landfills and dumpsites
-meta_description:
+meta_description: Here is a list of topics we've explored related to landfills and dumpsites.
 header:
   title: ""
   image_fullwidth: main.jpg
 widgets:
-- url: /explore/landfill-mining/
+- url: 
   image: landfill-mining.jpg
-  title: <a href="/explore/landfill-mining/" target="_self">Landfill mining</a>  
+  title: Landfill mining
 - url: /explore/old-landfills-uk/
   image: breached_landfill_East_Tilbury.jpg
   title: <a href="/explore/old-landfills-uk/" target="_self">Historic landfills in the UK</a>

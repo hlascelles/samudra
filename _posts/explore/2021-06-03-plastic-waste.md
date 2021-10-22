@@ -1,7 +1,7 @@
 ---
 layout: kz-page
 title: Plastic waste
-meta_description: The main ways of processing plastic waste include recycling it back into plastic, producing new materials, and producing plastic-derived liquid fuels. 
+meta_description: The main ways of processing plastic waste include recycling it back into plastic, producing new materials, producing plastic-derived liquid fuels, and using it as refuse derived fuel (RDF). 
 header:
   title: ""
   image_fullwidth: main.jpg

@@ -1,6 +1,6 @@
 ---
 layout: kz-page
-subheadline: Waste management for our planet and people, not profit
+subheadline:
 title: Our mission
 permalink: /about/
 header:
@@ -55,100 +55,72 @@ widgets:
 
 ---
 
-Samudra is dedicated to solving global waste management challenges that don't have a profitable solution. 
-Here we describe what we do and why we do it, how we are different from other initiatives with similar goals, and how our work directly contributes to 15 out of 17 Sustainable Development Goals set by the UN. 
-
-### Waste collection services for everyone
-Currently only 2 in 3 people worldwide have access to waste collection services. 
-Every day 2.6 billion people face a choice of what to do with their waste. 
-Some set it on fire, some add it to a dumpsite nearby, some drive long distances to dump it far away from home, some let the current of a nearby river carry their waste away. 
-Ask yourself, what would you do if all the waste in your bin was yours to keep?
-At Samudra our goal is to minimise the number of people who have to make this choice. 
+Samudra is an international organisation dedicated to improving waste management systems globally.
+Our goals are to reduce climate impact and environmental pollution associated with waste, and to minimise the impact of waste on human and ecosystem health.
+The long-term aim for Samudra is to become an IGO that will act as a global orchestrator aligning efforts of major stakeholders in the waste management sector, and to have sufficient capacity to facilitate decision making on a global level. 
 
 
 
-### Back to front business of waste management
+### How we are planning to get there
+
+The three pillars of our growth are:
+* Developing and implementing a global waste management strategy that will amplify the positive impact of all stakeholders in the waste management sector (national and local governments, companies big and small, funders, IGOs, NGOs, universities, etc.) and prevent different efforts from cancelling each other out.
+* Creating a virtual centre of technical expertise in waste management systems and infrastructure that will allow us to put important conversations (about technologies, infrastructure, financing mechanisms, governance and structural change) on the agenda of high level meetings that all too often focus on bold commitments lacking an actionable plan to achieve them.
+* Growing a global network of stakeholders in the waste management sector that will allow us to facilitate fruitful connections across different geographical regions and between different types of stakeholders that usually don't interact, or their interaction is typically one-sided.
+
+
+
+### Our core values
+
+**1. No blame culture.**
+Concerns about waste management challenges often result in blaming companies, consumers or governments.
+This leads to a counterproductive divide between "us" and "them".
+Nobody wants to live surrounded by waste. 
+Everyone enjoys breathtaking views of nature and beautiful marine creatures. 
+We are all "us", there are no "them". 
+That is why at Samudra we work towards collaborative solutions that allow everyone to contribute towards a better outcome for all of us.
+We believe that more can be achieved in a no blame culture where everyone's contribution is truly appreciated instead of being expected.
+
+**2. Evidence weighs more than beliefs.**
+Our aim is to make the world a better place, and the research we do provides us stepping stones along the way. 
+Unlike other organisations with similar goals, we keep an open mind. 
+For example, we don’t believe that recycling is always the best solution, that the less plastic we use the better, or that incinerators are more polluting than landfills. 
+One reason is that very different things often end up under the same blanket term. 
+Widely recyclable plastic packaging that reduces greenhouse gas emissions from transportation, and medical devices that save lives are very different from plastic confetti dispersed directly into the environment. 
+A well-managed landfill with methane capture in a dry climate is not the same as a landfill created by clearing rainforest. 
+Another thing to consider is that everything has a cost. 
+These costs can be very different depending on the type of waste and the location where it is produced. 
+Recycling something in one part of the world can produce more emissions and environmental pollution than incinerating it at a waste-to-energy facility in another part of the world. 
+Thermal decomposition of plastic waste can produce fuel that is less polluting than what is currently used in the region. 
+That is why we don't advocate for recycling, landfilling or incineration. 
+We advocate for taking the time to estimate the costs of different solutions (in terms of impact on the environment, climate, human and ecosystem health), to assess their financial feasibility and to compare the opportunity cost.
+In-depth research guides everything we do. 
+We invite you to <a href="/explore/" target="_self">explore what we've learnt so far.</a>
+If you spot any mistakes, please do <a href="mailto:hello@samudra.world" target="_blank">get in touch</a>, it will be much appreciated.
+
+**3. Developing new business models.**
 Think of a successful company that sells a great product. 
 How did they achieve that? 
 They most likely started with identifying a market niche and learning about the target market segment. 
-Then they made decisions about investment in appropriate infrastructure. 
-Finally, they identified suppliers that can reliably provide sufficient amounts of the right types of materials required for production. 
+They designed a product and identified suppliers that can reliably provide sufficient amounts of the right types of materials required for production. 
+They made investments in appropriate infrastructure. 
 If you've ever started a company, you know that none of these steps are easy. 
 Now imagine how hard it is to build a successful company if you must follow these steps in reverse order! 
 In waste management you don't choose the composition or the amount of generated waste; everything that is produced in your collection area has to be processed. 
 You then need to find a market for recyclable materials or products you can make with them yourself, but you cannot guarantee to your customers that you will be able to supply these continuously. 
 Often the waste composition changes faster than the infrastructure investment pays off. 
 As a result, waste management that doesn't harm the environment or human health is often not profitable. 
-At Samudra we are motivated by solving problems, not by profit. 
-That is why we decided to tackle global waste management challenges that don't have a profitable solution.
+That is why at Samudra we are dedicated to developing new business models that imaginatively blend different types of funding, leverage partnerships and ...
 
-
-
-### Maximum impact projects
-Since we are not bound by trying to maximise our profit, we are free to work on projects with the highest estimated impact. 
-As our first challenge, we picked marine plastic pollution because it is an urgent matter. 
-It was [predicted in 2015][1] that by 2025 there will be 127 million tonnes of plastic waste ending up in our oceans every year.
-40% of this plastic pollution originates on land in Southeast Asia, an additional 40% comes from other regions and the remaining 20% originates offshore, mainly from fishing, shipping and oil industries. 
-It is hard to estimate the amount of plastic already present in our oceans, especially because only 1-3% of it is floating on the surface. 
-One thing is clear - it is easier to prevent more plastic pollution from entering our oceans than to eliminate the plastic that is already there. 
-Hence our goal is to improve waste collection and treatment systems.
-Find out about our ongoing projects <a href="/projects/" target="_self">here</a>.
-
-
-
-### Evidence weighs more than beliefs
-Our aim is to make the world a better place, and the research we do provides us stepping stones along the way. 
-Unlike other organisations with similar goals, we keep an open mind. 
-For example, we don’t believe that recycling is always the best solution, that the less plastic we use the better, or that incinerators are more polluting than landfills. 
-One reason is that very different things often end up under the same blanket term. 
-Widely recyclable plastic packaging that reduces greenhouse gas emissions from transportation and medical devices that save lives are very different from plastic confetti dispersed directly into the environment. 
-A well-managed landfill with methane capture in a dry climate is very different from a landfill created by clearing rainforest. 
-Another reason we don't hold strong beliefs is that everything has a cost. 
-These costs can be very different depending on the type of waste and the location where it is produced. 
-Recycling something in one part of the world can produce more emissions and environmental pollution than incinerating it at a waste-to-energy facility in another part of the world. 
-Thermal decomposition of plastic waste can produce fuel that is less polluting than what is currently used in the region. 
-That is why we don't advocate for recycling, landfilling or incineration. 
-We advocate for taking the time to estimate the costs of different solutions (in terms of impact on the environment, climate, human and animal health), to assess their financial feasibility and to compare the opportunity cost.
-In-depth research guides everything we do. 
-<a href="/explore/" target="_self">We invite you to explore what we've learnt so far.</a>
-If you spot any mistakes, please do <a href="mailto:hello@samudra.world" target="_blank">get in touch</a>, it will be much appreciated.
-
-
-
-### Best is the enemy of better
-Our goals are to reduce the environmental pollution and climate impact associated with waste, and to minimise the impact of waste on human and animal health. 
+**4. Best is the enemy of better.**
 Efforts aimed at improving waste management in the long run, for example developing new materials or trying to redesign the global economy, are incredibly valuable. 
-We believe that in parallel to these efforts an urgent action is required to minimise the amount of environmental pollution, climate impact and detrimental effects on human and animal health that happen today.
+We believe that in parallel to these efforts urgent action is required to minimise the amount of irreversible damage (environmental pollution, climate impact and detrimental effects on human and ecosystem health) that is done today.
 For each waste management challenge we tackle, we try to come up with as many ideas as possible about how it could be addressed.
 We evaluate each of these ideas based on what impact they will have on the environment, climate and health of living beings if implemented.
-We compare these externalities with the current ones and decide on an action plan that will result in an improvement.
-Some of the solutions we implement are far from perfect when examined in isolation, it only becomes apparent how they minimise degradation of the environment, climate and health when they are examined in the context of current reality.
+Some of the solutions we implement are far from perfect when examined in isolation, their merit only becomes apparent when they are examined in the context of current reality.
 
+<a name="sdgs"></a>**5. Contributing to as many SDGs as possible, 15 out of 17 to be precise.**
 
-
-### No blame culture
-Concerns about waste management challenges often result in blaming companies, consumers or governments.
-This leads to a counterproductive divide between "us" and "them".
-The truth is, nobody wants to live surrounded by waste. 
-Everyone enjoys breathtaking views of the nature and funny marine creatures. 
-We are all "us", there are no "them". 
-That is why at Samudra we work towards collaborative solutions that allow everyone to contribute towards a better outcome for all of us.
-We believe that more can be achieved in a no blame culture where everyone's contribution is truly appreciated instead of being expected.
-If you have time, skills or funding that you could contribute, please do <a href="mailto:hello@samudra.world" target="_blank">get in touch.</a>
-
-
-
-### Less waste is always better
-At Samudra we are dedicated to solving waste management challenges and we mean it.
-We love high quality products that are happily used for many years after purchase.
-There will be no t-shirts with our logo, no reusable water bottle giveaways (you probably already have one) and no fund raising by selling branded merchandise made from recycled materials.
-We are committed to not produce anything that will soon become waste.
-
-
-
-### <a name="sdgs"></a> Our contribution to 15 out of 17 Sustainable Development Goals
-
-<br>
 {% include _widget_grid_layout.html widgets=page.widgets articles_per_row=3 %}
 
 <!--
@@ -159,5 +131,3 @@ Creating waste management jobs
 Capital investment in waste management infrastructure 
 Creating collaborative solutions that allow everyone to play a part
 -->
-
-[1]: https://science.sciencemag.org/content/347/6223/768

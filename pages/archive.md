@@ -2,7 +2,7 @@
 layout: default
 permalink: "/archive/"
 title: "All content in one place"
-teaser: "Here you can see everything we've published so far in reverse chronological order."
+teaser: "Here you can see everything we've published so far in reverse chronological order:"
 header:
   title: ""
   image_fullwidth: main.jpg

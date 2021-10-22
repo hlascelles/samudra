@@ -9,7 +9,7 @@ header: no
 ---
 
 Here is a list of funding sources that could be used for waste management projects. 
-As I've just started working on this list, the entries appear in random order and many are still missing.
+As we've just started working on this list, the entries appear in random order and most are still missing.
 See previous opportunities with expired deadlines [here][1]. 
 
 

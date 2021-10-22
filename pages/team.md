@@ -9,7 +9,7 @@ widgets:
 - url: https://karina.io/
   image: team-karina.jpg
   title: <a href="https://karina.io/" target="_blank">Karina Zile</a>
-  text: I am the founder of Samudra. Mathematician at heart, I think about any situation as a system of equations. I am happiest when outdoors. After finishing my PhD in Feb 2020, I decided to dedicate my life to tackling global challenges that don't have a profitable solution.
+  text: I am the founder of Samudra. Mathematician at heart, I think about any situation as a system of equations. I am happiest when outdoors. After finishing my PhD in Feb 2020, I decided to dedicate my life to building an IGO that will act as a global orchestrator aligning efforts of major stakeholders in the waste management sector.
 - url:
   image: team-join-us.jpg
   title: Would you like to join us?

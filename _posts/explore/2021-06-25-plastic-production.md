@@ -2,7 +2,7 @@
 layout: kz-page
 subheadline:
 title: Plastic production (in theory)
-meta_description: 
+meta_description: "Plastics can be either synthetic or biobased. Synthetic plastics, classed as petrochemicals, are derived from fossil fuels, mostly from crude oil and natural gas."
 show_meta: true
 header: no
 author: karina

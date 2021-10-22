@@ -1,19 +1,13 @@
 ---
 layout: kz-page
-title: "This is what we do"
+title: "Some of our projects"
 permalink: /projects/
-subheadline: Waste management for our planet and people, not profit
-teaser: "Our goals are to reduce the environmental pollution and climate impact associated with waste, and to minimise the impact of waste on human and animal health. Here are some of our projects aimed at achieving these goals:"
+subheadline: 
+teaser:
 header:
   title: ""
   image_fullwidth: main.jpg
 widgets:
-- url:
-  image: ampliphi.jpg
-  title: Collaboration with <a href="https://ampliphi.io/" target="_blank">Ampliphi</a> 
-  location: Atlanta, Georgia, USA
-  dates: Since October 2021
-  text: In collaboration with Ampliphi we are developing a plastic accounting protocol that companies could use to quantify their plastic footprint. The goal is to create a methodology that is practical for a company of any size, and that makes the intention to reduce the company's plastic footprint actionable.
 - url:
   image: ecopath.jpg
   title: Collaboration with <a href="https://ecopath.page/" target="_blank">Ecopath</a> 
@@ -64,4 +58,5 @@ widgets:
   text: Forbi's goal was to kickstart a PET bottle collection scheme in schools in Buea, Cameroon to both increase the plastic recycling rate in the country and to educate kids about waste related challenges. I helped Forbi with writing the project proposal, making a budget and with the application process.
 ---
 
+<br/>
 {% include _widget_grid_layout.html widgets=page.widgets articles_per_row=3 %}
