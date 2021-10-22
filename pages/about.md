@@ -110,7 +110,7 @@ In waste management you don't choose the composition or the amount of generated 
 You then need to find a market for recyclable materials or products you can make with them yourself, but you cannot guarantee to your customers that you will be able to supply these continuously. 
 Often the waste composition changes faster than the infrastructure investment pays off. 
 As a result, waste management that doesn't harm the environment or human health is often not profitable. 
-That is why at Samudra we are dedicated to developing new business models that imaginatively blend different types of funding, leverage partnerships and ...
+That is why at Samudra we are dedicated to developing new business models that imaginatively blend different types of funding and leverage partnerships.
 
 **4. Best is the enemy of better.**
 Efforts aimed at improving waste management in the long run, for example developing new materials or trying to redesign the global economy, are incredibly valuable. 
