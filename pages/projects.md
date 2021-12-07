@@ -24,13 +24,13 @@ widgets:
   image: pes.jpg
   title: Collaboration with <a href="https://premier-enviro-solutions.com/" target="_blank">Premier Enviro Solutions</a>
   location: Freetown, Sierra Leone
-  dates: Since Feb 2021
+  dates: Feb-Aug 2021
   text: Premier Enviro Solutions is a social enterprise with a mission to provide innovative, sustainable and affordable waste management solutions. I am helping them with projects related to processing plastic waste into building blocks, and safe disposal of medical waste.
 - url:
   image: lawma.jpg
   title: Collaboration with <a href="https://moelagos.gov.ng/agencies/lagos-state-waste-management-authority-lawma-2/" target="_blank">LAWMA</a>
   location: Lagos, Nigeria
-  dates: Since Jan 2021
+  dates: Jan-Jun 2021
   text: Lagos Waste Management Authority (LAWMA) is developing a new waste management strategy for Lagos, a city of more than 22 million people. I am advising them on technologies, partnerships and funding mechanisms that could be appropriate for this city.
 - url:
   image: pyro-degrade.jpg
