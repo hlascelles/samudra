@@ -58,18 +58,18 @@ Biobased plastics are made from renewable products such as:
 
 ### 2. Monomers
 
-The monomers that make up plastics come in different shapes and sizes - some are straight lines, some are branched and some have rings. 
-All monomers contain double bonds so that the carbon atoms can subsequently react to form polymers.
-The bonding between the monomers determines the properties of the plastic, such as toughness and melting temperature.
+The monomers that make up plastics come in different shapes and sizes - some are straight chains, some are branched and some have rings. 
+
 
 
 ### 3. Polymers
 
 Monomers are joined together into polymers, long chain molecules that contain **hundreds to thousands of monomers**, through a polymerisation reaction.
-The length of polymer molecules gives plastics some of their important physical properties, such as strength and toughness, that short molecules cannot match.
+The length of polymer molecules gives plastics their exceptional properties (often described as strength or toughness) that short molecules cannot match.
+The intermolecular forces within the polymer chains (bonding between the monomers and other forces) determine toughness and melting temperature of a particular plastic.
 
 There are two main types of polymerisation - either the chains grow by combining two shorter chains (step-growth) or by adding one monomer at a time (chain-growth).
-Both typically require catalysts.
+Both typically require catalysts, heat and pressure.
 
 
 ##### <a name="step-growth"></a> Step-growth polymerisation
@@ -86,7 +86,8 @@ This is how [PET][1] is made.
 
 **Polyaddition** is a step-growth polymerisation based on addition reaction between two molecules with various degrees of polymerisation.
 No by-products are formed.
-This is how PUR is made. 
+This is how PU is made. 
+All monomers that undergo addition polymerization contain double bonds, which allows the carbon atoms to react to form polymers.
 
 
 ##### Chain-growth polymerisation
@@ -96,6 +97,5 @@ The growth of a chain is initiated by formation of an active site.
 After chain initiation, the degree of polymerisation increases rapidly and long chains are formed from the beginning of the reaction.
 This is how PE, PP, PVC and PS are made.
 
-**Condensative chain polymerisation** is a chain-growth polymerisation where a low molecular weight by-product is formed at each step.
 
 [1]: /explore/pet/
