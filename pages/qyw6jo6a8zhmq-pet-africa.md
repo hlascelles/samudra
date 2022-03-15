@@ -8,22 +8,38 @@ header: no
 
 ---
 
-<h5>1. Nigeria 206m</h5>
+<h5>1. Nigeria 206m - CANEI works here a bit</h5>
 In Lagos (9m+) waste collection rate of 10% [(World Bank, 2018, What a waste 2)][2].
 In Ibadan (4m) waste collection rate of 40% [(World Bank, 2018, What a waste 2)][2].
 Kano is about the same size as Ibadan.
 
-<h5>2. Ethiopia 115m</h5>
-<h5>3. Egypt 102m</h5>
+<h5 style="color:#979797;">2. Ethiopia 115m - CANEI already works here</h5>
+
+<h5 style="color:#979797;">3. Egypt 102m</h5>
+<span style="color: #979797">There is a legislation that prevents export of baled bottles or flakes, only recycled pellets can be exported.</span>
+
+
 <h5>4. DRC 90m</h5>
-<h5>5. Tanzania 60m</h5>
+"Amount of PET bottles in DRC is probably small given most drinks are in glass bottles still" a local told me.
 
-<h5>6. South Africa 59m</h5>
-[PETCO][1] - South Africa’s PET plastic producer responsibility organisation (PRO)
+<h5 style="color:#979797;">5. Tanzania 60 - CANEI already works here</h5>
 
-<h5 style="color:#ff9f1c;">7. Kenya 54m</h5>
-<h5 style="color:#ff9f1c;">8. Uganda 46m</h5>
+<h5>6. South Africa 59m - CANEI works here a bit</h5>
+
+[PETCO][1] - South Africa’s PET plastic producer responsibility organisation (PRO). Speak to CEO of PETCO Cheri Scholtz [cherischoltz@mweb.co.za][7]
+
+<h5 style="color:#979797;">7. Kenya 54m - CANEI already works here</h5>
+<h5 style="color:#979797;">8. Uganda 46m - CANEI already works here</h5>
+
 <h5>9. Algeria 44m</h5>
+
+In 2004 l'Agence Nationale de Gestion des déchets (AND) introduced [Eco-Jem][6], an EPR scheme in the form of a tax imposed on containers to incentivise manufacturers to pay for a system of waste collection and recovery. As of Feb 2021, Eco-Jem has yet to be implemented due to a lack of clarity regarding where the financial burden lays, with the producer or the seller.
+
+[350,000 tons of PET][6] imported into Algeria annually, and only 5% is recycled.
+
+In Algeria the amount of household and similar waste exceeded [13 million tons in 2018][8], the Algerian Ministry of the Environment estimates that it could reach 20 million tonnes bo 2030. In 2022, the Algerian government plans to allocate [230 million USD][8] to the city of Algiers - 210 to build an integrated waste management complex, and 20 to build tanks 3 and 4 at the Hamici Technical Landfill Center (the site is equipped with landfill bins, a weighbridge and three sorting lines with a capacity of 24 tonnes per hour). 
+
+
 <h5>10. Sudan 44m</h5>
 <h5>11. Morocco 37m</h5>
 <h5>12. Angola 33m</h5>
@@ -132,3 +148,6 @@ In Banjul waste collection rate of 35% [(World Bank, 2018, What a waste 2)][2].
 [3]: ttps://documents1.worldbank.org/curated/en/326861468760542281/pdf/E9421Sierra0Leone0Power0and0Water.pdf
 [4]: https://findmefreetown.herokuapp.com/ 
 [5]: https://fcc.gov.sl/wp-content/uploads/2020/01/Transform-Freetown-One-Year-Report.pdf
+[6]: https://www.iswa.org/blog/algeria-fighting-packaging-waste-with-intelligence/
+[7]: mailto:cherischoltz@mweb.co.za
+[8]: https://www.afrik21.africa/en/algeria-government-pledges-e209m-for-waste-management-in-algiers/
