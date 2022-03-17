@@ -122,119 +122,53 @@ Our aim is not to strive for a perfect solution, but to improve the situation as
 
 ### Other ideas we are planning to work on
 
-...
+**Providing data to enable everyone to make data-driven decisions.**
+Climate action, global development and overcoming waste management challenges is [not possible without data][11].
+Over the past two years of working with waste related data, we've met 4 challenges:
+* Data not available for free.
+For example, [the review of plastic chemical recycling technologies][12] by Independent Commodity Intelligence Services, [the list of waste management infrastructure around the world][13] by AcuComm, and even [Global Plastics Outlook][14] by OECD.
+* Sources of data are hard to find.
+Often the reference provided is to a source that provides another reference, etc.
+It takes a long time to find the original source, often hundreds of pages long, and to find the cited information within it.
+* Data is outdated.
+The amount of waste generated is growing rapidly and its composition is changing.
+Outdated data is misleading and does not provide enough information to be able to predict future volumes and composition of waste.
+* Most often the data simply doesn't exist.
+This is particularly relevant when trying to show GHG emission reduction potential of a particular project.
+If there is no data about waste, officially there are no emissions associated with waste, and hence any non-zero-emission project will increase total emissions on paper.
 
-<!-- 
-##### data
+Making useful, up to date data (with transparent citations directly to original source) available for free will enable everyone to make data-driven decisions, regardless of their financial situation.
+Examples of this being done in other contexts include [Right to Equitable and Professional Auto Industry Repair (REPAIR) Act][15] in the US and the [ESG Book][16] aimed at [disrupting sustainability sector with free data][17].
 
-Open data + Need for up-to-date data 
 
-Need for up to date data, with transparent sources
 
-Sustainable development will falter without data https://www.nature.com/articles/d41586-019-02139-w
+**Facilitating technical knowledge flow.**
+Creating a virtual centre of technical expertise in waste management systems and infrastructure that will allow us to put important technical conversations (about technologies, infrastructure and financing instruments) on the agenda of high level meetings that all too often focus on bold commitments lacking an actionable plan to achieve them.
+Fostering transfers of technical knowledge between countries and from academia will ensure that better decisions are made.
 
 
-ensuring equal access to data, even when some organisations might benefit from keeping it private. For example data about how to repair cars https://ihsmarkit.com/research-analysis/right-to-equitable-and-professional-auto-industry-repair.html
-like an “open data platform” envisioned for information about how to repair cars https://www.wired.com/story/fight-right-repair-cars-turns-ugly/
 
+**Working on future waste streams.**
+Currently plastic is getting all the attention, as a relatively new type of waste that many countries are having problems dealing with.
+New types of waste - electronics, batteries, solar panels, wind turbines, demolition waste - will soon become prevalent waste streams.
+It is important to be prepared for these new waste streams.
 
-making useful data freely available
 
-ESG Book https://www.esgbook.com/ aims to 'disrupt' sustainability sector with free data https://www.weforum.org/agenda/2021/12/esg-book-sustainability-sector-free-data/
 
-for example plastic chemical recycling pay-for data
+**Developing innovative business ideas, financial instruments and concepts.**
+Being creative when developing new financial instruments and new business models (perhaps ones that blend different types of funding or leverage partnerships) will allow us to build financially sustainable waste management systems.
+Currently the most innovative field in terms of new business models is circular economy; we are planning to engage people from that field to help us solve waste management challenges.
 
-and data of all WM facilities
+Sometimes, all that is needed is just developing a new concept as [explained][18] by Rory Sutherland.
+Borrowing the idea from David Peetz who coined the term [carbon productivity][19], what if we define "waste productivity" - the amount of value achieved by a certain amount of waste - to inform the decisions about what types of items or packaging should be banned.
 
 
-Making useful data (that takes money to collect, and is easy to sell) freely available to everyone could result in far reaching impact.
 
+**Enabling startups to address global challenges.**
+While our main focus is on major stakeholders, we recognise that a lot of innovation, new business models and impact is created by startups.
+Providing small amounts of initial funding to a large number of promising startups in waste management space, especially focussing on the ones created by local people in low income countries, will allow us to explore the solution space most efficiently.
 
-Improvements will lead to increase of emissions on paper.
-
-understanding future waste - keeping waste composition changes in mind
-
-
-
-
-
-
-
-##### Knowledge flow
-
-lack of technical knowledge transfer across countries, organisations and waste streams.
-
-+ putting technical discussion on the table
-
-Creating a virtual centre of technical expertise in waste management systems and infrastructure that will allow us to put important conversations (about technologies, infrastructure, financing mechanisms, governance and structural change) on the agenda of high level meetings that all too often focus on bold commitments lacking an actionable plan to achieve them.
-
-
-
-
-+ tech converations instead of bringin everyone together
-
-conversations are not technical - make conversations more technical
-
-the need to put really important conversations on the agenda - to foster discussions about technologies, infrastructure and financing 
-
-
-
-
-
-##### other types of waste
-
-solar, EV, CD, ...
-
-
-
-
-
-
-
-##### developing new business models
-
-developing new business models - recruit talent from Circular Economy where there are people skilled at it
-
- Being creative when developing business models. (see current about)
-
-financial instruments
-
-Being creative when developing business models.
-Think of a successful company that sells a great product. 
-How did they achieve that? 
-They most likely started with identifying a market niche and learning about the target market segment. 
-They designed a product and identified suppliers that can reliably provide sufficient amounts of the materials required for production. 
-They invested in appropriate infrastructure. 
-If you've ever started a company, you know that none of these steps are easy. 
-Now imagine how hard it is to build a successful company if you must follow these steps in reverse order! 
-In waste management you don't choose the composition or the amount of generated waste; everything produced in your collection area has to be processed. 
-You then need to find a market for recyclable materials, or products you can make with them, but you cannot guarantee your customers that you will be able to supply these continuously. 
-Often the waste composition changes faster than the infrastructure investment pays off. 
-As a result, waste management that doesn't harm the environment or human health is often not profitable. 
-That is why at Samudra we are dedicated to developing new business models that imaginatively blend different types of funding and leverage partnerships.
-
-
-
-develop new concepts
-
-What if we measured the thing that matters most: “carbon productivity” as suggested by David Peetz from Griffith University. What if we measure "waste productivity" - amount of value achieved by a certain amount of waste? no, how much can be achieved per unit of climate, environment, human health damage
-
-+ rory quote
-
-
-
-
-##### Funding startups
-
-For example, in 2014, Goldman Sachs partnered with the World Bank Group’s International Finance Corporation to help address one of the biggest obstacles faced by women entrepreneurs around the world: lack of access to capital. Working together, they created the Women Entrepreneurs Opportunity Facility, which mobilized $1.45 billion of capital for local financial institutions to lend to women owned businesses. - same for waste?
-
-
-
- -->
-
-
-
-
+Examples of this being done in another context include the partnership between International Finance Corporation (IFC) and Goldman Sachs in 2014, that created [the Women Entrepreneurs Opportunity Facility][20], which mobilized capital for local financial institutions to lend to women owned businesses. 
 
 
 
@@ -259,3 +193,13 @@ For example, in 2014, Goldman Sachs partnered with the World Bank Group’s Inte
 [8]: https://www.economist.com/international/2021/11/14/was-cop26-in-glasgow-a-success
 [9]: https://techzero.technation.io/
 [10]: https://hbr.org/2021/05/overselling-sustainability-reporting
+[11]: https://www.nature.com/articles/d41586-019-02139-w
+[12]: https://www.icis.com/explore/services/recycling-supply-tracker-chemical/
+[13]: https://acucomm.net/search
+[14]: https://www.oecd-ilibrary.org/environment/global-plastics-outlook_de747aef-en
+[15]: https://ihsmarkit.com/research-analysis/right-to-equitable-and-professional-auto-industry-repair.html
+[16]: https://www.esgbook.com/
+[17]: https://www.weforum.org/agenda/2021/12/esg-book-sustainability-sector-free-data/
+[18]: https://youtu.be/4VuYiEbGQ9Q?t=2070
+[19]: https://theconversation.com/what-if-we-measured-the-thing-that-matters-most-carbon-productivity-124902
+[20]: https://pressroom.ifc.org/all/pages/PressDetail.aspx?ID=24692
