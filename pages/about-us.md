@@ -49,7 +49,7 @@ At the UN Biodiversity Conference (COP15) the mood is set by the fact that [sign
 It is difficult to be optimistic about the potential of the UN Treaty on Plastic Pollution that is currently being developed.
 
 **Focus on visible problems and sexy solutions.** Plastic waste is getting all the attention, largely due to the fact that it floats in water. 
-While plastic pollution is truly a major challenge, singling out plastic often prevents c
+While plastic pollution is truly a major challenge, singling out plastic often prevents the development of holistic, financially sustainable waste management systems. 
 Efforts like the [Ministerial Conference on Marine Litter and Plastic Pollution][6] in 2021 encourage governments to focus only on a fraction of the whole waste management challenge, thus drastically limiting the potential of successful solutions.
 
 Often the focus is on short-term solutions (like plastic credits) and technology-enabled solutions (usually mobile apps), not on building financially, socially and politically sustainable waste management systems and infrastructure.
