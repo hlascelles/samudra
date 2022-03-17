@@ -44,21 +44,21 @@ The connection is inadequate between the global vision and the micro level actio
 
 **Reports, webinars and voluntary commitments.** Many efforts backed by a significant amount of funding and talent result in reports and events, which are useful if considered in isolation, but in the context of existing reports and previous events they don't get us any closer to overcoming waste management challenges. 
 
-At the UN Climate Change Conference COP26 nations agreed to "start a dialogue" on loss and damage resulting from climate change, but [a proposal to establish a new funding facility to help affected countries was unsuccessful][5]. 
+At COP26 nations agreed to "start a dialogue" on loss and damage resulting from climate change, but [a proposal to establish a new funding facility to help affected countries was unsuccessful][5]. 
 At the UN Biodiversity Conference (COP15) the mood is set by the fact that [signatories failed to meet any of the targets they set for themselves][4] at the Convention on Biological Diversity in 2010 (COP10).
 It is difficult to be optimistic about the potential of the UN Treaty on Plastic Pollution that is currently being developed.
 
 **Focus on visible problems and sexy solutions.** Plastic waste is getting all the attention, largely due to the fact that it floats in water. 
-While plastic pollution is truly a major challenge, singling out plastic often prevents the development of holistic, financially sustainable waste management systems. 
+While plastic pollution is truly a major challenge, singling out plastic often prevents c
 Efforts like the [Ministerial Conference on Marine Litter and Plastic Pollution][6] in 2021 encourage governments to focus only on a fraction of the whole waste management challenge, thus drastically limiting the potential of successful solutions.
 
-Often the focus is on short-term solutions (like plastic credits) and technology-enabled solutions (usually mobile apps), not on building financially, socially and politically sustainable waste management systems.
+Often the focus is on short-term solutions (like plastic credits) and technology-enabled solutions (usually mobile apps), not on building financially, socially and politically sustainable waste management systems and infrastructure.
 
 
 
 ### What Samudra is planning to do
 
-Let's change the way we approach change.
+Let's change the way we approach change!
 To **increase municipal solid waste collection rates in low and middle income countries** we are building Samudra - a **global action network**, a new type of organisation that is neither government, nor business, nor civil society, but a structure that combines resources and competences of all of these.
 Our focus is on the waste generated today and in the next 10 years.
 This is complementary to [circular economy][7] efforts that focus mostly on building a waste-free future. 
@@ -74,6 +74,7 @@ Instead of requiring a unanimous agreement of all stakeholders (which holds back
 **The connection is inadequate between the global vision and the micro level actions and tools.** 
 Samudra will facilitate the development and implementation of a global waste management strategy in full technical detail. 
 It will act as a global orchestrator to develop synergies between different efforts (making them complementary instead of contradictory), to deal with duplication and conflict, to amplify the positive impact of all stakeholders, and to identify and address the gaps that impede the change on a global level. 
+It is important to embed complementarity into different efforts, especially those that don't agree with each other.
 
 **An organisation with global reach and no inertia.**
 In practical terms, Samudra will be a stewardship organisation that will allow the change to emerge, without attempting to manage the change.
@@ -88,65 +89,50 @@ In terms of organisational structure, we envision something similar to [Tech Zer
 
 ### Why we think it is going to work
 
+**Waste management is an easy problem in many ways.**
+Unlike GHG emissions that are hard to capture, waste is easy to collect; and it can be characterized without any specialised equipment.
+Technologies for waste processing and disposal are mature, scalable and tested in a wide range of conditions.
+Reducing GHG emissions requires tradeoffs, while an improved waste management system provides direct benefits to both the local area and the surrounding areas.
+
+**Our focus is on building systems that work, not patchwork.**
+Our work will contribute to implementing [structural change, not just parameter change][10].
+Using our skills in mathematics and complex systems, we will facilitate development of holistic, financially, socially and politically sustainable waste management systems.
+
+**We are learning from those who have succeeded.**
+For example, to vaccinate children in low income countries against deadly and debilitating infectious diseases, Gavi, The Vaccine Alliance was created.
+They work with funders (governments of rich countries), problem-owners (governments of poor countries) and methods leaders (vaccine producers).
+To date they've helped vaccinate more than 880 million children.
+
+**We understand the situation from the perspectives of different stakeholders.**
+Over the past two years we've been working with national governments, city governments, waste management companies (both big ones and startups) and NGOs.
+Different stakeholders have different capacities and goals, and they approach challenges in different ways.
+Making these approaches complementary instead of contradictory will ensure that different stakeholders can increase each other's positive impact, even if they don't agree with each other.
+
+**We have a no blame culture.**
+We aim to engage as many different types of stakeholders as possible.
+We understand that not every stakeholder has the desire and capacity to contribute to addressing global waste management challenges.
+Those who do contribute can be sure that their contribution will be truly appreciated, not merely expected.
+
+**We don't have a favourite waste disposal method.**
+Every solution can be good or bad depending on the context; and every solution has an opportunity cost.
+We assess all possible solutions based on their impact on climate, environment and health.
+Our aim is not to strive for a perfect solution, but to improve the situation as soon as possible.
+
+
+
+### Other ideas we are planning to work on
+
 ...
 
-
-
-
-
 <!-- 
+##### data
 
-
-### Why we think it is going to work
-
-
-making a system that works, not patches, using mathematical thinking
-
-focus on structural change not parameters
-https://hbr.org/2021/05/overselling-sustainability-reporting:
-Other companies that have made sincere attempts to improve their social and environmental performance have generally behaved similarly: They’ve focused on what systems thinkers call parameters—dials that can be turned up and down to change performance without altering the structure of the larger system.
-However, researchers have found that those parameters are rarely sources of real impact. The late Donella Meadows, the primary author of The Limits to Growth and a distinguished professor of system dynamics at Dartmouth, analyzed 12 types of intervention that would affect system performance and concluded that parameters are the least powerful. Probably 99% of efforts go to parameters, she wrote, “but there is not a lot of leverage in them.”
-
-
-
-crusial was to understand stakeholders, so we did projects
-
-
-
-
-
-No blame culture.(see about page)
-
-
-Evidence weighs more than beliefs.(see about page)
-
-Best is the enemy of better. (see about page)
-
-
-Gavi worked
-
-
-
-
-waste is easy!
-
-
-it has never been tried before
-
-
-
-
-
-### Other things Samudra wants to do
-
-##### Need for up-to-date data 
+Open data + Need for up-to-date data 
 
 Need for up to date data, with transparent sources
 
 Sustainable development will falter without data https://www.nature.com/articles/d41586-019-02139-w
 
-
-##### Open data 
 
 ensuring equal access to data, even when some organisations might benefit from keeping it private. For example data about how to repair cars https://ihsmarkit.com/research-analysis/right-to-equitable-and-professional-auto-industry-repair.html
 like an “open data platform” envisioned for information about how to repair cars https://www.wired.com/story/fight-right-repair-cars-turns-ugly/
@@ -164,22 +150,35 @@ and data of all WM facilities
 Making useful data (that takes money to collect, and is easy to sell) freely available to everyone could result in far reaching impact.
 
 
+Improvements will lead to increase of emissions on paper.
+
+understanding future waste - keeping waste composition changes in mind
+
+
+
+
+
+
+
 ##### Knowledge flow
 
 lack of technical knowledge transfer across countries, organisations and waste streams.
 
-
-##### Funding startups
-
-For example, in 2014, Goldman Sachs partnered with the World Bank Group’s International Finance Corporation to help address one of the biggest obstacles faced by women entrepreneurs around the world: lack of access to capital. Working together, they created the Women Entrepreneurs Opportunity Facility, which mobilized $1.45 billion of capital for local financial institutions to lend to women owned businesses. - same for waste?
-
-##### developing new business models
-
-developing new business models - recruit talent from Circular Economy where there are people skilled at it
-
-##### putting technical discussion on the table
++ putting technical discussion on the table
 
 Creating a virtual centre of technical expertise in waste management systems and infrastructure that will allow us to put important conversations (about technologies, infrastructure, financing mechanisms, governance and structural change) on the agenda of high level meetings that all too often focus on bold commitments lacking an actionable plan to achieve them.
+
+
+
+
++ tech converations instead of bringin everyone together
+
+conversations are not technical - make conversations more technical
+
+the need to put really important conversations on the agenda - to foster discussions about technologies, infrastructure and financing 
+
+
+
 
 
 ##### other types of waste
@@ -187,25 +186,56 @@ Creating a virtual centre of technical expertise in waste management systems and
 solar, EV, CD, ...
 
 
-##### data
-
-Improvements will lead to increase of emissions on paper.
-
-understanding future waste - keeping waste composition changes in mind
 
 
 
-##### develop new concepts
+
+
+##### developing new business models
+
+developing new business models - recruit talent from Circular Economy where there are people skilled at it
+
+ Being creative when developing business models. (see current about)
+
+financial instruments
+
+Being creative when developing business models.
+Think of a successful company that sells a great product. 
+How did they achieve that? 
+They most likely started with identifying a market niche and learning about the target market segment. 
+They designed a product and identified suppliers that can reliably provide sufficient amounts of the materials required for production. 
+They invested in appropriate infrastructure. 
+If you've ever started a company, you know that none of these steps are easy. 
+Now imagine how hard it is to build a successful company if you must follow these steps in reverse order! 
+In waste management you don't choose the composition or the amount of generated waste; everything produced in your collection area has to be processed. 
+You then need to find a market for recyclable materials, or products you can make with them, but you cannot guarantee your customers that you will be able to supply these continuously. 
+Often the waste composition changes faster than the infrastructure investment pays off. 
+As a result, waste management that doesn't harm the environment or human health is often not profitable. 
+That is why at Samudra we are dedicated to developing new business models that imaginatively blend different types of funding and leverage partnerships.
+
+
+
+develop new concepts
 
 What if we measured the thing that matters most: “carbon productivity” as suggested by David Peetz from Griffith University. What if we measure "waste productivity" - amount of value achieved by a certain amount of waste? no, how much can be achieved per unit of climate, environment, human health damage
 
 + rory quote
 
-##### tech converations instead of bringin everyone together
 
-conversations are not technical - make conversations more technical
 
-the need to put really important conversations on the agenda - to foster discussions about technologies, infrastructure and financing  -->
+
+##### Funding startups
+
+For example, in 2014, Goldman Sachs partnered with the World Bank Group’s International Finance Corporation to help address one of the biggest obstacles faced by women entrepreneurs around the world: lack of access to capital. Working together, they created the Women Entrepreneurs Opportunity Facility, which mobilized $1.45 billion of capital for local financial institutions to lend to women owned businesses. - same for waste?
+
+
+
+ -->
+
+
+
+
+
 
 
 <!-- Add these 9 labels: -->
@@ -228,3 +258,4 @@ the need to put really important conversations on the agenda - to foster discuss
 [7]: https://ellenmacarthurfoundation.org/topics/circular-economy-introduction/overview
 [8]: https://www.economist.com/international/2021/11/14/was-cop26-in-glasgow-a-success
 [9]: https://techzero.technation.io/
+[10]: https://hbr.org/2021/05/overselling-sustainability-reporting
