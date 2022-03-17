@@ -92,14 +92,14 @@ In terms of organisational structure, we envision something similar to [Tech Zer
 **Waste management is an easy problem in many ways.**
 Unlike GHG emissions that are hard to capture, waste is easy to collect; and it can be characterized without any specialised equipment.
 Technologies for waste processing and disposal are mature, scalable and tested in a wide range of conditions.
-Reducing GHG emissions requires tradeoffs, while an improved waste management system provides direct benefits to both the local area and the surrounding areas.
+Reducing GHG emissions requires tradeoffs, while an improved waste management system provides direct benefits to both the local area and the surrounding regions.
 
 **Our focus is on building systems that work, not patchwork.**
 Our work will contribute to implementing [structural change, not just parameter change][10].
 Using our skills in mathematics and complex systems, we will facilitate development of holistic, financially, socially and politically sustainable waste management systems.
 
 **We are learning from those who have succeeded.**
-For example, to vaccinate children in low income countries against deadly and debilitating infectious diseases, Gavi, The Vaccine Alliance was created.
+For example, to vaccinate children in low income countries against deadly and debilitating infectious diseases, [Gavi, The Vaccine Alliance][21] was created.
 They work with funders (governments of rich countries), problem-owners (governments of poor countries) and methods leaders (vaccine producers).
 To date they've helped vaccinate more than 880 million children.
 
@@ -122,18 +122,19 @@ Our aim is not to strive for a perfect solution, but to improve the situation as
 
 ### Other ideas we are planning to work on
 
-**Providing data to enable everyone to make data-driven decisions.**
+##### Providing data to enable everyone to make data-driven decisions.
+
 Climate action, global development and overcoming waste management challenges is [not possible without data][11].
 Over the past two years of working with waste related data, we've met 4 challenges:
-* Data not available for free.
+* **Data not available for free.**
 For example, [the review of plastic chemical recycling technologies][12] by Independent Commodity Intelligence Services, [the list of waste management infrastructure around the world][13] by AcuComm, and even [Global Plastics Outlook][14] by OECD.
-* Sources of data are hard to find.
+* **Sources of data are hard to find.**
 Often the reference provided is to a source that provides another reference, etc.
 It takes a long time to find the original source, often hundreds of pages long, and to find the cited information within it.
-* Data is outdated.
+* **Data is outdated.**
 The amount of waste generated is growing rapidly and its composition is changing.
 Outdated data is misleading and does not provide enough information to be able to predict future volumes and composition of waste.
-* Most often the data simply doesn't exist.
+* **Most often the data simply doesn't exist.**
 This is particularly relevant when trying to show GHG emission reduction potential of a particular project.
 If there is no data about waste, officially there are no emissions associated with waste, and hence any non-zero-emission project will increase total emissions on paper.
 
@@ -142,20 +143,23 @@ Examples of this being done in other contexts include [Right to Equitable and Pr
 
 
 
-**Facilitating technical knowledge flow.**
+##### Facilitating technical knowledge flow.
+
 Creating a virtual centre of technical expertise in waste management systems and infrastructure that will allow us to put important technical conversations (about technologies, infrastructure and financing instruments) on the agenda of high level meetings that all too often focus on bold commitments lacking an actionable plan to achieve them.
 Fostering transfers of technical knowledge between countries and from academia will ensure that better decisions are made.
 
 
 
-**Working on future waste streams.**
+##### Working on future waste streams.
+
 Currently plastic is getting all the attention, as a relatively new type of waste that many countries are having problems dealing with.
 New types of waste - electronics, batteries, solar panels, wind turbines, demolition waste - will soon become prevalent waste streams.
 It is important to be prepared for these new waste streams.
 
 
 
-**Developing innovative business ideas, financial instruments and concepts.**
+##### Developing innovative business ideas, financial instruments and concepts.
+
 Being creative when developing new financial instruments and new business models (perhaps ones that blend different types of funding or leverage partnerships) will allow us to build financially sustainable waste management systems.
 Currently the most innovative field in terms of new business models is circular economy; we are planning to engage people from that field to help us solve waste management challenges.
 
@@ -164,7 +168,8 @@ Borrowing the idea from David Peetz who coined the term [carbon productivity][19
 
 
 
-**Enabling startups to address global challenges.**
+##### Enabling startups to address global challenges.
+
 While our main focus is on major stakeholders, we recognise that a lot of innovation, new business models and impact is created by startups.
 Providing small amounts of initial funding to a large number of promising startups in waste management space, especially focussing on the ones created by local people in low income countries, will allow us to explore the solution space most efficiently.
 
@@ -203,3 +208,4 @@ Examples of this being done in another context include the partnership between I
 [18]: https://youtu.be/4VuYiEbGQ9Q?t=2070
 [19]: https://theconversation.com/what-if-we-measured-the-thing-that-matters-most-carbon-productivity-124902
 [20]: https://pressroom.ifc.org/all/pages/PressDetail.aspx?ID=24692
+[21]: https://www.gavi.org/
