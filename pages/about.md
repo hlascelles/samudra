@@ -1,133 +1,221 @@
 ---
 layout: kz-page
-subheadline:
-title: Our mission
+title: "Samudra.world"
 permalink: /about/
 header:
   title: ""
   image_fullwidth: main.jpg
-widgets:
-- image: sdg1.png
-  anchor: sdg1
-  text: Plastic pollution has a detrimental effect on tourism, fishing and shipping industries. Reducing the amount of pollution entering our oceans will provide direct economic benefits for local communities that depend on these industries.
-- image: sdg2.png
-  anchor: sdg2
-  text: Marine plastic pollution puts rich nutrition sources (fish, seafood and algae) at risk, and leads to food chain contamination. Reducing the amount of pollution entering our oceans will secure safe nutrition sources for the future.
-- image: sdg3.png
-  anchor: sdg3
-  text: Uncollected waste is either openly burnt (leading to adverse effects on air quality) or dumped (facilitating the spread of disease vectors and contagious diseases). Improving the coverage of waste collection services will lead to better physical and mental health, and reduce the prevalence of contagious diseases.
-- image: sdg5.png
-  anchor: sdg5
-  text: Women are responsible for waste management in most households and are hence more exposed to the harmful substances released during open burning of waste. Due to the higher proportion of body fat compared to men they are also more likely to accumulate these harmful substances in larger quantities. Improving the coverage of waste collection services will reduce this inequality.
-- image: sdg6.png
-  anchor: sdg6
-  text: Leachate from uncollected waste and toxic emissions created during open burning of waste pollute sources of drinking water (both water-bodies and ground waters). Improving the coverage of waste collection services will ensure that more people have access to safe drinking water and that agricultural produce is not contaminated through water. 
-- image: sdg7.png
-  anchor: sdg7
-  text: Even waste that is neither recyclable nor compostable has calorific value; it can be converted into energy. Using waste as an energy resource will facilitate the shift away from more polluting fuels and produce affordable energy while reducing the environmental pollution at the same time. 
-- image: sdg8.png
-  anchor: sdg8
-  text: Millions of people make a living by participating in the informal waste management sector. Most of them work without protective equipment, have no access to healthcare, and occasionally face hunger due to irregular income. Our vision is to make the current waste pickers the last generation of waste pickers by creating opportunities for them and their children.
-- image: sdg9.jpg
-  anchor: sdg9
-  text: The supply of raw materials is finite. Capital investment in waste management infrastructure will increase the availability of raw (recycled) materials and affordable energy in the form of electricity and heat for local industries. 
-- image: sdg10.jpg
-  anchor: sdg10
-  text: Income inequality is exacerbated by the availability of waste collection services. Low-income communities live in polluted environments and are exposed to toxic emissions released during open burning of waste. Improving the coverage of waste collection services will reduce this health inequality and facilitate the economic growth of low-income communities. 
-- image: sdg11.png
-  anchor: sdg11
-  text: Uncollected waste results in air pollution from open burning of waste, the spread of infectious diseases and floods caused by clogged drainage systems. Improving the coverage of waste collection services will facilitate the sustainable development of urban and rural communities. 
-- image: sdg12.png
-  anchor: sdg12
-  text: It is impossible to be a responsible producer or consumer if waste management services are not available. Capital investment in waste management infrastructure will facilitate the shift towards responsible product design and better waste management practices both in industry and in households. 
-- image: sdg13.png
-  anchor: sdg13
-  text: Landfills and dumpsites without methane capture infrastructure and open burning of waste result in considerable climate impact. Capital investment in waste management infrastructure will reduce climate impact associated with waste. Combining energy recovery with carbon capture technology can result in carbon negative waste disposal methods.
-- image: sdg14.png
-  anchor: sdg14
-  text: Ocean pollution is detrimental to the health of marine ecosystems. It harms all marine species and all species that are part of the food chains they belong to. Reducing the amount of pollution entering our oceans will be an essential part of preventing marine ecosystem collapse. 
-- image: sdg15.png
-  anchor: sdg15
-  text: Leachate from uncollected waste and toxic emissions created during open burning of waste pollute our land. The need for more and more landfills, given the rate at which they fill up, often results in deforestation. Capital investment in waste management infrastructure will reduce environmental contamination and the rate of deforestation, as well as protect biodiversity and fertility of our land. 
-- image: sdg17.png
-  anchor: sdg17
-  text: Concerns about urgent waste management challenges often result in blaming companies, consumers or governments. This leads to a counterproductive divide between "us" and "them". Creating collaborative solutions will allow everyone to contribute towards a better outcome for us all. More can be achieved in a no blame culture in which everyone’s contribution is truly appreciated, not merely expected. 
 
 ---
 
-Samudra is an international organisation dedicated to improving waste management systems globally.
-Our goals are to reduce climate impact and environmental pollution associated with waste, and to minimise the impact of waste on human and ecosystem health.
-The long-term aim for Samudra is to become an IGO that will act as a global orchestrator aligning efforts of major stakeholders in the waste management sector, and to have sufficient capacity to facilitate decision making on a global level. 
+The waste management sector accounts for 5-15% of human-made climate impact, and the sector's total negative impact on climate, environment and health is rapidly increasing. 
+Our goal is to **increase municipal solid waste collection rates in low and middle income countries**, as currently 1 in 3 people globally have no access to waste collection services. 
+To achieve this goal we are building a **global action network** - a new type of organisation, that is neither government, nor business, nor civil society, but a structure that combines the resources and competences of all of these.
 
 
 
-### How we will get there
+### What is the problem 
 
-The three pillars of our growth are:
-* Developing and implementing a global waste management strategy that will amplify the positive impact of all stakeholders in the waste management sector (national and local governments, companies big and small, funders, IGOs, NGOs, universities, etc.) and prevent different efforts from cancelling each other out.
-* Creating a virtual centre of technical expertise in waste management systems and infrastructure that will allow us to put important conversations (about technologies, infrastructure, financing mechanisms, governance and structural change) on the agenda of high level meetings that all too often focus on bold commitments lacking an actionable plan to achieve them.
-* Growing a global network of stakeholders in the waste management sector that will allow us to facilitate fruitful connections across different geographical regions and between stakeholders that usually don't interact, or whose interaction is typically one-sided.
+<!-- 1. Problem -->
+Currently about 25% of all municipal solid waste (MSW) is not collected - more than 500 million tonnes per year.
+The amount of MSW is increasing due to urbanisation, population growth and increasing purchasing power; this increase is especially rapid in regions where MSW collection rates are below 50%.
+<!-- 8. Key Metrics - we are trying to reduce these quantifyable negative impacts -->
+Both uncollected and mismanaged waste have a detrimental impact on
+* **climate** - greenhouse gas (GHG) and black carbon emissions from organic waste and open burning of waste, damaging natural GHG sinks (oceans, soils and plants). <!-- , read more here. -->
+* **environment** - waste polluting the oceans, leachate from waste, toxic emissions from open burning of waste, wastewater from unregulated recycling activities. <!-- , read more here. -->
+* **health** - air pollution, food contaminated with nanoplastics and heavy metals, polluted drinking water, mosquitoes breading in uncollected waste. <!-- , read more here. -->
+
+Despite these detrimental impacts, waste management remains relatively neglected compared to other areas of climate action, global development and sustainability. 
+
+According to UNEP (2015, p.12), [10-15% reduction in global GHG emissions could be achieved][1] through improvements to solid waste management systems - dumpsite closure, waste diversion from landfills, energy from waste, recycling, etc. (not including waste prevention).
+According to the World Bank (2018, p.115), even basic improvements to solid waste management systems can [reduce the emissions associated with waste by at least 25%][2].
+Despite this potential for limiting climate change, waste management is barely mentioned in IPCC Assessment Reports and was not discussed at UN Climate Change Conferences until COP26 where it was featured in a side event.
+
+Comparing the World Bank's reports from [2012][3] (p.15) and [2018][2] (p.32) shows little progress on waste management challenges.
 
 
 
-### Our core values
+### What is being done and why it doesn't work
 
-**1. No blame culture.**
-Concerns about waste management challenges often result in blaming companies, consumers or governments.
-This leads to a counterproductive divide between "us" and "them".
-Nobody wants to live surrounded by waste. 
-Everyone enjoys breathtaking views of nature and beautiful marine creatures. 
-We are all "us"; there are no "them". 
-That is why at Samudra we work towards collaborative solutions that allow everyone to contribute towards a better outcome for us all.
-We believe that more can be achieved in a no blame culture where everyone's contribution is truly appreciated, not merely expected.
+Over the past decade the amount of funding and talent dedicated to addressing waste management challenges has been steadily increasing, yet little progress has been made. 
+Having researched the space for more than two years, we identified three main reasons for this.
 
-**2. Evidence weighs more than beliefs.**
-Our aim is to make the world a better place, and the research we do provides stepping stones along the way. 
-Unlike other organisations with similar goals, we keep an open mind. 
-For example, we don’t believe that recycling is always the best solution, that the less plastic we use the better, or that incinerators are more polluting than landfills. 
-One reason is that very different things often end up under the same blanket term. 
-Widely recyclable plastic packaging that reduces greenhouse gas emissions from transportation, and medical devices that save lives are very different from plastic confetti dispersed directly into the environment. 
-A well-managed landfill with methane capture in a dry climate is not the same as a landfill created by clearing rainforest. 
-Another thing to consider is that everything has a cost. 
-These costs can be very different depending on the type of waste and where it is produced. 
-Recycling something in one part of the world can produce more emissions and environmental pollution than incinerating it at a waste-to-energy facility in another part of the world. 
-Thermal decomposition of plastic waste can produce fuel that is less polluting than what is currently used in the region. 
-That is why we don't advocate for landfilling, incineration or recycling. 
-We advocate for taking the time to estimate the costs of different solutions (in terms of impact on the environment, climate, human and ecosystem health), to assess their financial feasibility and to compare the opportunity costs.
-In-depth research guides everything we do. 
-We invite you to <a href="/explore/" target="_self">explore what we've learnt so far.</a>
-If you spot any mistakes, please do <a href="mailto:hello@samudra.world" target="_blank">get in touch</a>; it will be much appreciated.
+**Many efforts cancel each other out.** Given the scale of global waste management challenges and the lack of progress to date, many new stakeholders have joined existing ones. 
+Apart from direct collaborations, there is no coordination between stakeholders, which results in efforts that cancel each other out instead of being complementary.
+The connection is inadequate between the global vision and the micro level actions and tools.
 
-**3. Being creative when developing business models.**
-Think of a successful company that sells a great product. 
-How did they achieve that? 
-They most likely started with identifying a market niche and learning about the target market segment. 
-They designed a product and identified suppliers that can reliably provide sufficient amounts of the materials required for production. 
-They invested in appropriate infrastructure. 
-If you've ever started a company, you know that none of these steps are easy. 
-Now imagine how hard it is to build a successful company if you must follow these steps in reverse order! 
-In waste management you don't choose the composition or the amount of generated waste; everything produced in your collection area has to be processed. 
-You then need to find a market for recyclable materials, or products you can make with them, but you cannot guarantee your customers that you will be able to supply these continuously. 
-Often the waste composition changes faster than the infrastructure investment pays off. 
-As a result, waste management that doesn't harm the environment or human health is often not profitable. 
-That is why at Samudra we are dedicated to developing new business models that imaginatively blend different types of funding and leverage partnerships.
+**Reports, webinars and voluntary commitments.** Many efforts backed by a significant amount of funding and talent result in reports and events, which are useful if considered in isolation, but in the context of existing reports and previous events they don't get us any closer to overcoming waste management challenges. 
 
-**4. Best is the enemy of better.**
-Efforts aimed at improving waste management in the long run, for example developing new materials or redesigning the global economy, are incredibly valuable. 
-We believe that in parallel to these efforts urgent action is required to minimise the amount of irreversible damage (environmental pollution, climate impact and detrimental effects on human and ecosystem health) that is done today.
-For each waste management challenge we tackle, we try to come up with as many ideas as possible about how it could be addressed.
-We evaluate each of these ideas based on the impact they will have on the environment, climate, human and ecosystem health, if implemented.
-Some of the solutions we implement are far from perfect when examined in isolation; their merit only becomes apparent when they are examined in the real world context.
+At COP26 nations agreed to "start a dialogue" on loss and damage resulting from climate change, but [a proposal to establish a new funding facility to help affected countries was unsuccessful][5]. 
+At the UN Biodiversity Conference (COP15) the mood is set by the fact that [signatories failed to meet any of the targets they set for themselves][4] at the Convention on Biological Diversity in 2010 (COP10).
+It is difficult to be optimistic about the potential of the UN Treaty on Plastic Pollution that is currently being developed.
 
-<a name="sdgs"></a>**5. Contributing to as many SDGs as possible (15 out of 17, to be precise)**
+**Focus on visible problems and sexy solutions.** Plastic waste is getting all the attention, largely due to the fact that it floats in water. 
+While plastic pollution is truly a major challenge, singling out plastic often prevents the development of holistic, financially sustainable waste management systems. 
+Efforts like the [Ministerial Conference on Marine Litter and Plastic Pollution][6] in 2021 encourage governments to focus only on a fraction of the whole waste management challenge, thus drastically limiting the potential of successful solutions.
 
-{% include _widget_grid_layout.html widgets=page.widgets articles_per_row=3 %}
+Often the focus is on short-term solutions (like plastic credits) and technology-enabled solutions (usually mobile apps), not on building financially, socially and politically sustainable waste management systems and infrastructure.
 
-<!--
-Reducing the amount of pollution entering our oceans 
-Improving the coverage of waste collection services 
-Using waste as an energy resource 
-Creating waste management jobs 
-Capital investment in waste management infrastructure 
-Creating collaborative solutions that allow everyone to play a part
--->
+
+<!-- 4. Solution -->
+### What Samudra is planning to do 
+
+Let's change the way we approach change!
+<!-- 3. Unique Value Proposition -->
+To **increase municipal solid waste collection rates in low and middle income countries** we are building Samudra - a **global action network**, a new type of organisation that is neither government, nor business, nor civil society, but a structure that combines resources and competences of all of these.
+Our focus is on the waste generated today and in the next 10 years.
+This is complementary to the [circular economy][7] efforts that focus mostly on building a waste-free future. 
+
+**Large scale change requires weaving together relationships in new ways.**
+It requires working with a much greater depth of collaboration than is supported by our current organisational and funding structures.
+Samudra will develop and support peer-like relationships among funders (e.g. IGOs, development banks), problem-owners (e.g. national and city governments, companies), methods leaders (e.g. research centres, companies that design and build infrastructure), capacity developers (e.g. waste management companies, NGOs) and other stakeholders.
+It is important to facilitate collaboration between stakeholders that usually don’t interact or whose interaction is typically one-sided.
+
+<!-- 5. Channels -->
+We will focus on stakeholders that are the most motivated to overcome waste management challenges and that are in the strongest position to implement changes on a global level.
+Instead of requiring a unanimous agreement of all stakeholders (which holds back the UN climate process), we will create groups of stakeholders that develop their own vision of the future and a plan how to get there.
+
+**The connection is inadequate between the global vision and the micro level actions and tools.** 
+Samudra will facilitate the development and implementation of a global waste management strategy in full technical detail. 
+It will act as a global orchestrator to develop synergies between different efforts (making them complementary instead of contradictory), to deal with duplication and conflict, to amplify the positive impact of all stakeholders, and to identify and address the gaps that impede the change on a global level. 
+It is important to embed complementarity into different efforts, especially those that don't agree with each other.
+
+**An organisation with global reach and no inertia.**
+In practical terms, Samudra will be a stewardship organisation that will allow the change to emerge, without attempting to manage the change.
+It will have sufficient capacity to facilitate decision making on a global level.
+It will facilitate the development of a global waste management strategy and ensure that the strategy keeps evolving along with changing circumstances, instead of becoming outdated. 
+It will ensure [focus on 15 out of 17 UN Sustainable Development Goals][23] (SDGs).
+
+<!-- 6. Revenue Streams -->
+Samudra will be funded by impact-based grants. 
+In terms of organisational structure, we envision something similar to [Tech Zero][9] - a core team working alongside employees of major stakeholders that have been dedicated to creating change by  weaving together relationships in new ways.
+
+
+
+### Why we think it is going to work
+
+**Waste management is an easy problem in many ways.**
+Unlike GHG emissions that are hard to capture, waste is easy to collect; and it can be characterized without any specialised equipment.
+Technologies for waste processing and disposal are mature, scalable and tested in a wide range of conditions.
+Reducing GHG emissions requires tradeoffs, while an improved waste management system provides direct benefits to both the local area and the surrounding regions.
+
+**We focus on structural change.**
+According to [Donella Meadows][8] 99% of sustainability efforts are focussed on [parameter changes][10], which lack leverage and are rarely a source of real impact.
+In waste management in particular, efforts often form a patchwork.
+Our work will contribute to implementing structural change necessary to create holistic, financially, socially and politically sustainable waste management systems.
+
+**We are learning from those who have succeeded.**
+For example, to vaccinate children in low income countries against deadly infectious diseases, [Gavi, The Vaccine Alliance][21] was created.
+They work with funders (governments of rich countries), problem-owners (governments of poor countries) and methods leaders (vaccine producers).
+To date they've helped vaccinate more than 880 million children.
+
+<!-- 9. Unfair Advantage -->
+**We understand the situation from the perspectives of different stakeholders.**
+Over the past two years we've been working with national governments, city governments, waste management companies, startups and NGOs.
+Different stakeholders have different capacities and goals, and they approach challenges in different ways.
+Making these approaches complementary instead of contradictory will ensure that different stakeholders can increase each other's positive impact, even if they don't agree with each other.
+
+**We have a no blame culture.**
+We aim to engage as many different types of stakeholders as possible.
+We understand that not every stakeholder has the desire and the capacity to contribute to addressing global waste management challenges.
+Those who do contribute can be sure that their contribution will be truly appreciated, not merely expected.
+
+**We don't have a favourite waste disposal method.**
+Every solution can be good or bad depending on the context; and every solution has an opportunity cost.
+We assess all possible solutions based on their impact on climate, environment and health.
+Our aim is not to strive for a perfect solution, but to improve the situation as soon as possible.
+
+
+
+<!-- 4. and other solutions -->
+### Other ideas we are planning to work on
+
+##### Providing data to enable everyone to make data-driven decisions
+
+Climate action, global development and overcoming waste management challenges is [not possible without data][11].
+Over the past two years of working with waste related data, we've met four challenges:
+* **Data not available for free.**
+Examples include [the review of plastic chemical recycling technologies][12] by Independent Commodity Intelligence Services, [the list of waste management infrastructure around the world][13] by AcuComm, and even [Global Plastics Outlook][14] by the OECD.
+* **Sources of data are hard to find.**
+Often the reference provided is to a source that provides another reference, etc.
+It takes a considerable amount of time to find the original source, often hundreds of pages long, and to find the cited information within it.
+* **Data is outdated.**
+The amount of waste generated is growing rapidly and its composition is changing.
+Outdated data is misleading and does not provide enough information to be able to predict future volumes and composition of waste.
+* **Most often the data simply doesn't exist.**
+This is particularly relevant when trying to show GHG emission reduction potential of a particular project.
+If there is no data about waste, officially there are no emissions associated with waste, and hence any non-zero-emission project will increase total emissions on paper.
+
+Making useful, up to date data (with transparent citations directly to the original source) available for free will enable everyone to make data-driven decisions, regardless of their financial situation.
+Examples of this being done in other contexts include [Right to Equitable and Professional Auto Industry Repair (REPAIR) Act][15] in the US and the [ESG Book][16] aimed at [disrupting the sustainability sector with free data][17].
+
+
+
+##### Facilitating technical knowledge flow
+
+Creating a virtual centre of technical expertise in waste management systems and infrastructure will allow us to put important technical conversations (about technologies, infrastructure and financial instruments) on the agenda of high level meetings that all too often focus on bold commitments lacking an actionable plan to achieve them.
+Fostering transfer of technical knowledge between countries, waste streams, different types of stakeholders, and academia will ensure that better decisions are made.
+
+
+
+##### Working on future waste streams
+
+Currently plastic is getting most of the attention, as a relatively new type of waste that many countries are having problems dealing with.
+Other new types of waste - electronics, batteries, solar panels, wind turbines, demolition waste - will soon become prevalent waste streams.
+It is important to be prepared for these new waste streams.
+
+
+
+##### Developing innovative business ideas, financial instruments and concepts
+
+Being creative when developing new financial instruments and new business models (like the ones that blend different types of funding or leverage partnerships) will allow us to build financially sustainable waste management systems.
+The circular economy is currently the most innovative field in terms of new business models; we are planning to engage people from that field to help us solve waste management challenges.
+
+Sometimes, all that is needed is just developing a new concept, as [explained][18] by Rory Sutherland.
+Borrowing the idea from David Peetz, who coined the term [carbon productivity][19], what if we define "waste productivity" - the amount of value created per unit of waste - to inform the decisions about what types of items or packaging should be banned.
+
+
+
+##### Enabling startups to address global challenges
+
+While our main focus is on major stakeholders, we recognise that startups often create impact, new business models and innovation.
+Providing small amounts of initial funding to a large number of promising startups in the waste management space, especially focussing on the ones created by local people in low income countries, will allow us to explore the solution space most efficiently.
+
+Examples of this being done in another context include the partnership between International Finance Corporation (IFC) and Goldman Sachs in 2014, that created [the Women Entrepreneurs Opportunity Facility][20], which mobilized capital for local financial institutions to lend to women owned businesses. 
+
+
+
+Samudra's goal is to facilitate [large systems change][22] in the waste management sector. 
+This will require implementing all of the above ideas and many more. 
+
+
+
+<!-- 2. Customer Segments - there are no customers, our aim is to implement large systems change. -->
+<!-- 7. Cost Structure - salaries of employees only. If using Tech Zero model, then only survival salary for myself. -->
+
+
+
+
+[1]: https://www.uncclearn.org/wp-content/uploads/library/unep23092015.pdf
+[2]: https://openknowledge.worldbank.org/handle/10986/30317
+[3]: https://openknowledge.worldbank.org/handle/10986/17388
+[4]: https://www.economist.com/china/2022/02/17/china-is-trying-to-become-a-champion-of-biodiversity
+[5]: https://www.ft.com/content/00f452ee-a234-4a30-bc0f-858c136781d8
+[6]: https://ministerialconferenceonmarinelitter.com/
+[7]: https://ellenmacarthurfoundation.org/topics/circular-economy-introduction/overview
+[8]: https://donellameadows.org/
+[9]: https://techzero.technation.io/
+[10]: https://hbr.org/2021/05/overselling-sustainability-reporting
+[11]: https://www.nature.com/articles/d41586-019-02139-w
+[12]: https://www.icis.com/explore/services/recycling-supply-tracker-chemical/
+[13]: https://acucomm.net/search
+[14]: https://www.oecd-ilibrary.org/environment/global-plastics-outlook_de747aef-en
+[15]: https://ihsmarkit.com/research-analysis/right-to-equitable-and-professional-auto-industry-repair.html
+[16]: https://www.esgbook.com/
+[17]: https://www.weforum.org/agenda/2021/12/esg-book-sustainability-sector-free-data/
+[18]: https://youtu.be/4VuYiEbGQ9Q?t=2070
+[19]: https://theconversation.com/what-if-we-measured-the-thing-that-matters-most-carbon-productivity-124902
+[20]: https://pressroom.ifc.org/all/pages/PressDetail.aspx?ID=24692
+[21]: https://www.gavi.org/
+[22]: https://www.goodreads.com/book/show/29655206-change-for-the-audacious
+[23]: /sdgs/
