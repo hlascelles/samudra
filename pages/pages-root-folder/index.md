@@ -4,9 +4,9 @@ header:
   title: ""
   image_fullwidth: main.jpg
 widgets:
-- url: /about#sdgs
+- url: /sdgs
   image: all_sdgs.jpg
-  title: <a href="/about#sdgs" target="_self">Our work contributes to 15 SDGs set by the UN</a>
+  title: <a href="/sdgs" target="_self">Our work contributes to 15 SDGs set by the UN</a>
   text: We contribute to 15 out of 17 SDGs by improving waste management systems around the world, increasing the coverage of waste collection services, reducing climate impact and environmental pollution associated with waste, minimising the impact of waste on human and ecosystem health, and creating collaborative solutions where everyone’s contribution is truly appreciated instead of being expected.
   button: true
 - url: /explore/urgent#climate
@@ -28,12 +28,6 @@ homepage: true
 ---
 
 <br/>
-Samudra is an international organisation dedicated to improving waste management systems globally.
-Our goals are to reduce climate impact and environmental pollution associated with waste, and to minimise the impact of waste on human and ecosystem health.
-We plan to achieve these goals by:
-
-* Developing and implementing a global waste management strategy that will amplify the positive impact of all stakeholders in the waste management sector (national and local governments, companies big and small, funders, IGOs, NGOs, universities, etc.) and prevent different efforts from cancelling each other out.
-* Creating a virtual centre of technical expertise in waste management systems and infrastructure that will allow us to put important conversations (about technologies, infrastructure, financing mechanisms, governance and structural change) on the agenda of high level meetings that all too often focus on bold commitments lacking an actionable plan to achieve them.
-* Growing a global network of stakeholders in the waste management sector that will allow us to facilitate fruitful connections across different geographical regions and between different types of stakeholders that usually don't interact, or their interaction is typically one-sided.
-
-The long-term aim for Samudra is to become an IGO that will act as a global orchestrator aligning efforts of major stakeholders in the waste management sector, and to have sufficient capacity to facilitate decision making on a global level. 
+The waste management sector accounts for 5-15% of human-made climate impact, and the sector's total negative impact on climate, environment and health is rapidly increasing. 
+Our goal is to **increase municipal solid waste collection rates in low and middle income countries**, as currently 1 in 3 people globally have no access to waste collection services. 
+To achieve this goal we are building a **global action network** - a new type of organisation, that is neither government, nor business, nor civil society, but a structure that combines the resources and competences of all of these.
