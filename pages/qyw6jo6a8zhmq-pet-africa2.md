@@ -35,6 +35,7 @@ In 2004 l'Agence Nationale de Gestion des déchets (AND) introduced [Eco-Jem][6]
 
 In Algeria the amount of household and similar waste exceeded [13 million tons in 2018][8], the Algerian Ministry of the Environment estimates that it could reach 20 million tonnes by 2030. In 2022, the Algerian government plans to allocate [230 million USD][8] to the city of Algiers - 210 to build an integrated waste management complex, and 20 to build tanks 3 and 4 at the Hamici Technical Landfill Center (the site is equipped with landfill bins, a weighbridge and three sorting lines with a capacity of 24 tonnes per hour). 
 
+I spoke to a person from [Global Environment Facility (GEF)][11] who evaluates waste management projects in Algeria and decides whether GEF will fund them; to my surprise and disappointment they knew nothing about the waste management situation in Algeria.
 
 <h5>10. Sudan 44m</h5>
 <h5>11. Morocco 37m</h5>
@@ -171,4 +172,3 @@ In Banjul the waste collection rate is 35% [(World Bank, 2018, What a waste 2)][
 [28]: https://www.linkedin.com/company/ranigeria/
 [29]: https://www.linkedin.com/in/alisonukonu/
 [30]: http://www.recyclepoints.com/
-[31]: https://takatakasolutions.com/
