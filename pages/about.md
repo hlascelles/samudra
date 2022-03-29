@@ -25,9 +25,9 @@ This increase is especially rapid in regions where MSW collection rates are belo
 Uncollected and mismanaged waste has a detrimental impact on
 * **climate** - greenhouse gas (GHG) and black carbon emissions from organic waste and open burning of waste, damaging natural GHG sinks (oceans, soils and plants). <!-- , read more here. -->
 * **environment** - waste polluting the oceans, leachate from waste, toxic emissions from open burning of waste, wastewater from unregulated recycling activities. <!-- , read more here. -->
-* **health** - air pollution, food contaminated with nanoplastics and heavy metals, polluted drinking water, mosquitoes breeding in uncollected waste. <!-- , read more here. -->
+* **health** - air pollution, food contaminated with nanoplastics and heavy metals, polluted drinking water, disease-bearing mosquitoes breeding in uncollected waste. <!-- , read more here. -->
 
-According to UNEP (2015, p.12), a [10-15% reduction in global GHG emissions could be achieved][1] through improvements to solid waste management systems - dumpsite closure, waste diversion from landfills, energy from waste, recycling, etc. (not including waste prevention).
+According to UNEP (2015, p.12), a [10-15% reduction in global GHG emissions could be achieved][1] through improvements to solid waste management systems - such as dumpsite closure, waste diversion from landfills, generating energy from waste and recycling (not including waste prevention).
 According to the World Bank (2018, p.115), even basic improvements to solid waste management systems can [reduce the emissions associated with waste by at least 25%][2].
 
 Waste management remains relatively neglected compared to other areas of climate action, global development and sustainability.
@@ -69,10 +69,10 @@ This is complementary to the [circular economy][7] efforts that focus mostly on 
 
 Large scale change requires weaving together relationships in new ways.
 It requires working with a much greater depth of collaboration than is supported by our current organisational and funding structures.
-**Samudra will develop and support peer-like relationships among** funders(e.g. IGOs, development banks), problem-owners (e.g. national and city governments, companies), methods leaders (e.g. research centres, companies that design and build infrastructure), capacity developers (e.g. waste management companies, NGOs) and other stakeholders.
-It is important to facilitate collaboration between stakeholders that usually don’t interact or whose interaction is typically one-sided.
+**Samudra will develop and support peer-like relationships among** funders (e.g. IGOs, development banks), problem-owners (e.g. national and city governments, companies), methods leaders (e.g. research centres, companies that design and build infrastructure), capacity developers (e.g. waste management companies, NGOs) and other stakeholders.
+It is important to facilitate collaboration between stakeholders who usually don’t interact or whose interaction is typically one-sided.
 <!-- 5. Channels --> We will focus on stakeholders that are the most motivated to overcome waste management challenges and that are in the strongest position to implement changes on a global level.
-Instead of requiring a unanimous agreement of all stakeholders (which holds back the UN climate process), we will create groups of stakeholders that develop their own vision of the future and a plan for how to make it real.
+Instead of requiring unanimous agreement from all stakeholders (a requirement that as we've seen holds back the UN climate process), we will create groups of stakeholders that develop their own vision of the future and a plan for how to make it real.
 
 The connection is inadequate between the global vision and the micro level actions and tools.
 **Samudra will facilitate the development and implementation of a global waste management strategy in full technical detail** and ensure that the strategy keeps evolving along with changing circumstances, instead of becoming outdated. 
@@ -85,7 +85,7 @@ Such a stewardship organisation is necessary to amplify the positive impact of a
 Samudra's work towards [15 out of 17 UN Sustainable Development Goals][23] (SDGs) will be funded by impact-based grants. 
 In terms of organisational structure, we envision something similar to [Tech Zero][9] - a core team working alongside employees of major stakeholders that are dedicated to creating change by  weaving together relationships in new ways.
 Samudra's goal is solely to create [large systems change][22].
-Once this is achieved, the organisation will dissolve if there is no longer a need for it.
+Once this is achieved, the organisation will dissolve.
 
 
 
