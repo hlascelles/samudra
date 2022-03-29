@@ -13,6 +13,8 @@ Growing amounts of mismanaged and uncollected waste are rapidly increasing the s
 Our goal is to **increase municipal solid waste collection rates in low and middle income countries**, as currently 1 in 3 people globally have no access to waste collection services. 
 To achieve this goal we are building a **global action network** - a new type of organisation, that is neither government, nor business, nor civil society, but a structure that combines the resources and competences of all of these.
 
+<p style="color:#979797;">Download this page as <a href="/pdfs/about.pdf">pdf</a>.</p>
+
 
 
 ## What is the problem 
