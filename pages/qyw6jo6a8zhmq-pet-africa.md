@@ -13,26 +13,22 @@ header: no
 The price of raw unsorted PET waste (buying directly from waste pickers) has more than doubled in the past 12 months.
 There are a lot of Chinese buyers coming in, so CANEI would have to offer good prices to compete with them.
 
-**In Abuja:** [Olufunto Boroffice][25] [funtob@chanjadatti.com][26] CEO of [Chanja Datti Recycling][27] and vice-president of [Recyclers Association of Nigeria (RAN)][28]
+Contacts handed over to Ahraby:
+1. In Abuja: [Olufunto Boroffice][25] [funtob@chanjadatti.com][26] CEO of [Chanja Datti Recycling][27] and vice-president of [Recyclers Association of Nigeria (RAN)][28].
+	They are looking to start exporting by the end of April (they are currently in the middle of a move to a new location). 
+	They normally have 150-200 tonnes of PET per month to sell. 
+	Their bales are 500-600kg, so they say they can do 20-21 tonnes per container.
 
-The best person I've met so far.
-They are looking to start exporting by the end of April (they are currently in the middle of a move to a new location). 
-They normally have 150-200 tonnes of PET per month to sell. 
-Their bales are 500-600kg, so they say they can do 20-21 tonnes per container.
-They would like to send a test bale to CANEI.
-Olufunto said we should have a meeting with [Mazi Ukonu][29], president of [Recyclers Association of Nigeria (RAN)][28] and founder of [RecyclePoints][30].
-**I'm organising a meeting with both of them for the week of Mar 28th.**
+2. In Lagos: [Mazi Ukonu][29] [alisonukonu@gmail.com][31] founder of [RecyclePoints][30] and president of [Recyclers Association of Nigeria (RAN)][28].
 
-**In Ibadan:** Yinka from Deepcyclers [deepcyclers@gmail.com][12]
+3. In Ibadan: Yinka Adeniyi [deepcyclers@gmail.com][12] founder of Deepcyclers.
+	They have 15 tonnes per month to sell (15 sorterting staff make 1 tonne each per month) of clear PET. 
+	They have 1 single baler and 1 double baler. 
+	They can make 200kg bales, but often they make 100kg bales for easier manual handling. 
+	To scale their business they need more physical space, more sorting staff and more waste pickers who will collect PET waste for them. 
 
-They have 15 tonnes per month to sell (15 sorterting staff make 1 tonne each per month) of clear PET. 
-They have 1 single baler and 1 double baler. 
-They can make 200kg bales, but often they make 100kg bales for easier manual handling. 
-They are selling at 250,000 - 300,000 naira per tonne (in Ibadan) or 300,000 - 350,000 naira per tonne (if they deliver to Lagos). 
-To scale their business they need more physical space, more sorting staff and more waste pickers who will collect PET waste for them. 
-Other PET handling companies in Ibadan already have buyers to whom they are loyal, they are not looking for new buyers. 
-Deepcyclers is a new company that is just starting, so they are looking for buyers.
-**I'm organising a meeting with him for the week of Mar 28th.**
+
+
 
 
 <h5 style="color:#979797;">2. Ethiopia 115m - CANEI already works here</h5>
@@ -53,7 +49,7 @@ French (only) speaking contacts:
 <h5>6. South Africa 59m - CANEI works here a bit</h5>
 
 Please speak to Cheri Scholtz [cherischoltz@mweb.co.za][7], CEO of [PETCO][1] - South Africa’s PET plastic producer responsibility organisation (PRO). 
-**As requested, I'll introduce Alkarim to Cheri on Monday over email.**
+
 
 <h5 style="color:#979797;">7. Kenya 54m - CANEI already works here</h5>
 
@@ -73,6 +69,7 @@ I've reached out to [Chloé Schwizgebel][18] and [Marwane Tahayassine][19] for h
 
 I spoke to Aisha Magzoub who just got a new job and so no longer works in waste management. 
 She promised to introduce me to her friend in the Environment Ministry, who will share the information about PET collectors.
+**The relevant person is on holiday until the 19th.**
 
 <h5>11. Morocco 37m</h5>
 <h5>12. Angola 33m</h5>
@@ -105,9 +102,16 @@ Both me and Ahraby agree that now is not the right time to talk to rePATRN.
 <h5>26. Zimbabwe 15m</h5>
 <h5>27. Guinea 13m</h5>
 <h5>28. Rwanda 13m</h5>
+
+<a name="benin"></a>
 <h5>29. Benin 12m</h5>
 
-I've reached out to [Naomi][13] from [Gbobètô][14], should be able to speak to her on the week of Mar 28th.
+[Naomi Fagla Medegan][13] [naomi@gbobeto.org][32], Director of [Gbobètô][14], is interested in working with CANEI.
+They currently have one waste sorting site in Porto-Novo, where they have a lot of PET waste they've collected.
+There they have a women led workforce. 
+Naomi has hired a coach for them to train them how to work more efficiently, be on time, remember to wear gloves when touching waste, etc.
+She is working directly with the national government to set up 14 more waste sorting sites across the country. 
+She is in the process of buying a baler right now (probably from Morocco), so will be able to buy one that will ensure a good number of tonnes per container. 
 
 <h5>30. Burundi 12m</h5>
 <h5>31. Tunisia 12m</h5>
@@ -178,3 +182,5 @@ He'll be in Togo during the first week of April, I will ask him to put me in tou
 [28]: https://www.linkedin.com/company/ranigeria/
 [29]: https://www.linkedin.com/in/alisonukonu/
 [30]: http://www.recyclepoints.com/
+[31]: mailto:alisonukonu@gmail.com
+[32]: mailto:naomi@gbobeto.org
