@@ -43,7 +43,7 @@ Over the past decade the amount of funding and talent dedicated to addressing wa
 Having researched the space for more than two years, we identified three main reasons for this.
 
 **Many efforts cancel each other out.** 
-The scale of global waste management challenges and the lack of progress to date has lead to an increase in the number of waste management stakeholders.
+The scale of global waste management challenges and the lack of progress to date has led to an increase in the number of waste management stakeholders.
 Apart from direct collaborations, there is no coordination between stakeholders, which results in efforts that cancel each other out instead of being complementary.
 The connection is inadequate between the global vision and the micro level actions and tools.
 
