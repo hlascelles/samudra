@@ -8,7 +8,122 @@ header: no
 
 ---
 
-Deadline May 1st.
+Deadline May 15th.
+
+
+
+1. **Plastic Waste Management Programme: A Partnership (in India)**
+
+	**UNDP Atlas Project Number:** 00096923
+	
+	**Budget** 13.17 million USD (of which 8.26 already spent) Yearly spending always just below the budget.
+
+	Funders: Coca Cola Company 61% and The Coca-Cola Foundation 4% (65% total); Unilever Hindustan (12%); Charities Aid Foundation India 10%; Csr Trust For Sdgs In India 9%; UNDP 4%; Governments Of Odisha and Uttarakhand 0.3% each.
+
+	**Status:** Jan 2018 - Jun 2024 (ongoing)
+
+	**SDGs:** 1 Powerty, 5 Gender Equality, 12 Responsible consumption/production; 15 Life on land.
+
+	**Summary**
+
+	Plastic recycling management program to minimize negative impacts of plastic waste and risks to environmental and human health in India through a socio-technical model (segregation/collection/recycling)
+
+	**People involved**
+
+	[Sachin Deshmukh][11] from [DRI-BHARAT][12] ?
+
+	**Beneficiaries:** People living in slums and urban areas; People living under the national poverty line; Women; Youth
+
+	**Indicators:**
+
+    Number of **policies and programmes** promoting sustainable livelihoods and incorporating gender responsive strategies for natural resources and ecosystems management - 4
+
+	Number of **scalable initiatives** incorporating improved management of ozone depleting substances, chemicals and/or wastes - 2
+
+	**Partners:** Foundation; NGOs/CSOs; Private sector; Sub-national governments.
+
+	**Hows**
+
+	1. Capacity Development / Technical Assistance
+
+    2. Convening / Partnerships / Knowledge Sharing
+
+    3. Institutional Mechanism and System Building
+
+	**Notes:**
+
+	**2018**
+
+	[Bharat Swachhta Kendra (BSK)][9] is a platform designed for the complete management of assembled plastics in [Plastic Waste Control Project (PWCP)][10]. The main objective of BSK is to hand over the waste from the collected waste plastics to the waste plastics scavengers, to recycle the non-cost but recyclable waste plastics as per the capacity of BSK.
+
+	The goal (1) was to conduct surveys, meetings, selection process, risk assessment and local legal agreements with NGOs, shops, hospitals, colleges, schools, recyclers and waste pickers in each city for establishing the Swachhta Kendras and also for collection of waste. This has been completed in 13 cities.
+
+	Formation of 2 to 3 Resident Welfare Associations (RWAs) in each Ward for awareness, sensitivity in monitoring/segregation of plastic waste followed up by regular meetings, fairs, exhibits, rallies within each RWAs and Wards. This has been done for 26 RWAs in 5 cities. 
+
+	**2019**
+
+	The goal was to expand goal (1) to 12 new cities. The project has been expanded to 16 new cities after due diligence, financial and technical evaluations and field visits. 29 implementing partners have been on-boarded (one in each city?).
+
+	The goal was to stabilize and performance monitoring of 13 cities from goal (1) in 2018 to enhance recycling rates. Recycling rates have been enhanced across 15 cities through direct partnerships with municipal corporations.
+
+	The goal was to rollout technology apps in all the 25 cities (13 old + 12 new, which turned out to be 16 new) including government and recycling partners. Technology app rolled out in 11 cities.
+
+	The goal was to out baseline activities for bench-marking in all the 25 cities. This has been done in 18 cities and 10 more were in process.
+
+	The goal was to form 375 Self Help Groups (SHGs), i.e. 15 per city in 25 cities. 84 SHGs have been linked through 18 implementing partners.
+
+	Collect 30,000 tonnes of plastic waste (all types) per year (100 tonnes per month in each of the 25 cities). Till November 2019, 24,325 tonnes have been collected by 22 implementing partner and 12 enterprise partners.
+
+	Have 600 meetings with stakeholders (2 per month in each of the 25 cities). More than 1188 meetings with stakeholders such as municipal corporations, CSOs, NGOs, volunteers, corporate partners, citizen groups, self-help groups of waste pickers, recyclers, schools, colleges, waste collectors, municipal contractors, panchayats, municipal councils and other urban local bodies have been conducted.
+
+	To establish Swachhata Kendras in 20 cities. Happened in 19 cities.
+
+	**2020**
+
+	Hindustan Coca Cola Beverages Partnership:
+
+	The goal was to expand goal (1) to 12 new cities. Project currently has presence in 30 cities; 6 more cities to be added as revised target.
+
+	Stabilization and performance monitoring of 34 cities to enhance recycling rates. Completed. 
+
+	Rollout of technology apps in all the 40 cities including government and recycling partners. Started, will be completed by mid 2021.
+
+    Set up Swachta Kendras, collection, segregation and link to recyclers in 35 cities (2-3 per city). Swachhta Kendras have been set up in 30 cities.
+
+    Collect 34,000 tonnes of plastic waste (all types) per year (70 tonnes per month in each of the 40 cities). By October 2020, 23,077 tonnes collected.
+    
+    Have 880 meetings with stakeholders (about 2 per month in each of the 40 cities). 600 stakeholder meetings conducted.
+
+	Set up new partnerships in waste management, behavioral change and monitoring. 6 new partnerships developed in waste management.
+
+    Hindustan Unilever Partnership:
+
+    Achieve 100% segregation of dry waste at household level (behaviour change) in 66,488 households. Achieved in 17,661 households.
+	
+	Collection of approximately 40,000 tonnes of plastic waste at the Swachhta Kendra in Mumbai. Collected 1,482 tonnes.
+
+    Operationalizing total of 4 Swachhta Kendra in Mumbai. No update on results.
+
+	Decentralized processing of approximately 3,418 tonnes of plastic waste in Mumbai. Processed 1,037 tonnes.
+
+    Inclusion of 354 Safai Sathis in Mumbai. Included 336.
+
+    Developing 5 additional institutional partnerships in Mumbai. No new partnerships were developed however there are a few in pipeline.
+
+    Establishing 3 new enterprise partnerships in Mumbai. No new enterprise partnerships were created but there are a few in pipeline.
+
+    Conduct 2 stakeholder workshops in Mumbai. Conducted 1.
+
+    Establish linkages with 10 additional authorized recyclers. No new linkages were created but there are a few in pipeline.
+
+    Conduct approximately 45 awareness sessions with schools, colleges and resident welfare associations (RWAs). No update on results.
+
+    HDFC Partnership:
+
+    ...
+
+
+
 
 <h3>Bangladesh</h3>
 
@@ -92,20 +207,6 @@ Deadline May 1st.
 	**Status:** Ongoing, since Jan 2019
 
 	**Financing:** 
-
-	**Notes:**
-
-
-
-<h3>India</h3>
-
-1. **Plastic Waste Management Programme: A Partnership**
-
-	**Status:** Ongoing, Jan 2018 - Jun 2024
-
-	**Financing:** 17,702,974 USD
-
-	**UNDP Atlas Project Number:** 00096923
 
 	**Notes:**
 
@@ -234,5 +335,9 @@ Deadline May 1st.
 [6]: https://procurement-notices.undp.org/view_file.cfm?doc_id=236822
 [7]: https://procurement-notices.undp.org/view_file.cfm?doc_id=237478
 [8]: https://info.undp.org/docs/pdc/Documents/BGD/IP%20ProDoc%20Plastic%20Waste%20Management%20signed.pdf
+[9]: https://www.dri-bharat.co.in/bharat-swachhta-kendra-bsk/
+[10]: https://www.dri-bharat.co.in/pwcp/
+[11]: https://www.linkedin.com/in/dribharat/
+[12]: https://www.dri-bharat.co.in/ 
 
 <!-- <h5 style="color:#979797;">2. Ethiopia </h5> -->
