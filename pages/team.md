@@ -6,9 +6,9 @@ header:
   title: ""
   image_fullwidth: main.jpg
 widgets:
-- url: https://karina.io/
+- url: https://www.linkedin.com/in/karina-zile/
   image: team-karina.jpg
-  title: <a href="https://karina.io/" target="_blank">Karina Zile</a>
+  title: <a href="https://www.linkedin.com/in/karina-zile/" target="_blank">Karina Zile</a>
   text: I am the founder of Samudra. Mathematician at heart, I think about any situation as a system of equations. I finished my PhD in 2019, and since then I've been working on reducing the negative impact of waste on climate, environment and health. We are in a climate emergency and I'm working with an appropriate sense of urgency to deliver impact as fast as possible.
 - url:
   image: team-join-us.jpg
@@ -43,5 +43,5 @@ widgets3:
 {% include _widget_grid_layout.html widgets=page.widgets2 articles_per_row=3 %}
 
 
-# External consultants
+# External advisors
 {% include _widget_grid_layout.html widgets=page.widgets3 articles_per_row=3 %}

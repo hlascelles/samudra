@@ -2,7 +2,7 @@
 layout: kz-page
 title: "Our projects"
 permalink: /projects/
-teaser: "Most impactful of our projects are unfortunately confidential. In that sense we are kind of like McKesson, the eighth largest company in the US that most people have not heard about. <br/><br/> Here is a list of smaller projects we've done:"
+teaser:
 header:
   title: ""
   image_fullwidth: main.jpg
@@ -50,5 +50,10 @@ widgets:
   dates: Dec 2020 - Jan 2021
   text: Green Worms introduce waste collection services in small coastal towns in India. I was helping them with developing external communications strategy. My goals were to improve their engagement with stakeholders and to assist with initiating collaborations with organisations outside India.
 ---
+
+Most of our current projects are confidential, due to restrictions outside of our control.
+
+We spent most of 2021 working with different types of stakeholders (city governments, waste management companies, startups and NGOs) to understand the waste management landscape from their different perspectives. 
+Since then these types of projects form a minor part of what we do.
 
 {% include _widget_grid_layout.html widgets=page.widgets articles_per_row=3 %}

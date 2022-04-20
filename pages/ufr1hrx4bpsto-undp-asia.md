@@ -1,12 +1,14 @@
 ---
 layout: kz-page
-title: "Review of UNDP's regional initiatives on plastics and waste management (1 days out of 30)"
+title: "Review of UNDP's regional initiatives on plastics and waste management"
 permalink: "/ufr1hrx4bpsto-undp-asia/"
 subheadline: 
 meta_description: 
 header: no
 
 ---
+
+Deadline May 1st.
 
 <h3>Bangladesh</h3>
 
@@ -79,6 +81,8 @@ header: no
 
 	**Financing:** 3,000,000 USD
 
+	**UNDP Atlas Project Number:** 00125235
+
 	**Notes:**
 
 
@@ -101,6 +105,8 @@ header: no
 
 	**Financing:** 17,702,974 USD
 
+	**UNDP Atlas Project Number:** 00096923
+
 	**Notes:**
 
 
@@ -112,6 +118,8 @@ header: no
 	**Status:** Completed, Jan 2016 - Dec 2019
 
 	**Financing:** 4,040,000 USD
+
+	**UNDP Atlas Project Number:** 00083160
 
 	**Notes:**
 
@@ -138,6 +146,8 @@ header: no
 	**Financing:** (part of regional project)
 
 	**Notes:** 
+
+	https://www.pacific.undp.org/content/pacific/en/home/blog/2019/changing-minds-testing-plastic-free-schools-in-the-solomon-islands.html
 
 
 
@@ -170,6 +180,8 @@ header: no
 	**Financing:** 560,290 USD
 
 	**Notes:** 
+
+	https://www.vn.undp.org/content/vietnam/en/home/operations/projects/environment_climatechange/scaling-up-a-socialised-model-of-domestic-waste-and-plastic-mana.html
 
 
 
@@ -206,6 +218,8 @@ header: no
 	**Status:** Ongoing
 
 	**Financing:** 350,000 USD
+
+	**UNDP Atlas Project Number:** 00124209
 
 	**Notes:**
 
