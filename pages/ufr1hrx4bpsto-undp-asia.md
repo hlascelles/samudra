@@ -12,9 +12,7 @@ Deadline May 15th.
 
 
 
-1. **Plastic Waste Management Programme: A Partnership (in India)**
-
-	**UNDP Atlas Project Number:** 00096923
+1. **Plastic Waste Management Programme: A Partnership (in India)** 00096923
 	
 	**Budget** 13.17 million USD (of which 8.26 already spent) Yearly spending always just below the budget.
 
@@ -24,23 +22,17 @@ Deadline May 15th.
 
 	**SDGs:** 1 Powerty, 5 Gender Equality, 12 Responsible consumption/production; 15 Life on land.
 
-	**Summary**
-
-	Plastic recycling management program to minimize negative impacts of plastic waste and risks to environmental and human health in India through a socio-technical model (segregation/collection/recycling)
-
-	**People involved**
-
-	[Sachin Deshmukh][11] from [DRI-BHARAT][12] ?
+	**Summary:** Collection, sorting and processing of plastic waste, onboarding of Safai Sathis and providing them with protective equipment, conducting workshops, onboarding households, setting up Swachhta Kendras. Or as they say it: "Plastic recycling management program to minimize negative impacts of plastic waste and risks to environmental and human health in India through a socio-technical model (segregation/collection/recycling)"
 
 	**Beneficiaries:** People living in slums and urban areas; People living under the national poverty line; Women; Youth
 
-	**Indicators:**
+	**Partners:** Foundation; NGOs/CSOs; Private sector; Sub-national governments.
+
+	**Indicators and baselines:**
 
     Number of **policies and programmes** promoting sustainable livelihoods and incorporating gender responsive strategies for natural resources and ecosystems management - 4
 
 	Number of **scalable initiatives** incorporating improved management of ozone depleting substances, chemicals and/or wastes - 2
-
-	**Partners:** Foundation; NGOs/CSOs; Private sector; Sub-national governments.
 
 	**Hows**
 
@@ -54,9 +46,7 @@ Deadline May 15th.
 
 	**2018**
 
-	[Bharat Swachhta Kendra (BSK)][9] is a platform designed for the complete management of assembled plastics in [Plastic Waste Control Project (PWCP)][10]. The main objective of BSK is to hand over the waste from the collected waste plastics to the waste plastics scavengers, to recycle the non-cost but recyclable waste plastics as per the capacity of BSK.
-
-	The goal (1) was to conduct surveys, meetings, selection process, risk assessment and local legal agreements with NGOs, shops, hospitals, colleges, schools, recyclers and waste pickers in each city for establishing the Swachhta Kendras and also for collection of waste. This has been completed in 13 cities.
+	The goal (1) was to conduct surveys, meetings, selection process, risk assessment and local legal agreements with NGOs, shops, hospitals, colleges, schools, recyclers and waste pickers in each city for establishing Swachhta Kendras (cleanliness centers) and also for collection of waste. This has been completed in 13 cities.
 
 	Formation of 2 to 3 Resident Welfare Associations (RWAs) in each Ward for awareness, sensitivity in monitoring/segregation of plastic waste followed up by regular meetings, fairs, exhibits, rallies within each RWAs and Wards. This has been done for 26 RWAs in 5 cities. 
 
@@ -120,7 +110,313 @@ Deadline May 15th.
 
     HDFC Partnership:
 
-    ...
+    Baseline study to be carried out in 3 cities. Will be completed by end December, 2020.
+
+    Establish Swachhta Kendras in 3 cities. Established in Panaji, Rishikesh, Delhi Cantonement and Dehradun.
+
+    Collection, segregation and processing of approximately 3,000 tonnes of plastic waste at the Swachhta Kendras. By Oct 2020, 1,500 tonnes of dry waste collected.
+
+    Onboarding of approximately 300 waste pickers to the project. 224 waste pickers onboarded.
+
+	Social inclusion activities to be carried out for approximately 270 waste pickers engaged with the project. Social inclusion activities carried out for 150 Safaii Sathiis.
+
+    Safety measures such as dress, gloves and other equipment to be distributed to 300 waste pickers. Due to Covid-19, all Safai Sathiis associated with the project were provided safety gear.
+
+    Awareness programs in 20 schools/colleges/other institutions to be carried out. 6 awareness programs conducted with 1045 households, however, due to COVID -19 no programs could be conducted in schools and colleges.
+
+    Approximately 20 trainings/meetings to be organized for waste pickers engaged in the project. 138 trainings/meetings conducted
+
+    **2021**
+
+    HCCB
+    
+    Surveys, meetings, selection process, risk assessment and local legal agreements with NGOs in 12 new cities as part of expansion as we are already in 28 cities. Hence a total of 40 cities to be reached this year. Reached 31 cities.
+    
+    Stabilization and performance monitoring of 40 cities to enhance recycling rates. Achieved in 22 cities.
+
+    Rollout of data recording digital tools in all the 40 cities including government and recycling partners. In progress
+
+    Set up Swachhta Kendras, collection, segregation and link to recyclers in 35 Cities, may be two or three in a city. Completed in 22 cities.
+
+    Collection of 33,600 (70 per month in each of the 40 cities) tonnes of waste; and collections from special Partners is 45,000 (68,000 total). Total tonnage achieved as of end of Q3 is 22,775 MTs.
+    
+	Two meetings with stakeholders in each City over months (approx. 660 meetings across 12 months). Conducted more than 190 stakeholder meetings
+
+    New partnerships, five developed in waste management; behavioural change and Monitoring. Achieved more than 6 new partnerships.
+
+    etc....
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. **Reducing Releases of Polybromodiphenyl Ethers (PBDE) and Unintentional Persistent Organic Pollutants (UPOPs) (in Indonesia)** 00083160
+	
+	**Budget** 4.84 million USD (of which only 3.98 spent) from Global Environment Fund Truste.
+
+	**Status:** Mar 2016 - Mar 2021
+
+	**SDGs:** 1 Powerty, 5 Gender Equality, 12 Responsible consumption/production; 15 Life on land.
+
+	**Summary:** Creating mini depots for waste, collection of PBDE containing plastics, developing Technical guideline of Best Available Technique/Best Environment Practice, informing recycling sector. Or as they say it: "Reducing Releases of Polybromodiphenyl Ethers (PBDE) and Unintentional Persistent Organic Pollutants (UPOPs) Originating from Unsound Waste Management and Recycling Practices and the Manufacturing of Plastics in Indonesia."
+
+	**Beneficiaries:** People living in slums, urban and peri-urban areas; People living in multi-dimensional poverty; Women.
+
+	**Partners:** National government; NGOs/CSOs; Private sector.
+
+	**Indicators and baselines:**
+
+	Technical by-laws and guidelines on PBDE handling and management. None existed.
+
+    National standard on maximum PBDE concentration in products. None existed.
+    
+    Functioning Number of technical guidelines on the plastic production and recycling developed. None existed.
+
+	Producer Responsibility (EPR) scheme for PBDE containing product groups. None existed.
+
+    Number of plastic manufacturers who have comprehensive raw material checks for PBDEs. No checking has been undertaken to identify PBDEs in both virgin and recycled, raw materials.
+
+    Gender disaggregated data on recyclers. None existed.
+    
+    Number of plastic recyclers whose capacity to identify PBDEs and process plastic waste to BAT/BEP is increased. No plastic recyclers have capacity to identify PBDE and process plastic waste.
+
+    Rudimentary techniques for plastic processing applied in plastic recycling clusters. No application of BAT/BEP in plastic recycling activities.
+
+    Tonnage of PBDE containing plastics separated and safely disposed. No data on PBDE containing plastics.
+    
+    Technical guidelines to separate PBDE containing plastics. None existed.
+
+    Number of mini-depos for waste separation established at communities. Limited number of demonstrated mini-depos in urban areas existed.
+
+    Tonnage of waste diverted from river dumping. 10 tons/week of waste is dumped in Surabaya River; About 3 tons is dumped in Cikapundung River weekly.
+    
+    Additional tonnage of MSW undergoing sanitary landfilling and waste to energy treatment in Surabaya and Bandung. Bandung has more than 1,000 tons a day of waste is being landfilled; 750 tons/day is not collected; Surabaya generates 2,400 tons MSW. 1,200 tons/day landfilled.
+    
+    M&E and adaptive management applied to project in response to needs, mid-term evaluation findings with lessons learned extracted. No M&E and adaptive management applied to project in response to project need.
+    
+    Effective and efficient project management unit. None existed.
+
+	**Hows**
+
+	1. Capacity Development / Technical Assistance
+
+    2. Innovative Approaches
+
+    3. Institutional Mechanism and System Building
+
+	**Notes:**
+
+	**2016, 2017 ?**
+
+	**2018**
+
+	Regulatory Impact Analysis and Draft of Regulations on Monitoring and Controlling PBDE containing product. Draft made.
+    
+    Develop draft of National Standard on Power bank. Draft made.
+
+    Develop draft EPR scheme on electronic product. Draft made.
+
+    Develop a training module on using flame retardant and identification of PBDE in industrial raw material, and training for 10 manufacturing industries. Training module?
+
+    Establishment of Laboratory Information System (SIL), consisting of website and INTracs dashboard. Dashboard of SIL and PBDE website.
+
+    Procurement of XRF (for PBDE screening). 1 procured?
+
+    Technical Guidance for PBDE Free Quality Assurance Based on ISO 9001: 2015. Document of Quality Management System.
+
+    Data collection based on gender for recycling workers. Data on numbers of male and female recyclers in Kejagan village.
+
+    ToT for health protection modules, gender sensitive financial literacy for recyclers in East Java and West Java. ToT was done in Mojokerto and Cikarang.
+
+    Dissemination on the danger of PBDE and gender equality in plastic recycling industry. Done.
+
+    Development of BAT/BEP for recycling sector. Done.
+
+    Develop technical guideline to reduce releases UPOPs. Draft.
+
+    evelopment of 2 mini depots in East Java and West Java. 1 mini depo in Mojokerto is in the preparation phase (development of UKL/UPL, design of mini depo); one mini depo in Cirebon still in progress.
+
+    Procurement of equipment for 2 mini depots. Ongoing.
+
+    **2019**
+
+	Revision of SNI on PBDE test (SNI IEC 62321:2015).
+    
+    FGD on EPR, technical guidelines and regulation.
+    
+    Technical capacity training on PBDE testing for Custom staff.
+    
+    Finalize documentation on Quality assurance for 10 manufacturers.
+    
+    Procurement process collecting and disposing PBDE containing plastic waste.
+    
+    Legal process of mini depo in Depok and construction.
+
+    Training for mini depo staff in Cirebon.
+    
+    Procurement of mini depo equipment Malang and Depok.
+
+	Result: For the prevention of harmful PBDEs enter the recycled material and released in the environment, UNDP supported Ministry of Industry (MOI) in destroying 92,5 tons of PBDE contained plastic waste in 2019. In 2019, Indonesia finalized the National Standard on proper method to identify PBDEs on products,SNI IEC:62321 by MOI. As the key sector in handling PBDE containing plastic waste, plastic recycling sector has better information about Technical guideline of Best Available Technique/Best Environment Practice (BAT/BAP) now. Draft document Extended Producer Responsibility (EPR) also was developed and has been disseminated by MOI to electronic and electrical industries, plastic recycling industry, government and relevant stakeholders. Operation a mini depo has demonstrated the safely disposing PBDEs containing plastic waste. Five others mini depo are prepared for full operations in 2020,to fulfill the target of destroying 1,000 tons waste containing PBDE.
+
+	**2020**
+
+	Collecting and disposing 348 tonnes of PBDE-contained plastic waste. By May 2020, the project has reached the target of 348 metric tons of PBDE-contained plastic waste; With this achievement, the project has accomplished the target of 1,000 metric tons of disposing PBDE-contained plastic waste.
+
+    Development of mini depots in Depok, Malang Regency, Malang Municipality, Bandung Municipality, and Banyuwangi Regency (for the mini depot in Depok, the project focuses on construction of the building. While in Malang Regency and Malang Municipality, the project gives equipment for plastic processing and organic waste processing, and training. In Bandung, it gives support for building renovation and provision of equipment for plastic processing, and training. In Banyuwangi, it complements their facilities by providing drying machine and training for the personnel). Please note that for all mini depots the project will conduct training for mini depot personnel. - sThe construction of mini depot in Depok is nearly 100% now (there will be a 3-month retention phase, which will end in September 2020. The equipment for mini depot of Malang Municipality is already placed on the location, waiting for testing and commissioning, which is delayed due to COVID19 pandemic. Likewise, the equipment for mini depot in Malang Regency is also placed on the location and tested. However, there is a problem regarding the equipment as it is not in accordance with specification in the tender document. The project is now asking the vendor to handle this. For mini depot of Banyuwangi, the project has procured the equipment and it is ready to deliver in early July 2020. For mini depot in Bandung, the project is going to start the renovation in July, for two months. Following the renovation, there will be installation of equipment, testing and commissioning, and retention phase).
+
+    **2021**
+
+    Evaluation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. **Combatting Marine Plastic Litter in Cambodia (in Cambodia)** 00125235
+	
+	**Budget** 2.46 million USD (of which 0.85 already spent) Yearly spending always just below the budget.
+
+	Funders: Government Of Japan 2.4m (97%), UNDP 0.06m.
+
+	**Status:** Dec 2020 - Jul 2023 (ongoing)
+
+	**SDGs:** 1 Powerty, 5 Gender Equality, 16 Peace/Justice/Institutions 
+
+	**Summary:** Information campaign aimed at schools, women and businesses (mainly in the toursim sector); plastic waste reduction. Or as they say it: "The project aims to prevent and minimize plastic waste pollution on land and in the ocean through promotion of a 4R framework."
+
+	**Beneficiaries:** People living in urban and peri-urban areas.
+
+	**Partners:** National government; Donor government (Japan); NGOs/CSOs; Private sector.
+
+	**Indicators and baselines:**
+
+	Number of enabling regulatory measures developed and implemented in support of reduction of plastic and increase in recycling and alternatives - 1.
+	
+	**Hows**
+
+	1. Institutional Mechanism and System Building
+
+    2. Convening / Partnerships / Knowledge Sharing
+
+	**Notes:**
+
+	**2020**
+
+	Project document was finalized, approved and signed; get approval from LPAC and to get agreement signed with donor; and fund was mobilized from Japan.
+
+	**2021 targets**
+
+	A circular economy strategy and action plan is adopted.
+
+	Number of public school that received gender-sensitive educational materials and training on plastic crisis and solutions - from 0 to 30 (SR=10, SHV=10, Koh Kog = 5, Kep+Kampot = 5)
+
+	Number of gender-sensitive awareness raising materials developed and disseminated to public schools - 16 (Information on website = 1, messages on social media = 12, Posters = 2, Video/Cartoon = 1)
+
+	Number of people reached by awareness raising communications on appropriate plastic waste management - 1 million (50% women) through social media
+
+    Number of best practice to reduce plastics by private sectors/citizens identified and featured on circular economic platforms - 5 (50% women-led)
+
+    Number of cities/urban centres with operational of solid waste management plan - 1.
+    
+    Priority measures for plastic waste are integrated in city plans - 3 (PNP =1, SR = 1, SHV = 1)
+    
+    Number of public schools with reduction measures for single-use plastic items adopted - 30 (SR=10, SHV=10, Koh Kog = 5, Kep+Kampot = 5). Volume of plastic wastes reduced as as result of the above supports for school - 72 tonnes (PNP =24, SHV = 24, SR = 24)
+
+    Number of business entities (primarily in the tourism sector) with measures for single-use plastic items/recycling adopted - 20 (SR= 10, PNP= 5, SHV = 5). Volume of plastic waste reduced as a result of above support for business-led initiative - 4.9 tons (SR = 2.6, SHV = 1.3, PNP = 1.3)
+    
+    Number of priority business solutions identified for plastic recycling and alternatives - 5
+
+    Number of plastic recycling and alternative innovation that ensure inclusion of women and vulnerable group supported and tested for replication - 2
+
+    Number of gender-sensitive communication materials disseminated on the project best practice to increase local knowledge sharing - 6 (Project report = 1, Project brief = 1, Social media posts = 3, newspapers article = 1).
+
+    Number of events organized and/or attended to disseminate project achievements and increase international knowledge sharing - 1.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. **Ending Plastic Pollution Innovation Challenge (EPPIC) (in four ASEAN target countries - Indonesia, Thailand, Philippines, Vietnam)** 00124209
+	
+<!-- 	**Budget** 1.7 million USD (of which 0.7 already spent) Yearly spending always just below the budget.
+
+	Funder: Norwegian Agency For Development Cooperation.
+
+	**Status:** Dec 2019 - Jun 2022 (ongoing)
+
+	**SDGs:** 1 Powerty, 5 Gender Equality, 12 Responsible consumption/production; 15 Life on land.
+
+	**Summary:** Collection, sorting and processing of plastic waste, onboarding of Safai Sathis and providing them with protective equipment, conducting workshops, onboarding households, setting up Swachhta Kendras. Or as they say it: "Plastic recycling management program to minimize negative impacts of plastic waste and risks to environmental and human health in India through a socio-technical model (segregation/collection/recycling)"
+
+	**Beneficiaries:** People living in slums and urban areas; People living under the national poverty line; Women; Youth
+
+	**Partners:** Foundation; NGOs/CSOs; Private sector; Sub-national governments.
+
+	**Indicators and baselines:**
+
+    Number of **policies and programmes** promoting sustainable livelihoods and incorporating gender responsive strategies for natural resources and ecosystems management - 4
+
+	Number of **scalable initiatives** incorporating improved management of ozone depleting substances, chemicals and/or wastes - 2
+
+	**Hows**
+
+	1. Capacity Development / Technical Assistance
+
+    2. Convening / Partnerships / Knowledge Sharing
+
+    3. Institutional Mechanism and System Building
+
+	**Notes:**
+
+	**2018**
+ -->
+
+
+
+
+
+
+
+
 
 
 
@@ -188,18 +484,6 @@ Deadline May 15th.
     
 
 
-<h3>Cambodia</h3>
-
-1. **Combatting Marine Plastic Litter in Cambodia**
-
-	**Status:** Ongoing, Jan 2021 - May 2023   
-
-	**Financing:** 3,000,000 USD
-
-	**UNDP Atlas Project Number:** 00125235
-
-	**Notes:**
-
 
 
 2. **Combating Plastic Pollution in Cambodia**
@@ -210,19 +494,6 @@ Deadline May 15th.
 
 	**Notes:**
 
-
-
-<h3>Indonesia</h3>
-
-1. **Reducing releases of PBDE and UPOPs from unsound waste management and recycling practices and the manufacturing of plastics in Indonesia**
-
-	**Status:** Completed, Jan 2016 - Dec 2019
-
-	**Financing:** 4,040,000 USD
-
-	**UNDP Atlas Project Number:** 00083160
-
-	**Notes:**
 
 
 
@@ -312,18 +583,6 @@ Deadline May 15th.
 
 
 
-3. **ASEAN-wide Ending Plastic Pollution Innovation Challenge (EPPIC)**
-
-	**Countries:** Indonesia, Thailand, Philippines, Vietnam
-
-	**Status:** Ongoing
-
-	**Financing:** 350,000 USD
-
-	**UNDP Atlas Project Number:** 00124209
-
-	**Notes:**
-
 
 
 
@@ -335,9 +594,5 @@ Deadline May 15th.
 [6]: https://procurement-notices.undp.org/view_file.cfm?doc_id=236822
 [7]: https://procurement-notices.undp.org/view_file.cfm?doc_id=237478
 [8]: https://info.undp.org/docs/pdc/Documents/BGD/IP%20ProDoc%20Plastic%20Waste%20Management%20signed.pdf
-[9]: https://www.dri-bharat.co.in/bharat-swachhta-kendra-bsk/
-[10]: https://www.dri-bharat.co.in/pwcp/
-[11]: https://www.linkedin.com/in/dribharat/
-[12]: https://www.dri-bharat.co.in/ 
 
 <!-- <h5 style="color:#979797;">2. Ethiopia </h5> -->
