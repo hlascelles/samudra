@@ -10,11 +10,12 @@ header: no
 
 Deadline May 15th.
 
+See the [summary in a spreadsheet format here][9].
 
 
 1. **Plastic Waste Management Programme: A Partnership (in India)** 00096923
 	
-	**Budget** 13.17 million USD (of which 8.26 already spent) Yearly spending always just below the budget.
+	**Budget** 13.17 million USD (of which 8.26 already spent) Yearly spending always below the budget.
 
 	Funders: Coca Cola Company 61% and The Coca-Cola Foundation 4% (65% total); Unilever Hindustan (12%); Charities Aid Foundation India 10%; Csr Trust For Sdgs In India 9%; UNDP 4%; Governments Of Odisha and Uttarakhand 0.3% each.
 
@@ -172,7 +173,9 @@ Deadline May 15th.
 
 	**SDGs:** 1 Powerty, 5 Gender Equality, 12 Responsible consumption/production; 15 Life on land.
 
-	**Summary:** Creating mini depots for waste, collection of PBDE containing plastics, developing Technical guideline of Best Available Technique/Best Environment Practice, informing recycling sector. Or as they say it: "Reducing Releases of Polybromodiphenyl Ethers (PBDE) and Unintentional Persistent Organic Pollutants (UPOPs) Originating from Unsound Waste Management and Recycling Practices and the Manufacturing of Plastics in Indonesia."
+	**Summary:** Creating mini depots for waste, collection of PBDE containing plastics, developing Technical guideline of Best Available Technique/Best Environment Practice (BAT/BEP), informing recycling sector. Or as they say it: "Reducing Releases of Polybromodiphenyl Ethers (PBDE) and Unintentional Persistent Organic Pollutants (UPOPs) Originating from Unsound Waste Management and Recycling Practices and the Manufacturing of Plastics in Indonesia."
+
+	This project was preceded by "Reducing Releases of Polybromodiphenyl Ethers (PBDE) and Unintentional Persistent Organic Pollutants (UPOPs) Originating from Unsound Waste Management and Recycling Practices and the Manufacturing of Plastics in Indonesia" project 00072772 in 2013-2014. It had a 0.122 million USD budget; funded by Global Environment Fund Truste. 
 
 	**Beneficiaries:** People living in slums, urban and peri-urban areas; People living in multi-dimensional poverty; Women.
 
@@ -301,7 +304,7 @@ Deadline May 15th.
 
 3. **Combatting Marine Plastic Litter in Cambodia (in Cambodia)** 00125235
 	
-	**Budget** 2.46 million USD (of which 0.85 already spent) Yearly spending always just below the budget.
+	**Budget** 2.46 million USD (of which 0.85 already spent) Yearly spending always below the budget.
 
 	Funders: Government Of Japan 2.4m (97%), UNDP 0.06m.
 
@@ -377,38 +380,273 @@ Deadline May 15th.
 
 4. **Ending Plastic Pollution Innovation Challenge (EPPIC) (in four ASEAN target countries - Indonesia, Thailand, Philippines, Vietnam)** 00124209
 	
-<!-- 	**Budget** 1.7 million USD (of which 0.7 already spent) Yearly spending always just below the budget.
+	**Budget** 1.7 million USD (of which 0.7 already spent). Yearly spending always below the budget.
 
 	Funder: Norwegian Agency For Development Cooperation.
 
 	**Status:** Dec 2019 - Jun 2022 (ongoing)
 
-	**SDGs:** 1 Powerty, 5 Gender Equality, 12 Responsible consumption/production; 15 Life on land.
+	**SDGs:** 1 Powerty; 5 Gender Equality; 11 sustainable cities/communities; 13 climate.
 
-	**Summary:** Collection, sorting and processing of plastic waste, onboarding of Safai Sathis and providing them with protective equipment, conducting workshops, onboarding households, setting up Swachhta Kendras. Or as they say it: "Plastic recycling management program to minimize negative impacts of plastic waste and risks to environmental and human health in India through a socio-technical model (segregation/collection/recycling)"
+	**Summary:** Actions, solutions or initiatives for marine plastic management; workshops and government approval for global treaty on marine plastic waste. Or as they say it: "The overall aim of the project is to contribute to the reduction of plastic pollution in coastal areas in four ASEAN target countries initially and all ASEAN countries in the long term."
 
-	**Beneficiaries:** People living in slums and urban areas; People living under the national poverty line; Women; Youth
+	**Beneficiaries:** ?
 
-	**Partners:** Foundation; NGOs/CSOs; Private sector; Sub-national governments.
+	**Partners:** National government and Private sector
 
 	**Indicators and baselines:**
 
-    Number of **policies and programmes** promoting sustainable livelihoods and incorporating gender responsive strategies for natural resources and ecosystems management - 4
+    Number of ASEAN countries for which (1) a portfolio of solutions is selected, designed and supported; (2) scaling up and replication strategies have been designed.
+	
+	% increase in number of national and regional actors showing interest in joining the ASEAN plastic platform hosted by UNDP through this project.
 
-	Number of **scalable initiatives** incorporating improved management of ozone depleting substances, chemicals and/or wastes - 2
+	Increase in number of joint actions, solutions or initiatives for marine plastic management. Currently there is a lack of regional efforts to combat marine plastic pollution. And a lack of innovation ideas to fight plastic waste at source and reduce plastic at the ocean.
 
+	**Hows**
+
+	1. Innovative Approaches
+
+    2. Convening / Partnerships / Knowledge Sharing
+
+	**Notes:**
+
+	**2020**
+
+	The target was 70 of joint actions, solutions or initiatives for marine plastic management in Ha Long in Vietnam (pilot project, EPPIC 2020). There were 159 applications for first year challenge. One regional workshop organized to strengthen the waste and plastic management in the region.
+
+	**2021**
+
+	The target was 70 of joint actions, solutions or initiatives for marine plastic management in Indonesia and the Philippines (EPPIC 2021). There were 140 joint actions, solutions or initiatives for marine plastic management in Indonesia and the Philippines, organized at the final pitching competition on 10 December 2021.
+
+	Achieved government approval for global treaty on marine plastic waste.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5. **Building Circular Cities in Partnership with Private Sector: Starting from Plastic Waste Management (in Bangladesh)** 00126111
+	
+	**Budget** 1.1 million USD (of which 0.3 already spent) Yearly spending always below the budget.
+
+	Funders: Unilever Bangladesh 83%, UK FCDO 9%, UK DFID 4%, HSBC Holdings 3%.
+
+	**Status:** Feb 2020 - Dec 2022 (ongoing)
+
+	**Contact persons:** [Arif Faisal][2] (Programme Specialist at UNDP, was in Bangladesh, now in Tajikistan), Enamul Hasan (Procurement Specialist at UNDP Bangladesh, not on LinkedIn)
+
+	**SDGs:** 1 Powerty, 5 Gender Equality, 12 Responsible consumption/production.
+
+	**Summary:** Developing model for economically sustainable plastic collection, ID cards for waste pickers, childcare for waste picker children, WASH facilities for waste pickers, awareness campaign to encourage people to segregate plastic waste. Or as they say it: "Building Circular Cities, starting from Plastic Waste Management project aims to create a circular economy model for plastic waste, with a specific focus on HDPE and LDPE."
+
+	**Beneficiaries:** People living in urban areas; People living under the national poverty line.
+
+	**Partners:** National government and Private sector.
+
+	**Indicators and baselines:**
+
+	8 indicators for the project (with 2019 as a baseline, when all values were 0):
+	
+	Development of ID card system for waste pickers
+    
+    Development of baseline assessment for economically sustainable plastic collection model.
+    
+    Children of waste pickers supported through childcare activities
+   
+	% of plastic NCC plastic managed
+    
+    % of collected HDPE and LDPE connected to market
+    
+    Number of people sensitized to segregate plastic and familiar with project collection hubs and plastic collection system
+    
+    Number of progress reports and advocacy knowledge product
+    
+    Number of waste pickers supported on Covid-19 safety
+
+	**Hows**
+
+	1. Capacity Development / Technical Assistance
+
+	**Notes:**
+
+	**2021**
+
+	300 waste pickers included in ID card system.
+
+	Development of baseline assessment for economically sustainable plastic collection model and supply chain design. Baseline assessment is almost completed; development of one model in progress.
+
+	300 children of waste pickers to be covered and supported through childcare activities. not yet stared.
+
+	20% of the collected plastic included in formal economy - not yet stared.
+
+	20% collected HDPE and LDPE in formal economy - not yet stared.
+
+	100,000 people covered with awareness campaign, sensitized to segregate plastic and familiar with project collection hubs and plastic collection system. - Research level work for designing awareness campaign is started.
+
+	2 progress report and 1 advocacy knowledge product are to be developed. one quarterly report produced and one advocacy knowledge product is in progress.
+
+	To develop 20 WASH facilities for waste pickers; train 100 waste pickers on safe waste management; and collect 2,473 tonnes of plastic waste. - Building 15 WASH facilities are in progress. Training module developed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6. **Marine Plastic Litter Reduction Acceleration (in Indonesia)** 00123967
+	
+	**Budget:** 1.03 million USD (of which 0.51 already spent). Yearly spending always below the budget.
+
+	Funders: Norway Ministry Of Foreign Affairs.
+
+	**Status:** Nov 2019 - Dec 2024 (ongoing)
+
+	**SDGs:** 1 Powerty, 5 Gender Equality, 12 Responsible consumption/production; 14 Life below water.
+
+	**PART 1: Support Facility for Marine Plastic Litter** 
+
+	**Budget:** 0.4 million USD (of which 0.12 already spent). Yearly spending always below the budget.
+	
+	**Summary :** Work with ministries; trashbooms and mangrove cleanups; reaching people through TV, social media and religious organisations. Or as they say it: "Support Facility Project for Marine Plastic Litter Reduction Acceleration Secretariat aim to assist the government in strengthening the coordination in actualizing the National Plan of Action (NPOA) on Marine Plastic Debris"
+
+	**Beneficiaries:** PPeople living in urban areas and rural areas; Women; Youth
+
+	**Partners:** National government; Sub-national government; Private sector; Research Institutions / Universities
+
+	**Indicators and baselines:**
+	
+	Available Reports to the president to inform progress, challenges and the results of the implementation of National Action Plan, including the annual marine debris reduction of Indonesia.
+
+	Number of initiatives to monitor the implementation and the financing of the National Action Plan
+
+	Number of collaborative actions with non-taskforce stakeholders for broader implementation
+
+	Number of policy, SOP, and regulations on waste management and marine debris handling developed
+
+	Number of activities to support the development of waste management infrastructure and its operationalization, circular economy implementation, as well as targeted awareness-raising and clean-up activities for targeted stakeholders
+
+	Number of policy briefs informing progress made and what stakeholders can accomplish
+
+	Number of likes on awareness campaign materials e.g., short video for YouTube, Instagram posts.
+
+	**Hows**
+
+	1. Institutional Mechanism and System Building
+
+    2. Capacity Development / Technical Assistance
+
+    3. Support Functions
+
+	**Notes:**
+
+	**2021**
+
+	Prepare annual report on the progress and achievement of the marine debris handling to the President of Indonesia. Report prepared.
+
+	Initiatives (e.g. monitoring tool, proposal, etc) to monitor and finance the implementation of the National Action Plan for Marine Debris Handling. Done: (1) The operationalization of the reporting system. Through this system, the project was able to monitor the achievement of the ministries’ activities and report them to the Chairwoman of Implementing Team for National Action Plan for Marine Debris Handling. (2) Three evaluation meetings for the ministries’ PIC for the reporting system have been held. Through this meeting, the representatives of the ministries updated each other on their respective ministry’s achievements and future plans. (3) Integrated national land-based and sea-based waste data platform to ease the calculation process of reduction achievement of the national action plan implementation have been developed.
+    
+    Nine collaborative actions with non-taskforce stakeholders. - 18 collaborations with relevant non-governmental stakeholders to conduct joint activities. The stakeholders are: Maritim Muda Manado; Ikatan Bujang Dayang Bangka Barat; Gerakan Indonesia Diet Kantong Plastik (GIDKP); Gojek; Merdi Sihombing, Ecofashion Designer; Mata Cinta; Minderoo Foundation; ASDP; World Bank; Asian Development Bank; KfW; OSEAN; KOEM; and Ministry of Oceans and Fisheries of South Korea. In addition, the secretariat in collaboration with the Ministry of Religion, the Indonesian Ulema Council, and the Mosque Council, has also launched the Interfaith Indonesian Waste Charity Movement (Gerakan Sedekah Sampah Indonesia, GRADASI). Until today, GRADASI has 6 pioneer mosques and 50 branch mosques that have gathered and sold 30 tons of household waste.
+
+    Two policies, SOPs, and regulations on waste management and marine debris handling. - Coordination meeting with Pelindo III and ASDP have been carried out in April 2021, in which waste data from Pelindo III and ASDP will be integrated with the national platform. In addition, The Secretariat also convened coordination meeting with World Bank in June 2021 to enrich the baseline study in an effort to reduce marine debris leakage and in September 2021 which discussed marine debris handling policy.
+
+    Nine activities to support the development of waste management infrastructure and its operationalization, circular economy implementation, awareness-raising and clean-up activities for targeted stakeholder. - Four books have been written, 20 Coordination meetings, 20 webinars, 15 Instagram Live, Ending Plastic Pollution Innovation Challenge (EPPIC) Phase II, and Ending Plastic Pollution Through Comic and Writing Contest for A Better Indonesia (EUPHORIA), Youth Forum on Waste Awareness (Forum Pemuda Peduli Sampah), and serial workshop of Interfaith Waste Charity Movement have been held to support the circular economy implementation, and awareness-raising.
+
+    One policy briefs on waste handling, management, and utilization products. - A policy brief regarding the use of trash booms in the 10 most plastic-polluted rivers to prevent waste leakage into the ocean of Indonesia have been published.
+
+    750 likes on campaign contents on marine plastic debris awareness on social media platforms. - Social media campaign on marine plastic litter awareness (Twitter/Instagram/Facebook), by creating campaign contents on marine plastic debris awareness on social media platforms. 28,320 likes achieved in 2021.
+
+	**2022**
+
+	On 28 January 2022, the project conducted Mangrove Clean-up in Mangrove Conservation Forest area in Denpasar, Bali. The event was jointly conducted with Ministry of Environment and Forestry and was attended by the local government, 30 local communities/NGOs, and fishermen. In the event, the project also installed trash booms to prevent waste leakage into the sea.
+
+    Nine collaborative actions with non-taskforce stakeholders. - Launch of the Church-Based Interfaith Indonesian Waste Charity Movement (Gerakan Kolekte Sampah) in collaboration with ADUPI, Mayora, and Danone. Covening webinars and clean-up action in collaboration with some stakeholders in commemoration of National Waste Awareness Day 2022.
+    
+    Two policy briefs on waste handling, management, and utilization products -  5 coordination meetings have been held with taskforces in 2022 to enhance discussion and dialog to address challenges of marine plastic litter
+
+    To reach a wide audience, the project in collaboration with Ministry of Communication and Information held two live sessions about marine debris handling and waste management on one of Indonesia’s national television channels, Kompas TV.
+    
+    1000 likes on campaign contents on marine plastic debris awareness on social media platforms. - Social media campaign on marine plastic litter awareness by creating campaign contents on marine plastic debris awareness on social media platforms: Instagram,facebooK, twitter. In 2022: currently there are 595 posts, 5,335 Instagram followers, and 1,020 likes in 2022.
+
+	The coordination mechanism and schedule were established. There is qualitative reporting and monitoring. The website of the National Coordination Team and 3 social media accounts are in use.
+
+
+
+
+	**PART 2: PIP Support Facility Project** 
+
+	**Budget:** 0.63 million USD (of which 0.43 already spent). Yearly spending always below the budget.
+
+	**Summary :** Awareness campaigns, establishment of a Reporting System on the implementation of the National Action Plan, a well-coordinated mechanism for monitoring and evaluating the implementation of the National Action Plan, development of a platform for integrating land and sea waste data. Or as they say it: "The presence of plastic debris is extremely problematic in marine ecosystem and leads to numerous environmental problems. The initiative will take steps to advance protection and prevention to reduce environment damages due to plastic debris."
+
+	**Beneficiaries:** People living in peri-urban and rural areas.
+
+	**Partners:** National government.
+
+	**Indicators and baselines:**
+
+    Perspective task force progress report highlighting progress being made. Currently lacking capacity of the Secretariat to coordinate and facilitate five task forces units to reduce marine plastic debris
+    
+    Extent to which Project Document is produced. Currently no available draft of project document.
+    
 	**Hows**
 
 	1. Capacity Development / Technical Assistance
 
     2. Convening / Partnerships / Knowledge Sharing
 
-    3. Institutional Mechanism and System Building
-
 	**Notes:**
 
-	**2018**
- -->
+	**2019**
+
+	The Secretariat capacity is well positioned to coordinate and facilitate five task force units to have integrated and synergies action plan.
+
+	Draft project document has been finalised.
+
+	**2020**
+
+	Increasing public and targeted stakeholders awareness on the importance of taking concrete action to reduce marine debris led or coordinated by the Secretariat. - Series of policy discussion with the targeted stakeholders. Publishing the series of policy brief informing progress being made and what stakeholders could do. Producing awareness campaign materials (e.g., short video for YouTube, lnsta-story reaching targeted public groups). A series of training, workshop, discussion, and capacity building concerning the role of women in preserving the ocean and combating marine debris.
+
+	**2021**
+
+	Strengthening the secretariats role by facilitation of coordination meetings between related ministries and state agencies???
+
+	preparation of progress reports on the National Coordination Team for the Indonesian President???
+
+	provision of technical assistance and experts to support the ministries and agencies. - establishment of a Reporting System on the implementation of the National Action Plan. development of a platform for integrating land and sea waste data. Devised a well-coordinated mechanism for monitoring and evaluating the implementation of the National Action Plan. Formulated a policy brief and a database of national and regional government policies on waste management and marine debris.
+
+	Increasing public and stakeholder awareness in taking action to reduce marine waste. - Development of an inter-faith religious-based waste management movement, known as the Indonesian Waste Donation Movement Program (Program Gerakan Sedekah Sampah Indonesia, GRADASI). Implementation of a comic and writing competition called EUPHORIA (Ending Plastic Pollution Through Comic and Writing Contest for A Better Indonesia), which attracted over 1,400 entries from across Indonesia. social media as a forum for public campaigns. preparation of the second edition of an e-learning program that raises youth awareness of waste. a monthly webinar series. procured waste management facilities, and has initiated activities designed to change community behaviour toward waste management in the burgeoning tourism destination of Labuan Bajo.
 
 
 
@@ -421,165 +659,208 @@ Deadline May 15th.
 
 
 
-<h3>Bangladesh</h3>
-
-1. **Building Circular Cities In Partnership With Private Sector: Starting From Plastic Waste Management.** The aim is to create a "circular economic model" for plastic waste, with a specific focus on HDPE and LDPE. SDG 12.
-
-	**Status:** [Feb 2020 - Dec 2022][4] Pipeline, Guillermo says Jul 2020 - Jul 2022. [Actual start Feb 2020, Planned end Dec 2022, Progress by Mar 2022 is 75%.][1]
-
-	**Financing:** [Budget 1,095,363 USD;][4] [277,894 USD (25%) spent by 28th Mar 2022.][1] Guillermo says 58,080 USD. 
-
-	**Donors:** [Unilever Bangladesh 912,270 USD; FCDO UK 101,011 USD; DFID UK 48,082 USD; HSBC 34,000 USD.][4]
-
-	**UNDP Atlas Project Number:** 00120259
-
-	**UNDP Atlas Output ID:** 00126111
-
-	**International Aid Transparency Initiative (IATI) Identifier:** [XM-DAC-41114-PROJECT-00126111][1]
-
-	**Contact person:** [Arif Faisal][2] (Programme Specialist at UNDP, was in Bangladesh, now in Tajikistan), Enamul Hasan (Procurement Specialist at UNDP Bangladesh, not on LinkedIn)
 
 
-	**Notes:**
 
-	According to [this document][3] about Livelihoods Improvement of Urban Poor Communities Project (LIUPCP) Sep - Dec 2020:
 
-	**TODO** Compare of this document to actual outcomes of this project.
 
-	UNDP will conduct a Baseline Assessment and a Seller Buyer Survey to identify the main bottlenecks of the value chain that hamper the value and flow of plastic waste recyclables, especially HDPE and LDPE. The baseline assessment will look at consumers, segregation, collection, storing and sorting, shredding and washing, recycling and manufacturing – including different categories of possible buyers depending on the quality and quantity of the recycled plastic. Specific attention will be given to volumes and frequency or supplies as well as to linked demand side requirements for to generate a circular economy for HDPE and LDPE.
 
-	Bangladesh is the 10th most polluted country in the world with 130,000 - 310,000 tonnes of plastic going into the Bay of Bengal each year.
 
-	Sustainable waste management is an important element for cities and municipalities to pave the way for reduction of per capita environmental impact, and to look at financially viable models to reduce, reuse, and recycle resources. Overarching challenges: extensive volumes of plastic released into the environment; lack of a financially sustainable model for Reduce-Reuse-Recycle of plastic; need for a Champion City to pave the way for reduction of per capita environmental impact.
 
-	[Narayanganj (near Dhaka, population 1.5-2.2 million) became the Champion City.]
 
-	Specific challenges to address in order to create a sustainable waste management and promote a circular economy are: broken supply chain of the waste collection; lack of market linkage for HDPE and LDPE; lack of infrastructure and highly informal waste picking sector; challenging working condition and child labor; lack of transparency in plastic collection, disposal and supply chain; low livelihood standards of waste pickers.
 
-	UNDP signed a partnership with Unilever to develop a plastic solid waste management system in Narayangonj City Corporation. The project will give specific attention to supply chain development of HDPE and LDPE. It will build on market dynamics until storing and sorting. Shredding and washing will be value added by the collection hubs (or plastic collection center) set up by the project. Finally, the project will engage a platform of sellers and buyers to ideate market linkage solutions. The latter will determine value addition contribution of the project after manufacturing.
 
-	There were 8 tasks, which would become plastic solid waste management report chapters, the Scope of Work had 9 items. Estimated work for 60 working days. **TODO** Has this been published?
 
-	According to [UNDP][4]:
-
-	Focus - Eradicate poverty in all its forms and dimensions
+7. **Domestic Waste And Plastic (in Vietnam)** 00121996
 	
-	Solution - Promote nature-based solutions for a sustainable planet
+	**Budget** 1.16 million USD (of which 0.5 already spent) Yearly spending always below the budget.
 
-	Policy Marker Objective - Gender Equality
+	Funders: Norway Ministry Of Foreign Affairs.
 
-	Methods - Capacity Development and Technical Assistance
+	**Status:** Sep 2019 - Oct 2022 (ongoing)
 
-	Partners - National government and Private sector
+	**SDGs:** 5 Gender Equality, 9 industry/innovation/infrastructure; 12 Responsible consumption/production; 15 Life on land.
 
-	Beneficiaries - People living in urban areas, People living under the national poverty line
+	**Summary:** Vietnam CE Hub, Draft Decree on Circular Economy submitted to the Government, studies on the system of SWM in at least 1 city. Or as they say it: "Solid waste management will be one of the major development challenges for decades to come, with an especially heavy burden on emerging and fast-growing economies such as Vietnam. Effective solid waste management and reduction of marine plastics are essential for environmental and ocean protection as well as for sustainable development as a whole. This project will implement in five sites: Ha Long, Quy Nhon, Mui Ne, Binh Duong and Da Lat."
 
-	8 indicators for the project (with 2019 as a baseline): Development of ID card system for waste pickers; Development of baseline assessment for economically sustainable plastic collection model; Children of waste pickers supported through childcare activities (300 children are to be covered and supported); % of plastic NCC plastic managed (20% of the collected plastic included in formal economy); % of collected HDPE and LDPE connected to market (20% collected HDPE and LDPE in formal economy); Number of people sensitized to segregate plastic and familiar with project collection hubs and plastic collection system (100,000 people covered with awareness campaign); Number of progress reports and advocacy knowledge product (2 progress report and 1 advocacy knowledge product are to be developed); Number of waste pickers supported on Covid-19 safety (develop 20 WASH facilities for waste pickers [more info here][6] and 100 waste pickers to receive training on safe waste management).
+	**Beneficiaries:** People living in urban areas and slums; Women
 
-	[2021 results:][5] 300 waste pickers included in ID card system and development of 1 model in progress; baseline assessment for economically sustainable plastic collection model and supply chain design almost completed; 100,000 people covered with awareness campaign; One quarterly report produced and one advocacy knowledge product (Baseline) is in progress; 15 WASH facilities are in progress and training module is developed; 2,473 tonnes of plastic collection is done.
+	**Partners:** Sub-national government; Private sector; NGOs/CSOs
 
-	**TODO** REad about this project - [gather information on current waste management system and develop and roll out plastic waste management awareness campaign for both citizens and waste pickers for behavior change of the communities in DSCC and NCC under Plastic Waste Management program.][7]
+	**Indicators and baselines:**
 
-	**TODO** I believe [this document][8] is older and outdated by now, confirm that.
+	Number of studies on the system of SWM, in 5 cities. - None.
+
+    Number of capacity building action plans. - None.
     
+    Number of revolving loan funds established & managed by Women’s Union. - None.
 
+    % of government officials who gained a better understanding of SWM and plastic reduction. - None. Government officials are not equipped with a better understanding of SWM and plastic reduction.
+    
+    Number of standard training programme on Circular Economy. - None.
 
+	**Hows**
 
+	1. Policy Advice
 
-2. **Combating Plastic Pollution in Cambodia**
+    2. Capacity Development / Technical Assistance
 
-	**Status:** Ongoing, since Jan 2019
-
-	**Financing:** 
-
-	**Notes:**
-
-
-
-
-<h3>Philippines</h3>
-
-1. **CleanSeas Pilipinas**
-
-	**Status:** Completed, May 2018
-
-	**Financing:** 50,000 USD (as part of the GEF SMARTSEA PH program of 2,316,762 USD)
+    3. Innovative Approaches
 
 	**Notes:**
 
+	**2019**
+	
+	1 studies on the system of SWM, in 5 cities. - 1 study on the system of SWM in Binh Duong only.
 
+    1 capacity building action plan???
 
-<h3>Solomon Islands</h3>
+    1 contract LVG signed with Quang Ninh Farmer Union for project implementation.
 
-1. **Changing minds: Testing plastic-free schools in the Solomon Islands**
+	**2020**
 
-	**Status:** Completed, Jan 2019
+	2 studies on the system of SWM, in 5 cities???
 
-	**Financing:** (part of regional project)
+    1 capacity building action plan???
+    
+    1 revolving loan funds established & managed by Women’s Union???
+    
+    50 of government officials who gained a better understanding of SWM and plastic reduction???
+    
+    2 standard training programme on Circular Economy???
 
-	**Notes:** 
+	**2021**
+ 
+	Technical support to the Decree on Circular Economy - Draft Decree on Circular Economy submitted to the Government
 
-	https://www.pacific.undp.org/content/pacific/en/home/blog/2019/changing-minds-testing-plastic-free-schools-in-the-solomon-islands.html
+    1 media and training to project staffs at 5C in HCM city in March 2021
 
-
-
-<h3>Thailand</h3>
-
-1. **Plastic bags ban**
-
-	**Status:** Ongoing, Jul 2019 - Jul 2022
-
-	**Financing:** 1,500,000 USD
-
-	**Notes:** 
-
-2. **Plastics in Thailand**
-
-	**Status:** Pipeline, Jan 2020 - Jun 2021
-
-	**Financing:** 300,000 USD
-
-	**Notes:** 
+    Establishment of the Platform on CE - Launching of Vietnam CE Hub
 
 
 
-<h3>Vietnam</h3>
-
-1. **Scaling up a socialised model of domestic waste and plastic management in five cities in Vietna (DWP5c)**
-
-	**Status:** Ongoing, Sep 2019 - Dec 2021
-
-	**Financing:** 560,290 USD
-
-	**Notes:** 
-
-	https://www.vn.undp.org/content/vietnam/en/home/operations/projects/environment_climatechange/scaling-up-a-socialised-model-of-domestic-waste-and-plastic-mana.html
 
 
 
-<h3>Multi-country</h3>
 
-1. **Supporting a circular economy approach to reduce ocean plastics pollution in Asia**
 
-	**Countries:** Bangladesh, China, India, Indonesia, Philippines, Sri Lanka, Thailand, Vietnam
 
-	**Status:** Pipeline
 
-	**Financing:** 22,000,000 USD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8. **RFF Post COVID-19 (in Samoa)** 00131629
+
+	**Budget** 0.78 million USD (of which 0.14 already spent) Yearly spending always below the budget.
+
+	Funders: NUNDP 91%, UK FCDO 8%.
+
+	**Status:** Dec 2020 - Jun 2022 (ongoing)
+
+	**SDGs:** 1 Powerty, 5 Gender Equality, 14 Life below water.
+
+	**PART 1: Post-COVID Youth Employment** 
+
+	**Budget:** 0.75 million USD (of which 0.13 already spent). Yearly spending always below the budget.
+
+	**Summary:** Youth Incubator Program and COVID-19 support for businesses. Or as they say it: "Youth employment is created in circular waste recovery industries in Samoa and Tokelau."
+
+	**Beneficiaries:** Unemployed; Women; Youth
+
+	**Partners:** National government; Private sector; Foundation; NGOs/CSOs; Research Institutions / Universities
+
+	**Indicators and baselines:**
+	
+	Number of private sector companies and formal and informal sector workers supported during and after the COVID-19 pandemic while addressing gender stereotypes: Micro, small, medium enterprises (MSMEs) (none); Private sector companies, excluding MSME (none); Formal sector workers 60:40 male to female (none); Informal sector workers 60:40 male to female (none).
+
+	Number of countries adopting fiscal stimulus packages for COVID-19 economic response and recovery, that are green and gender sensitive. None.
+	
+	Number of digital solutions adopted to address the COVID-19 pandemic: data collection systems and digital e-commerce systems. None.
+
+	**Hows**
+
+	1. Policy Advice
+
+    2. Capacity Development / Technical Assistance
 
 	**Notes:**
 
+	**2020**
+
+	Number of private sector companies and formal and informal sector workers supported during and after the COVID-19 pandemic while addressing gender stereotypes - Formal sector workers 60:40 male to female. 46 achieved.
+
+	**2021**
+
+	Develop and implement a Youth incubator. - Youth Incubator Program commenced in December 2021 and will end March 2022.
+
+    Youth intership programe in circular waste and waste management???
+
+    Complete Training for End-Users and administrators of E-Youth Hub Platform. - Training for End-users to be completed mid-end of February.
 
 
-2. **Plastics in Thailand/Philippines/Vietnam**
 
-	**Countries:** Thailand, Philippines, Vietnam
 
-	**Status:** Pipeline, pre-feasibility study ongoing, Jan 2020 - Jun 2021 
+	**PART 2: Post-COVID Waste Management Strategy** 
 
-	**Financing:** 6,000,000 USD
+	**Budget:** 0.03 million USD (of which 0.008 already spent). Yearly spending always below the budget.
+	
+	**Summary:** Procurement of paper waste recycling machine (not yet), employment generation through waste management activities. Or as they say it: "A circular waste management strategy, including a waste recycling policy framework, is developed to support the transition to a circular economy in Samoa and Tokelau."
+
+	**Beneficiaries:** Unemployed; Women; Youth
+
+	**Partners:** National government
+
+	**Indicators and baselines:**
+	
+	Number of countries implementing gender-responsive policies informed by socio-economic impact assessment, directed at-risk population (including unemployed). - None.
+   
+	Number of digital solutions adopted to address the COVID-19 pandemic. - None.
+
+    Number of countries adopting fiscal stimulus packages for COVID-19 economic response and recovery.  - None.
+
+	**Hows**
+
+	1. Policy Advice
+
+    2. Institutional Mechanism and System Building
 
 	**Notes:**
+
+	**2020?**
+
+	**2021**
+
+	Complete procurement of paper waste recycling machine. - Procurement of paperwaste is still ongoing (not yet received in Samoa).
+    
+    Complete youth employment recruitment with 40% female. - Circular economy interventions (under CERO Waste) are supporting employment and income generation, targeting unemployed women and youth, including PWDs, through value chain development in the recovery of low-value waste streams. With youth unemployment exacerbating amidst COVID-19, glass recovery has absorbed unemployed youth, with 87.5% (7/8) of the employed being youth and gender parity (4 male, 4 female) being achieved, whereby the workforce is managed by a female supervisor and 75% (3/4) of women are youth with disabilities. Tokelau’s national waste management workforce has increased by 300% (from 1 to 4), and 100% of Waste Management Officers employed are female (3/3).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -594,5 +875,6 @@ Deadline May 15th.
 [6]: https://procurement-notices.undp.org/view_file.cfm?doc_id=236822
 [7]: https://procurement-notices.undp.org/view_file.cfm?doc_id=237478
 [8]: https://info.undp.org/docs/pdc/Documents/BGD/IP%20ProDoc%20Plastic%20Waste%20Management%20signed.pdf
+[9]: https://docs.google.com/spreadsheets/d/1FfM0MyacdKvLdndJ17NqJ8KVzdM5VkfyXE-Sdu_j_Vc/edit?usp=sharing
 
 <!-- <h5 style="color:#979797;">2. Ethiopia </h5> -->
