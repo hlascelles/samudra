@@ -867,6 +867,230 @@ See the [summary in a spreadsheet format here][9].
 
 
 
+
+
+
+9. **Nudging the Private Sector to Address Waste Management (in Solomon Islands)** 00120544
+    
+    **Budget** 0.04 million USD (of which 0.03 spent)
+
+    Funder: UNDP
+
+    **Status:** Jul - Dec 2019
+
+    **SDGs:** 1 Powerty, 12 Responsible consumption/production; 13 climate; 14 Life below water.
+
+    **Summary:** To achieve plastic bag ban through engagement with government; workshops and visibility in mass media. Or as they say it: "This initiative is to address waste management through behavioral insights and also engage with the private sector"
+
+    **Beneficiaries:** People living in urban and peri-urban areas; Youth
+
+    **Partners:** National government; Sub-national governments.
+
+    **Indicators and baselines:** None
+
+    **Hows**
+
+    1. Convening / Partnerships / Knowledge Sharing
+
+    **Notes:**
+
+    Workshops will be held to keep the key partners engaged. Mass media will be used to enhance visibility. Finally, it is planned to have a high-level engagement of SIG (Solomon Islands Government) with Vanuatu counterparts to achieve plastic bag ban planned to happen next year 2020. - Any updates on that?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10. **Technical Support to Strengthen Chemicals and Environment Initiatives (in India)** 00121267
+    
+    **Budget** 0.18 million USD (of which 0.14 spent)
+
+    Funder: UNDP
+
+    **Status:** Jul 2019 - Dec 2020
+
+    **SDGs:** 1 Powerty, 12 Responsible consumption/production; 15 Life on land.
+
+    **Summary:** XXXX. Or as they say it: "The project aims to position UNDP for projects on e-waste and controlling mercury emissions in India."
+
+    **Beneficiaries:** People living in urban areas
+
+    **Partners:** National government
+
+    **Indicators and baselines:**
+
+    Number of scalable initiatives incorporating improved management of ozone depleting substances, chemicals and/or wastes
+
+    **Hows**
+
+    1. Capacity Development / Technical Assistance
+
+    **Notes:**
+
+    **2019**
+
+    Ensure enhanced participation of enterprises into HPMP-II. - MoAs signed with more than 100 new enterprises under HPMP-II
+
+    **2020**
+
+    Secure inter-ministerial concurrence and MoEFCC for the finalization of India: Mercury Initial Assessment including Sector Specific National Action Plan, comprehensive regulatory mechanisms, expert committees, centres of excellences etc. - Inter-ministerial steering committee and MoEFCC expert committees have reviewed and finalized "India: Mercury Initial Assessment Report". This is the first national referral document on status and way forward for mercury management in India having significant impact on hundreds of industries, health institutions and laboratories etc including phase out dates for mercury bearing products in India.
+
+    Position UNDP potential GEF funding. - A PIF on environmentally sound management of Waste Electrical and Electronic Equipment (WEEE) in India through sustainable integrated approaches was submitted and presented to the MoEFCC. The PIF has been endorsed by the ministry for submission to GEF Secretariat.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11. **Eliminating POPs through sound management of chemicals (in Maldives)** 00097168
+    
+    **Budget** 1.8 million USD (of which 0.4 already spent) Yearly spending always below the budget.
+
+    Funders: Global Environment Fund Truste (96%), UNDP.
+
+    **Status:** Jan 2019 - Dec 2024 (ongoing)
+
+    **SDGs:** 5 Gender Equality; 9 industry/innovation/infrastructure; 12 Responsible consumption/production.
+
+    **Summary:** Economic instruments/incentives (e.g., EPR, PPP); Capacity building of related government agencies; Legal instruments to regulate import, store, transport, use and dispose off POPs. Or as they say it: "Eliminating Persistent Organic Pollutants (POPs) through sound management of chemicals. The project entails three components including (1) strengthen existing regulations, (2) establish systems for hazardous wastes and (3) monitoring and learning."
+
+    **Beneficiaries:** People living in urban and rural areas; Women
+
+    **Partners:** Multilaterals (Vertical Funds, EU); National government; NGOs/CSOs; Sub-national government
+
+    **Indicators and baselines:**
+
+    Number of economic instruments and incentives (EPR, PPP- at least 2) to support enforcement of gender friendly and environmentally sound solutions for POPs.
+    
+    Sex-disaggregated number of direct project beneficiaries for which the risks of POPs exposure has been reduced (GEF Core Indicator 11)
+
+    Component 1 indicators:
+    
+    Number of government entities (especially involved in CCMS) with increased capacity to assess, plan and implement POPs-free interventions.
+    
+    A functional national coordination system is set up with capacity created to plan, implement and monitor POPs elimination/reduction interventions.
+    
+    Number of national policies and regulatory frameworks for environmentally sound POPs management, elimination or reduction efforts drafted.
+
+    Component 2 indicators:
+
+    Volume of PCBs eliminated through the introduction of environmentally sound PCB management, including final disposal.
+    
+    Volume/Amount of prevented release of PCDD/F
+    
+    Sex-disaggregated number of jobs created to ensure environmentally sound handling of hazardous waste.
+
+    Outcome 3 indicators:
+
+    Number of trainings carried out in line with the Gender Action Plan (Annex G).
+    
+    Sex-disaggregated number of people reached through awareness raising events on the human and environmental risks of POPs, and environmentally sound ways to reduce POPs emissions.
+    
+    Number of GEF M&E requirements met and adaptive management applied in response to needs and Mid-Term Evaluation findings.
+    
+    Background info:
+
+    The import and use of chemical substances, including POPs, is regulated by the Constitution of the Maldives legislative acts and normative-methodical documents. However according to the NIP (2016) analysis of existing legislation on POPs treatment shows the lack of a normative base for POPs treatment. One of the main challenges encountered in improving the management of POPs, chemicals and their wastes in the country is the fact that legislation regulating certain aspects of chemicals (such as Waste Management) and draft bills of regulations specific to chemicals (such as the Pesticides Bill and the Chemical Regulation) do exist in the country but are not yet adopted or implemented/enforced properly. The same goes for Article 5 of Law no 4/75 “Substances prohibited to be brought into the Maldives”, for which the ministry has formulated the relevant regulation as stated in Article 5, however, it is yet to be implemented.
+
+    The implementation of these regulatory aspects has been said to be delayed due to the unavailability of trained staff, lack of technical capacity, lack of financial resources, lack of high-level commitment and responsibility in comprehending the real impacts of such laws, the lack of a national chemicals database, the lack of a general baseline indicating the usage and disposal of these chemicals, a lack of analytical capacity, among other aspects.
+
+    Since the ratification of the Stockholm Convention in 2006, there has been no specific action towards the environmentally sound management of POPs at national level. The 2016 NIP identifies PCB management as the most urgent priority of the country in terms of POPs management. According to the PCB inventory (undertaken as part of the NIP), potentially PCB containing equipment is present on the five (5) most populous islands of the Maldives. The inventory results indicated that there are 18 potentially PCB containing electrical units, made up of 15 electric transformers and 3 oil filled circuit breakers.
+
+    **Hows**
+
+    1. Capacity Development / Technical Assistance
+
+    2. Support Functions
+    
+    **Notes:**
+
+    **2020-2021**
+
+    Nothing achieved due to COVID-19 and procurement difficulties
+
+    **2022**
+
+    Economic instruments/incentives (e.g., EPR, PPP) to support environmentally sound management of POPs: 2. - ongoing and at least 1 expected by end of the year
+    
+    Direct project beneficiaries for which POPs risk has been reduced: 83,00??? - ongoing 
+    
+    Capacity building of related government agencies (involved in CMS) increased to improve assessment, planning and implementing POPs-free interventions: 5 - ongoing and at least 1 expected by end of the year
+    
+    Legal instruments to regulate import, store, transport, use and dispose off POPs: 2 - ongoing 
+    
+    Volume of Polychlorinated biphenyl (PCBs) eliminated through introduction of environmentally sound management and final disposal: 24 tonnes - ongoing and at least 1 expected by end of the year
+    
+    Volume/amount of prevented release of Polychlorinated dibenzodioxins (PCDDs)/polychlorinated dibenzofurans (PCDFs): 5 g-TEQ - ongoing 
+    
+    Number of jobs created to ensure environmentally sound handling of hazardous wastes: 100 - ongoing 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [1]: https://devtracker.fcdo.gov.uk/projects/XM-DAC-41114-PROJECT-00126111/summary
 [2]: https://www.linkedin.com/in/arif-faisal-01889327/
 [3]: https://procurement-notices.undp.org/view_file.cfm?doc_id=222279
