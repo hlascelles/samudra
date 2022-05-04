@@ -10,7 +10,11 @@ header: no
 
 Deadline May 15th.
 
-See the [summary in a spreadsheet format here][9].
+See the [summary of all projects in a spreadsheet format here][9], the projects for which the review is already written are coloured in.
+
+See my design suggestions [here][10] (anyone with the link can edit).
+
+See completed work [here][11] (anyone with the link can edit). Please feel free to edit destructively, as I do have a personal copy of my work, so I can always revert if needed. 
 
 
 1. **Plastic Waste Management Programme: A Partnership (in India)** 00096923
@@ -1100,5 +1104,7 @@ See the [summary in a spreadsheet format here][9].
 [7]: https://procurement-notices.undp.org/view_file.cfm?doc_id=237478
 [8]: https://info.undp.org/docs/pdc/Documents/BGD/IP%20ProDoc%20Plastic%20Waste%20Management%20signed.pdf
 [9]: https://docs.google.com/spreadsheets/d/1FfM0MyacdKvLdndJ17NqJ8KVzdM5VkfyXE-Sdu_j_Vc/edit?usp=sharing
+[10]: https://docs.google.com/document/d/1S2sQIFfen53vjsiYq4uKNY6wIZKZ2yody740Xd5mEBM/edit?usp=sharing
+[11]: https://docs.google.com/document/d/1hwvE1bl2Cq-DvM0iaKKNzPGO2DssDttf2zJX8C032NU/edit?usp=sharing
 
 <!-- <h5 style="color:#979797;">2. Ethiopia </h5> -->
