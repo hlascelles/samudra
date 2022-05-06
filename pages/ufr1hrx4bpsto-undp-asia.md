@@ -14,7 +14,7 @@ See the [summary of all projects in a spreadsheet format here][1], the projects 
 
 See my design suggestions [here][2] (anyone with the link can edit).
 
-To edit the text below and to put it into final deliverable format, please copy-paste the below into Google Doc. 
+My review is shaping up below. To edit or to put it into final deliverable format, please copy-paste the below into Google Doc. 
 
 
 
