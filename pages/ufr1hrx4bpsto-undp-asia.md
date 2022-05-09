@@ -21,7 +21,7 @@ My review is shaping up below. To edit or to put it into final deliverable forma
 
 ### 1. Plastic Waste Management Programme: A Partnership
 
-**UNDP ID:** 00100826 <br/>
+**UNDP ID:** [00100826][4] <br/>
 **Dates:** Jan 2018 - Jun 2024 (ongoing) <br/>
 **Location:** many cities and villages in India <br/>
 **Budget:** 13.17 million USD <br/>
@@ -115,7 +115,7 @@ To support plastic waste collection, an awareness campaign that will cover 3,000
 
 ### 7. Building Circular Cities in Partnership with Private Sector: Starting from Plastic Waste Management 
 
-**UNDP ID:** 00120259 <br/>
+**UNDP ID:** [00120259][5] <br/>
 **Dates:** Feb 2020 - Dec 2022 (ongoing) <br/>
 **Location:** Narayanganj, Bangladesh <br/>
 **Budget:** 1.10 million USD <br/>
@@ -154,12 +154,97 @@ To support the HDPE and LDPE plastic waste collection, the goal was to reach 100
 
 
 
+### 9. Domestic Waste And Plastic
+
+**UNDP ID:** [00117761][10] <br/>
+**Dates:** Sep 2019 - Oct 2022 (ongoing) <br/>
+**Location:** 5 cities in Vietnam <br/>
+**Budget:** 1.16 million USD <br/>
+**Funders:** Ministry Of Foreign Affairs of Norway
+
+The goals of the project are to introduce effective solid waste management in 5 cities (Ha Long, Quy Nhon, Mui Ne, Binh Duong and Da Lat) and to reduce the amount of plastic waste entering the ocean.
+This includes:
+* conducting studies of the solid waste management (SWM) systems in 5 cities
+* creating capacity building action plans
+* establishing a revolving loan fund managed by the Women’s Union
+* educating government officials on SWM and reduction of plastic waste
+* developing a Circular Economy training programme
+
+In 2019, a study of the SWM systems in Binh Duong was completed.
+In 2021, a draft decree on Circular Economy was submitted to the government and the Vietnam Circular Economy Hub was launched.
 
 
 
-### 14. Technical Support to Strengthen Chemicals and Environment Initiatives
 
-**UNDP ID:** 00117077 <br/>
+**SDG 5 “Gender equality”:**
+
+**SDG 9 "Industry, innovation and infrastructure":**
+
+**SDG 12 "Responsible consumption and production":** 
+
+**SDG 15 "Life on land":** 
+
+
+
+
+### 10. Healthcare Waste Management
+
+**UNDP ID:** [00126002][9] <br/>
+**Dates:** Jan 2021 - Jul 2022 (ongoing) <br/>
+**Location:**  Monaragala, Sri Lanka <br/>
+**Budget:** 721,000 USD <br/> <!-- 721,206 -->
+**Funders:** Government Of Sri Lanka 51%, UNDP
+
+The goal of the project is to promote innovative gender responsive solutions to localized management of healthcare waste in Monaragala, Sri Lanka.
+This includes:
+* implementation of a Comprehensive Healthcare Waste Management plan
+* ensuring that the local government has a technical design and an Environmental Protection License (EPL) for an engineered sanitary landfill
+* publishing national Healthcare Waste Management guidelines based on lessons learnt and with an emphasis on Covid-19 waste
+
+The success of the project will be measured using the proportion of healthcare waste that is managed in accordance with new guidelines in two pre-selected hospitals.
+
+**SDG 3 "Good Health and Well-being":**
+
+**SDG 5 "Gender equality":** 
+
+**SDG 12 "Responsible consumption and production":** 
+
+
+
+
+
+### 11. Mobilize Social Business to Accelerate Achievement of Timor-Leste
+
+**UNDP ID:** [00100474][6] <br/>
+**Dates:** May 2016 - Dec 2021 <br/>
+**Location:** Dili, Timor-Leste <br/>
+**Budget:** 672,000 USD <br/> <!-- 671,992 -->
+**Funders:** Government Of Timor-Leste 60%, UNDP, New Zealand Agency For International Development
+
+
+The aim of this project was to establish an Integrated Waste Management Facility (IWMF) in Dili, the capital, to reduce the amount of waste going to landfill.
+
+An awareness campaign, promoting waste segregation at source and recycling, covered Motael and Caicoli villages (referred to as sucos in Timor-Leste) through door-to-door household visits, community-level workshops, events targeting youths/students and consultations with council members.
+By the end of 2021, in Motael village 131 (out of 766) households were practicing waste segregation and 211 were practicing 4R (Reject, Reduce, Recycling and Recover) approach; in Caicoli village 105 households were practicing waste segregation and 98 were practicing 4R approach.
+In 2021, 50 people delivered recyclable waste (plastic and garden waste) to the IWMF in exchange for rice or a notebook.
+
+At the IWMF, 0.5 tonnes of plastic and garden waste were collected in 2019 and 0.4 tonnes in 2020 (85% plastic).
+In 2021, 0.7 tonnes of waste were collected (50% plastic and 50% garden waste); and IWMF produced and sold 224 units of recycled products (bags of compost and plastic products), making 211 USD in income. 
+
+Partnerships with potential buyers of the waste and with local recycling businesses were established throughout the project.
+
+**SDG 9 "Industry, innovation and infrastructure":** 
+
+**SDG 15 "Life on land":** 
+
+
+
+
+
+
+### 13. Technical Support to Strengthen Chemicals and Environment Initiatives
+
+**UNDP ID:** [00117077][7] <br/>
 **Dates:** Jul 2019 - Dec 2020 <br/>
 **Location:** New Delhi, India <br/>
 **Budget:** 180,000 USD <br/>
@@ -183,12 +268,12 @@ As part of the project, the following documents have been finalised:
 
 
 
-### 15. Programme Framework of Support in response to Thailand’s development challenges
+### 14. Programme Framework of Support in response to Thailand’s development challenges
 
-**UNDP ID:** 00127419 <br/>
+**UNDP ID:** [00127419][8] <br/>
 **Dates:** Jun 2021 - Aug 2022 (ongoing) <br/>
 **Location:** Surat Thani Rajabhat University, Thailand <br/>
-**Budget:** 143,500 USD <br/>
+**Budget:** 143,500 USD <br/> <!-- 143,569 -->
 **Funders:** UNDP 70%, The Agriculture And Community Development Foundation in Thailand, Government of France
 
 With the aim to promote waste segregation, collection and recycling, and to reduce leakage of waste into the environment, this project focuses on development of a waste bank. The project is being implemented in Surat Thani Rajabhat University, where currently all waste that is collected is disposed of at a private dumpsite without segregation.
@@ -208,13 +293,42 @@ The success will be measured in tonnes of waste diverted from the dumpsite and C
 
 
 
+### 15. RFF Post COVID-19
 
+**UNDP ID:** [00124867][3] <br/>
+**Dates:** Dec 2020 - Jun 2022 (ongoing) <br/>
+**Location:** Samoa and Tokelau <br/>
+**Budget:** 29,000 USD <br/> <!-- 28,843 -->
+**Funders:** UNDP 91%, UK FCDO
 
+The goal of this project is to recover low value glass, paper and plastic waste in Samoa and Tokelau.
+
+In Samoa 8 people have been employed to perform glass waste recovery under the Circular Economy for the Recovery of Waste (CERO Waste) programme.
+The workforce includes 4 young men and 3 young women with disabilities, and is managed by a female supervisor.
+Procurement of a recycling machine for paper waste has been initiated, but the machine has not yet been received in Samoa.
+
+In Tokelau, the national waste management workforce has increased from 1 to 4 people.
+All 3 waste management officers are women.
+
+**SDG 1 "No Poverty":**
+
+**SDG 5 "Gender equality":** 
+
+**SDG 14 "Life below water":**
 
 
 
 
 [1]: https://docs.google.com/spreadsheets/d/1FfM0MyacdKvLdndJ17NqJ8KVzdM5VkfyXE-Sdu_j_Vc/edit?usp=sharing
 [2]: https://docs.google.com/document/d/1S2sQIFfen53vjsiYq4uKNY6wIZKZ2yody740Xd5mEBM/edit?usp=sharing
+[3]: https://open.undp.org/projects/00131629
+[4]: https://open.undp.org/projects/00096923
+[5]: https://open.undp.org/projects/00126111
+[6]: https://open.undp.org/projects/00096561
+[7]: https://open.undp.org/projects/00121267
+[8]: https://open.undp.org/projects/00134953
+[9]: https://open.undp.org/projects/00134411
+[10]: https://open.undp.org/projects/00121996
+[11]: https://open.undp.org/projects/00123967
 
 <!-- <h5 style="color:#979797;">2. Ethiopia </h5> -->
