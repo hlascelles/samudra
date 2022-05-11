@@ -110,6 +110,92 @@ To support plastic waste collection, an awareness campaign that will cover 3,000
 
 
 
+### 3. Integrated Island Waste Management in Malaysia
+
+**UNDP ID:** [00127243][12] <br/>
+**Dates:** Jul 2021 - Dec 2022 (ongoing) <br/>
+**Location:** 3 islands in Malaysia <br/>
+**Budget:** 2.41 million USD <br/>
+**Funders:** Government Of Malaysia
+
+The goal of this project is to develop sustainable and integrated waste management solutions for islands in Malaysia and implement them on 3 islands - Redang and Perhentian in Terengganu state and Besar in Johor state. 
+This includes:
+* completing assessments of current waste generation patterns and waste management practices, and the impacts of waste on environmental and social wellbeing
+* implementation of effective waste management systems on 3 islands by building infrastructure and using suitable technologies
+* conducting upskilling programmes on waste management and sustainable community-led tourism practices for local communities and service providers 
+
+By the end of 2021, the assessment for Besar was in progress, while the assessments for Redang and Perhentian were due to start once the Letter of Agreement had been signed by the Terengganu State Secretary Office.
+
+**SDG 11 "Sustainable cities and communities":** 
+
+**SDG 14 "Life below water":**
+
+
+
+
+
+
+### 4. Combatting Marine Plastic Litter in Cambodia
+
+**UNDP ID:** [00119646][13] <br/>
+**Dates:** Dec 2020 - Jul 2023 (ongoing) <br/>
+**Location:** Six province capitals in Cambodia <br/>
+**Budget:** 2.46 million USD <br/>
+**Funders:** Government Of Japan 98%, UNDP
+
+
+The focus of this project is on reduction and recycling of plastic waste. 
+The goals include:
+* adopt a circular economy strategy and action plan 
+* develop and implement enabling regulatory measures that will support the reduction of plastic waste, introduction of alternatives and increase in recycling 
+* develop educational and awareness raising materials (posters, videos, cartoons, a website and a campaign on social media) and disseminate them to public schools 
+* conduct training on plastic crisis and solutions in at least 30 public schools in five province capitals (Siem Reap, Sihanoukville, Khemarak Phoumin, Kampot and Kep), and introduce single-use plastic reduction measures 
+* reach 1 million people with an awareness raising social media campaign encouraging appropriate plastic waste management
+* identify best practices to reduce plastic waste by private sector and citizens, and feature them on the circular economy platform (50% women-led)
+* develop an operational solid waste management plan in at least 1 city
+* integrate plastic waste management as a priority into city plans of Phnom Penh, the capital, Siem Reap and Sihanoukville 
+* ensure that at least 20 businesses (primarily in the tourism sector) adopt single-use plastic reduction measures and foster recycling
+
+There are no updates on the progress of the project.
+
+
+
+
+
+
+### 6. Ending Plastic Pollution Innovation Challenge (EPPIC)
+
+**UNDP ID:** [00119237][15] <br/>
+**Dates:** Dec 2019 - Jun 2022 (ongoing) <br/>
+**Location:** Vietnam, Indonesia, Philippines, Thailand <br/>
+**Budget:** 1.70 million USD <br/>
+**Funders:** Norwegian Agency For Development Cooperation
+
+The focus of the EPPIC is to reduce plastic pollution in coastal areas in ASEAN countries through regional efforts. 
+The goals of the project include: 
+* creating a portfolio of solutions for ASEAN countries 
+* designing scaling up and replication strategies for these solutions 
+* attracting national and regional organisations to join the ASEAN plastic platform hosted by the UNDP 
+* increasing the number of joint actions, solutions or initiatives for marine plastic management in ASEAN countries 
+* seeking government approvals for global treaty on marine plastic waste
+
+
+In 2020, 159 solutions were received through applications to the EPPIC in Vietnam. 
+In 2021, 140 joint actions, solutions or initiatives for marine plastic management in Indonesia and Philippines were pitched. 
+A pilot project was implemented in Ha Long, a tourist destination in Quang Ninh province, including the opening of an EPPIC shop.  
+
+
+
+**SDG 1 "No Poverty":** 
+
+**SDG 5 “Gender equality”:**
+
+**SDG 11 "Sustainable cities and communities":** 
+
+**SDG 13: Climate action":**
+
+
+
 
 
 
@@ -149,6 +235,52 @@ To support the HDPE and LDPE plastic waste collection, the goal was to reach 100
 **SDG 5 "Gender equality":** One of the goals of the project was to establish a childcare support programme for children of waste pickers.
 
 **SDG 12 "Responsible consumption and production":** Development of an economically sustainable plastic collection model and design of a supply chain for collected plastic waste are supposed to contribute to responsible production, while the awareness campaign fosters responsible consumption.
+
+
+
+
+
+
+### 8. Marine Plastic Litter Reduction Acceleration
+
+**UNDP ID:** [00123967][11] <br/>
+**Dates:** Nov 2019 - Dec 2024 (ongoing) <br/>
+**Location:** Indonesia <br/>
+**Budget:** 1.03 million USD <br/>
+**Funders:** Ministry Of Foreign Affairs of Norway
+
+
+The aim of this project was to assist the national government in coordinating the progress on the National Action Plan (NAP) for Marine Debris Handling via strengthening of the Secretariat's capacity to  coordinate the five task force units. 
+In Indonesia, the Secretariat is the government ministry responsible for providing technical, administrative, and analytical support to the President and Vice President in the exercise of their state powers. 
+
+In 2021, a Reporting System for monitoring and evaluation of progress made on the NAP implementation was established. 
+Through this system, the NAP Implementing Team is now able to monitor the progress of each of the ministries. 
+This was supported by a policy brief and a database of national and regional government policies on waste management and marine plastic pollution. 
+Additionally, evaluation meetings have been held where representatives of the ministries updated each other on their respective ministry’s achievements and future plans. 
+An annual report for the President of Indonesia on the progress of marine plastic pollution handling was prepared. 
+
+Integrated national land-based and sea-based waste data platform was created to make marine plastic debris reduction calculations easy. 
+A coordination meeting with two maritime transport companies, Pelindo III and ASDP Indonesia Ferry, ensured that their data will be integrated with the national data platform. 
+
+In 2021, a policy brief regarding the use of trash booms in the 10 most plastic-polluted rivers was published. 
+This was followed by the installation of a trash boom and a clean-up in the Mangrove Conservation Forest area in Denpasar, Bali. 
+The event, organised in partnership with the Ministry of Environment and Forestry, engaged the local government, fishermen, NGOs and communities.
+Separately, waste management facilities have been procured in Labuan Bajo, a tourist destination on Flores island, and design of activities aimed at changing waste management behaviours began.
+
+To increase awareness about the need to reduce marine plastic pollution, social media campaigns have been conducted on Facebook, Twitter and Instagram; including the use of InstaStories and short videos on YouTube. 
+To reach a wider audience, two live sessions about marine plastic pollution were held on Kompas TV, a national television channel, in collaboration with the Ministry of Communication and Information.   
+The youth were targeted through an e-learning program and EUPHORIA comic and writing competition, which attracted over 1,400 entries from across Indonesia. 
+
+The Secretariat launched the Interfaith Indonesian Waste Charity Movement (GRADASI) in collaboration with the Ministry of Religion, the Indonesian Ulema Council, country's top Islamic scholars body, and the Mosque Council.
+As part of this movement, 6 pioneer mosques and 50 branch mosques collected and sold 30 tons of household waste in 2021. 
+This was followed by webinars and clean-ups organised by churches, in collaboration with Indonesia Plastic Recycling Association (ADUPI) and two large corporates (Mayora and Danone).
+
+
+**SDG 12 "Responsible consumption and production":** 
+
+**SDG 14 "Life below water":** 
+
+
 
 
 
@@ -330,5 +462,9 @@ All 3 waste management officers are women.
 [9]: https://open.undp.org/projects/00134411
 [10]: https://open.undp.org/projects/00121996
 [11]: https://open.undp.org/projects/00123967
+[12]: https://open.undp.org/projects/00136286
+[13]: https://open.undp.org/projects/00125235
+[14]: https://open.undp.org/projects/00097168
+[15]: https://open.undp.org/projects/00124209
 
 <!-- <h5 style="color:#979797;">2. Ethiopia </h5> -->
