@@ -325,7 +325,7 @@ Separately, waste management facilities have been procured in Labuan Bajo, a tou
 
 To increase awareness about the need to reduce marine plastic pollution, social media campaigns have been conducted on Facebook, Twitter and Instagram; including the use of InstaStories and short videos on YouTube. 
 To reach a wider audience, two live sessions about marine plastic pollution were held on Kompas TV, a national television channel, in collaboration with the Ministry of Communication and Information.   
-The youth were targeted through an e-learning program and EUPHORIA comic and writing competition, which attracted over 1,400 entries from across Indonesia. 
+The youth were targeted through an e-learning programme and EUPHORIA comic and writing competition, which attracted over 1,400 entries from across Indonesia. 
 
 The Secretariat launched the Interfaith Indonesian Waste Charity Movement (GRADASI) in collaboration with the Ministry of Religion, the Indonesian Ulema Council, country's top Islamic scholars body, and the Mosque Council.
 As part of this movement, 6 pioneer mosques and 50 branch mosques collected and sold 30 tons of household waste in 2021. 
@@ -424,6 +424,73 @@ Partnerships with potential buyers of the waste and with local recycling busines
 **SDG 9 "Industry, innovation and infrastructure":** 
 
 **SDG 15 "Life on land":** 
+
+
+
+
+
+
+
+### 11. Domestic Waste Management (Phase 2)
+
+**UNDP ID:** [00127505][17] <br/>
+**Dates:** Nov 2021 - Jun 2024 (ongoing) <br/>
+**Location:** Vietnam <br/>
+**Budget:** 374,500 USD <br/> <!-- 374,709 -->
+**Funders:** Norway Ministry Of Foreign Affairs
+<!-- Caitlin Wiesen https://www.linkedin.com/in/caitlin-wiesen-56109b16/ -->
+
+The goals of this project are to improve the livelihoods of informal waste pickers and to reduce the amount of marine plastic pollution originating on land and at sea. 
+The project will deploy and test a range of waste management models, including on the ground support interventions for waste pickers (who are mainly women), sector-specific waste management models for the fishing industry and ecosystem-level approaches for creating waste value chains through Material Recovery Facilities (MRFs). 
+To ensure that the project benefits all regions of Vietnam and other ASEAN countries, the knowledge generated during the deployment of pilot projects will be disseminated and policy discussion workshops will be organised. 
+
+To improve the livelihoods of waste pickers and make them more resilient the following actions will be taken:
+* increasing the number of waste pickers who have received safety gear (including soap, masks, and hand sanitizers) from 600 to 1200
+* expanding revolving funds available to waste pickers and ensuring that they are effectively management, encouraging access to credit and purchases of equipment
+* providing cash for work (for example, beach clean-ups) to at least 800 waste pickers (at least 60% women)
+
+The success of this part of the project will be measured by the increase in income of the waste pickers who benefited from the project (the target is 15-20% increase) and the number of female waste pickers who benefited from the project (the target is 2,000).
+
+To reduce the amount of marine plastic pollution originating at sea, a waste management model for the fishing industry will be developed by engaging with fishermen and women-led cooperatives. 
+The following actions will be taken:
+* conducting an assessment of needs and developing policies accepted by the local government and local fishery associations
+* procuring waste equipment for the boats
+* delivering training for the fishermen on waste segregation and environmental impacts of marine plastic pollution
+* setting up waste collection points along the shoreline, led by waste picker cooperatives and linked to MRFs
+* trialing co-processing of plastic waste that cannot be recycled in an economically viable way in collaboration with manufacturing or waste-to-energy facilities
+
+The success of this part of the project will be measured by the number of actors (boats, fish farms, traders etc.) who sign up to the programme (the target is 80) and the number of tonnes of waste brought back from the boats to the collection points and recycling facilities. 
+
+To reduce the amount of plastic pollution originating on land, an inclusive MRF will be established and local material value chains will be designed. 
+The following actions will be taken:
+* conduct a value chain analysis (including aggregators, traders and recycling facilities) and map the local informal waste sector 
+* facilitate partnership agreements between local government, waste management companies, recycling facilities and waste pickers (including allocation of land, permits to operate and the process of bidding to run the facility)
+* procure machinery for the MRF, oversee its operations and establish Standard Operating Guidelines
+* set-up a revenue generation models for waste workers based on the supply of segregated waste
+* ensure that the MRF operation is financially sustainable, using the network developed under the EPPIC project and the the network developed under the EPPIC projects that arise from it
+* develop waste segregation plan and technical guidelines, including tailored guidance for each sector and stakeholder type
+* procure waste collection and segregation infrastructure (including bins and sorting equipment) and install it in critical locations around the city 
+* conduct a waste segregation campaigns at schools, restaurants, hotels and beaches; using incentives to motivate stakeholders
+
+The success of this part of the project will be measured by the number of female waste pickers collaborating with the MRF (the target is 100) and the number of tonnes of waste collected at the MRF and recycled.
+
+This will then be followed by soliciting interest from other municipalities and relevant stakeholders willing to deploy one or more of the waste management models implemented as pilot projects. 
+To facilitate the replication of developed waste management models, policy papers and technical guidance materials will be published and informative workshops will be conducted. 
+Municipalities and relevant stakeholders will benefit from the model deployment support, capacity development and knowledge-sharing. 
+
+No updates on the progress of this project are yet available.
+
+**SDG 5 “Gender equality”:**
+
+**SDG 9 "Industry, innovation and infrastructure":**
+
+**SDG 12 "Responsible consumption and production":** 
+
+**SDG 14 "Life below water":**
+
+**SDG 15 "Life on land":** 
+
+
 
 
 
