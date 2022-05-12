@@ -110,6 +110,62 @@ To support plastic waste collection, an awareness campaign that will cover 3,000
 
 
 
+
+
+
+### 2. Reducing Releases of Polybrominated Diphenyl Ethers (PBDEs) and Unintentional Persistent Organic Pollutants (POPs)
+
+**UNDP ID:** [00091789][16] <br/>
+**Dates:** Mar 2016 - Mar 2021 <br/>
+**Location:** Java island, Indonesia <br/>
+**Budget:** 4.84 million USD <br/>
+**Funders:** Global Environment Fund (GEF)
+
+Polybrominated Diphenyl Ethers (PBDE) are a type of Persistent Organic Pollutants (POPs). 
+PBDEs are used as flame retardants in plastics; for example in electronics, construction materials, coatings, furniture padding, textiles and baby clothes. 
+Some PBDEs demonstrate [high affinity for lipids][18] and can accumulate in the fatty tissues in human bodies. 
+PBDEs have been associated with tumors, neurodevelopmental toxicity and thyroid hormone imbalance. 
+Children exposed to PBDEs are prone to subtle but measurable developmental problems; PBDEs can be passed on to children through breast milk. 
+
+The focus of this project is on reducing releases of PBDEs from waste mismanagement, unsuitable recycling practices and manufacturing of plastic products.
+To prevent PBDEs from being released into the environment or entering recycled materials, UNDP supported the Ministry of Industry in destroying PBDE containing plastic waste.
+
+In 2018, several key documents had been developed - a draft of the Regulations on Monitoring and Controlling PBDE containing products, a draft of the National Standard for Power banks, and Technical Guidelines for PBDE Free Quality Assurance (based on ISO 9001:2015). 
+A draft of the Extended Producer Responsibility (EPR) scheme for electronic products was also developed and disseminated by the Ministry of Industry to electronic and electrical industries, plastic recycling industry and relevant stakeholders. 
+This was followed by finalising of the National Standard (SNI IEC:62321) for proper identification of PBDEs in products by the Ministry of Industry in 2019.
+
+A training module for manufacturers on using flame retardants and identification of PBDEs in industrial raw materials (both virgin and recycled) has been developed. 
+In addition, the Laboratory Information System (SIL) Dashboard and PBDE website have been set up, and an XRF Analyzer Spectrometer for PBDE screening has been procured. 
+There are plans to conduct technical capacity training on testing for PBDEs for customs officers.
+
+Training of Trainers (ToT) for awareness of the dangers of PBDEs, health protection and financial literacy modules for recyclers took place in Cikarang in West Java and Mojokerto in East Java. 
+The plastics recycling sector, as the key sector handling PBDE containing plastic waste, now has information about best available techniques (BAT) and best environmental practice (BEP) that have been developed recently. 
+In addition, draft technical guidelines for reducing unintentional release of PBDEs have been published. 
+
+As part of the project, 7 mini depots will been set up or upgraded and their staff trained:
+* in Depok in West Java, focussing on construction of the building
+* in Bandung Municipality in West Java, focussing on building renovation and procurement of equipment for plastic waste processing
+* in Cirebon in West Java, focussing on set up and procurement of equipment
+* in Mojokerto in East Java, focussing on set up and procurement of equipment
+* in Malang Municipality in East Java, focussing on procurement of equipment for plastic and organic waste processing
+* in Malang Regency in East Java, focussing on procurement of equipment for plastic and organic waste processing
+* in Banyuwangi Regency in East Java, focusing on procurement of a drying machine
+
+These mini depots are designed for safe destruction of PBDE containing plastic waste. 
+By May 2020, the target of disposing of 1,000 tonnes of PBDE containing plastic waste has been reached.
+
+**SDG 1 "No Poverty":**
+
+**SDG 5 "Gender equality":** 
+
+**SDG 12 "Responsible consumption and production":**
+
+**SDG 15 "Life on land":** 
+
+
+
+
+
 ### 3. Integrated Island Waste Management in Malaysia
 
 **UNDP ID:** [00127243][12] <br/>
@@ -163,7 +219,7 @@ There are no updates on the progress of the project.
 
 
 
-### 6. Ending Plastic Pollution Innovation Challenge (EPPIC)
+### 5. Ending Plastic Pollution Innovation Challenge (EPPIC)
 
 **UNDP ID:** [00119237][15] <br/>
 **Dates:** Dec 2019 - Jun 2022 (ongoing) <br/>
@@ -199,7 +255,7 @@ A pilot project was implemented in Ha Long, a tourist destination in Quang Ninh 
 
 
 
-### 7. Building Circular Cities in Partnership with Private Sector: Starting from Plastic Waste Management 
+### 6. Building Circular Cities in Partnership with Private Sector: Starting from Plastic Waste Management 
 
 **UNDP ID:** [00120259][5] <br/>
 **Dates:** Feb 2020 - Dec 2022 (ongoing) <br/>
@@ -241,13 +297,13 @@ To support the HDPE and LDPE plastic waste collection, the goal was to reach 100
 
 
 
-### 8. Marine Plastic Litter Reduction Acceleration
+### 7. Marine Plastic Litter Reduction Acceleration
 
 **UNDP ID:** [00123967][11] <br/>
 **Dates:** Nov 2019 - Dec 2024 (ongoing) <br/>
 **Location:** Indonesia <br/>
 **Budget:** 1.03 million USD <br/>
-**Funders:** Ministry Of Foreign Affairs of Norway
+**Funders:** Norway Ministry Of Foreign Affairs
 
 
 The aim of this project was to assist the national government in coordinating the progress on the National Action Plan (NAP) for Marine Debris Handling via strengthening of the Secretariat's capacity to  coordinate the five task force units. 
@@ -286,13 +342,13 @@ This was followed by webinars and clean-ups organised by churches, in collaborat
 
 
 
-### 9. Domestic Waste And Plastic
+### 8. Domestic Waste And Plastic
 
 **UNDP ID:** [00117761][10] <br/>
 **Dates:** Sep 2019 - Oct 2022 (ongoing) <br/>
 **Location:** 5 cities in Vietnam <br/>
 **Budget:** 1.16 million USD <br/>
-**Funders:** Ministry Of Foreign Affairs of Norway
+**Funders:** Norway Ministry Of Foreign Affairs
 
 The goals of the project are to introduce effective solid waste management in 5 cities (Ha Long, Quy Nhon, Mui Ne, Binh Duong and Da Lat) and to reduce the amount of plastic waste entering the ocean.
 This includes:
@@ -319,7 +375,7 @@ In 2021, a draft decree on Circular Economy was submitted to the government and 
 
 
 
-### 10. Healthcare Waste Management
+### 9. Healthcare Waste Management
 
 **UNDP ID:** [00126002][9] <br/>
 **Dates:** Jan 2021 - Jul 2022 (ongoing) <br/>
@@ -345,7 +401,7 @@ The success of the project will be measured using the proportion of healthcare w
 
 
 
-### 11. Mobilize Social Business to Accelerate Achievement of Timor-Leste
+### 10. Mobilize Social Business to Accelerate Achievement of Timor-Leste
 
 **UNDP ID:** [00100474][6] <br/>
 **Dates:** May 2016 - Dec 2021 <br/>
@@ -374,7 +430,7 @@ Partnerships with potential buyers of the waste and with local recycling busines
 
 
 
-### 13. Technical Support to Strengthen Chemicals and Environment Initiatives
+### 12. Technical Support to Strengthen Chemicals and Environment Initiatives
 
 **UNDP ID:** [00117077][7] <br/>
 **Dates:** Jul 2019 - Dec 2020 <br/>
@@ -387,7 +443,7 @@ The project goal was to position UNDP as an implementation partner for future pr
 As part of the project, the following documents have been finalised:
 * To foster greater participation of the private sector in the second stage of Hydrochlorofluorocarbons (HCFCs) Phase-out Management Plan (HPMP-II), more than 100 Memorandums of Agreement (MOAs) have been signed with the private sector companies under HPMP-II.
 * The inter-ministerial steering committee and the Ministry of Environment, Forest and Climate Change (MoEFCC) reviewed and finalized the "India: Mercury Initial Assessment" report that includes sector specific National Action Plans, details of regulatory mechanisms and phase out dates for mercury containing products in India. This document is expected to impact healthcare institutions, laboratories and other industries that handle mercury containing products.
-* The Project Identification Form (PIF) for a project concerning environmentally sound management of e-waste through sustainable integrated approaches has been endorsed by the MoEFCC for submission to GEF.
+* The Project Identification Form (PIF) for a project concerning environmentally sound management of e-waste through sustainable integrated approaches has been endorsed by the MoEFCC for submission to Global Environment Fund (GEF).
 
 **SDG 1 "No Poverty":** The outcomes of this project will benefit people living under the national poverty line as they are disproportionately exposed to toxic substances like mercury, both through informal e-waste recycling and due to living in contaminated areas.
 
@@ -400,7 +456,7 @@ As part of the project, the following documents have been finalised:
 
 
 
-### 14. Programme Framework of Support in response to Thailand’s development challenges
+### 13. Programme Framework of Support in response to Thailand’s development challenges
 
 **UNDP ID:** [00127419][8] <br/>
 **Dates:** Jun 2021 - Aug 2022 (ongoing) <br/>
@@ -425,7 +481,7 @@ The success will be measured in tonnes of waste diverted from the dumpsite and C
 
 
 
-### 15. RFF Post COVID-19
+### 14. RFF Post COVID-19
 
 **UNDP ID:** [00124867][3] <br/>
 **Dates:** Dec 2020 - Jun 2022 (ongoing) <br/>
@@ -466,5 +522,8 @@ All 3 waste management officers are women.
 [13]: https://open.undp.org/projects/00125235
 [14]: https://open.undp.org/projects/00097168
 [15]: https://open.undp.org/projects/00124209
+[16]: https://open.undp.org/projects/00083160
+[17]: https://open.undp.org/projects/00136690
+[18]: http://www.clinmedres.org/content/1/4/281.short
 
 <!-- <h5 style="color:#979797;">2. Ethiopia </h5> -->
