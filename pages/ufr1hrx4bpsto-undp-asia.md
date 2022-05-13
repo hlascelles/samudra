@@ -1,6 +1,6 @@
 ---
 layout: kz-page
-title: "Review of UNDP's regional initiatives on plastics and waste management"
+title: "Review of UNDP's projects on plastic waste"
 permalink: "/ufr1hrx4bpsto-undp-asia/"
 subheadline: 
 meta_description: 
@@ -8,16 +8,7 @@ header: no
 
 ---
 
-Deadline May 15th.
-
-See the (now updated) [summary of all 14 projects in a spreadsheet format here][1].
-
-See my design suggestions [here][2] (anyone with the link can edit).
-
-My review is shaping up below. To edit or to put it into final deliverable format, please copy-paste the below into Google Doc. 
-
-
-
+[The summary of all 14 projects in a spreadsheet format.][1]
 
 ### 1. Plastic Waste Management Programme: A Partnership
 
@@ -175,17 +166,19 @@ By May 2020, the target of disposing of 1,000 tonnes of PBDE containing plastic 
 **Budget:** 2.41 million USD <br/>
 **Funders:** Government Of Malaysia
 
-The goal of this project is to develop integrated sustainable waste management solutions for islands in Malaysia and implement them on 3 islands - Redang and Perhentian in Terengganu state and Besar in Johor state. 
-This includes:
-* completing assessments of current waste generation patterns and waste management practices, and current impacts of waste on environmental and social wellbeing
-* implementation of effective waste management systems on 3 islands by building infrastructure and using suitable technologies
-* conducting upskilling programmes on waste management and sustainable community-led tourism practices for local communities and service providers 
+The aim of this project is to develop integrated sustainable waste management solutions for islands in Malaysia and implement them on 3 islands (Redang and Perhentian in Terengganu state and Besar in Johor state). 
+The goals are to:
+* complete assessments of current waste generation patterns and waste management practices, and current impacts of waste on environmental and social wellbeing
+* implement effective waste management systems on 3 islands by building infrastructure and procuring necessary machinery
+* conduct upskilling programmes on waste management and sustainable community-led tourism practices for local communities and service providers 
 
 By the end of 2021, the assessment for Besar was in progress, while the assessments for Redang and Perhentian were due to start once the Letter of Agreement had been signed by the Terengganu State Secretary Office.
 
-**SDG 11 "Sustainable cities and communities":** 
+**Conclusion:** If the project is successful, a similar 3 step approach could be replicated on other islands with a developed tourism sector in Malaysia and other ASEAN countries.
 
-**SDG 14 "Life below water":**
+**SDG 11 "Sustainable cities and communities":** Implementing effective waste management systems on small islands will allow local communities to be more sustainable.
+
+**SDG 14 "Life below water":** Targeting small islands with developed tourism sectors will significantly reduce marine plastic pollution originating from there.
 
 
 
@@ -228,28 +221,27 @@ There are no updates on the progress of the project.
 **Budget:** 1.70 million USD <br/>
 **Funders:** Norwegian Agency For Development Cooperation
 
-The focus of the EPPIC is to reduce plastic pollution in coastal areas in ASEAN countries through regional efforts. 
-The goals of the project include: 
-* creating a portfolio of solutions for ASEAN countries 
-* designing scaling up and replication strategies for these solutions 
-* attracting national and regional organisations to join the ASEAN plastic platform hosted by the UNDP 
-* increasing the number of joint actions, solutions or initiatives for marine plastic management in ASEAN countries 
-* seeking government approvals for global treaty on marine plastic waste
+The aim of this project is to reduce plastic pollution in coastal areas in ASEAN countries through regional efforts. 
+The goals are to: 
+* create a portfolio of solutions for ASEAN countries 
+* design scaling up and replication strategies for these solutions 
+* attract national and regional organisations to join the ASEAN Plastic Platform hosted by the UNDP 
+* increase the number of partnerships focussed on marine plastic management in ASEAN countries 
+* seek approvals of Global Treaty on Marine Plastic Waste from the governments
+
+In 2020, 159 solutions were submitted by stakeholders in Vietnam. 
+In 2021, 140 partnerships focussed on marine plastic management were pitched in Indonesia and Philippines. 
+A pilot project was implemented in Ha Long, a tourist destination in Quang Ninh province in Vietnam.
+
+**Conclusion:** The focus on best practices and developing impactful partnerships are the strengths of this project. 
+There is a danger that a collection of individual solutions will not result in a well functioning waste management system. 
+
+**SDG 11 "Sustainable cities and communities":** Improving plastic waste management will allow cities and communities to be more sustainable.
+
+**SDG 14 "Life below water":** Improving plastic waste management on land will reduce marine plastic pollution in ASEAN region.
 
 
-In 2020, 159 solutions were received through applications to the EPPIC in Vietnam. 
-In 2021, 140 joint actions, solutions or initiatives for marine plastic management in Indonesia and Philippines were pitched. 
-A pilot project was implemented in Ha Long, a tourist destination in Quang Ninh, Vietnam, including the opening of an EPPIC shop.  
 
-
-
-**SDG 1 "No Poverty":** 
-
-**SDG 5 “Gender equality”:**
-
-**SDG 11 "Sustainable cities and communities":** 
-
-**SDG 13: Climate action":**
 
 
 
@@ -351,27 +343,27 @@ This was followed by webinars and clean-ups organised by churches, in collaborat
 **Budget:** 1.16 million USD <br/>
 **Funders:** Norway Ministry Of Foreign Affairs
 
-The goals of the project are to introduce effective solid waste management in 5 cities and to reduce the amount of plastic waste entering the ocean.
-This includes:
-* conducting studies of the solid waste management (SWM) systems in 5 cities (Ha Long, Quy Nhon, Mui Ne, Binh Duong and Da Lat) 
-* creating action plans for capacity building 
-* establishing a revolving loan fund managed by the Women’s Union
-* educating government officials on SWM and reduction of plastic waste
-* developing a circular economy training programme
+The aims of this project are to introduce effective solid waste management systems in 5 cities and, as a result, to reduce the amount of marine plastic pollution. 
+The goals are to: 
+* conduct studies of the solid waste management (SWM) systems in 5 cities (Ha Long, Quy Nhon, Mui Ne, Binh Duong and Da Lat) 
+* create action plans for capacity building 
+* establish revolving loan funds managed by the Women’s Union
+* educate government officials on SWM and reduction of plastic waste
+* develop a circular economy training programme
 
 In 2019, a study of the SWM systems in Binh Duong was completed.
 In 2021, a draft decree on circular economy was submitted to the government and the Vietnam Circular Economy Hub was launched.
 
+**Conclusion:** The focus on improving waste picker access to credit and education of government officials on SWM and reduction of plastic waste are the strengths of this project. 
+This project will likely have to be followed by a project focussed on building necessary waste management infrastructure.
+
+**SDG 5 "Gender equality":** Establishing revolving loan funds managed by the Women’s Union will improve women's access to credit and support their financial independence and wellbeing.
+
+**SDG 11 "Sustainable cities and communities":** Introducing effective solid waste management systems in cities will allow them to be more sustainable.
+
+**SDG 14 "Life below water":** Improving plastic waste management on land will reduce marine plastic pollution originating from cities in Vietnam.
 
 
-
-**SDG 5 “Gender equality”:**
-
-**SDG 9 "Industry, innovation and infrastructure":**
-
-**SDG 12 "Responsible consumption and production":** 
-
-**SDG 15 "Life on land":** 
 
 
 
@@ -384,19 +376,21 @@ In 2021, a draft decree on circular economy was submitted to the government and 
 **Budget:** 721,000 USD <br/> <!-- 721,206 -->
 **Funders:** Government Of Sri Lanka 51%, UNDP
 
-The goal of the project is to promote innovative gender responsive solutions to localized management of healthcare waste in Monaragala, Sri Lanka.
-This includes:
-* implementation of a Comprehensive Healthcare Waste Management plan
-* ensuring that the local government has a technical design and an Environmental Protection License (EPL) for an engineered sanitary landfill
-* publishing national Healthcare Waste Management guidelines based on lessons learnt
+The aim of this project is to develop a safe local waste management solution for healthcare waste in Monaragala, Sri Lanka.
+The goals are to: 
+* implement of a Comprehensive Healthcare Waste Management plan
+* ensure that the local government has a technical design and an Environmental Protection License (EPL) for an engineered sanitary landfill
+* publish national Healthcare Waste Management guidelines based on lessons learnt from the project
 
 The success of the project will be measured by the proportion of healthcare waste that is managed in accordance with the new guidelines in two pre-selected hospitals.
 
-**SDG 3 "Good Health and Well-being":**
+**Conclusion:** If the project is successful, similar local waste management solutions for healthcare waste could be replicated in other parts of Sri Lanka and other ASEAN countries. 
+It is essential to ensure that access to landfills containing healthcare waste is carefully managed to prevent infections and injuries caused by sharp objects.
 
-**SDG 5 "Gender equality":** 
+**SDG 3 "Good health and wellbeing":** A safe local waste management solution for healthcare waste will minimise chances of infection due to contact with waste.
 
-**SDG 12 "Responsible consumption and production":** 
+**SDG 15 "Life on land":** Preventing open burning and dumping of healthcare waste will protect soils, ground water and air quality. 
+
 
 
 
@@ -411,21 +405,23 @@ The success of the project will be measured by the proportion of healthcare wast
 **Funders:** Government Of Timor-Leste 60%, UNDP, New Zealand Agency For International Development
 
 
-The aim of this project was to establish an Integrated Waste Management Facility (IWMF) in Dili, the capital, and to reduce the amount of waste going to landfill.
+The aims of this project were to establish an Integrated Waste Management Facility (IWMF) in Dili, the capital, and, as a result, to reduce the amount of waste going to landfill.
 
-An awareness campaign promoting waste segregation at source and recycling covered Motael and Caicoli neighbourhoods (referred to as sucos in Timor-Leste) through door-to-door household visits, community-level workshops, events targeting youths/students and consultations with local council members.
-By the end of 2021, in Motael neighbourhood 131 (out of 766) households were practicing waste segregation and 211 were practicing 4R (Reject, Reduce, Recycle and Recover) approach; in Caicoli neighbourhood 105 households were practicing waste segregation and 98 were practicing 4R approach.
-In 2021, 50 people delivered recyclable waste (plastic and garden waste) to the IWMF in exchange for rice or notebooks.
+An awareness campaign promoting waste segregation at source and 4R (Reject, Reduce, Recycle and Recover) approach covered Motael and Caicoli neighbourhoods (referred to as sucos in Timor-Leste) through door-to-door household visits, community-level workshops, events targeting youths/students and consultations with local council members.
+By the end of 2021, in Motael neighbourhood 131 (out of 766) households were practicing waste segregation and 211 were practicing 4R approach; in Caicoli neighbourhood 105 households were practicing waste segregation and 98 were practicing 4R approach.
+In 2021, 50 people delivered plastic and/or garden waste to the IWMF in exchange for rice or notebooks.
 
-At the IWMF, 0.5 tonnes of plastic and garden waste were collected in 2019, 0.4 tonnes in 2020 (85% plastic), and 0.7 tonnes in 2021 (50% plastic and 50% garden waste).
-In 2021, the IWMF produced and sold 224 units of recycled products (bags of compost and plastic products), making 211 USD income. 
-
+At the IWMF, 0.5 tonnes of plastic and garden waste were collected in 2019, 0.4 tonnes in 2020 (85% plastic), and 0.7 tonnes in 2021 (50% plastic).
+In 2021, the IWMF produced and sold 224 units of recycled products (bags of compost and plastic products), making an income of 211 USD. 
 Partnerships with potential buyers of the waste and with local recycling businesses were established throughout the project.
 
-**SDG 9 "Industry, innovation and infrastructure":** 
+**Conclusion:** Establishing the IWMF for recyclable waste management and complementing it with an awareness campaign promoting segregation at source and waste reduction are the strengths of this project. 
+If the IWMF proves to be financially and environmentally sustainable and the amounts of waste processed increase as the awareness spreads and the household waste management habits change, the model of financing an IWMF with sales of recycled products could be replicated in other locations. 
+Similarly, if successful, use of non-monetary incentives (for example, rice and notebooks) to encourage participation should be considered throughout the region.  
 
-**SDG 15 "Life on land":** 
+**SDG 11 "Sustainable cities and communities":** Improving management of recyclable waste (both organic and non-organic) will allow the communities to be more sustainable.
 
+**SDG 15 "Life on land":** The focus on reducing the amount of waste and the amount waste going to landfill will protect soils, ground water and air quality, and minimise open burning of waste.
 
 
 
@@ -447,7 +443,7 @@ To ensure that the project benefits all regions of Vietnam and other ASEAN count
 
 To improve the livelihoods of waste pickers and make them more resilient the following actions will be taken:
 * increasing the number of waste pickers who have received safety gear (including soap, masks, and hand sanitizers) from 600 to 1200
-* expanding revolving funds available to waste pickers, ensuring that they are effectively management, and encouraging access to credit and purchases of equipment
+* expanding revolving loan funds available to waste pickers, ensuring that they are effectively management, and encouraging access to credit and purchases of equipment
 * providing cash for work (for example, beach clean-ups) to at least 800 waste pickers (at least 60% women)
 
 The success of this part of the project will be measured by the increase in income of the waste pickers who benefited from the project (the target is 15-20% increase) and the number of female waste pickers who benefited from the project (the target is 2,000).
@@ -580,7 +576,6 @@ All 3 waste management officers are women.
 
 
 [1]: https://docs.google.com/spreadsheets/d/1FfM0MyacdKvLdndJ17NqJ8KVzdM5VkfyXE-Sdu_j_Vc/edit?usp=sharing
-[2]: https://docs.google.com/document/d/1S2sQIFfen53vjsiYq4uKNY6wIZKZ2yody740Xd5mEBM/edit?usp=sharing
 [3]: https://open.undp.org/projects/00131629
 [4]: https://open.undp.org/projects/00096923
 [5]: https://open.undp.org/projects/00126111
