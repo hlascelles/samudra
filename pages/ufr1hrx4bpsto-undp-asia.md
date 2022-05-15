@@ -8,7 +8,54 @@ header: no
 
 ---
 
-[The summary of all 14 projects in a spreadsheet format.][1]
+This review covers UNDP's ongoing and recently completed plastic waste management projects. 
+These projects cover a wide range of approaches, some targeted specifically at plastic waste (projects 1, 6, 11) and some at plastic waste as part of municipal (projects 3, 8, 13), healthcare (project 9) or e-waste (project 12).
+
+Many of the projects focus on integrating **waste pickers** (informal sector) into the waste management system. 
+To improve their lives, approaches range from revolving loan funds to allow access to credit and purchases of equipment (projects 8, 11), ID cards (project 6), childcare (project 6), safety gear (project 6, 11), good job opportunities (project 11).
+
+In places where waste management infrastructure is insufficient or non-existent, **building infrastructure** is essential.
+Building sanitary landfills (project 9), MRFs (projects 1, 11), recycling infrastructure, waste equipment for the boats (project 11), collection points (project 11).
+Cost effective solutions, as temporary fixes, like trash booms (project 7) could be installed in all rivers.
+Development of sector-specific waste management models (project 11) is key to success.
+It is essential to have a revenue generation model for infrastructure operation/maintenance and waste workers (project 11).
+Co-processing of waste that cannot be recycled in a financially viable way in collaboration with manufacturing or waste-to-energy facilities (project 11).
+Increasing the number of partnerships that are useful.
+
+Intangible infrastructure like ASEAN Plastic Platform (project 5) and Vietnam Circular Economy Hub (project 8).
+
+Focus on innovative **financial models** is essential.
+Creation of value chains for waste using ecosystem-level approaches - conduct a value chain analysis (including aggregators, traders and recycling facilities) and map the local informal waste sector (project 11).
+Facilitate partnership agreements between local government, waste management companies, recycling facilities and waste pickers (including allocation of land, permits to operate and the process of bidding to run the facility) (project 11).
+Conduct an assessment of needs of the local government (project 11) to ensure long-term success of the project.
+Making waste management financially sustainable, by cross subsidising across industrial and municipal waste, across neighbourhoods and waste streams.
+Ensure that the MRF operation is financially sustainable using the network developed as part of the EPPIC project and the business development opportunities that arise from it (project 11).
+Non-monetary incentives, like rice and notebooks for segregated clean recyclable waste.
+
+**Awareness campaigns** focussed on waste segregation at source (projects 10, 11, 13) and waste reduction (project 10).
+Targeting young people, students - the next generation taking care of our planet (project 11, 13).
+Incredibly important to educate government officials on SWM and reduction of plastic waste (project 8) and sector-specific people - the fishermen on waste segregation and environmental impacts of marine plastic pollution (project 11).
+Engagement through places of worship (project 7). 
+Not just awareness, but upskilling programmes for communities and businesses in the tourism sector (project 3).
+
+Insufficient number of projects **focus on reduction** (project 10).
+Reducing waste is equally important, even though it is essential to have a waste management system that can be relied on when necessary (for example during a pandemic, when amounts of packaging and other waste increased suddenly).
+It is especially true in low population density areas, like remote communities, small islands (project 3, 14).
+All of the projects will have a positive impact on climate, even though only one explicitly focussed on reduction in GHG emissions (project 13), but reduction has the most potential.
+
+**In comparison**, infrastructure building projects are more impactful than projects that create portfolios of solutions (project 5).
+Holistic approaches are always best.
+
+What matters is **long term effects** of these projects, their **replicability** and scaling up opportunities.
+Communicating lessons learnt to decision makers responsible for developing/selecting future projects is key to moving forward globally -  across countries and  across waste streams.
+Wide range of solutions explored through these projects is great, now we need to communicate lessons learnt instead of picking "best" approaches.
+Explicit focus on disseminating the knowledge generated during the deployment of a project (project 11) is great. 
+
+
+
+
+
+
 
 ### 1. Plastic Waste Management Programme: A Partnership
 
@@ -146,6 +193,8 @@ As part of the project, 7 mini depots have been set up or upgraded and their sta
 These mini depots are designed for safe destruction of PBDE containing plastic waste. 
 By May 2020, the target of disposing of 1,000 tonnes of PBDE containing plastic waste had been reached.
 
+**Conclusion:** 
+
 **SDG 1 "No Poverty":**
 
 **SDG 5 "Gender equality":** 
@@ -208,7 +257,7 @@ The goals include:
 
 There are no updates on the progress of the project.
 
-
+**Conclusion:** 
 
 
 
@@ -324,6 +373,7 @@ The Secretariat launched the Interfaith Indonesian Waste Charity Movement (GRADA
 As part of this movement, 56 mosques collected and sold 30 tons of household waste in 2021. 
 This was followed by webinars and clean-ups organised by churches, in collaboration with Indonesia Plastic Recycling Association (ADUPI) and two large corporates (Mayora and Danone).
 
+**Conclusion:** 
 
 **SDG 12 "Responsible consumption and production":** 
 
@@ -437,58 +487,52 @@ Similarly, if successful, use of non-monetary incentives (for example, rice and 
 **Funders:** Norway Ministry Of Foreign Affairs
 <!-- Caitlin Wiesen https://www.linkedin.com/in/caitlin-wiesen-56109b16/ -->
 
-The goals of this project are to improve the livelihoods of informal waste pickers and to reduce the amount of marine plastic pollution originating on land and at sea. 
-The project will deploy and test a range of solutions, including support interventions for waste pickers, development of sector-specific waste management models for the fishing industry and creation of waste value chains using ecosystem-level approaches. 
+The aims of this project are to improve the livelihoods of informal waste pickers and to reduce the amount of marine plastic pollution originating on land and at sea. 
+The project will deploy and test a range of solutions, including support interventions for waste pickers, development of sector-specific waste management models and creation of value chains for waste using ecosystem-level approaches. 
 To ensure that the project benefits all regions of Vietnam and other ASEAN countries, the knowledge generated during the deployment of pilot projects will be disseminated and policy discussion workshops will be organised. 
 
-To improve the livelihoods of waste pickers and make them more resilient the following actions will be taken:
-* increasing the number of waste pickers who have received safety gear (including soap, masks, and hand sanitizers) from 600 to 1200
-* expanding revolving loan funds available to waste pickers, ensuring that they are effectively management, and encouraging access to credit and purchases of equipment
-* providing cash for work (for example, beach clean-ups) to at least 800 waste pickers (at least 60% women)
+To improve the livelihoods of waste pickers and to make them more resilient the goals are to:
+* increase the number of waste pickers who have received safety gear (including soap, masks, and hand sanitizers) from 600 to 1200
+* expand revolving loan funds available to waste pickers, ensure that the funds are effectively management, and encourage access to credit and purchases of equipment
+* provide cash for work (for example, beach clean-ups) to at least 800 waste pickers (at least 60% women)
 
 The success of this part of the project will be measured by the increase in income of the waste pickers who benefited from the project (the target is 15-20% increase) and the number of female waste pickers who benefited from the project (the target is 2,000).
 
 To reduce the amount of plastic pollution originating on land, an inclusive Material Recovery Facility (MRF) will be established and local material value chains will be designed. 
-The following actions will be taken:
+The goals are to:
 * conduct a value chain analysis (including aggregators, traders and recycling facilities) and map the local informal waste sector 
 * facilitate partnership agreements between local government, waste management companies, recycling facilities and waste pickers (including allocation of land, permits to operate and the process of bidding to run the facility)
 * procure machinery for the MRF, oversee its operations and establish Standard Operating Guidelines
-* set-up a revenue generation model for waste workers based on the supply of segregated waste
+* set up a revenue generation model for waste workers based on the supply of segregated waste
 * ensure that the MRF operation is financially sustainable using the network developed as part of the EPPIC project and the business development opportunities that arise from it
-* develop waste segregation plan and technical guidelines, including tailored guidance for each sector and stakeholder type
+* develop waste segregation plans and technical guidelines, including tailored guidance for each sector and stakeholder type
 * procure waste collection and segregation infrastructure (including bins and sorting equipment) and install it in critical locations around the city 
-* conduct a waste segregation campaigns at schools, restaurants, hotels and beaches; using incentives to motivate stakeholders
+* conduct a waste segregation campaigns at schools, restaurants, hotels and beaches, and use incentives to motivate engagement
 
 The success of this part of the project will be measured by the number of female waste pickers collaborating with the MRF (the target is 100) and the number of tonnes of waste collected at the MRF and recycled.
 
 To reduce the amount of marine plastic pollution originating at sea, a waste management model for the fishing industry will be developed by engaging with fishermen and women-led cooperatives. 
-The following actions will be taken:
-* conducting an assessment of needs and developing policies accepted by the local government and local fishery associations
-* procuring waste equipment for the boats
-* delivering training for the fishermen on waste segregation and environmental impacts of marine plastic pollution
-* setting up waste collection points along the shoreline, led by waste picker cooperatives and linked to the MRF
-* trialing co-processing of plastic waste that cannot be recycled in an financially viable way in collaboration with manufacturing or waste-to-energy facilities
+The goals are to: 
+* conduct an assessment of needs and develop policies accepted by the local government and local fishery associations
+* procure waste equipment for the boats
+* deliver training for the fishermen on waste segregation and environmental impacts of marine plastic pollution
+* set up waste collection points along the shoreline, led by waste picker cooperatives and linked to the MRF
+* trial co-processing of plastic waste that cannot be recycled in a financially viable way, in collaboration with manufacturing or waste-to-energy facilities
 
 The success of this part of the project will be measured by the number of actors (boats, fish farms, traders etc.) who sign up to the programme (the target is 80) and the number of tonnes of waste brought back from the boats to the collection points and recycling facilities. 
 
-
-
 This will then be followed by soliciting interest from other municipalities and relevant stakeholders willing to deploy one or more of the waste management models implemented as pilot projects. 
 To facilitate the replication of developed waste management models, policy papers and technical guidance materials will be published and informative workshops will be conducted. 
-Municipalities and relevant stakeholders will benefit from the model deployment support, capacity development and knowledge-sharing. 
 
 No updates on the progress of this project are yet available.
 
-**SDG 5 “Gender equality”:** waste pickers (who are mainly women)
+**Conclusion:** 
 
-**SDG 9 "Industry, innovation and infrastructure":**
+**SDG 1 "No Poverty":** The outcomes of this project will benefit waste pickers (who are mainly women) by providing them with good work opportunities (at the MRF, at beach clean-ups, etc.) and access to credit.
 
-**SDG 12 "Responsible consumption and production":** 
+**SDG 9 "Industry, innovation and infrastructure":** This project is focussed on creation of value chains for waste using ecosystem-level approaches, development of sector-specific waste management models, setting up a financially sustainable MRF and replicating the model in other municipalities.
 
-**SDG 14 "Life below water":**
-
-**SDG 15 "Life on land":** 
-
+**SDG 14 "Life below water":** By focussing on ecosystem-level approaches and development sector-specific waste management models (including for the fishing industry) the project will reduce the amount of marine plastic pollution originating on land and at sea.
 
 
 
@@ -504,18 +548,23 @@ No updates on the progress of this project are yet available.
 **Budget:** 180,000 USD <br/>
 **Funders:** UNDP
 
-The project goal was to position UNDP as an implementation partner for future projects aimed at improving management of e-waste and other types of waste that contain mercury.
+The aim of this project was to position UNDP as an implementation partner for future projects aimed at improving management of e-waste and other types of waste that contain mercury. 
+As part of the project: 
+* The "India: Mercury Initial Assessment" report was finalized by the Ministry of Environment, Forest and Climate Change (MoEFCC) and the inter-ministerial steering committee. 
+It includes sector specific National Action Plans, details of regulatory mechanisms and phase out dates for mercury containing products in India. 
+This report is expected to impact healthcare institutions, laboratories and other industries that handle mercury containing products. 
+* More than 100 Memorandums of Agreement (MOAs) have been signed with the private sector companies to foster their participation in the second stage of the Hydrochlorofluorocarbons (HCFCs) Phase-out Management Plan (HPMP-II). 
+* The Project Identification Form (PIF) for a project on environmentally sound management of e-waste has been endorsed by the MoEFCC for submission to the Global Environment Fund (GEF). 
 
-As part of the project, the following documents have been finalised:
-* To foster greater participation of the private sector in the second stage of Hydrochlorofluorocarbons (HCFCs) Phase-out Management Plan (HPMP-II), more than 100 Memorandums of Agreement (MOAs) have been signed with the private sector companies under HPMP-II.
-* The inter-ministerial steering committee and the Ministry of Environment, Forest and Climate Change (MoEFCC) reviewed and finalized the "India: Mercury Initial Assessment" report that includes sector specific National Action Plans, details of regulatory mechanisms and phase out dates for mercury containing products in India. This document is expected to impact healthcare institutions, laboratories and other industries that handle mercury containing products.
-* The Project Identification Form (PIF) for a project on environmentally sound management of e-waste has been endorsed by the MoEFCC for submission to Global Environment Fund (GEF).
+**Conclusion:** 
 
 **SDG 1 "No Poverty":** The outcomes of this project will benefit people living under the national poverty line as they are disproportionately exposed to toxic substances like mercury, both through informal e-waste recycling and due to living in contaminated areas.
 
-**SDG 12 "Responsible consumption and production":** The project was intended to foster greater participation of the private sector in tackling challenges associated with mercury containing products, and to introduce relevant regulatory mechanisms and set phase out dates.
+**SDG 12 "Responsible consumption and production":** The project was intended to foster greater participation of the private sector in tackling challenges associated with mercury containing products.
 
 **SDG 15 "Life on land":** The outcomes of this project will protect the environment from mercury contamination.
+
+
 
 
 
@@ -530,23 +579,28 @@ As part of the project, the following documents have been finalised:
 **Budget:** 143,500 USD <br/> <!-- 143,569 -->
 **Funders:** UNDP 70%, The Agriculture And Community Development Foundation in Thailand, Government of France
 
-With the aim to promote waste segregation, collection and recycling, and to reduce leakage of waste into the environment, this project focuses on development of a waste bank. 
-The project is being implemented in Surat Thani Rajabhat University, where currently all collected waste is disposed of at a private dumpsite without segregation.
+The aims of this project were to promote waste segregation, collection and recycling, and, as a result, to reduce leakage of the waste into the environment. 
+The focus of the project is to set up a waste bank in Surat Thani Rajabhat University. 
+Currently all the waste collected at the university is disposed of at a private dumpsite without segregation. 
 
-By the end of 2021, the conceptual design of the waste bank had been developed, with particular attention to integrating IT solutions with financial incentives and public participation.
-
+By the end of 2021, the conceptual design of the waste bank had been developed, with particular attention to integrating financial incentives with the IT solutions.
 The goals for 2022 are to:
-* manage at least 50% of the waste (both organic and non-organic) created at university through the waste bank
-* estimate the reduction in GHG emissions resulting from improvements in waste management system
+* manage at least 50% of the waste (both organic and non-organic) created at the university through the waste bank
+* estimate the reduction in GHG emissions resulting from the improvements in the waste management system
 * develop a waste bank policy for the university and the nearby community
 
-The success will be measured in tonnes of waste diverted from the dumpsite and CO2-equivalent tonnes of GHG emissions avoided as a result.
+The success of the project will be measured in tonnes of waste diverted from the dumpsite and CO2-equivalent tonnes of GHG emissions avoided as a result.
 
-**SDG 11 "Sustainable cities and communities":** Creating a local waste management solution for the university will allow it and the nearby community to be more sustainable.
+**Conclusion:** 
 
-**SDG 12 "Responsible consumption and production":** This project contributes to SDG 12 by fostering waste segregation and recycling, and by working with the private sector to create a more circular economy.
+**SDG 11 "Sustainable cities and communities":** Creating a local waste management solution for the university and fostering waste segregation and recycling will allow it and the nearby community to be more sustainable.
 
-**SDG 13: Climate action”:**
+**SDG 13: Climate action”:** Diverting waste from the dumpsite will result in the reduction in GHG emissions.
+
+
+
+
+
 
 
 ### 14. Circular Economy for the Recovery Of Waste (CERO Waste)
@@ -557,22 +611,23 @@ The success will be measured in tonnes of waste diverted from the dumpsite and C
 **Budget:** 29,000 USD <br/> <!-- 28,843 -->
 **Funders:** UNDP 91%, UK FCDO
 
-The goal of this project is to recover low value glass, paper and plastic waste in Samoa and Tokelau.
+The goal of this project is to recover low-value glass, paper and plastic waste in Samoa and Tokelau.
 
 In Samoa 8 people have been employed to perform glass waste recovery as part of the project.
-The workforce, led by a female supervisor, includes 4 young men and 3 young women with disabilities.
+The workforce, led by a female supervisor, includes 3 young women with disabilities and 4 young men.
 Procurement of a recycling machine for paper waste has been initiated, but the machine has not yet arrived in Samoa.
 
 In Tokelau, the national waste management workforce has increased from 1 to 4 people.
 All 3 waste management officers are women.
 
-**SDG 1 "No Poverty":**
+**Conclusion:** 
 
-**SDG 5 "Gender equality":** 
+**SDG 1 "No Poverty":** One of the aims of the project was to provide work opportunities to women and young people who often struggle to find income sources.
 
-**SDG 14 "Life below water":**
+**SDG 11 "Sustainable cities and communities":** Improving the waste management system on these islands will allow them to be more sustainable.
 
 
+[The summary of all 14 projects in a spreadsheet format.][1]
 
 
 [1]: https://docs.google.com/spreadsheets/d/1FfM0MyacdKvLdndJ17NqJ8KVzdM5VkfyXE-Sdu_j_Vc/edit?usp=sharing
