@@ -8,51 +8,112 @@ header: no
 
 ---
 
-This review covers UNDP's ongoing and recently completed plastic waste management projects. 
+<p style="color:#979797;">This review covers UNDP's ongoing and recently completed plastic waste management projects. 
 These projects cover a wide range of approaches, some targeted specifically at plastic waste (projects 1, 6, 11) and some at plastic waste as part of municipal (projects 3, 8, 13), healthcare (project 9) or e-waste (project 12).
+it's not the plastic, it's the contaminants in it - like PBDEs (p2) and mercury (p12)
+infrastructure
+pickers
+financing
+awareness
+reduction
+governance 
+long-term
+will be refered to as "the projects"
+</p>
 
-Many of the projects focus on integrating **waste pickers** (informal sector) into the waste management system. 
-To improve their lives, approaches range from revolving loan funds to allow access to credit and purchases of equipment (projects 8, 11), ID cards (project 6), childcare (project 6), safety gear (project 6, 11), good job opportunities (project 11).
+**Infrastructure**<br/>
+In places where waste management infrastructure is insufficient or non-existent, building such infrastructure is essential. 
+The projects facilitated creation of a wide range of infrastructure, including Material Recovery Facilities (MRFs; projects 1, 11), recycling infrastructure (projects 3, 11), facilities for processing hazardous waste (project 2), sanitary landfills (project 9), dedicated waste collection points (project 11), Reverse Vending Machines (RVMs; project 1) and bathing and hand washing facilities for waste pickers (project 6). 
+It is important to adjust the scale of the infrastructure depending on the population density and the local financial situation, for example building segregation sheds in villages instead of full-scale MRFs (project 1). 
 
-In places where waste management infrastructure is insufficient or non-existent, **building infrastructure** is essential.
-Building sanitary landfills (project 9), MRFs (projects 1, 11), recycling infrastructure, waste equipment for the boats (project 11), collection points (project 11).
-Cost effective solutions, as temporary fixes, like trash booms (project 7) could be installed in all rivers.
-Development of sector-specific waste management models (project 11) is key to success.
-It is essential to have a revenue generation model for infrastructure operation/maintenance and waste workers (project 11).
-Co-processing of waste that cannot be recycled in a financially viable way in collaboration with manufacturing or waste-to-energy facilities (project 11).
-Increasing the number of partnerships that are useful.
+Apart from building infrastructure, it is crucial to develop appropriate revenue generation models for ongoing financing of operations, maintenance and workforce (project 10, 11). 
+The key to success is to design sector-specific waste management solutions, for example waste equipment for boats and waste collection points along the shoreline for the fishing industry (project 11), instead of deploying a single generic solution that doesn't meet the needs of any sector. 
+When possible, access to infrastructure can be ensured through partnerships; for example using manufacturing or waste-to-energy facilities for co-processing of waste that cannot be recycled in a financially viable way.
+It is a good idea to supplement infrastructure designed to facilitate environmentally friendly waste management practices with temporary fixes like trash booms in rivers (project 7), if solutions that can be installed and maintained in a cost effective manner are available. 
 
-Intangible infrastructure like ASEAN Plastic Platform (project 5) and Vietnam Circular Economy Hub (project 8).
+Building data infrastructure is equally important. 
+The range of solutions that have been implemented through the projects include the ASEAN Plastic Platform (project 5), Vietnam Circular Economy Hub (project 8), national data platform on land- and sea-based waste in Indonesia (project 7) and an app for local governments and their recycling partners (project 1).
 
-Focus on innovative **financial models** is essential.
+**The informal sector**<br/>
+<p style="color:#979797;">
+(project 1)
+SHGs fro waste pickers (p1)
+Many of the projects focus on integrating waste pickers (informal sector) into the waste management system. 
+To improve their lives, approaches range from revolving loan funds to allow access to credit and purchases of equipment (projects 8, 11), ID cards (project 6), offering childcare services (project 6), safety gear (project 6, 11), good job opportunities (project 11).
+organise social inclusion and livelihood activities for formalization of waste pickers and recognition of their service to the society (p1)
+integrate waste pickers  into the waste management system (p1)
+</p>
+
+**Financially sustainable systems**<br/>
+<p style="color:#979797;">
+Focus on innovative financial models is essential.
 Creation of value chains for waste using ecosystem-level approaches - conduct a value chain analysis (including aggregators, traders and recycling facilities) and map the local informal waste sector (project 11).
 Facilitate partnership agreements between local government, waste management companies, recycling facilities and waste pickers (including allocation of land, permits to operate and the process of bidding to run the facility) (project 11).
-Conduct an assessment of needs of the local government (project 11) to ensure long-term success of the project.
 Making waste management financially sustainable, by cross subsidising across industrial and municipal waste, across neighbourhoods and waste streams.
 Ensure that the MRF operation is financially sustainable using the network developed as part of the EPPIC project and the business development opportunities that arise from it (project 11).
 Non-monetary incentives, like rice and notebooks for segregated clean recyclable waste.
+engaging with private sector (p2)
+Increasing the number of partnerships that are useful.
+</p>
 
-**Awareness campaigns** focussed on waste segregation at source (projects 10, 11, 13) and waste reduction (project 10).
+**Awareness campaigns**<br/>
+<p style="color:#979797;">
+p1
+Awareness campaigns focussed on waste segregation at source (projects 6, 10, 11, 13) and waste reduction (project 10).
 Targeting young people, students - the next generation taking care of our planet (project 11, 13).
 Incredibly important to educate government officials on SWM and reduction of plastic waste (project 8) and sector-specific people - the fishermen on waste segregation and environmental impacts of marine plastic pollution (project 11).
 Engagement through places of worship (project 7). 
 Not just awareness, but upskilling programmes for communities and businesses in the tourism sector (project 3).
+Facebook, Twitter and Instagram p7
+national TV p7
+awareness campaign in schools (p4)
+awareness campaign on reduction of waste (p4)
+awareness campaign on social media (p4)
+</p>
 
-Insufficient number of projects **focus on reduction** (project 10).
+**Waste reduction**<br/>
+<p style="color:#979797;">
+Insufficient number of projects focus on reduction (project 10 8? 4?).
 Reducing waste is equally important, even though it is essential to have a waste management system that can be relied on when necessary (for example during a pandemic, when amounts of packaging and other waste increased suddenly).
 It is especially true in low population density areas, like remote communities, small islands (project 3, 14).
 All of the projects will have a positive impact on climate, even though only one explicitly focussed on reduction in GHG emissions (project 13), but reduction has the most potential.
+Focus on quantifying the GHG emission reduction associated with the project has the potential to unlock climate funding for future waste management projects. p13
+</p>
 
-**In comparison**, infrastructure building projects are more impactful than projects that create portfolios of solutions (project 5).
-Holistic approaches are always best.
+**Governance**<br/>
+<p style="color:#979797;">
+focus on introducing regulations on national level (p2)
+Conduct an assessment of needs of the local government (project 11) to ensure long-term success of the project.
+stregthening gov capacity p7
+both on national and city level (p4)
+develop and implement enabling regulatory measures that will support the reduction of plastic waste and increase in recycling(p4)
+integrate plastic waste management as a priority into city plans (p4)
+</p>
 
-What matters is **long term effects** of these projects, their **replicability** and scaling up opportunities.
+**Conclusion**<br/>
+<p style="color:#979797;">
+Holistic approaches are always best; more impactful than projects that create portfolios of solutions (project 5). - more likely to suceed
+What matters is long term effects of these projects, their **replicability** and scaling up opportunities.
 Communicating lessons learnt to decision makers responsible for developing/selecting future projects is key to moving forward globally -  across countries and  across waste streams.
 Wide range of solutions explored through these projects is great, now we need to communicate lessons learnt instead of picking "best" approaches.
 Explicit focus on disseminating the knowledge generated during the deployment of a project (project 11) is great. 
+tempting to compare number of tonnes per usd spent, but doesn't matter
+</p>
 
 
 
+<!-- 
+SDGs:
+11 Sustainable - 7 projects (3,5,7,8,10,13,14)
+14 Ocean - 6 projects (3,4,5,7,8,11)
+15 Land - 5 projects (1,2,9,10,12)
+1 Poverty - 5 projects (1,6,11,12,14)
+12 Consumption - 5 projects (1,2,4,6,12)
+5 Gender - 2 projects (6,8)
+9 Industry - 1 project (11)
+3 Health - 1 project (9)
+13 Climate - 1 project (13) 
+-->
 
 
 
@@ -65,7 +126,7 @@ Explicit focus on disseminating the knowledge generated during the deployment of
 **Budget:** 13.17 million USD <br/>
 **Funders:** The Coca-Cola Company 60%, Hindustan Unilever, Charities Aid Foundation (CAF) India, CSR Trust for SDGs in India (CTSI), The Coca-Cola Foundation, UNDP, Governments Of Uttarakhand and Odisha
 
-The aims of this proejct are to set up Material Recovery Facilities (MRFs, referred to as Swachhata Kendras in India) for waste sorting, shredding and baling, and to integrate waste pickers (referred to as Safai Sathis in India) into the waste management system. 
+The aims of this project are to set up Material Recovery Facilities (MRFs, referred to as Swachhata Kendras in India) for waste sorting, shredding and baling, and to integrate waste pickers (referred to as Safai Sathis in India) into the waste management system. 
 This umbrella project consists of 5 projects, each conducted in partnership with a corporate funder.
 
 
@@ -79,10 +140,10 @@ Through these MRFs approximately 23,000 tonnes of plastic waste have been collec
 The target for 2022 is to collect at least 67,000 tonnes of plastic waste and to onboard 9,000 more waste pickers. 
 
 To support these activities, the plan is to:
-* roll out an app for the local governments and recycling partners in all participating cities (already done in 11 of them)
+* roll out an app for the local governments and their recycling partners in all participating cities (already done in 11 of them)
 * establish Self Help Groups (SHGs) for waste pickers (84 of them across 18 cities have already been established)
 * organise meetings with local stakeholders including municipal corporations and councils, CSOs, NGOs, educational institutions, corporate partners, waste picker SHGs, recyclers, waste collectors, municipal contractors, etc. (almost 2000 meetings have already been conducted)
-* conduct awareness campaigns promoting segregation of plastic waste at source (campaings targeting 26 Resident Welfare Associations (RWAs) in 5 cities have already been conducted)
+* conduct awareness campaigns promoting segregation of plastic waste at source (campaigns targeting 26 Resident Welfare Associations (RWAs) in 5 cities have already been conducted)
 
 
 
@@ -108,7 +169,7 @@ As part of this project, MRFs have been set up in Goa (in Panaji), Uttarakhand (
 So far 649 waste pickers have been onboarded, and there are plans to onboard 150 more. 
 In response to COVID-19, all onboarded waste pickers were provided with safety gear including clothing and gloves. 
 More than 250 meetings and training sessions have been conducted for waste pickers, and 450 waste pickers have participated in social inclusion activities. 
-In 2020 these MRFs processed 1,492 tonnes of plastic waste; and duble that amount in 2021. 
+In 2020 these MRFs processed 1,492 tonnes of plastic waste; and double that amount in 2021. 
 To support plastic waste collection, an awareness campaign covered 1,045 households in 2020 and 55 educational institutions in 2021.
 
 
@@ -144,9 +205,9 @@ To support these activities, the plan is to:
 
 
 **Conclusion:** These 5 projects, each conducted in partnership with a corporate funder, have the potential to kickstart efficient waste management systems in cities and villages across India. 
-The range of approaches used to integrat waste pickers into the waste managent system is commendable. 
+The range of approaches used to integrate waste pickers into the waste management system is commendable. 
 
-**SDG 1 "No Poverty":** The focus of this project is on improving lives of waste pickers and integrating them into the waste managent system by providing them with good work opportunities and safety gear, setting up SHGs for them and organising social inclusion and livelihood activities for formalization of waste pickers and recognition of their service to the society.
+**SDG 1 "No Poverty":** The focus of this project is on improving lives of waste pickers and integrating them into the waste management system by providing them with good work opportunities and safety gear, setting up SHGs for them and organising social inclusion and livelihood activities for formalization of waste pickers and recognition of their service to the society.
 
 **SDG 12 "Responsible consumption and production":** Establishing partnerships with companies and increasing the amount of recycling are supposed to contribute to responsible production, while the awareness campaign fosters responsible consumption.
 
@@ -346,7 +407,7 @@ To support the HDPE and LDPE plastic waste collection, the goal was to reach 100
 **Conclusion:** If successful, approaches like the ID card system and the childcare support programme could be replicated in other locations to contribute to integrating waste pickers into the formal economy. 
 Lessons learnt from developing financially sustainable waste collection models and designing supply chains for waste should be disseminated across other locations and waste streams.
 
-**SDG 1 "No Poverty":** To improve the lives of waste pickers, the goals of this projects included enrolling them into an ID card system, training them in waste management safety and installing WASH facilities for them.
+**SDG 1 "No Poverty":** To improve the lives of waste pickers, the goals of this project included enrolling them into an ID card system, training them in waste management safety and installing WASH facilities for them.
 
 **SDG 5 "Gender equality":** One of the goals of the project is to establish a childcare support programme for children of waste pickers.
 
@@ -369,7 +430,7 @@ Lessons learnt from developing financially sustainable waste collection models a
 The aim of this project was to assist the national government with implementation of the National Action Plan (NAP) for Marine Debris Handling by strengthening the Secretariat's capacity to coordinate the progress of the five task force units. 
 In Indonesia, the Secretariat is the government ministry responsible for providing technical, administrative, and analytical support to the President and Vice President in the exercise of their state powers. 
 
-In 2021, a reporting system for monitoring of progress on the NAP implementation was established. 
+In 2021, a reporting system for monitoring progress on the NAP implementation was established. 
 The NAP Implementation Team is now able to easily monitor the progress of each of the ministries through this system.
 Evaluation meetings have been held where representatives of the ministries updated each other on their respective ministry’s achievements and future plans. 
 A database of all national and regional government policies on waste management and marine plastic pollution was created. 
@@ -392,7 +453,7 @@ As part of this movement, 56 mosques collected and sold 30 tons of household was
 This was followed by webinars and clean-ups organised by churches, in collaboration with Indonesia Plastic Recycling Association (ADUPI) and two large corporates (Mayora and Danone). 
 
 **Conclusion:** This project combines assisting the government with coordinating the progress on reducing marine plastic pollution with building infrastructure (waste management facilities and trash booms) and awareness campaigns (through social media, national television and places of worship). 
-If approaches like a reporting system for monitoring of progress on a national level, dedicated meetings between representatives of different ministries, a database of all relevant policies and a national data platform on waste prove successful, semilar approaches could be used in other ASEAN countries. 
+If approaches like a reporting system for monitoring progress on a national level, dedicated meetings between representatives of different ministries, a database of all relevant policies and a national data platform on waste prove successful, similar approaches could be used in other ASEAN countries. 
 If trash booms prove to be cheap to install and easy to maintain, they could be installed in key locations in the region's rivers. 
 
 **SDG 11 "Sustainable Cities and Communities":** This project contributes to fostering sustainable communities by engaging different types of people through social media, national television and places of worship.
@@ -417,7 +478,7 @@ The aims of this project are to introduce effective solid waste management syste
 The goals are to: 
 * conduct studies of the solid waste management (SWM) systems in 5 cities (Ha Long, Quy Nhon, Mui Ne, Binh Duong and Da Lat) 
 * create action plans for capacity building 
-* establish revolving loan funds managed by the Women’s Union
+* establish revolving loan funds managed by the Women’s Union to improve waste picker access to credit
 * educate government officials on SWM and reduction of plastic waste
 * develop a circular economy training programme
 
@@ -523,7 +584,7 @@ The goals are to:
 * conduct the value chain analysis (including aggregators, traders and recycling facilities) and map the local informal waste sector 
 * facilitate partnership agreements between local government, waste management companies, recycling facilities and waste pickers (including allocation of land, permits to operate and the process of bidding to run the facility)
 * procure machinery for the MRF, oversee its operations and establish Standard Operating Guidelines
-* set up a revenue generation model for waste workers based on the supply of segregated waste
+* set up a revenue generation model for the workers based on the supply of segregated waste
 * ensure that the MRF operation is financially sustainable using the network developed as part of the EPPIC project and the business development opportunities that arise from it
 * develop waste segregation plans and technical guidelines, including tailored guidance for each sector and stakeholder type
 * procure waste collection and segregation infrastructure (including bins and sorting equipment) and install it in critical locations around the city 
@@ -671,4 +732,4 @@ All 3 waste management officers are women.
 <!-- https://info.undp.org/docs/pdc/Documents/VNM/00._Project_Document_revised_after_LPAC.docx.pdf -->
 [18]: http://www.clinmedres.org/content/1/4/281.short
 
-<!-- <h5 style="color:#979797;">2. Ethiopia </h5> -->
+<!-- <p style="color:#979797;">2. Ethiopia </p> -->
