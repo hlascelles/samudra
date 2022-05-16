@@ -102,18 +102,6 @@ tempting to compare number of tonnes per usd spent, but doesn't matter
 
 
 
-<!-- 
-SDGs:
-11 Sustainable - 7 projects (3,5,7,8,10,13,14)
-14 Ocean - 6 projects (3,4,5,7,8,11)
-15 Land - 5 projects (1,2,9,10,12)
-1 Poverty - 5 projects (1,6,11,12,14)
-12 Consumption - 5 projects (1,2,4,6,12)
-5 Gender - 2 projects (6,8)
-9 Industry - 1 project (11)
-3 Health - 1 project (9)
-13 Climate - 1 project (13) 
--->
 
 
 
