@@ -65,39 +65,42 @@ Explicit focus on disseminating the knowledge generated during the deployment of
 **Budget:** 13.17 million USD <br/>
 **Funders:** The Coca-Cola Company 60%, Hindustan Unilever, Charities Aid Foundation (CAF) India, CSR Trust for SDGs in India (CTSI), The Coca-Cola Foundation, UNDP, Governments Of Uttarakhand and Odisha
 
-The focus of this project is on waste pickers (referred to as Safai Sathis in India) and Material Recovery Facilities (MRFs, referred to as Swachhata Kendras in India) where waste sorting, shredding and baling takes place.
+The aims of this proejct are to set up Material Recovery Facilities (MRFs, referred to as Swachhata Kendras in India) for waste sorting, shredding and baling, and to integrate waste pickers (referred to as Safai Sathis in India) into the waste management system. 
+This umbrella project consists of 5 projects, each conducted in partnership with a corporate funder.
+
+
 
 **Partnership with Hindustan Coca-Cola Beverages (HCCB)**
 
-The key part of this project was to set up MRFs and waste collection systems in cities across India and to support them through enterprise partnerships.
-This was preceded by a selection process, surveys, meetings, risk assessments and legal agreements; and followed by performance monitoring to enhance recycling rates.
-Local waste pickers, recyclers, NGOs, shops, hospitals and educational institutions were engaged. 
-The project was rolled out in 13 cities in 2018 and in 16 more cities in 2019. 
-By the end of 2021 the total number of cities reached 31 and 22 MRFs had been established. 
+The aim of this project was to set up MRFs and waste collection systems in cities across India and to support them through partnerships with businesses and performance monitoring to enhance recycling rates. 
+Local waste pickers, recyclers, NGOs, shops, hospitals and educational institutions have been engaged. 
+By the end of 2021 the project was rolled out in 31 cities and 22 MRFs had been established. 
 Through these MRFs approximately 23,000 tonnes of plastic waste have been collected every year from 2019 until 2021. 
-The target for 2022 is to collect more than 67,000 tonnes of plastic waste and onboard 9,000 more waste pickers. 
+The target for 2022 is to collect at least 67,000 tonnes of plastic waste and to onboard 9,000 more waste pickers. 
 
-To support these activities, the following actions have been taken or planned:
-* an app for use by local governments and recycling partners rolled out in 11 cities, with plans to cover all participating cities
-* 84 waste picker Self Help Groups (SHGs) have been established across 18 cities
-* almost 2000 meetings have been conducted in participating cities with local stakeholders including municipal corporations and councils, CSOs, NGOs, educational institutions, corporate partners, waste picker SHGs, recyclers, waste collectors, municipal contractors, etc.
-* awareness campaigns promoting segregation of plastic waste at source conducted in 26 Resident Welfare Associations (RWAs) in 5 cities
+To support these activities, the plan is to:
+* roll out an app for the local governments and recycling partners in all participating cities (already done in 11 of them)
+* establish Self Help Groups (SHGs) for waste pickers (84 of them across 18 cities have already been established)
+* organise meetings with local stakeholders including municipal corporations and councils, CSOs, NGOs, educational institutions, corporate partners, waste picker SHGs, recyclers, waste collectors, municipal contractors, etc. (almost 2000 meetings have already been conducted)
+* conduct awareness campaigns promoting segregation of plastic waste at source (campaings targeting 26 Resident Welfare Associations (RWAs) in 5 cities have already been conducted)
+
+
 
 **Partnership with Hindustan Unilever in Mumbai**
 
-The key part of this project was to set up MRFs in Mumbai. 
-Three MRFs have been set up and one more is in progress. 
-For all 4 MRFs it is planned to install weighbridges and relevant machinery, obtain insurance for the materials processed and stored, and obtain Maharashtra Pollution Control Board (MPCB) certification. 
-So far 336 waste pickers have been onboarded across the MRFs, and there are plans to onboard 650 more. 
+The goal of this project was to set up 4 MRFs in Mumbai (3 of those have already been set up).
+For all MRFs the plan is to install weighbridges and relevant machinery, purchase insurance for the materials processed and stored, and obtain Maharashtra Pollution Control Board (MPCB) certification. 
+So far 336 waste pickers have been onboarded in the MRFs, and there are plans to onboard 650 more. 
 MRFs will organise quarterly medical health camps for waste pickers and workshops that will, among other things, increase gender sensitization and raise awareness about Prevention of Sexual Exploitation and Abuse (PSEA). 
-In 2020, these MRFs collected 1,481 tonnes of plastic waste and 1,037 tonnes of plastic waste were processed in a decentralised manner; and it is expected that these numbers will increase.
+In 2020, these MRFs collected 1,481 tonnes of plastic waste, and 1,037 tonnes of plastic waste were processed in a decentralised manner. 
 
-To support these activities, the following actions have been planned:
+To support these activities, the plan is to:
+* establish new partnerships with institutions, companies and recyclers across Mumbai
 * onboard more than 100,000 households to encourage waste segregation at source (17,661 households already onboarded)
-* establish new institutional and enterprise partnerships across Mumbai
-* establish new partnerships with authorized recyclers
-* conduct awareness sessions or webinars with educational institutions and RWAs
+* conduct awareness sessions with educational institutions and RWAs
 * offer reusable masks in exchange for plastic waste through the "Plastic Lao – Mask Pao!" campaign
+
+
 
 **Partnership with HDFC Bank**
 
@@ -105,43 +108,49 @@ As part of this project, MRFs have been set up in Goa (in Panaji), Uttarakhand (
 So far 649 waste pickers have been onboarded, and there are plans to onboard 150 more. 
 In response to COVID-19, all onboarded waste pickers were provided with safety gear including clothing and gloves. 
 More than 250 meetings and training sessions have been conducted for waste pickers, and 450 waste pickers have participated in social inclusion activities. 
-In these MRFs 1,492 tonnes of plastic waste were processed in 2020, and the amount doubled in 2021. 
+In 2020 these MRFs processed 1,492 tonnes of plastic waste; and duble that amount in 2021. 
 To support plastic waste collection, an awareness campaign covered 1,045 households in 2020 and 55 educational institutions in 2021.
+
+
 
 **Partnership with Nayara Energy in Gujarat**
 
 This project takes place in 2 cities and 15 villages. 
-Baseline studies have been conducted in all locations and consents from Urban Local Bodies (ULBs) and rural authorities have been obtained.
-An MRF has been set up in Khambhalia; setting up of an MRF in the second city and segregation sheds in the villages is in progress. 
+Baseline studies have been conducted in all locations and consents from Urban Local Bodies (ULBs) and rural authorities have been obtained. 
+The goal is to set up MRFs in both cities and segregation sheds in the villages (MRF in Khambhalia has already been set up). 
 So far 98 waste pickers have been onboarded, and there are plans to onboard 200 more. 
-The goals are to establish 10 waste picker SHGs and to organise workshops that will, among other things, increase gender sensitization and raise awareness about PSEA. 
 The target for 2022 is to process 600 tonnes of plastic waste.
 
-To support these activities, the following actions have been planned:
+To support these activities, the plan is to:
 * set up data collection and monitoring systems at all locations
 * install 20 Reverse Vending Machines (RVMs)
+* establish 10 waste picker SHGs and to organise workshops that will, among other things, increase gender sensitization and raise awareness about PSEA
 * conduct 10 Information, Education and Communication (IEC) activities and onboard 5,000 households to foster segregation at source
 * organise 10 spot beautification activities, including wall paintings
 
+
+
 **Partnership with The Coca-Cola India Foundation**
 
-As part of this project, MRFs in 3 cities have been set up with consents from ULBs; and 3 more are planned for 2022. 
-So far 268 waste pickers have been onboarded, and there are plans to onboard 200 more. 
-90 waste pickers were provided with safety gear including clothing and gloves. 
-4 waste picker Self Help Groups (SHGs) have been established, and 5 more are in progress. 
-Plans for 2022 include social inclusion and livelihood activities for formalization of waste pickers and recognition of their service to the society, and workshops that will, among other things, increase gender sensitization and raise awareness about PSEA. 
-In these 3 MRFs 2,069 tonnes of plastic waste were processed in 2021, and it is expected that these numbers will increase.
-To support plastic waste collection, an awareness campaign that will cover 3,000 households is planned for 2022.
+The goal of this project was to set up 6 MRFs (3 of those have already been set up with consents from ULBs).
+So far 268 waste pickers have been onboarded (and 90 of them provided with safety gear including clothing and gloves), and there are plans to onboard 200 more. 
+In 2021 these MRFs processed 2,069 tonnes of plastic waste. 
 
-**Conclusion:** ...
+To support these activities, the plan is to:
+* establish 9 waste picker SHGs (4 have already been established) and to organise workshops that will, among other things, increase gender sensitization and raise awareness about PSEA
+* organise social inclusion and livelihood activities for formalization of waste pickers and recognition of their service to the society
+* conduct an awareness campaign that will cover 3,000 households
 
-**SDG 1 "No Poverty":** ...
 
-**SDG 5 "Gender equality":** ...
 
-**SDG 12 "Responsible consumption and production":** ...
+**Conclusion:** These 5 projects, each conducted in partnership with a corporate funder, have the potential to kickstart efficient waste management systems in cities and villages across India. 
+The range of approaches used to integrat waste pickers into the waste managent system is commendable. 
 
-**SDG 15 "Life on land":** ...
+**SDG 1 "No Poverty":** The focus of this project is on improving lives of waste pickers and integrating them into the waste managent system by providing them with good work opportunities and safety gear, setting up SHGs for them and organising social inclusion and livelihood activities for formalization of waste pickers and recognition of their service to the society.
+
+**SDG 12 "Responsible consumption and production":** Establishing partnerships with companies and increasing the amount of recycling are supposed to contribute to responsible production, while the awareness campaign fosters responsible consumption.
+
+**SDG 15 "Life on land":** By improving waste management systems and, as a result, reducing open burning and dumping of waste this project will protect soils, ground waters and air quality. 
 
 
 
@@ -166,7 +175,7 @@ Some PBDEs demonstrate [high affinity for lipids][18] and can accumulate in the 
 PBDEs have been associated with tumors, neurodevelopmental toxicity and thyroid hormone imbalance. 
 Children exposed to PBDEs are prone to subtle but measurable developmental problems; PBDEs can be passed on to children through breast milk. 
 
-The focus of this project is on reducing release of PBDEs during waste mismanagement, recycling and plastic product manufacturing activities.
+The focus of this project was on reducing release of PBDEs during waste mismanagement, recycling and plastic product manufacturing activities.
 To prevent PBDEs from being released into the environment or entering recycled materials, UNDP supported the Ministry of Industry in destroying PBDE containing plastic waste.
 
 In 2018, several key documents had been drafted - the Regulations on Monitoring and Controlling PBDE containing products, the National Standard for Power banks, and Technical Guidelines for PBDE Free Quality Assurance (based on ISO 9001:2015). 
@@ -175,33 +184,28 @@ This was followed by finalising of the National Standard (SNI IEC:62321) for pro
 
 A training module for manufacturers on using flame retardants and identification of PBDEs in industrial raw materials (both virgin and recycled) has been developed. 
 In addition, the Laboratory Information System Dashboard and PBDE website have been set up, and an XRF Analyzer Spectrometer for PBDE screening has been procured. 
-There are plans to conduct technical capacity training on testing for PBDEs for customs officers.
+There were plans to conduct technical capacity training on testing for PBDEs for customs officers.
 
 Training of Trainers (ToT) for awareness of the dangers of PBDEs, health protection and financial literacy modules for recyclers took place in Cikarang in West Java and Mojokerto in East Java. 
-The plastics recycling sector, as the key sector handling PBDE containing plastic waste, now has information about best available techniques (BAT) and best environmental practice (BEP) that have been developed recently. 
-In addition, draft technical guidelines for reducing unintentional release of PBDEs have been published. 
+The plastics recycling sector, as the key sector handling PBDE containing plastic waste, now has the information about the best available techniques (BAT) and the best environmental practice (BEP) that have been developed recently. 
+In addition, a draft of technical guidelines for reducing unintentional release of PBDEs has been published. 
 
-As part of the project, 7 mini depots have been set up or upgraded and their staff trained:
-* in Depok in West Java, focussing on construction of the building
-* in Bandung Municipality in West Java, focussing on building renovation and procurement of equipment for plastic waste processing
-* in Cirebon in West Java, focussing on set up and procurement of equipment
-* in Mojokerto in East Java, focussing on set up and procurement of equipment
-* in Malang Municipality in East Java, focussing on procurement of equipment for plastic and organic waste processing
-* in Malang Regency in East Java, focussing on procurement of equipment for plastic and organic waste processing
-* in Banyuwangi Regency in East Java, focusing on procurement of a drying machine
+Seven mini depots designed for safe destruction of PBDE containing plastic waste were set up and staffed with trained workers. 
+These are located in West Java (in Depok, Bandung Municipality and Cirebon) and East Java (in Mojokerto, Malang Municipality, Malang Regency and Banyuwangi Regency).
+Depending on the location, the goals included construction of a building, renovation and procurement of equipment (drying machines, plastic and organic waste processing equipment).
+The target of disposing of 1,000 tonnes of PBDE containing plastic waste was reached by May 2020.
 
-These mini depots are designed for safe destruction of PBDE containing plastic waste. 
-By May 2020, the target of disposing of 1,000 tonnes of PBDE containing plastic waste had been reached.
+**Conclusion:** The project was designed to solve the challenge with PBDE containing plastics by destroying existing PBDE containing plastic waste, creating proper regulations on PBDE containing products and guidelines for identification of PBDEs in products, and training customs officers to ensure control over presence on PBDEs in the country. 
+The facilities set up for destruction of PBDE containing waste could be used for other waste management operations in the following years. 
 
-**Conclusion:** 
+**SDG 12 "Responsible consumption and production":** This project engaged manufacturers and recyclers and contributed to the development of the EPR scheme for electronic products, thus fostering responsible production.
 
-**SDG 1 "No Poverty":**
+**SDG 15 "Life on land":** The aim of this project is to protect the environment from contamination with PBDEs.
 
-**SDG 5 "Gender equality":** 
 
-**SDG 12 "Responsible consumption and production":**
 
-**SDG 15 "Life on land":** 
+
+
 
 
 
@@ -227,7 +231,7 @@ By the end of 2021, the assessment for Besar was in progress, while the assessme
 
 **SDG 11 "Sustainable cities and communities":** Implementing effective waste management systems on small islands will allow local communities to be more sustainable.
 
-**SDG 14 "Life below water":** Targeting small islands with developed tourism sectors will significantly reduce marine plastic pollution originating from there.
+**SDG 14 "Life below water":** Targeting small islands with developed tourism sectors will reduce marine plastic pollution originating from there.
 
 
 
@@ -242,22 +246,34 @@ By the end of 2021, the assessment for Besar was in progress, while the assessme
 **Budget:** 2.46 million USD <br/>
 **Funders:** Government Of Japan 98%, UNDP
 
+The aims of this project are to reduce the amount of plastic waste and, as a result, to reduce the amount of marine plastic pollution. 
+The national-level goals are to:
+* identify best practices to reduce plastic waste by private sector and citizens, and feature them on the circular economy platform
+* develop and implement enabling regulatory measures to support the reduction of plastic waste, introduction of alternatives and increase in recycling 
+* adopt a circular economy strategy and action plans
 
-The focus of this project is on reduction and recycling of plastic waste. 
-The goals include:
-* adopt a circular economy strategy and action plan 
-* develop and implement enabling regulatory measures that will support the reduction of plastic waste, introduction of alternatives and increase in recycling 
-* develop educational and awareness raising materials (posters, videos, cartoons, a website and a campaign on social media) and disseminate them to public schools 
-* conduct training on plastic crisis and solutions and introduce single-use plastic reduction measures in at least 30 public schools in five province capitals (Siem Reap, Sihanoukville, Khemarak Phoumin, Kampot and Kep)
-* reach 1 million people with an awareness raising social media campaign encouraging appropriate plastic waste management
-* identify best practices to reduce plastic waste by private sector and citizens, and feature them on the circular economy platform (50% women-led)
-* develop an operational solid waste management plan in at least 1 city
+The city-level goals are to:
 * integrate plastic waste management as a priority into city plans of Phnom Penh, the capital, Siem Reap and Sihanoukville 
+* develop an operational solid waste management plan in at least 1 city
 * ensure that at least 20 businesses (primarily in the tourism sector) adopt single-use plastic reduction measures and foster recycling
 
-There are no updates on the progress of the project.
+The above will be supported by an awareness campaign, for which the goals are to:
+* develop educational and awareness raising materials for dissemination in public schools (posters, videos, cartoons, a website and a campaign on social media)
+* conduct training on plastic crisis and solutions, and introduce single-use plastic reduction measures in at least 30 public schools in five province capitals (Siem Reap, Sihanoukville, Khemarak Phoumin, Kampot and Kep)
+* reach 1 million people with an awareness raising social media campaign encouraging appropriate plastic waste management
 
-**Conclusion:** 
+No updates on the progress of this project are yet available.
+
+**Conclusion:** The goals to develop and implement enabling regulatory measures for waste reduction and recycling and to integrate plastic waste management as a priority into city plans, if successful, will be the key achievements of this project. 
+The focus on waste reduction is commendable. 
+
+**SDG 12 "Responsible consumption and production":** Engaging with local businesses and focus on waste reduction are supposed to contribute to responsible production, while the awareness campaign fosters responsible consumption.
+
+**SDG 14 "Life below water":** By tackling the challenge both on national and city levels this project has the potential to reduce marine plastic pollution.
+
+
+
+
 
 
 
@@ -306,10 +322,11 @@ There is a danger that a collection of individual solutions will not result in a
 **Funders:** Unilever Bangladesh 83%, UK FCDO, UK DFID, HSBC 
 
 With the aim to create a circular economy model for plastic waste, this project focuses on waste pickers (informal economy) and supply chains for plastic waste (formal economy). 
-The project is being implemented in Narayanganj, a city of 2.2 million people located 16 km southeast of Dhaka, the capital. 
-In Narayanganj, 800 tonnes of waste are produced daily, of which 50 tonnes are plastic waste. HDPE and LDPE plastics form 30% of the total plastic waste.
+The project takes place in Narayanganj, a city of 2.2 million people located 16 km southeast of Dhaka, the capital. 
+Narayanganj city produces 800 tonnes of waste per day, of which 50 tonnes are plastic waste. 
+HDPE and LDPE plastics form 30% of the total plastic waste. 
 
-In collaboration with waste pickers, the project goals were to:
+The goals in the informal economy are to:
 * introduce an ID card system and enrol 300 waste pickers
 * establish a childcare support programme for 300 children of waste pickers
 * conduct waste management safety training for 100 waste pickers
@@ -317,20 +334,21 @@ In collaboration with waste pickers, the project goals were to:
 
 By the end of 2021, the waste management safety training module had been developed and 15 WASH facilities were in progress.
 
-In collaboration with the private sector, the project goals were to:
+The goals in the formal economy are to:
 * develop a financially sustainable plastic collection model
 * design a supply chain for collected plastic waste
-* collect HDPE and LDPE plastic waste and make it part of the relevant supply chain in formal economy
+* collect HDPE and LDPE plastic waste and make it part of the relevant supply chain
 
 By the end of 2021, baseline assessment of the plastic collection model was almost complete, but the collection of plastic waste had not yet started.
 
 To support the HDPE and LDPE plastic waste collection, the goal was to reach 100,000 people with an awareness campaign that would communicate the importance of segregating plastic waste at source and inform about the new plastic collection system and locations of collection hubs. By the end of 2021, design of the awareness campaign was in progress.
 
-**Conclusion:** Evaluation of benefits of the ID card system and the childcare support programme will determine whether similar projects could contribute to the circular economy for plastic waste in other locations. The awareness campaign, if successful, could be rolled out in other cities in Bangladesh. The implementation of the HDPE and LDPE plastic waste supply chain, from collection to becoming part of new products, will provide valuable lessons that could be used across other waste streams.
+**Conclusion:** If successful, approaches like the ID card system and the childcare support programme could be replicated in other locations to contribute to integrating waste pickers into the formal economy. 
+Lessons learnt from developing financially sustainable waste collection models and designing supply chains for waste should be disseminated across other locations and waste streams.
 
 **SDG 1 "No Poverty":** To improve the lives of waste pickers, the goals of this projects included enrolling them into an ID card system, training them in waste management safety and installing WASH facilities for them.
 
-**SDG 5 "Gender equality":** One of the goals of the project was to establish a childcare support programme for children of waste pickers.
+**SDG 5 "Gender equality":** One of the goals of the project is to establish a childcare support programme for children of waste pickers.
 
 **SDG 12 "Responsible consumption and production":** Development of a financially sustainable plastic collection model and design of a supply chain for collected plastic waste are supposed to contribute to responsible production, while the awareness campaign fosters responsible consumption.
 
@@ -348,36 +366,38 @@ To support the HDPE and LDPE plastic waste collection, the goal was to reach 100
 **Funders:** Norway Ministry Of Foreign Affairs
 
 
-The aim of this project was to assist the national government in coordinating the progress on the National Action Plan (NAP) for Marine Debris Handling via strengthening of the Secretariat's capacity to  coordinate the five task force units. 
+The aim of this project was to assist the national government with implementation of the National Action Plan (NAP) for Marine Debris Handling by strengthening the Secretariat's capacity to coordinate the progress of the five task force units. 
 In Indonesia, the Secretariat is the government ministry responsible for providing technical, administrative, and analytical support to the President and Vice President in the exercise of their state powers. 
 
-In 2021, a reporting system for monitoring and evaluation of progress on the NAP implementation was established. 
-Through this system, the NAP Implementation Team is now able to monitor the progress of each of the ministries. 
-This was supported by a policy brief and a database of national and regional government policies on waste management and marine plastic pollution. 
-Additionally, evaluation meetings have been held where representatives of the ministries updated each other on their respective ministry’s achievements and future plans. 
+In 2021, a reporting system for monitoring of progress on the NAP implementation was established. 
+The NAP Implementation Team is now able to easily monitor the progress of each of the ministries through this system.
+Evaluation meetings have been held where representatives of the ministries updated each other on their respective ministry’s achievements and future plans. 
+A database of all national and regional government policies on waste management and marine plastic pollution was created. 
 An annual report for the President of Indonesia on the progress of marine plastic pollution handling was prepared. 
 
-Integrated national data platform on land- and sea-based waste was created to make marine plastic debris reduction calculations easy. 
+Integrated national data platform on land- and sea-based waste was created to make calculations of reduction in marine plastic pollution easy. 
 A coordination meeting with two maritime transport companies, Pelindo III and ASDP Indonesia Ferry, ensured that their data will be integrated with the national data platform. 
 
 In 2021, a policy brief regarding the use of trash booms in the 10 most plastic-polluted rivers was published. 
-This was followed by the installation of a trash boom and a clean-up in the Mangrove Conservation Forest area in Denpasar, Bali. 
+This was followed by a clean-up and an installation of a trash boom in the Mangrove Conservation Forest area in Denpasar, Bali. 
 The event, organised in partnership with the Ministry of Environment and Forestry, engaged the local government, fishermen, NGOs and communities.
 Separately, waste management facilities have been procured in Labuan Bajo, a tourist destination on Flores island, and design of activities aimed at changing waste management behaviours began.
 
-To increase awareness about the need to reduce marine plastic pollution, social media campaigns have been conducted on Facebook, Twitter and Instagram; including the use of InstaStories and short videos on YouTube. 
+To increase awareness about the need to reduce marine plastic pollution, social media campaigns have been conducted on Facebook, Twitter and Instagram. 
 To reach a wider audience, two live sessions about marine plastic pollution were held on Kompas TV, a national television channel, in collaboration with the Ministry of Communication and Information. 
 The youth were targeted through an e-learning programme and EUPHORIA comic and writing competition, which attracted over 1,400 entries from across Indonesia. 
 
-The Secretariat launched the Interfaith Indonesian Waste Charity Movement (GRADASI) in collaboration with the Ministry of Religion, the Indonesian Ulema Council, country's top Islamic scholars body, and the Mosque Council.
+The Secretariat launched the Interfaith Indonesian Waste Charity Movement (GRADASI) in collaboration with the Ministry of Religion, the Indonesian Ulema Council, country's top Islamic scholars body, and the Mosque Council. 
 As part of this movement, 56 mosques collected and sold 30 tons of household waste in 2021. 
-This was followed by webinars and clean-ups organised by churches, in collaboration with Indonesia Plastic Recycling Association (ADUPI) and two large corporates (Mayora and Danone).
+This was followed by webinars and clean-ups organised by churches, in collaboration with Indonesia Plastic Recycling Association (ADUPI) and two large corporates (Mayora and Danone). 
 
-**Conclusion:** 
+**Conclusion:** This project combines assisting the government with coordinating the progress on reducing marine plastic pollution with building infrastructure (waste management facilities and trash booms) and awareness campaigns (through social media, national television and places of worship). 
+If approaches like a reporting system for monitoring of progress on a national level, dedicated meetings between representatives of different ministries, a database of all relevant policies and a national data platform on waste prove successful, semilar approaches could be used in other ASEAN countries. 
+If trash booms prove to be cheap to install and easy to maintain, they could be installed in key locations in the region's rivers. 
 
-**SDG 12 "Responsible consumption and production":** 
+**SDG 11 "Sustainable Cities and Communities":** This project contributes to fostering sustainable communities by engaging different types of people through social media, national television and places of worship.
 
-**SDG 14 "Life below water":** 
+**SDG 14 "Life below water":** By focussing both on waste infrastructure and on government's functions, waste management policies and waste data, this project will contribute to the reduction of the amount of marine plastic pollution.
 
 
 
@@ -434,12 +454,12 @@ The goals are to:
 
 The success of the project will be measured by the proportion of healthcare waste that is managed in accordance with the new guidelines in two pre-selected hospitals.
 
-**Conclusion:** If the project is successful, similar local waste management solutions for healthcare waste could be replicated in other parts of Sri Lanka and other ASEAN countries. 
+**Conclusion:** If the project is successful, similar local waste management solutions for healthcare waste could be replicated in other parts of Sri Lanka and other countries. 
 It is essential to ensure that access to landfills containing healthcare waste is carefully managed to prevent infections and injuries caused by sharp objects.
 
 **SDG 3 "Good health and wellbeing":** A safe local waste management solution for healthcare waste will minimise chances of infection due to contact with waste.
 
-**SDG 15 "Life on land":** Preventing open burning and dumping of healthcare waste will protect soils, ground water and air quality. 
+**SDG 15 "Life on land":** Reducing open burning and dumping of healthcare waste will protect soils, ground waters and air quality. 
 
 
 
@@ -471,7 +491,7 @@ Similarly, if successful, use of non-monetary incentives (for example, rice and 
 
 **SDG 11 "Sustainable cities and communities":** Improving management of recyclable waste (both organic and non-organic) will allow the communities to be more sustainable.
 
-**SDG 15 "Life on land":** The focus on reducing the amount of waste and the amount waste going to landfill will protect soils, ground water and air quality, and minimise open burning of waste.
+**SDG 15 "Life on land":** The focus on reducing the amount of waste and the amount waste going to landfill will protect soils, ground waters and air quality, and minimise open burning of waste.
 
 
 
@@ -487,11 +507,11 @@ Similarly, if successful, use of non-monetary incentives (for example, rice and 
 **Funders:** Norway Ministry Of Foreign Affairs
 <!-- Caitlin Wiesen https://www.linkedin.com/in/caitlin-wiesen-56109b16/ -->
 
-The aims of this project are to improve the livelihoods of informal waste pickers and to reduce the amount of marine plastic pollution originating on land and at sea. 
+The aims of this project are to improve the lives of informal waste pickers and to reduce the amount of marine plastic pollution originating on land and at sea. 
 The project will deploy and test a range of solutions, including support interventions for waste pickers, development of sector-specific waste management models and creation of value chains for waste using ecosystem-level approaches. 
 To ensure that the project benefits all regions of Vietnam and other ASEAN countries, the knowledge generated during the deployment of pilot projects will be disseminated and policy discussion workshops will be organised. 
 
-To improve the livelihoods of waste pickers and to make them more resilient the goals are to:
+To improve the lives of waste pickers and to make them more resilient the goals are to:
 * increase the number of waste pickers who have received safety gear (including soap, masks, and hand sanitizers) from 600 to 1200
 * expand revolving loan funds available to waste pickers, ensure that the funds are effectively management, and encourage access to credit and purchases of equipment
 * provide cash for work (for example, beach clean-ups) to at least 800 waste pickers (at least 60% women)
@@ -500,7 +520,7 @@ The success of this part of the project will be measured by the increase in inco
 
 To reduce the amount of plastic pollution originating on land, an inclusive Material Recovery Facility (MRF) will be established and local material value chains will be designed. 
 The goals are to:
-* conduct a value chain analysis (including aggregators, traders and recycling facilities) and map the local informal waste sector 
+* conduct the value chain analysis (including aggregators, traders and recycling facilities) and map the local informal waste sector 
 * facilitate partnership agreements between local government, waste management companies, recycling facilities and waste pickers (including allocation of land, permits to operate and the process of bidding to run the facility)
 * procure machinery for the MRF, oversee its operations and establish Standard Operating Guidelines
 * set up a revenue generation model for waste workers based on the supply of segregated waste
@@ -526,7 +546,8 @@ To facilitate the replication of developed waste management models, policy paper
 
 No updates on the progress of this project are yet available.
 
-**Conclusion:** 
+**Conclusion:** The waste value chain analysis, mapping of the local informal waste sector, assessment of the stakeholders needs, development of sector-specific waste management models and leveraging partnerships established as part of another project are the strengths of this project. 
+The focus on replication in other locations and knowledge sharing is commendable. 
 
 **SDG 1 "No Poverty":** The outcomes of this project will benefit waste pickers (who are mainly women) by providing them with good work opportunities (at the MRF, at beach clean-ups, etc.) and access to credit.
 
@@ -552,11 +573,11 @@ The aim of this project was to position UNDP as an implementation partner for fu
 As part of the project: 
 * The "India: Mercury Initial Assessment" report was finalized by the Ministry of Environment, Forest and Climate Change (MoEFCC) and the inter-ministerial steering committee. 
 It includes sector specific National Action Plans, details of regulatory mechanisms and phase out dates for mercury containing products in India. 
-This report is expected to impact healthcare institutions, laboratories and other industries that handle mercury containing products. 
+This report will impact healthcare institutions, laboratories and other industries that handle mercury containing products. 
 * More than 100 Memorandums of Agreement (MOAs) have been signed with the private sector companies to foster their participation in the second stage of the Hydrochlorofluorocarbons (HCFCs) Phase-out Management Plan (HPMP-II). 
 * The Project Identification Form (PIF) for a project on environmentally sound management of e-waste has been endorsed by the MoEFCC for submission to the Global Environment Fund (GEF). 
 
-**Conclusion:** 
+**Conclusion:** This project sets the stage for future projects aimed at improving waste management systems for e-waste.
 
 **SDG 1 "No Poverty":** The outcomes of this project will benefit people living under the national poverty line as they are disproportionately exposed to toxic substances like mercury, both through informal e-waste recycling and due to living in contaminated areas.
 
@@ -591,7 +612,8 @@ The goals for 2022 are to:
 
 The success of the project will be measured in tonnes of waste diverted from the dumpsite and CO2-equivalent tonnes of GHG emissions avoided as a result.
 
-**Conclusion:** 
+**Conclusion:** If successful, this project could be replicated in other well-controlled environments like university campuses, office complexes and hospitals. 
+Focus on quantifying the GHG emission reduction associated with the project has the potential to unlock climate funding for future waste management projects.
 
 **SDG 11 "Sustainable cities and communities":** Creating a local waste management solution for the university and fostering waste segregation and recycling will allow it and the nearby community to be more sustainable.
 
@@ -620,7 +642,7 @@ Procurement of a recycling machine for paper waste has been initiated, but the m
 In Tokelau, the national waste management workforce has increased from 1 to 4 people.
 All 3 waste management officers are women.
 
-**Conclusion:** 
+**Conclusion:** This project tackles the challenge of waste management in low population density setting.
 
 **SDG 1 "No Poverty":** One of the aims of the project was to provide work opportunities to women and young people who often struggle to find income sources.
 
