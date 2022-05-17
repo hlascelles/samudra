@@ -8,18 +8,9 @@ header: no
 
 ---
 
-<p style="color:#979797;">This review covers UNDP's ongoing and recently completed plastic waste management projects. 
-These projects cover a wide range of approaches, some targeted specifically at plastic waste (projects 1, 6, 11) and some at plastic waste as part of municipal (projects 3, 8, 13), healthcare (project 9) or e-waste (project 12).
-it's not the plastic, it's the contaminants in it - like PBDEs (p2) and mercury (p12)
-infrastructure
-pickers
-financing
-awareness
-reduction
-governance 
-long-term
-will be refered to as "the projects"
-</p>
+This review covers UNDP's ongoing and recently completed projects related to plastic waste (hereafter referred to as the projects). 
+Some projects are targeted specifically at plastic waste (projects 1, 6, 11) while others consider it as part of municipal (projects 3, 8, 13), healthcare (project 9) or e-waste (project 12). 
+These projects cover a wide range of approaches focussed on infrastructure, informal sector, financial sustainability, awareness campaigns, waste reduction and governance.
 
 **Infrastructure**<br/>
 In places where waste management infrastructure is insufficient or non-existent, building such infrastructure is essential. 
@@ -34,18 +25,18 @@ It is a good idea to supplement infrastructure designed to facilitate environmen
 Building data infrastructure is equally important. 
 The range of solutions that have been implemented through the projects include the ASEAN Plastic Platform (project 5), Vietnam Circular Economy Hub (project 8), national data platform on land- and sea-based waste in Indonesia (project 7) and an app for local governments and their recycling partners (project 1).
 
-**The informal sector**<br/>
+**Informal sector**<br/>
 It is essential to integrate informal and formal parts of the waste management system (projects 1,6,11) to ensure financial sustainability, inclusion and efficiency. 
 Apart from providing good job opportunities for waste pickers (project 1,11), a range of solutions aimed at improving their lives have been implemented through the projects: introducing an ID card system (project 6), providing safety gear (project 1, 11), creating revolving loan funds to encourage access to credit and purchases of equipment (projects 8, 11), establishing Self Help Groups (SHGs; project 1), providing childcare services (project 6), and organising social inclusion and livelihood activities (project 1). 
 The aim is to ensure that this is the last generation of waste pickers and that their kids have a different future.
 
 **Financial sustainability**<br/>
 Ecosystem-level approaches are necessary to build financially sustainable waste management systems. 
-It it imperative to start with the existing value chain analysis (including aggregators, traders and recycling facilities; project 11), mapping of the local informal waste sector (project 11) and design of value chains for waste (project 6). 
+It is imperative to start with the existing value chain analysis (including aggregators, traders and recycling facilities; project 11), mapping of the local informal waste sector (project 11) and design of value chains for waste (project 6). 
 There is a need for more projects experimenting with creative financial models, like unconventional partnerships and cross subsidising across industrial and municipal waste, across neighbourhoods and across waste streams. 
-Partnerships can play a key role if done in a financial sustainable way. 
+Partnerships can play a key role if done in a financially sustainable way. 
 The projects explored partnership with local governments (including allocation of land and permits to operate; project 11), recyclers (projects 1,10), manufacturers (project 11) and local businesses (project 1), as well as leveraging partnerships developed as part of other projects (project 11). 
-There is a lot of potentian in employing non-monetary incentives (for example rice and notebooks; project 10) to facilitate waste-related habit changes in communities.
+There is a lot of potential in employing non-monetary incentives (for example rice and notebooks; project 10) to facilitate waste-related habit changes in communities.
 
 **Awareness campaigns**<br/>
 As part of these projects, awareness campaigns promoting waste segregation at source (projects 1,6,10,11) and waste reduction (projects 4,10) were conducted. 
@@ -55,34 +46,29 @@ It is also imperative to educate government officials (project 8) and people in 
 Going beyond awareness campaigns, upskilling programmes for communities and businesses (project 3) have the potential to engage people by facilitating learning of new skills while also developing new waste management habits.
 
 **Waste reduction**<br/>
-<p style="color:#979797;">
-Insufficient number of projects focus on reduction (project 10 8? 4?).
-Reducing waste is equally important, even though it is essential to have a waste management system that can be relied on when necessary (for example during a pandemic, when amounts of packaging and other waste increased suddenly).
-It is especially true in low population density areas, like remote communities, small islands (project 3, 14).
-All of the projects will have a positive impact on climate, even though only one explicitly focussed on reduction in GHG emissions (project 13), but reduction has the most potential.
-Focus on quantifying the GHG emission reduction associated with the project has the potential to unlock climate funding for future waste management projects. p13
-</p>
+While it is essential to have waste management infrastructure and functioning waste management systems, focus on waste reduction is equally important.
+Insufficient number of projects included a focus on waste reduction (projects 4,8,10). 
+The need for waste reduction is especially acute in areas with low population density (projects 4,8,10), for example in small villages, islands and remote communities. 
+
+All of these projects will have a positive impact on climate, even though only one project explicitly focussed on reduction in GHG emissions (project 13). 
+Quantifying the GHG emission reduction associated with projects has the potential to unlock climate funding for future waste management projects. 
+Among all the approaches, waste reduction is the single one with by far the highest potential to reduce GHG emissions.
 
 **Governance**<br/>
-<p style="color:#979797;">
-focus on introducing regulations on national level (p2)
-Conduct an assessment of needs of the local government (project 11) to ensure long-term success of the project.
-stregthening gov capacity p7
-both on national and city level (p4)
-develop and implement enabling regulatory measures that will support the reduction of plastic waste and increase in recycling(p4)
-integrate plastic waste management as a priority into city plans (p4)
-</p>
+Some of the projects focussed on governance aspects, for example creating enabling regulatory measures to support the reduction of waste and increase in recycling (project 4), developing policies (project 11), drafting Extended Producer Responsibility (EPR) schemes (project 2) and working directly with the national government to assist with implementation of national action plans and strengthen government’s capacity to coordinating the progress on a particular goal across different ministries (project 7). 
+Projects that focus on several levels (for example solutions at both national and city level; project 4) have a lot of potential. 
+Approaches that have been explored on a city level include integrating waste management as a priority into city plans (project 4), assessing the needs of local governments (project 11) and facilitating partnership agreements between local government and other stakeholders (including allocation of land, permits to operate and the process of bidding to run the facility; project 11). 
+It is equally important to focus on educating government officials on waste management and waste reduction (project 8), and on building enabling digital infrastructure like a database of all national and regional government policies on waste management (project 7) and an app for local governments and their recycling partners (project 1).
 
-**Conclusion**<br/>
-<p style="color:#979797;">
-replication
-Holistic approaches are always best; more impactful than projects that create portfolios of solutions (project 5). - more likely to suceed
-What matters is long term effects of these projects, their **replicability** and scaling up opportunities.
-Communicating lessons learnt to decision makers responsible for developing/selecting future projects is key to moving forward globally -  across countries and  across waste streams.
-Wide range of solutions explored through these projects is great, now we need to communicate lessons learnt instead of picking "best" approaches.
-Explicit focus on disseminating the knowledge generated during the deployment of a project (project 11) is great. 
-tempting to compare number of tonnes per usd spent, but doesn't matter
-</p>
+Projects that focus on holistic approaches (projects 1,7,11) generally have more potential than projects that focus on best practices (project 4) and portfolios of solutions (project 5), as there is a risk that several good elements will not form a functioning waste management system.
+
+**Conclusions**<br/>
+Success of these projects should be judged by their long term effects. 
+It is great that a wide range of solutions has been explored through these projects; now there is a need to disseminate lessons learnt instead of picking the "best" approaches. 
+It is tempting to compare projects by the number of tonnes of waste recycled or number of people reached with an awareness campaign, but there are no advantages to such indicators apart from the fact that they are easy to quantify. 
+Instead, what really matters is laying the regulatory foundations, designing value chains and financial models, and building financially sustainable organisations bound for growth. 
+Projects with an explicit focus on replicability of solutions designed and implemented as part of the project (project 11) are commendable. 
+Disseminating lessons learnt from these projects to the decision makers responsible for developing/selecting future projects is essential.
 
 
 
@@ -302,7 +288,7 @@ The national-level goals are to:
 
 The city-level goals are to:
 * integrate plastic waste management as a priority into city plans of Phnom Penh, the capital, Siem Reap and Sihanoukville 
-* develop an operational solid waste management plan in at least 1 city
+* develop an operational waste management plan in at least 1 city
 * ensure that at least 20 businesses (primarily in the tourism sector) adopt single-use plastic reduction measures and foster recycling
 
 The above will be supported by an awareness campaign, for which the goals are to:
@@ -315,7 +301,7 @@ No updates on the progress of this project are yet available.
 **Conclusion:** The goals to develop and implement enabling regulatory measures for waste reduction and recycling and to integrate plastic waste management as a priority into city plans, if successful, will be the key achievements of this project. 
 The focus on waste reduction is commendable. 
 
-**SDG 12 "Responsible consumption and production":** Engaging with local businesses and focus on waste reduction are supposed to contribute to responsible production, while the awareness campaign fosters responsible consumption.
+**SDG 12 "Responsible consumption and production":** Engaging with local businesses and focusing on waste reduction are supposed to contribute to responsible production, while the awareness campaign fosters responsible consumption.
 
 **SDG 14 "Life below water":** By tackling the challenge both on national and city levels this project has the potential to reduce marine plastic pollution.
 
@@ -461,15 +447,15 @@ If trash booms prove to be cheap to install and easy to maintain, they could be 
 **Budget:** 1.16 million USD <br/>
 **Funders:** Norway Ministry Of Foreign Affairs
 
-The aims of this project are to introduce effective solid waste management systems in 5 cities and, as a result, to reduce the amount of marine plastic pollution. 
+The aims of this project are to introduce effective waste management systems in 5 cities and, as a result, to reduce the amount of marine plastic pollution. 
 The goals are to: 
-* conduct studies of the solid waste management (SWM) systems in 5 cities (Ha Long, Quy Nhon, Mui Ne, Binh Duong and Da Lat) 
+* conduct studies of the waste management (SWM) systems in 5 cities (Ha Long, Quy Nhon, Mui Ne, Binh Duong and Da Lat) 
 * create action plans for capacity building 
 * establish revolving loan funds managed by the Women’s Union to improve waste picker access to credit
 * educate government officials on SWM and reduction of plastic waste
 * develop a circular economy training programme
 
-In 2019, a study of the SWM systems in Binh Duong was completed.
+In 2019, a study of the waste management systems in Binh Duong was completed.
 In 2021, a draft decree on circular economy was submitted to the government and the Vietnam Circular Economy Hub was launched.
 
 **Conclusion:** The focus on improving waste picker access to credit and education of government officials on SWM and reduction of plastic waste are the strengths of this project. 
@@ -477,7 +463,7 @@ This project will likely have to be followed by a project focussed on building n
 
 **SDG 5 "Gender equality":** Establishing revolving loan funds managed by the Women’s Union will improve women's access to credit and support their financial independence and wellbeing.
 
-**SDG 11 "Sustainable cities and communities":** Introducing effective solid waste management systems in cities will allow them to be more sustainable.
+**SDG 11 "Sustainable cities and communities":** Introducing effective waste management systems in cities will allow them to be more sustainable.
 
 **SDG 14 "Life below water":** Improving plastic waste management on land will reduce marine plastic pollution originating from cities in Vietnam.
 
