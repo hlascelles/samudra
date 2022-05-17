@@ -28,48 +28,31 @@ It is important to adjust the scale of the infrastructure depending on the popul
 
 Apart from building infrastructure, it is crucial to develop appropriate revenue generation models for ongoing financing of operations, maintenance and workforce (project 10, 11). 
 The key to success is to design sector-specific waste management solutions, for example waste equipment for boats and waste collection points along the shoreline for the fishing industry (project 11), instead of deploying a single generic solution that doesn't meet the needs of any sector. 
-When possible, access to infrastructure can be ensured through partnerships; for example using manufacturing or waste-to-energy facilities for co-processing of waste that cannot be recycled in a financially viable way.
+When possible, access to infrastructure can be ensured through partnerships; for example using manufacturing or waste-to-energy facilities for co-processing of waste that cannot be recycled in a financially viable way (project 11).
 It is a good idea to supplement infrastructure designed to facilitate environmentally friendly waste management practices with temporary fixes like trash booms in rivers (project 7), if solutions that can be installed and maintained in a cost effective manner are available. 
 
 Building data infrastructure is equally important. 
 The range of solutions that have been implemented through the projects include the ASEAN Plastic Platform (project 5), Vietnam Circular Economy Hub (project 8), national data platform on land- and sea-based waste in Indonesia (project 7) and an app for local governments and their recycling partners (project 1).
 
 **The informal sector**<br/>
-<p style="color:#979797;">
-(project 1)
-SHGs fro waste pickers (p1)
-Many of the projects focus on integrating waste pickers (informal sector) into the waste management system. 
-To improve their lives, approaches range from revolving loan funds to allow access to credit and purchases of equipment (projects 8, 11), ID cards (project 6), offering childcare services (project 6), safety gear (project 6, 11), good job opportunities (project 11).
-organise social inclusion and livelihood activities for formalization of waste pickers and recognition of their service to the society (p1)
-integrate waste pickers  into the waste management system (p1)
-</p>
+It is essential to integrate informal and formal parts of the waste management system (projects 1,6,11) to ensure financial sustainability, inclusion and efficiency. 
+Apart from providing good job opportunities for waste pickers (project 1,11), a range of solutions aimed at improving their lives have been implemented through the projects: introducing an ID card system (project 6), providing safety gear (project 1, 11), creating revolving loan funds to encourage access to credit and purchases of equipment (projects 8, 11), establishing Self Help Groups (SHGs; project 1), providing childcare services (project 6), and organising social inclusion and livelihood activities (project 1). 
+The aim is to ensure that this is the last generation of waste pickers and that their kids have a different future.
 
-**Financially sustainable systems**<br/>
-<p style="color:#979797;">
-Focus on innovative financial models is essential.
-Creation of value chains for waste using ecosystem-level approaches - conduct a value chain analysis (including aggregators, traders and recycling facilities) and map the local informal waste sector (project 11).
-Facilitate partnership agreements between local government, waste management companies, recycling facilities and waste pickers (including allocation of land, permits to operate and the process of bidding to run the facility) (project 11).
-Making waste management financially sustainable, by cross subsidising across industrial and municipal waste, across neighbourhoods and waste streams.
-Ensure that the MRF operation is financially sustainable using the network developed as part of the EPPIC project and the business development opportunities that arise from it (project 11).
-Non-monetary incentives, like rice and notebooks for segregated clean recyclable waste.
-engaging with private sector (p2)
-Increasing the number of partnerships that are useful.
-</p>
+**Financial sustainability**<br/>
+Ecosystem-level approaches are necessary to build financially sustainable waste management systems. 
+It it imperative to start with the existing value chain analysis (including aggregators, traders and recycling facilities; project 11), mapping of the local informal waste sector (project 11) and design of value chains for waste (project 6). 
+There is a need for more projects experimenting with creative financial models, like unconventional partnerships and cross subsidising across industrial and municipal waste, across neighbourhoods and across waste streams. 
+Partnerships can play a key role if done in a financial sustainable way. 
+The projects explored partnership with local governments (including allocation of land and permits to operate; project 11), recyclers (projects 1,10), manufacturers (project 11) and local businesses (project 1), as well as leveraging partnerships developed as part of other projects (project 11). 
+There is a lot of potentian in employing non-monetary incentives (for example rice and notebooks; project 10) to facilitate waste-related habit changes in communities.
 
 **Awareness campaigns**<br/>
-<p style="color:#979797;">
-p1
-Awareness campaigns focussed on waste segregation at source (projects 6, 10, 11, 13) and waste reduction (project 10).
-Targeting young people, students - the next generation taking care of our planet (project 11, 13).
-Incredibly important to educate government officials on SWM and reduction of plastic waste (project 8) and sector-specific people - the fishermen on waste segregation and environmental impacts of marine plastic pollution (project 11).
-Engagement through places of worship (project 7). 
-Not just awareness, but upskilling programmes for communities and businesses in the tourism sector (project 3).
-Facebook, Twitter and Instagram p7
-national TV p7
-awareness campaign in schools (p4)
-awareness campaign on reduction of waste (p4)
-awareness campaign on social media (p4)
-</p>
+As part of these projects, awareness campaigns promoting waste segregation at source (projects 1,6,10,11) and waste reduction (projects 4,10) were conducted. 
+Various channels have been explored, including social media (projects 4,7), national television (project 7) and places of worship (project 7). 
+Many campaigns focussed specifically on students/young people (projects 1,4,7,10,11,13), as they are the next generation that will take care of our planet in the future. 
+It is also imperative to educate government officials (project 8) and people in the industry (for example fishermen; project 11). 
+Going beyond awareness campaigns, upskilling programmes for communities and businesses (project 3) have the potential to engage people by facilitating learning of new skills while also developing new waste management habits.
 
 **Waste reduction**<br/>
 <p style="color:#979797;">
@@ -92,6 +75,7 @@ integrate plastic waste management as a priority into city plans (p4)
 
 **Conclusion**<br/>
 <p style="color:#979797;">
+replication
 Holistic approaches are always best; more impactful than projects that create portfolios of solutions (project 5). - more likely to suceed
 What matters is long term effects of these projects, their **replicability** and scaling up opportunities.
 Communicating lessons learnt to decision makers responsible for developing/selecting future projects is key to moving forward globally -  across countries and  across waste streams.
@@ -385,7 +369,7 @@ There is a danger that a collection of individual solutions will not result in a
 **Budget:** 1.10 million USD <br/>
 **Funders:** Unilever Bangladesh 83%, UK FCDO, UK DFID, HSBC 
 
-With the aim to create a circular economy model for plastic waste, this project focuses on waste pickers (informal economy) and supply chains for plastic waste (formal economy). 
+With the aim to create a circular economy model for plastic waste, this project focuses on waste pickers (informal economy) and value chains for plastic waste (formal economy). 
 The project takes place in Narayanganj, a city of 2.2 million people located 16 km southeast of Dhaka, the capital. 
 Narayanganj city produces 800 tonnes of waste per day, of which 50 tonnes are plastic waste. 
 HDPE and LDPE plastics form 30% of the total plastic waste. 
@@ -400,21 +384,21 @@ By the end of 2021, the waste management safety training module had been develop
 
 The goals in the formal economy are to:
 * develop a financially sustainable plastic collection model
-* design a supply chain for collected plastic waste
-* collect HDPE and LDPE plastic waste and make it part of the relevant supply chain
+* design a value chain for collected plastic waste
+* collect HDPE and LDPE plastic waste and make it part of the relevant value chain
 
 By the end of 2021, baseline assessment of the plastic collection model was almost complete, but the collection of plastic waste had not yet started.
 
 To support the HDPE and LDPE plastic waste collection, the goal was to reach 100,000 people with an awareness campaign that would communicate the importance of segregating plastic waste at source and inform about the new plastic collection system and locations of collection hubs. By the end of 2021, design of the awareness campaign was in progress.
 
 **Conclusion:** If successful, approaches like the ID card system and the childcare support programme could be replicated in other locations to contribute to integrating waste pickers into the formal economy. 
-Lessons learnt from developing financially sustainable waste collection models and designing supply chains for waste should be disseminated across other locations and waste streams.
+Lessons learnt from developing financially sustainable waste collection models and designing value chains for waste should be disseminated across other locations and waste streams.
 
 **SDG 1 "No Poverty":** To improve the lives of waste pickers, the goals of this project included enrolling them into an ID card system, training them in waste management safety and installing WASH facilities for them.
 
 **SDG 5 "Gender equality":** One of the goals of the project is to establish a childcare support programme for children of waste pickers.
 
-**SDG 12 "Responsible consumption and production":** Development of a financially sustainable plastic collection model and design of a supply chain for collected plastic waste are supposed to contribute to responsible production, while the awareness campaign fosters responsible consumption.
+**SDG 12 "Responsible consumption and production":** Development of a financially sustainable plastic collection model and design of a value chain for collected plastic waste are supposed to contribute to responsible production, while the awareness campaign fosters responsible consumption.
 
 
 
@@ -706,7 +690,7 @@ Procurement of a recycling machine for paper waste has been initiated, but the m
 In Tokelau, the national waste management workforce has increased from 1 to 4 people.
 All 3 waste management officers are women.
 
-**Conclusion:** This project tackles the challenge of waste management in low population density setting.
+**Conclusion:** This project tackles the challenge of waste management in a low population density setting.
 
 **SDG 1 "No Poverty":** One of the aims of the project was to provide work opportunities to women and young people who often struggle to find income sources.
 
