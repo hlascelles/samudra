@@ -98,6 +98,9 @@ Disseminating lessons learnt from these projects to the decision makers responsi
 **Location:** cities and villages across India <br/>
 **Budget:** 13.17 million USD <br/>
 **Funders:** The Coca-Cola Company 60%, Hindustan Unilever, Charities Aid Foundation (CAF) India, CSR Trust for SDGs in India (CTSI), The Coca-Cola Foundation, UNDP, Governments Of Uttarakhand and Odisha
+<!-- Project "Utthaan" was born as UNDP India's COVID response to build resilient communities by strengthening access to Social Protection Schemes for waste pickers. Result: 15 cities, 9,000 waste pickers benefited, 45,000 indirect beneficiaries. -->
+
+<!-- According to Saloni Goel, in 4 years (2018-2022) this project achieved presence in 35 cities in India, 83,900 tonnes of plastic processed, 209,750 tonnes of CO2-eqv saved, inclusion of 5,200 waste pickers. -->
 
 The aims of this project are to set up Material Recovery Facilities (MRFs, referred to as Swachhata Kendras in India) for waste sorting, shredding and baling, and to integrate waste pickers (referred to as Safai Sathis in India) into the waste management system. 
 This umbrella project consists of 5 projects, each conducted in partnership with a corporate funder.
@@ -354,6 +357,7 @@ There is a danger that a collection of individual solutions will not result in a
 **Location:** Narayanganj, Bangladesh <br/>
 **Budget:** 1.10 million USD <br/>
 **Funders:** Unilever Bangladesh 83%, UK FCDO, UK DFID, HSBC 
+<!-- Arif Faisal https://www.linkedin.com/in/arif-faisal-01889327/ - Programme Specialist at UNDP, was in Bangladesh, now in Tajikistan), Enamul Hasan (Procurement Specialist at UNDP Bangladesh, not on LinkedIn -->
 
 With the aim to create a circular economy model for plastic waste, this project focuses on waste pickers (informal economy) and value chains for plastic waste (formal economy). 
 The project takes place in Narayanganj, a city of 2.2 million people located 16 km southeast of Dhaka, the capital. 
@@ -607,6 +611,7 @@ The aim of this project was to position UNDP as an implementation partner for fu
 As part of the project: 
 * The "India: Mercury Initial Assessment" report was finalized by the Ministry of Environment, Forest and Climate Change (MoEFCC) and the inter-ministerial steering committee. 
 It includes sector specific National Action Plans, details of regulatory mechanisms and phase out dates for mercury containing products in India. 
+<!-- Can't find the report online, but Minamata Convention on Mercury is probably the right place where to look.-->
 This report will impact healthcare institutions, laboratories and other industries that handle mercury containing products. 
 * More than 100 Memorandums of Agreement (MOAs) have been signed with the private sector companies to foster their participation in the second stage of the Hydrochlorofluorocarbons (HCFCs) Phase-out Management Plan (HPMP-II). 
 * The Project Identification Form (PIF) for a project on environmentally sound management of e-waste has been endorsed by the MoEFCC for submission to the Global Environment Fund (GEF). 
