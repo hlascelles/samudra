@@ -12,7 +12,7 @@ header: no
 
 This is part 2 out of 6. Here is [part 1][1].
 
-Deadline: ?
+Deadline: June 20th?
 
 
 Summary in a [spreadsheet][2] format.
@@ -21,7 +21,27 @@ Summary in a [spreadsheet][2] format.
 
 ### Indonesia
 
-Sources of data: [Radically Reducing Plastic Pollution in Indonesia: A Multistakeholder Action Plan (2020)][6] by WEF
+##### Policy
+
+According to [Indonesia’s Plan of Action on Marine Plastic Debris 2017-2025][8] published by the [Coordinating Ministry for Maritime and Investments Affairs][9] (Kementerian Koordinator Bidang Kemaritiman dan Investasi) the list of strategies includes:
+* implementation of the paid plastic bag policy,
+* encouraging use of recycled materials in plastic production,
+* encouraging production of biodegradable plastics,
+* disposing of plastic waste through waste-to-energy facilities,
+* disposing of plastic waste by using it in road construction,
+* attention to plastic waste from ports, and fishing and shipping industries.
+
+In 2018 The [Ministry of Tourism and Creative Economy][11] published [Presidential Regulation on Marine Debris Management][12] (only available in image format, not easily translatable into English).
+
+In 2019 The [Ministry of Environment and Forestry][13] introduced the [Roadmap Of Waste Reduction By Producer][10]. 
+The plan includes publishing evaluation yearly from 2022 until 2029.
+
+
+
+
+##### Waste management
+
+Sources of below data: [Radically Reducing Plastic Pollution in Indonesia: A Multistakeholder Action Plan (2020)][6] by WEF
 
 More than 25.1 million tonnes of MSW are created in Indonesia per year. 
 [6.8 million tonnes of plastic waste][3] (?27% of MSW) are produced per year, growing by 5% annually, at a rate similar to Indonesia's GDP growth. 
@@ -50,7 +70,52 @@ Flexible plastic represent 76% of plastic pollution.
 Waste data is available from Ministry of Environment and Forestry (Sistem Informasi Pengelolaan Sampah Nasional, SIPSN).
 
 
+
+
+
+
+
+
+
+
+
+### Pakistan
+
+##### Policy
+
+In 2013, Pakistan introduced [Prohibition of Non-degradable Plastic Products (manufacturing, sale and usage) Regulations][14]. 
+The regulations defined non-degradable plastic products as those that are not oxo-biodegradable. 
+This was [welcomed by Symphony Environmental][15], a global supplier of pro-degradants exporting to nearly 100 countries. 
+Pakistan’s Federal Minister for Climate Change Rana Muhammad Farooq Saeed Khan [stated][15] that the only change required is to add a pro-degradant additive (1-3%) "to develop biodegradable properties in plastic".
+
+
+In 2018, the [Report From The European Commission][16] showed that oxo-degradable plastic is not suited for long-term use, recycling or composting.
+In 2019, this was followed by the [Single-Use Plastic Directive (EU) 2019/904][17] (Article 5) banning the Member States from placing products made from oxo-degradable plastic on the market, "as this type of plastic does not properly biodegrade and thus contributes to microplastic pollution in the environment, is not compostable, negatively affects the recycling of conventional plastic and fails to deliver a proven environmental benefit".
+A similar [ban is likely in the UK][18] in near future.
+It is unclear whether Thailand banned oxo-degradable plastics [in 2019][20] or if the ban is expected [in 2025][19].
+
+
+
+
+
+### Bangladesh
+
+##### Policy
+
+Nothing on Plastics Policy Inventory of Duke University Nichoals Institute for Environmental Policy Solutions.
+
+
+
+
 ### Thailand
+
+##### Policy
+
+Nothing on Plastics Policy Inventory of Duke University Nichoals Institute for Environmental Policy Solutions.
+
+
+
+##### Waste managements
 
 Plastic is [17.4% of MSW][7].
 
@@ -65,6 +130,25 @@ A large amount of uncollected waste in Chao Phraya is disposed directly into wat
 
 
 
+### Myanmar
+
+##### Policy
+
+Nothing on Plastics Policy Inventory of Duke University Nichoals Institute for Environmental Policy Solutions.
+
+### Nepal
+
+##### Policy
+
+Nothing on Plastics Policy Inventory of Duke University Nichoals Institute for Environmental Policy Solutions.
+
+### Laos
+
+##### Policy
+
+Nothing on Plastics Policy Inventory of Duke University Nichoals Institute for Environmental Policy Solutions.
+
+
 
 
 
@@ -77,4 +161,16 @@ A large amount of uncollected waste in Chao Phraya is disposed directly into wat
 [5]: https://globalplasticaction.org/wp-content/uploads/NPAP-Indonesia-Multistakeholder-Action-Plan_April-2020.pdf#page=10
 [6]: https://globalplasticaction.org/wp-content/uploads/NPAP-Indonesia-Multistakeholder-Action-Plan_April-2020.pdf
 [7]: https://documents1.worldbank.org/curated/en/099515103152238081/pdf/P17099409744b50fc09e7208a58cb52ae8a.pdf
-
+[8]: https://maritim.go.id/portfolio/indonesias-plan-action-marine-plastic-debris-2017-2025/
+[9]: https://maritim.go.id/
+[10]: https://nicholasinstitute.duke.edu/sites/default/files/plastics-policies/112021_N_2019_The_minister_of_environment.pdf
+[11]: https://www.kemenparekraf.go.id/
+[12]: https://jdih.kemenparekraf.go.id/katalog-859-produk-hukum
+[13]: https://www.menlhk.go.id/
+[14]: http://extwprlegs1.fao.org/docs/pdf/pak168042.pdf
+[15]: https://www.labelsandlabeling.com/news/latest/pakistan-moves-ban-non-degradable-plastic-products
+[16]: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52018DC0035&from=LT
+[17]: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019L0904&from=EN
+[18]: https://www.plasticstoday.com/sustainability/organizations-call-uk-ban-plastics-containing-oxo-biodegradable-additives
+[19]: https://www.bangkokpost.com/business/2127891/oxo-degradable-plastics-worry-firms
+[20]: https://th.boell.org/en/2021/10/26/thailands-plastic-waste-conundrum
