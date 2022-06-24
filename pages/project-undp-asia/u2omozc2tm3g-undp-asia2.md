@@ -1,6 +1,6 @@
 ---
 layout: kz-page
-title: "Assesment of challenges, issues and barriers on waste management and plastics circular approaches in Asia-Pacific region"
+title: "Review of waste management policies"
 permalink: "/u2omozc2tm3g-undp-asia2/"
 subheadline: 
 meta_description: 
@@ -10,167 +10,119 @@ header: no
 
 <br/>
 
-This is part 2 out of 6. Here is [part 1][1].
+This is part 2 out of 6. Here is [part 1](/ufr1hrx4bpsto-undp-asia/).
 
-Deadline: June 20th?
+Deadline: July 1st
 
+Summary in a [spreadsheet](https://docs.google.com/spreadsheets/d/1nFeXDRwVYPD_pxukZpu9cWO4C4SOV4zR5ykb16B09JI/edit?usp=sharing) format.
 
-Summary in a [spreadsheet][2] format.
 
 
+## Vietnam
 
-### Indonesia
+In Vietnam waste policies are binding on national level.
 
-##### Policy
 
-According to [Indonesia’s Plan of Action on Marine Plastic Debris 2017-2025][8] published by the [Coordinating Ministry for Maritime and Investments Affairs][9] (Kementerian Koordinator Bidang Kemaritiman dan Investasi) the list of strategies includes:
-* implementation of the paid plastic bag policy,
-* encouraging use of recycled materials in plastic production,
-* encouraging production of biodegradable plastics,
-* disposing of plastic waste through waste-to-energy facilities,
-* disposing of plastic waste by using it in road construction,
-* attention to plastic waste from ports, and fishing and shipping industries.
+**Sources:**
+* [Vietnam Circular Economy Policy Library](https://vietnamcirculareconomy.vn/en/policy-library/)
 
-In 2018 The [Ministry of Tourism and Creative Economy][11] published [Presidential Regulation on Marine Debris Management][12] (only available in image format, not easily translatable into English).
 
-In 2019 The [Ministry of Environment and Forestry][13] introduced the [Roadmap Of Waste Reduction By Producer][10]. 
-The plan includes publishing evaluation yearly from 2022 until 2029.
 
+#### The National Strategy for Environmental Protection to 2030, with a Vision to 2050
+**Date:** Apr 2022. Approved by the Deputy Prime Minister Le Van Thanh (Decision No. 450/QD-TTg). <br/>
+<!-- Leif Schneider leif@acsvlegal.com https://www.linkedin.com/in/leifschneider/ knows something about it https://acsvlegal.com/article/vietnams-new-national-environmental-protection-strategy -->
 
+This was preceded by **The National Strategy for Environmental Protection to 2020, with a Vision to 2030**.
 
+#### The National Strategy on Green Growth for the 2021 – 2030 period, with a vision to 2050 
+<!-- DONE -->
+**Date:** Oct 2021. Approved by the Deputy Prime Minister Le Van Thanh (Decision No. 1658/QD-TTg).<br/>
+**Text:** English version available on Government News [baochinhphu.vn](https://en.baochinhphu.vn/national-green-growth-strategy-for-2021-2030-vision-towards-2050-11142515.htm).
 
-##### Waste management
+Specific targets related to "Greenifying the people’s lifestyle and promote sustainable consumption" include:
+* Key target until 2030: The rate of municipal solid waste that is collected and treated in compliance with the regulated standards reaches 95%; the proportion of municipal solid waste that is treated with the direct burial method accounts for only 10% of the waste collected.
+* Key target until 2050: The rate of solid waste that is collected and treated in compliance with national standards reaches 100%, while the burial of organic solid waste and recyclable waste are reduced to a minimum.
 
-Sources of below data: [Radically Reducing Plastic Pollution in Indonesia: A Multistakeholder Action Plan (2020)][6] by WEF
+The development orientation of key industries and sectors (under "Strategic orientation" section):
+* Step by step put limits on economic sectors that generate large scale waste and cause environmental pollution/degradation; facilitate the conditions for the development of new green manufacturing industries.
+* Strengthen waste management through researching and developing integrated solid waste management models as well as waste treatment technologies with an orientation towards transforming waste into resources and materials for production; promote the implementation of measures to classify solid waste at its source, as well as to reuse and recycle solid waste.
 
-More than 25.1 million tonnes of MSW are created in Indonesia per year. 
-[6.8 million tonnes of plastic waste][3] (?27% of MSW) are produced per year, growing by 5% annually, at a rate similar to Indonesia's GDP growth. 
-The above estimate excludes 30-50% of plastic waste - long-life products (cars, tyres, e-waste), industrial waste (manufacturing, agriculture) and sea-based waste (fishing nets, waste from ships).
+Tasks for Ministry of Natural Resources and Environment (MONRE) include:
+* Direct waste management and treatment in accordance with the assigned functions, tasks and authorities; handle critical and urgent environmental issues related to solid waste management.
 
-In 2017, of [these 6.8 million tonnes][3], 2.176 were formally collected (32%), 0.476 were collected by the informal sector directly from residential areas (7%, high-value recyclable plastics only), 4.148 were uncollected (61%). 
-Out of 2.176 million tonnes that were formally collected, 0.544 are recovered for recycling by the informal sector (8%,  high-value recyclable plastics only), 1.156 are properly disposed off (17%), 0.476 are disposed off in poorly managed official dumpsites (7%), and a small amount (<1%) were sorted from the rest of MSW in government-run waste processing sites (Tempat Pengolahan Sampah - Reduce Reuse Recycle; TPS3R). 
-In early 2020 there was no incineration at scale in Indonesia. 
-Out of 4.148 million tonnes that were uncollected, 3.196 were openly burned (47%), 0.340 were dumped on land (5%), and 0.612 leaked into the marine environment (9%). 
-The amount of plastic waste entering the marine environment is estimated to grow by 30% by 2025.
+Tasks for Ministry of Health (MOH) include:
+* Formulate systems for the management and supervision of medical waste classification, disposal and treatment activities in compliance with national and international standards; build and deploy models of green technologies application and clean energy utilization in the treatment of medical waste
 
-Nearly all waste collected by the informal sector ends up at a recycling facility, but 30% of that is eventually disposed of during sorting and due to contamination. 
-Of recycled plastics, around 85% are processed in a way that makes it difficult to recycle the product again.
 
-In 2018 Indonesia switched from a net-exporter of plastic waste to a net-importer. 
-Imported plastic waste is about 5% of domesticly generated amount - [the official figure is 3.1%, which excludes illegal imports][4].
+#### The plan for implementation of National Environmental Protection Strategy by 2020, with a vision to 2030
+**Date:** Jan 2014. Approved by the Deputy Prime Minister Hoang Trung Hai (Decision No. 166/QD-TTg).<br/>
+**Text:** English version available on [vanbanphapluat.co](https://vanbanphapluat.co/decision-no-166-qd-ttg-2014-plan-implementation-environmental-protection-strategy-2020-2030).
 
-There are [big differnces between urban and rural areas][5]. 
-In urban areas, 50% more waste is generated per person, waste collection rate is higher (up to 74% in cities with more than 1 million people), there is an active informal sector. 
-In rural areas, less waste is generated per person, waste collection rates of 16% are not uncommon, the informal sector plays very limited role in waste management. 
-This combination of factors means that 72% of uncollected plastic waste is outside cities with more than 1 million people.
+Prevention and control the potential pollution sources and environmental pollution areas:
+* Implementing the environmental pollution control scheme due to the use of persistent plastic bag in daily life; gradually forming the environmentally friendly consumption habit; expanding and continuing the eco-labeling for certain types of products and services.
+* Developing and implementing the Scheme for strengthened control over the importation of scrap used as production materials and transportation of waste across border by 2020; developing the coordination mechanism between the state management organ on environmental protection, import export management and police force for environmental crime prevention and fighting in inspection and monitoring the import of scrap used as production materials; stopping the import of scrap as production materials or transportation of waste across border improperly. (See "Scheme for strengthening capacity for control of import of scrap used as production materials and transportation of waste across border by 2020 (2014 - 2020)")
+* Recovery and processing of disposed products; building legal framework of waste recycling and reuse, collection and classification of waste at source towards specialization and development of environmentally friendly recycling industry, focusing on the formation of recycled and reused waste market. (Decision No. 50/2013/QD-TTg)
+* See "Scheme for strengthening capacity for waste recycling, focusing on supporting the formation of big recycling enterprises and central recycling industrial parks (2015-2020)"
 
-Flexible plastic represent 76% of plastic pollution.
-<img src="/images/undp-asia-indonesia-plastic-waste-by-type.jpg" alt="Image">
+Control, treatment and reduction in potential pollution sources:
+* Regulations on waste audit and product life cycle assessment for businesses, production establishments and constructional services.
+* Studying and introducing new and environmentally friendly technologies into handicraft villages; developing production models using biogas from livestock waste. (Decision No. 577/QD-TTg)
+* Developing and implementing the overall Scheme for environmental pollution of rural areas by 2020, including a focus on strict management of waste sources from livestock, poultry and aquaculture. (See "Overall Scheme for environmental pollution of rural areas by 2020")
 
-Waste data is available from Ministry of Environment and Forestry (Sistem Informasi Pengelolaan Sampah Nasional, SIPSN).
+* Continuing the implementation of national Strategy on general management of solid waste by 2025 with a vision to 2050. (Decision No. 2149/QD-TTg)
+* Implementing the overall Scheme for treatment of medical waste for the period 2011 – 2015 with a vision to 2020. (Decision No. 2038/QD-TTg)
+* Finishing the technical and economic norm system and unit price for operation of waste treatment system, immediately focusing on certain models of activity as follows: treatment system of hazardous medical waste water and solid waste, waste water, solid waste and emission from handicraft villages; processing system of central urban living waste water; processing system of leachate at the central waste processing works.
 
+Investment in environmental technical infrastructure building:
+* Developing and implementing investment projects on waste collection and processing, water drainage systems, cemeteries, ecological lakes and ponds in rural areas.
+* Developing and implementing investment projects for upgrading, renovation and new investment of treatment works of hazardous medical waste at district and provincial medical facilities, inter-regional and provincial treatment facilities. (Decision No. 170/QD-TTg)
+* Developing and implementing investment projects for construction of hazardous waste treatment center in 04 major economic zones, immediately prioritizing the implementation in the Southeast and the Mekong Delta key economic zones and continuing to build, finish and put into operation the investment projects for construction of hazardous waste treatment center in 02 key economic zones in the North and Central. (See "Building of 04 hazardous waste processing centers in 04 keys economic zones (Southeast, Mekong Delta, Northern and Central)")
+* Developing and implementing investment projects under the investment Program for solid waste treatment during the period 2011 – 2020. (Decision No. 798/QD-TTg)
 
+Completion of law and institution of management, enhancement of law enforcement on environmental protection:
+* Supplementing and completing mechanisms and policies on tax, progressive environmental protection fees for waste materials, carrying out the proper and full collection in order to ensure sufficient fund for waste treatment and generate capital for investment back to the environmental protection activities, contributing the reduction in investment burden for environmental protection from the state budget and generate the sustainable financial sources for environmental protection.
 
+Development of environmental economic sector to support other economic sectors in solving the environmental problems:
+* Developing and implementing the Scheme for development of some sectors making environmentally-friendly products and commodities, recycled products, production of energy from waste materials, gradually forming and developing the environmental economic sector in Vietnam, prioritizing the development of some industries and areas of supply of environmentally-friendly products and commodities, recycled products, production of energy from waste materials combined with implementation of demand stimulation packages and consumption promotion of such products. (See "Scheme for development of some sectors making environmentally-friendly products and commodities prioritizing recycled products, production of energy from waste materials")
 
+International cooperation on environmental pollution:
+* Continuing to promote the comprehensive cooperation with the developed countries in the world and the region in receipt and transfer of new and advanced technologies on pollution prevention and control, waste treatment; focusing on training of high-quality human resources, exchange of specialists in the field of environmental protection, natural conservation and biodiversity.
 
+**Schemes included:**
 
+Scheme for strengthening capacity for control of import of scrap used as production materials and transportation of waste across border by 2020 (2014 - 2020)<br/>
+**Organ in charge of implementation:** Ministry of Natural Resources and Environment<br/>
+**Coordinating organ for implementation:** Ministry of Industry and Trade; Ministry of Finance; Ministry of Public Security<br/>
 
+Scheme for strengthening capacity for waste recycling, focusing on supporting the formation of big recycling enterprises and central recycling industrial parks (2015-2020)<br/>
+**Organ in charge of implementation:** Ministry of Industry and Trade<br/>
+**Coordinating organ for implementation:** Ministry of Natural Resources and Environment<br/>
 
+Overall Scheme for environmental pollution of rural areas by 2020 (2014 - 2020)<br/>
+**Organ in charge of implementation:** Ministry of Natural Resources and Environment<br/>
 
+Building of 04 hazardous waste processing centers in 04 keys economic zones (Southeast, Mekong Delta, Northern and Central) (2014 - 2020)<br/>
+**Organ in charge of implementation:** Ministry of Natural Resources and Environment<br/>
+**Coordinating organ for implementation:** Ministry of Construction<br/>
 
+Scheme for development of some sectors making environmentally-friendly products and commodities prioritizing recycled products, production of energy from waste materials (2015 - 2020)<br/>
+**Organ in charge of implementation:** Ministry of Industry and Trade<br/>
+**Coordinating organ for implementation:** Ministry of Natural Resources and Environment<br/>
 
-### Pakistan
 
-##### Policy
+#### National Action Plan for the Implementation of the 2030 Sustainable Development Agenda
+**Date:** May 2017. Approved by the Prime Minister Nguyen Xuan Phuc (Decision 622/QD-TTg).<br/>
+**Text:** English version available on [OpenDevelopment Vietnam](https://data.vietnam.opendevelopmentmekong.net//dataset/quy-t-d-nh-s-622-qd-ttg-v-vi-c-ban-hanh-k-ho-ch-hanh-d-ng-qu-c-gia-th-c-hi-n-chuong-trinh-ngh-s-203).
 
-In 2013, Pakistan introduced [Prohibition of Non-degradable Plastic Products (manufacturing, sale and usage) Regulations][14]. 
-The regulations defined non-degradable plastic products as those that are not oxo-biodegradable. 
-This was [welcomed by Symphony Environmental][15], a global supplier of pro-degradants exporting to nearly 100 countries. 
-Pakistan’s Federal Minister for Climate Change Rana Muhammad Farooq Saeed Khan [stated][15] that the only change required is to add a pro-degradant additive (1-3%) "to develop biodegradable properties in plastic".
+By 2030, increase the efficiency of resource use in production and consumption, minimize the impacts of economic growth on environmental degradation, in accordance with the 10-year framework of programmes on sustainable production and consumption of Viet Nam (International target 8.4).
+* Urgently issue a Law on Planning. Review, amend planning schemes for productive sectors, and gradually limit those sectors that emit large amounts of waste, cause pollution and degrade the environment.
+* Practice the reduction, recycling and reuse of waste materials. Improve management processes, apply and move towards the use of clean technologies, reuse and recycle waste, minimize waste discharge and environmental pollution.
+* Enhance information, communications and advocacy in order to increase public awareness of sustainable consumption; develop environmentally-friendly product and service supply chains; change production and consumption behaviours; promote green and sustainable lifestyles with the direction of minimizing consumption, recycling, and reusing waste.
 
+**Lead agency:** Ministry of Trade and Industry (MoTI).<br/>
+**Coordinating agencies:** MPI, MONRE, MOF, MOJ, MARD, MOC, MOCT, MOIC, VCCI, VTV, VOV, socio-political organizations, social and professional associations, People’s Committees of provinces and centrally- managed cities.
 
-In 2018, the [Report From The European Commission][16] showed that oxo-degradable plastic is not suited for long-term use, recycling or composting.
-In 2019, this was followed by the [Single-Use Plastic Directive (EU) 2019/904][17] (Article 5) banning the Member States from placing products made from oxo-degradable plastic on the market, "as this type of plastic does not properly biodegrade and thus contributes to microplastic pollution in the environment, is not compostable, negatively affects the recycling of conventional plastic and fails to deliver a proven environmental benefit".
-A similar [ban is likely in the UK][18] in near future.
-It is unclear whether Thailand banned oxo-degradable plastics [in 2019][20] or if the ban is expected [in 2025][19].
+<!-- AND MORE... -->
 
+<!-- ? Objective 12 on Ensuring Sustainable Consumption and Production (SCP) models is defined as one of the important objectives to be achieved by 2030. -->
 
-
-
-
-### Bangladesh
-
-##### Policy
-
-Nothing on Plastics Policy Inventory of Duke University Nichoals Institute for Environmental Policy Solutions.
-
-
-
-
-### Thailand
-
-##### Policy
-
-Nothing on Plastics Policy Inventory of Duke University Nichoals Institute for Environmental Policy Solutions.
-
-
-
-##### Waste managements
-
-Plastic is [17.4% of MSW][7].
-
-[Data][7] (including modelling) for the catchment areas of 4 rivers (Phetchaburi, Tha Chin, Chao Phraya and Bang Pakong), indicates that 89% of plastic waste (as part of MSW) is formally collected and 11% is not collected.
-Out of 89% that are formally collected. 21.4% are recycled, 52.6% are disposed to sanitary facilities, 15% are disposed to unsanitary facilities.
-Out of 11% that are uncollected, 8.7% are openly burnt, 1.5% are dumped on land, 0.2% is dumped into rivers.
-
-[70.1% of marine plastic pollution][7] originates from rural areas.
-Despite high collection rates, Bangkok accounts for [18.4% of marine plastic pollution][7] due to the large absolute volumes of waste.
-A large amount of uncollected waste in Chao Phraya is disposed directly into waterways.
-
-
-
-
-### Myanmar
-
-##### Policy
-
-Nothing on Plastics Policy Inventory of Duke University Nichoals Institute for Environmental Policy Solutions.
-
-### Nepal
-
-##### Policy
-
-Nothing on Plastics Policy Inventory of Duke University Nichoals Institute for Environmental Policy Solutions.
-
-### Laos
-
-##### Policy
-
-Nothing on Plastics Policy Inventory of Duke University Nichoals Institute for Environmental Policy Solutions.
-
-
-
-
-
-
-
-[1]: /ufr1hrx4bpsto-undp-asia/
-[2]: https://docs.google.com/spreadsheets/d/1nFeXDRwVYPD_pxukZpu9cWO4C4SOV4zR5ykb16B09JI/edit?usp=sharing
-[3]: https://globalplasticaction.org/wp-content/uploads/NPAP-Indonesia-Multistakeholder-Action-Plan_April-2020.pdf#page=4
-[4]: https://globalplasticaction.org/wp-content/uploads/NPAP-Indonesia-Multistakeholder-Action-Plan_April-2020.pdf#page=39
-[5]: https://globalplasticaction.org/wp-content/uploads/NPAP-Indonesia-Multistakeholder-Action-Plan_April-2020.pdf#page=10
-[6]: https://globalplasticaction.org/wp-content/uploads/NPAP-Indonesia-Multistakeholder-Action-Plan_April-2020.pdf
-[7]: https://documents1.worldbank.org/curated/en/099515103152238081/pdf/P17099409744b50fc09e7208a58cb52ae8a.pdf
-[8]: https://maritim.go.id/portfolio/indonesias-plan-action-marine-plastic-debris-2017-2025/
-[9]: https://maritim.go.id/
-[10]: https://nicholasinstitute.duke.edu/sites/default/files/plastics-policies/112021_N_2019_The_minister_of_environment.pdf
-[11]: https://www.kemenparekraf.go.id/
-[12]: https://jdih.kemenparekraf.go.id/katalog-859-produk-hukum
-[13]: https://www.menlhk.go.id/
-[14]: http://extwprlegs1.fao.org/docs/pdf/pak168042.pdf
-[15]: https://www.labelsandlabeling.com/news/latest/pakistan-moves-ban-non-degradable-plastic-products
-[16]: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52018DC0035&from=LT
-[17]: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019L0904&from=EN
-[18]: https://www.plasticstoday.com/sustainability/organizations-call-uk-ban-plastics-containing-oxo-biodegradable-additives
-[19]: https://www.bangkokpost.com/business/2127891/oxo-degradable-plastics-worry-firms
-[20]: https://th.boell.org/en/2021/10/26/thailands-plastic-waste-conundrum
