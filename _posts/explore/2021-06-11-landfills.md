@@ -9,11 +9,11 @@ widgets:
 - url: 
   image: landfill-mining.jpg
   title: Landfill mining
-- url: /explore/old-landfills-uk/
+- url: /resources/old-landfills-uk/
   image: breached_landfill_East_Tilbury.jpg
-  title: <a href="/explore/old-landfills-uk/" target="_self">Historic landfills in the UK</a>
+  title: <a href="/resources/old-landfills-uk/" target="_self">Historic landfills in the UK</a>
 categories:
-    - explore
+    - resources
 
 ---
 

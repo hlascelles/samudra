@@ -4,15 +4,13 @@ subheadline:
 title: Recycling plastic into plastic
 meta_description: "The plastic production process starts with base molecules which are turned into monomers, which are turned into polymers, which are turned into plastic pellets that are used to make plastic products. To recycle plastic waste into new plastic products, the material has to be broken down into one of these previous stages of the production process. The term physical recycling refers to plastic recycling methods where the polymers remain intact; chemical recycling refers to methods where the polymers are broken down."
 show_meta: true
+the_date: 3 June 2021
+not_ready: true
 header: no
-author: karina
-first_date: 3 June 2021
-factchecked: "no"
 image:
     title: plastic_recycling.jpg
 categories:
-    - explore
-
+    - resources
 ---
 
 The plastic production process starts with base molecules which are turned into monomers, which are turned into polymers, which are turned into plastic pellets that are used to make plastic products. 

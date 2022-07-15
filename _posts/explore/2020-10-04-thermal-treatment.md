@@ -6,9 +6,9 @@ header:
   title: ""
   image_fullwidth: main.jpg
 widgets:
-- url: /explore/incineration/
+- url: /resources/incineration/
   image: incinerator-diagram.jpg
-  title: <a href="/explore/incineration/" target="_self">Incineration (in theory)</a>
+  title: <a href="/resources/incineration/" target="_self">Incineration (in theory)</a>
 - url:
   image: waste-grabber-in-action.jpg
   title: Incineration (in practice)
@@ -19,7 +19,7 @@ widgets:
   image: gasification.jpg
   title: Gasification
 categories:
-    - explore
+    - resources
 
 ---
 
