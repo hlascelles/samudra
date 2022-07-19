@@ -8,15 +8,15 @@ header:
   title: ""
   image_fullwidth: main.jpg
 widgets:
-- url: /resources/urgent/
-  image: waste_and_climate.jpg
-  title: <a href="/resources/urgent/" target="_self">Waste management challenges are urgent</a>
-- url: /resources/thermal-treatment/
-  image: waste-grabber-in-action.jpg
-  title: <a href="/resources/thermal-treatment/" target="_self">Thermal treatment of waste</a> 
 - url: /resources/landfills/
   image: landfills.jpg
   title: <a href="/resources/landfills/" target="_self">Landfills and dumpsites</a>
+- url: /resources/thermal-treatment/
+  image: waste-grabber-in-action.jpg
+  title: <a href="/resources/thermal-treatment/" target="_self">Thermal treatment of waste</a> 
+- url:
+  image: ad.jpg
+  title: Anaerobic Digestion
 - url: /resources/plastics/
   image: plastic-production.jpg
   title: <a href="/resources/plastics/" target="_self">Plastics</a>

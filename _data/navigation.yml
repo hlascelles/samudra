@@ -10,8 +10,8 @@
   url: "/about/"
   side: left
 
-- title: "Projects"
-  url: "/projects/"
+- title: "Our work"
+  url: "/our-work/"
   side: left
 
 - title: "Resources"
