@@ -1,7 +1,7 @@
 ---
 layout: kz-page
 subheadline:
-title: How our work contributes to 15 out of 17 <br/> UN Sustainable Development Goals (SDGs)
+title: "Our work contributes to <br> 15 out of 17 SDGs set by the UN:"
 permalink: /sdgs/
 header:
   title: ""
