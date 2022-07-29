@@ -2,20 +2,20 @@
 layout: kz-page
 permalink: /index.html
 homepage: true
-title: Our goal is to reduce the negative impact of waste
+title: 
 header:
   title: ""
   image_fullwidth: main.jpg
 widgets1:
 - url: 
   image: main-climate.jpg
-  title: <center> on climate, </center>
+  text: Waste accounts for 5-15% of greenhouse emissions. Main effects of mismanaged waste on climate include methane from landfills/dumpsites, black carbon from open burning of waste and damage to natural CO2 sinks (oceans, soils and plants). 
 - url: 
   image: main-environment.jpg
-  title: <center> environment, </center>
+  text: Globally 1 in 3 people don't have access to waste collection services. The least known effect of these >500 million tonnes of mismanaged waste per year (25% of total MSW) is increase in ground-level ozone, which is toxic to life.
 - url:
   image: main-health.jpg
-  title: <center> and health. </center>
+  text: Each year 0.4-1 million people die from diseases directly related to mismanaged waste. Main effects of mismanaged waste on health include air pollution, contaminated drinking water and disease-bearing mosquitoes breeding in waste.
 widgets2:
 - url: 
   image: main-puzzle.jpg
@@ -28,11 +28,18 @@ widgets2:
   text: "3. act as a global orchestrator to develop synergies between different efforts (especially those that don't agree with each other), making them complementary. Such a stewardship organisation is necessary to amplify the positive impact of all stakeholders and to identify and address gaps, duplications and conflicts that impede the change on a global level."
 ---
 
+<center>
+<p class="teaser"><b>Samudra</b> is a systems incubator<br>with a goal to reduce the negative impact of waste on<br>climate, environment and health.</p>
+</center>
+<br>
+
+
+<!-- <p class="teaser"><b>Samudra</b> is a systems incubator <br> with a goal to reduce the negative impact of waste <br> on climate, environment and health.</p>
+ -->
 {% include _widget_grid_layout.html widgets=page.widgets1 articles_per_row=3 %}
 
-The waste management sector accounts for 5-15% of human-made climate impact.
-Growing amounts of mismanaged and uncollected waste are rapidly increasing the sector's total negative impact on climate, environment and health. 
-Our goal is to **increase municipal solid waste collection rates in low and middle income countries**, as currently 1 in 3 people globally have no access to waste collection services. 
-To achieve this goal we are building a **global action network** - a new type of organisation, that is neither government, nor business, nor civil society, but a structure that combines the resources and competences of all of these. Samudra will:
+<!-- 
+Samudra will:
 
 {% include _widget_grid_layout.html widgets=page.widgets2 articles_per_row=3 %}
+ -->

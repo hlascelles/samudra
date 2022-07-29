@@ -35,6 +35,24 @@ google_analytics_tracking_id: false
 
 
 
+# EXAMPLE OF A PRIMARY POST (DISPLAYED ON HOMEPAGE)
+# ---
+# layout: kz-page
+# subheadline:
+# title: Waste management challenges are urgent
+# meta_description:
+# show_meta: true
+# the_date: 1 Sept 2020
+# header: no
+# image:
+#     title: waste_and_climate.jpg
+#     homepage: urgent.jpg
+# categories:
+#     - resources
+# primary_post: true
+# ---
+
+
 # # Description
 
 # Beautiful layouts can be constructed using https://get.foundation/sites/docs-v5/components/grid.html

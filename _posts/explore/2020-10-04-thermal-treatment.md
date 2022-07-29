@@ -31,4 +31,4 @@ These methods allow to recover the calorific value of the waste in a form of ene
 {% include _widget_grid_layout.html widgets=page.widgets articles_per_row=3 %}
 
 
-[1]: /explore/incineration
+[1]: /resources/incineration

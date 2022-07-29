@@ -96,4 +96,4 @@ After chain initiation, the degree of polymerisation increases rapidly and long 
 This is how PE, PP, PVC and PS are made.
 
 
-[1]: /explore/pet/
+[1]: /resources/pet/
