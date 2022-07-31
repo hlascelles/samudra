@@ -13,3 +13,8 @@ p {
 @media #{$medium-up} {
   p + ul { margin-top: -15px; }
 }
+
+.larger-word {
+  font-size: 35px;
+  font-weight: bold;
+}
