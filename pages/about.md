@@ -8,11 +8,22 @@ header:
 
 ---
 
+<div class="medium-4 columns">
+  <img src="/images/main-direction.jpg" class="center">
+  <img src="/images/main-puzzle.jpg" class="center"> 
+  <img src="/images/main-global.jpg" class="center"> 
+</div>
+
+
 
 
 #### 1. Define success
 
 <p style="color:#AEAEAE">More details coming shortly.</p>
+<br>
+<br>
+<br>
+<br>
 
 <!-- 
 
@@ -76,6 +87,10 @@ Samudra’s goal is to facilitate large systems change in the waste management s
 #### 2. Identify success-relevant stakeholders
 
 <p style="color:#AEAEAE">More details coming shortly.</p>
+<br>
+<br>
+<br>
+<br>
 
 <!-- 
 Global and multi-level…local, regional, global
