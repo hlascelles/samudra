@@ -38,7 +38,7 @@ Despite this negative impact of waste on climate, environment and health, waste 
 
 Compared to other sectors, GHG emission reductions in the waste management sector can be achieved relatively easily. 
 Technologies for waste processing, sorting, recycling and disposal are mature, scalable and tested in a wide range of conditions; while collection and characterisation of waste require no specialised equipment at all. 
-Unlike GHG emission reductions in other sectors, which require tradeoffs, an improved waste management system provides direct benefits to the local and global community.
+Unlike GHG emission reductions in other sectors, which require tradeoffs, an improved waste management system provides only benefits to the local and global community.
 
 That said, the sector does face a major challenge: despite a significant increase in financial and human capital dedicated to improving waste management systems in low and middle income countries, very little progress has been made between [2012](https://openknowledge.worldbank.org/handle/10986/17388) and [2018](https://openknowledge.worldbank.org/handle/10986/30317) according to the World Bank.
 The quantity of waste generated in these countries is expected to [more than triple between 2018 and 2050](https://openknowledge.worldbank.org/handle/10986/30317) due to urbanisation, population growth and increasing purchasing power.
