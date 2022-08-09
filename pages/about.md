@@ -57,7 +57,7 @@ The success-relevant stakeholders we've identified so far include:
 * **funders** - IGOs, development banks, governments of high-income countries, etc.;
 * **problem owners** - national and local governments in low and middle income countries, companies, etc.;
 * **methods leaders** - research centres, companies that design and build infrastructure, etc.;
-* **capacity developers** - waste management companies, startups and startup accelerators, local governments, etc.;
+* **capacity developers** - waste management companies, local governments, startups and startup accelerators, etc.;
 * **new stakeholders** - organisations, both new ones and existing ones with new priorities, that are joining the waste management space due to the scale of the problem and the lack of progress in the past decade.
 
 Beyond just identifying the success-relevant stakeholders, we are working towards gaining clarity on the dynamics and patterns that govern the landscape of the waste management space. 
@@ -71,62 +71,21 @@ This includes mapping global, regional and national funding flows, and mapping d
 
 #### 3. Work with them 
 
-<p style="color:#AEAEAE">More details coming shortly.</p>
+We work with success-relevant stakeholders to facilitate internal changes and enable powerful **coordination** between them. 
+That means working on changing system dynamics and creating new systems, processes, relationships and tools, because existing organisational and funding structures do not support powerful coordination between stakeholders. 
+We focus on the capacities of each stakeholder (financial and human capital, expertise, decision making power, etc.) instead of focusing on consensus. 
+We aim to prevent different efforts from cancelling each other out by developing synergies between them, making them complementary instead of contradictory, and thus enabling the stakeholders to amplify each other's positive impact, even if they don't agree with each other. 
+We focus on identifying and addressing gaps, duplications and conflicts that impede systemic change on a global level.
 
-<!-- We work with success-relevant stakeholders to facilitate internal changes and enable powerful **coordination** between them. 
-  
-  Existing organisational and funding structures do not support such powerful coordination between stakeholders, hence we are working on creating new systems, processes, relationships and tools.
-
-  We focus on the capacities of each stakeholder (financial or human capital, expertise, decision making power, etc.) ... roles of different stakeholders need to be defined
-
-
-
-
-
-
-
-Currently the connection is inadequate between the global vision and the micro level actions.
-
-  Without super-imposing our ideas and values on other stakeholders, we... our Multi-sided value proposition -  a shared value proposition, but translated differently for each type of stakeholder, based on their individual motivations
-
-  Instead of requiring unanimous agreement from all stakeholders, we will create groups of stakeholders that develop their own vision of the future and a plan for how to make it real.
-
-  Samudra will facilitate the development and implementation of a global waste management strategy in full technical detail and ensure that the strategy keeps evolving along with changing circumstances, instead of becoming outdated. 
-
-  Moving from silos to shared reality. - towards understanding of shared possibilities
-
-
-
-
-
-
+We are also working on addressing the lack of a vision for what solving the waste management challenges might look like and the lack of on-the-ground expertise required to make better decisions. 
+Currently the connection between the **global vision** and each stakeholder's actions is inadequate.  
+Our goal is to facilitate the development of a global waste management strategy in full technical detail, and to enable its implementation, starting with defining roles of different stakeholders. 
+This requires moving from silos to a shared reality, and subsequently towards understanding of shared possibilities. 
+We aim to do this without superimposing our values and ideas on stakeholders, by instead developing a shared multi-sided value proposition that addresses each stakeholders individual motivations.
 
 To ensure that technical conversations are on the agendas of high level meetings (that usually focus on bold commitments without an actionable plan to achieve them) and that better decisions are made, we work towards ensuring that all stakeholders have **access to technical, financial and business expertise**. 
 This includes identifying organisations/individuals with relevant expertise in technologies, engineering, chemistry, policy, finance, and innovative business models and financial instruments (for example ones that blend different types of funding or leverage partnerships). 
-We work with them to facilitate the transfer of technical knowledge (between countries, waste streams and different types of stakeholders) through a virtual centre for technical expertise or otherwise.
+We are working with them to facilitate the transfer of technical knowledge (between countries, waste streams and different types of stakeholders) through a virtual centre for technical expertise or otherwise.
 
-
-
-
-
-
-global orchestrator aligning activities
-
-
-global orchestrator to develop synergies between different efforts (especially those that don't agree with each other), making them complementary instead of contradictory. 
-
-Often stakeholder impact is limited not by the lack of funding or talent, but by each other - their many efforts cancel each other out. Our mission is to increase everyone's positive impact by aligning these efforts instead.
-
-Many efforts cancel each other out. 
-
-Apart from direct collaborations, there is no coordination between stakeholders, which results in efforts that cancel each other out instead of being complementary. 
-
-Such a stewardship organisation is necessary to amplify the positive impact of all stakeholders and to identify and address gaps, duplications and conflicts that impede the change on a global level.
-
-Making these approaches complementary instead of contradictory will ensure that different stakeholders can increase each other's positive impact, even if they don't agree with each other.
-
-
-Work on changing system dynamics, system transformation. -->
-
-  
-
+All of this is a work in progress. 
+We are trying our best to keep an open mind, to keep experimenting with innovative ideas, to keep evolving our approach as we continuously work on all three steps of this one.
