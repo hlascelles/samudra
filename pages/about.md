@@ -61,7 +61,7 @@ The success-relevant stakeholders we've identified so far include:
 * **new stakeholders** - organisations, both new ones and existing ones with new priorities, that are joining the waste management space due to the scale of the problem and the lack of progress in the past decade.
 
 Beyond just identifying the success-relevant stakeholders, we are working towards gaining clarity on the dynamics and patterns that govern the landscape of the waste management space. 
-This includes mapping global, regional and national funding flows, and mapping desicion making capacity within each country.
+This includes mapping global, regional and national funding flows, and mapping decision making capacity within each country.
 
 
 
