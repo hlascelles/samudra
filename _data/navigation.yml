@@ -1,6 +1,3 @@
-#
-#   Navigation to the left › side: left
-#
 - title: "Logo"
   url: "/"
   logo: true
@@ -22,11 +19,11 @@
   url: "/team/"
   side: left
 
-# - title: "Projects"
-#   url: "/projects/"
+# - title: "a"
+#   url: "/a/"
 #   side: left
 #   dropdown:
-#   - title: "Stop Plastic Pollution"
-#     url: "/projects/stop-plastic-pollution/"
-#   - title: "London PyTorch Meetup"
-#     url: "/projects/london-pytorch-meetup/"
+#   - title: "a1"
+#     url: "/projects/a1/"
+#   - title: "a2"
+#     url: "/projects/a2/"

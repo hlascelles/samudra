@@ -7,16 +7,4 @@
 			<span class="icon-calendar pr20"> Last updated on {{ page.the_date }}</span>
 		{% endif %}
 	</p>
-<!--
-	<p>
- 		{% if page.author2 %}
-			{% assign author1 = site.data.authors[page.author] %}
-			{% assign author2 = site.data.authors[page.author2] %}
-			<span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name" class="icon-edit pr20"><a href="{{ author1.uri }}" target="_self"> {{ author1.name }}</a> and <a href="{{ author2.uri }}" target="_self"> {{ author2.name }}</a></span></span>
-		{% elsif page.author %}
-			{% assign author = site.data.authors[page.author] %}
-			<span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name" class="icon-edit pr20"><a href="{{ author.uri }}" target="_self"> {{ author.name }}</a></span></span>
-		{% endif %} 
-	</p>
--->
 </div>
