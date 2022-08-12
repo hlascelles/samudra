@@ -13,7 +13,7 @@ header:
   <img src="/images/main-direction.jpg" class="center">
 </div>
 
-#### 1. Define success
+#### <a name="success"></a> 1. Define success
 
 For us success means **financially, politically and socially sustainable waste management systems and infrastructure** in every country. 
 We focus on low and middle income countries where such systems and infrastructure are lacking. 
@@ -50,7 +50,7 @@ It is just not what we are working on.
   <img src="/images/main-puzzle.jpg" class="center"> 
 </div>
 
-#### 2. Identify success-relevant stakeholders
+#### <a name="stakeholders"></a> 2. Identify success-relevant stakeholders
 
 We focus on stakeholders that are the most motivated to address waste management challenges and that are in the strongest position to facilitate a systemic change.
 The success-relevant stakeholders we've identified so far include:
@@ -69,7 +69,7 @@ This includes mapping global, regional and national funding flows, and mapping d
   <img src="/images/main-global.jpg" class="center"> 
 </div>
 
-#### 3. Work with them 
+#### <a name="coordination"></a> 3. Work with them 
 
 We work with success-relevant stakeholders to facilitate internal changes and enable powerful **coordination** between them. 
 That means working on changing system dynamics and creating new systems, processes, relationships and tools, because existing organisational and funding structures do not support powerful coordination between stakeholders. 
@@ -77,15 +77,15 @@ We focus on the capacities of each stakeholder (financial and human capital, exp
 We aim to prevent different efforts from cancelling each other out by developing synergies between them, making them complementary instead of contradictory, and thus enabling the stakeholders to amplify each other's positive impact, even if they don't agree with each other. 
 We focus on identifying and addressing gaps, duplications and conflicts that impede systemic change on a global level.
 
-We are also working on addressing the lack of a vision for what solving the waste management challenges might look like and the lack of on-the-ground expertise required to make better decisions. 
-Currently the connection between the **global vision** and each stakeholder's actions is inadequate.  
+We are also working on addressing the lack of a vision for what solving the waste management challenges might look like, and the lack of on-the-ground expertise required to make better decisions. 
+Currently the connection between the **global vision** and each stakeholder's actions is inadequate. 
 Our goal is to facilitate the development of a global waste management strategy in full technical detail, and to enable its implementation, starting with defining roles of different stakeholders. 
 This requires moving from silos to a shared reality, and subsequently towards understanding of shared possibilities. 
 We aim to do this without superimposing our values and ideas on stakeholders, by instead developing a shared multi-sided value proposition that addresses each stakeholders individual motivations.
 
-To ensure that technical conversations are on the agendas of high level meetings (that usually focus on bold commitments without an actionable plan to achieve them) and that better decisions are made, we work towards ensuring that all stakeholders have **access to technical, financial and business expertise**. 
+To ensure that technical conversations are on the agendas of high level meetings (that usually focus on bold commitments without an actionable plan to achieve them) and that better decisions are made, we are working towards ensuring that all stakeholders have **access to technical, financial and business expertise**. 
 This includes identifying organisations/individuals with relevant expertise in technologies, engineering, chemistry, policy, finance, and innovative business models and financial instruments (for example ones that blend different types of funding or leverage partnerships). 
 We are working with them to facilitate the transfer of technical knowledge (between countries, waste streams and different types of stakeholders) through a virtual centre for technical expertise or otherwise.
 
 All of this is a work in progress. 
-We are trying our best to keep an open mind, to keep experimenting with innovative ideas, to keep evolving our approach as we continuously work on all three steps of this one.
+We are resolved to keep an open mind, to keep experimenting with innovative ideas and to keep evolving our approach as we learn more about what is required to address the challenge.

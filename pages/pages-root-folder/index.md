@@ -34,24 +34,21 @@ widgets2:
 <br>
 {% include _widget_grid_layout.html widgets=page.widgets1 articles_per_row=3 %}
 
-Despite this negative impact of waste on climate, environment and health, waste management remains relatively neglected compared to other areas of climate action, sustainability and global development. There is a big opportunity &mdash; according to the World Bank and the UNEP, even [very basic improvements to solid waste management systems](https://www.uncclearn.org/wp-content/uploads/library/unep23092015.pdf) can [reduce the impact of waste on climate by 25%](https://openknowledge.worldbank.org/handle/10986/30317) &mdash; and at Samudra we are determined to take advantage of this opportunity. 
+Despite this negative impact of waste on climate, environment and health, waste management remains relatively neglected compared to other areas of climate action, sustainability and global development. There is a big opportunity &mdash; according to the World Bank and the UNEP, even [very basic improvements to solid waste management systems](https://www.uncclearn.org/wp-content/uploads/library/unep23092015.pdf) can [reduce the impact of waste on climate by 25%](https://openknowledge.worldbank.org/handle/10986/30317) &mdash; and at Samudra we are determined to explore this opportunity. 
 
 Compared to other sectors, GHG emission reductions in the waste management sector can be achieved relatively easily. 
 Technologies for waste processing, sorting, recycling and disposal are mature, scalable and tested in a wide range of conditions; while collection and characterisation of waste require no specialised equipment at all. 
-Unlike GHG emission reductions in other sectors, which require tradeoffs, an improved waste management system provides only benefits to the local and global community.
+Unlike GHG emission reductions in other sectors, which require tradeoffs, improved waste management systems are overwhelmingly beneficial for the local and global community.
 
 That said, the sector does face a major challenge: despite a significant increase in financial and human capital dedicated to improving waste management systems in low and middle income countries, very little progress has been made between [2012](https://openknowledge.worldbank.org/handle/10986/17388) and [2018](https://openknowledge.worldbank.org/handle/10986/30317) according to the World Bank.
 The quantity of waste generated in these countries is expected to [more than triple between 2018 and 2050](https://openknowledge.worldbank.org/handle/10986/30317) due to urbanisation, population growth and increasing purchasing power.
 The rate of progress has to outpace it.
 
-We think that the lack of progress is due to stakeholders making decisions in a vacuum, without taking into account what other stakeholders will be doing in the future. 
+We believe that the lack of progress is due to stakeholders making decisions without taking into account relevant context and what other stakeholders will be doing in the future. 
 Recognising this challenge, an approach different from the ones that have been employed so far is required. 
 At Samudra we are experimenting with approaches and [organisational structures](/team/) that have not been tried before.
 
-The approach we are trying out right now is as follows:<br>
-**1.** Define success<br>
-**2.** Identify success-relevant stakeholders<br>
-**3.** Work with them to facilitate internal changes and enable powerful coordination between them<br>
+The approach we are employing right now includes defining what we mean by success, identifying success-relevant stakeholders and working with them to facilitate internal changes and enable powerful coordination between them.
 
 <div class="row t60 b60">
   <div class="small-12 text-center columns">
