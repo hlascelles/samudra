@@ -17,4 +17,6 @@ Hundreds of people are involved in many different capacities.
 The title of this page is a bit of a misnomer - at Samudra we create teams to achieve specific objectives and dissolve them afterwards. 
 In the future we might consider a model similar to [Tech Zero](https://techzero.technation.io/), with professionals on secondment, but for now our teams are a fuzzy concept.
 
-<!-- [Maximilian Schirm](https://www.linkedin.com/in/maximilian-schirm/) is one of our external advisors. -->
+<span class="comment">
+[Maximilian Schirm](https://www.linkedin.com/in/maximilian-schirm/) is one of our external advisors.
+</span>

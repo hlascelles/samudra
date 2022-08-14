@@ -9,11 +9,9 @@ header:
 ---
 
 
-<div class="medium-5 columns show-for-large-up">
-  <img src="/images/main-direction.jpg" class="center">
-</div>
-
 #### <a name="success"></a> 1. Define success
+
+<img src="/images/main-direction.jpg" class="picture-in-text show-for-medium-up">
 
 For us success means **financially, politically and socially sustainable waste management systems and infrastructure** in every country. 
 We focus on low and middle income countries where such systems and infrastructure are lacking. 
@@ -45,12 +43,9 @@ We acknowledge that waste reduction, fostering circular economy, raising awarene
 It is just not what we are working on. 
 
 
-
-<div class="medium-5 columns show-for-large-up">
-  <img src="/images/main-puzzle.jpg" class="center"> 
-</div>
-
 #### <a name="stakeholders"></a> 2. Identify success-relevant stakeholders
+
+<img src="/images/main-puzzle.jpg" class="picture-in-text show-for-medium-up">
 
 We focus on stakeholders that are the most motivated to address waste management challenges and that are in the strongest position to facilitate a systemic change.
 The success-relevant stakeholders we've identified so far include:
@@ -64,12 +59,9 @@ Beyond just identifying the success-relevant stakeholders, we are working toward
 This includes mapping global, regional and national funding flows, and mapping decision making capacity within each country.
 
 
-
-<div class="medium-5 columns show-for-large-up">
-  <img src="/images/main-global.jpg" class="center"> 
-</div>
-
 #### <a name="coordination"></a> 3. Work with them 
+
+<img src="/images/main-global.jpg" class="picture-in-text show-for-medium-up">
 
 We work with success-relevant stakeholders to facilitate internal changes and enable powerful **coordination** between them. 
 That means working on changing system dynamics and creating new systems, processes, relationships and tools, because existing organisational and funding structures do not support powerful coordination between stakeholders. 
