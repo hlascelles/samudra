@@ -226,7 +226,7 @@ sass:
 # used in _includes/head
 # google_analytics_tracking_id:     # not used anymore, instead using gtag
 
-gtag: G-8GP3MNXEHR
+# gtag: G-8GP3MNXEHR
 
 
 #   _                 _     _
