@@ -26,3 +26,9 @@ p {
   width: 40%;
   margin: 10px;
 }
+
+// GitHub pages strips comments, which we sometimes want to keep. Use this class to keep
+// pseudo-comments in <span> tags.
+.comment {
+  display: none
+}
