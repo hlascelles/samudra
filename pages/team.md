@@ -7,7 +7,7 @@ header:
   image_fullwidth: main.jpg
 ---
 
-Samudra is a **systems incubator** with a goal to reduce the negative impact of waste on climate, environment and health. 
+Samudra is a **systems accelerator** with a goal to reduce the negative impact of waste on climate, environment and health. 
 We work with [success-relevant stakeholders](/about#stakeholders) to facilitate internal changes and to enable powerful coordination between them. 
 
 The work is led by me, [Karina Zile](https://www.linkedin.com/in/karina-zile/), a mathematician, a systems thinker and a global citizen. 

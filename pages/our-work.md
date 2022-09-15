@@ -8,7 +8,7 @@ header:
   image_fullwidth: main.jpg
 ---
 
-<span class="larger-word">2022:</span> Our goals for this year are to identify main [success-relevant stakeholders](/about#stakeholders) and their capacities, and to explore the possibilities that result from adopting systems incubator as our organisational structure.
+<span class="larger-word">2022:</span> Our goals for this year are to identify main [success-relevant stakeholders](/about#stakeholders) and their capacities, and to explore the possibilities that result from adopting systems accelerator as our organisational structure.
 
 <span class="larger-word">2021:</span> During 2021 we worked with national governments, city governments, established waste management companies, startups and other types of stakeholders to understand the landscape of the waste management sector from their different perspectives. This firsthand experience of how capacities, motivations and limitations (political, financial and cultural) differ between stakeholders gave us an idea of what is possible.
 
