@@ -1,11 +1,10 @@
 ---
 layout: kz-page
-subheadline:
 title: Plastic-to-plastic recycling
 show_meta: true
+author: karina
 the_date: 3 June 2021
-not_ready: true
-header: no
+header: true
 image:
     title: plastic_recycling.jpg
 categories:

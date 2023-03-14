@@ -18,6 +18,9 @@ widgets1:
   image: plastic_recycling.jpg
   title: <a href="/resources/plastic-recycling/" target="_self">Plastic-to-plastic recycling</a>
 widgets2:
+- url: /resources/pyrolysis/
+  image: pyrolysis.jpg
+  title: <a href="/resources/pyrolysis/" target="_self">Pyrolysis</a>
 - url: /resources/incineration/
   image: waste-grabber-in-action.jpg
   title: <a href="/resources/incineration/" target="_self">Incineration</a>

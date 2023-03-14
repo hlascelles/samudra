@@ -1,15 +1,12 @@
 ---
 layout: kz-page
-subheadline: 
 title: Incineration
-meta_description: "Incineration is a technical term for controlled combustion. Often referred to as burning, combustion is a high-temperature exothermic chemical reaction between a fuel and an oxidant, in this case waste and atmospheric oxygen. Heat and light energy is released during this reaction and transferred to the surroundings, hence it is called an exothermic reaction. Incineration is a thermal treatment method suitable for different types of waste. Municipal solid waste (MSW) and other non-hazardous waste can be readily incinerated."
 show_meta: true
+author: karina
 the_date: 4 Nov 2020
-not_ready: true
 header: true
 image:
     title: waste-grabber-in-action.jpg
-    caption: Photo by Casper Hedberg.
 categories:
     - resources
 gallery:
@@ -22,8 +19,6 @@ gallery:
     - image_url: incinerator-isle-of-man.jpg
       caption: Richmond Hill waste-to-energy plant on Isle of Man.
 ---
-
-
 
 <!-- what is it -->
 Incineration is a technical term for controlled combustion.
