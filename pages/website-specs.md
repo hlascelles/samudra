@@ -1,6 +1,6 @@
 ---
 layout: kz-page
-title: 
+title: ""
 permalink: /website-specs/
 teaser:
 header: no
@@ -81,7 +81,7 @@ What I would like to show on the website is the metrics we use to choose which s
 These are climate impact (amount of emissions avoided, in CO2-equivalent tonnes), environmental impact (this one is more complicated...) and health impact (reduction in number of humans who are exposed to toxic environments, people don't have to get physically sick or die, reduction in cognitive ability and poor mental health also count).
 This could probably be a whole page on its own - "How we measure our impact".
 
-In the past years I worked directly with an Environment Minister of an African country (the only condition was that I won't be able to disclose which country or what we worked on), I did a big project in Asia for a large IGO (the only condition was that I was ghost-writing under an influential name and that's how I made an impact again by officially not existing), etc.
+In the past years I worked directly with an Environment Minister of an African country (the only condition was that I won't be able to disclose which country or what we worked on), I did a big project in Asia for a large IGO (the only condition was that I was ghost-writing under an influential name and that's how I made an impact, again by officially not existing), etc.
 My approach is to produce solutions, road-maps and ideas in a way that other organisations/egos get credit for it. 
 It works brilliantly. 
 The only problem - it doesn't generate any content for the website. 
