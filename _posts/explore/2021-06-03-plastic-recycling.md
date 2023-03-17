@@ -59,6 +59,7 @@ Plastic waste can be sorted using properties that differ between types of plasti
 
 
 
+<div style="display: block; clear: both; page-break-before: always;"></div>
 ### Mechanical recycling (into pellets)
 
 Mechanical recycling methods generally produce high yields and are very energy efficient. 
