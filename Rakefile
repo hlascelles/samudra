@@ -14,7 +14,8 @@ require 'wicked_pdf'
 # The PDF will be generated in the _site directory.
 #
 # To add a page break in the PDF, add the following to the page:
-# <div style="display: block; clear: both; page-break-before: always;"></div>
+#
+# <div class="page-break"></div>
 desc "Generate a PDF from a HTML file"
 task :generate_pdf, [:page] do |_task, args|
   name = args[:page]
@@ -33,10 +34,27 @@ task :generate_pdf, [:page] do |_task, args|
   # Remove the <figure> large image as it makes text unreadable
   html.gsub!(/<figure.*figure>/m, "")
 
+  # Add styles to allow page breaks
+  line_break_css = <<~HTML
+    <style media="screen,print">
+    .page-break {
+      page-break-before: always !important;
+    }
+    /* https://github.com/wkhtmltopdf/wkhtmltopdf/issues/2982#issuecomment-416950855 */
+    .columns.end {
+      float: none;
+    }
+    </style>
+  HTML
+  html.gsub!("</head>", "#{line_break_css}</head>")
+
+  print_from = "#{html_file}-print.html"
+  File.write(print_from, html)
+
   # Use advanced PDF features here
   # See https://github.com/mileszs/wicked_pdf#advanced-usage-with-all-available-options
   pdf = WickedPdf.new.pdf_from_string(
-    html,
+    File.read(print_from),
     margin: {
       top: 20, # default 10 (mm)
       bottom: 20,
