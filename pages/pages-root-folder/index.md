@@ -29,7 +29,7 @@ widgets2:
 ---
 
 <center>
-<p class="teaser"><b>Samudra</b> is a <b>systems incubator</b><br>with a goal to reduce the negative impact of waste on<br>climate, environment and health.</p>
+<p class="teaser"><b>Samudra</b> is a <b>system accelerator</b><br>with a goal to reduce the negative impact of waste on<br>climate, environment and health.</p>
 </center>
 <br>
 {% include _widget_grid_layout.html widgets=page.widgets1 articles_per_row=3 %}

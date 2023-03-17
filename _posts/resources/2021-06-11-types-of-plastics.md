@@ -1,8 +1,6 @@
 ---
 layout: kz-page
-subheadline:
 title: Types of plastic
-meta_description: "According to Plastics Europe, more than 368 million tonnes of plastic wete produced in 2019."
 header: no
 widgets:
 - url: /resources/pp/
@@ -15,6 +13,6 @@ categories:
     - resources
 ---
 
-According to Plastics Europe, [more than 368 million tonnes](https://www.plasticseurope.org/en/resources/publications/4312-plastics-facts-2020) (Mt) of plastic wete produced in 2019. 
+According to Plastics Europe, [more than 368 million tonnes](https://www.plasticseurope.org/en/resources/publications/4312-plastics-facts-2020) (Mt) of plastic were produced in 2019. 
 
 {% include _widget_grid_layout.html widgets=page.widgets articles_per_row=3 %}
