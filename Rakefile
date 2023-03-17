@@ -12,6 +12,9 @@ require 'wicked_pdf'
 #
 # The page must be in the _site directory.
 # The PDF will be generated in the _site directory.
+#
+# To add a page break in the PDF, add the following to the page:
+# <div style="display: block; clear: both; page-break-before: always;"></div>
 desc "Generate a PDF from a HTML file"
 task :generate_pdf, [:page] do |_task, args|
   name = args[:page]
@@ -25,7 +28,7 @@ task :generate_pdf, [:page] do |_task, args|
   html.gsub!(/<div id="navigation".*#navigation -->/m, "")
 
   # Add a localhost domain to all src and href attributes
-  html.gsub!(/(src)="\/(.*?)"/, '\1="http://localhost:4000/\2"')
+  html.gsub!(/(src|href)="\/(.*?)"/, '\1="http://localhost:4000/\2"')
 
   # Remove the <figure> large image as it makes text unreadable
   html.gsub!(/<figure.*figure>/m, "")

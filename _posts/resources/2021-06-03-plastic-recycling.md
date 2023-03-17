@@ -57,7 +57,7 @@ Plastic waste can be sorted using properties that differ between types of plasti
 
 
 
-<div style="display: block; clear: both; page-break-before: always;"></div>
+
 ### Mechanical recycling (into pellets)
 
 Mechanical recycling methods generally produce high yields and are very energy efficient. 
@@ -68,8 +68,6 @@ The main steps of mechanical recycling are:
 * Sorting waste by plastic type and shredding it into flakes.
 * Washing the flakes to remove exterior contaminants. Different types of washing, in the order of increasing potential for contaminant removal, are cold wash, hot wash (contaminants are dissolved with caustic soda) and chemical wash (contaminants and pigments are dissolved with an organic liquid). Starting with uncontaminated plastic waste improves the quality of recycled material.
 * Compounding - producing pellets by remelting. The inputs (washed plastic flakes 2-12mm in size and additives) are homogenised and passed through degassing and melt filtration to form pellets, the final product. Melt filtration removes non-meltable contaminants, while degassing removes other types of contaminants. Both of these processes are rather ineffective due to the high viscosity of the molten plastic.
-
-
 
 
 ### Solvent-based recycling (into polymers)
